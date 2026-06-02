@@ -19,7 +19,7 @@ SOURCES:
 2. [Land Grants](https://glorecords.blm.gov/search/default.aspx):   N.C. Land Grant 2570
 3. Namesake
 4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID  [LZR5-DHX](https://www.familysearch.org/en/tree/person/about/LZR5-DHX)
-5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors):
+5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors):  [Kenner-133](https://www.wikitree.com/wiki/Kenner-133)
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737): [Midshipman Howson Kenner](https://www.ancestry.com/family-tree/person/tree/206876160/person/422709562912/gallery)
 7. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 141
 8. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 140
