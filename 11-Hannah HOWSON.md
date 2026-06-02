@@ -1,10 +1,5 @@
 NAME
 
-I am a native Missourian, a Military Spouse and an active public servant in the Department of Defense at Fort Meade Maryland.  I would like to inquire into obtaining a courtesy state Flag that has been flown over the State Capitol in honor of my ancestor 
-
-
-
-Yes, a Missouri flag, a certificate from the Governor, and a certificate from your office would be great.  
 
 - Born: 
 - Birth Place:
@@ -28,6 +23,7 @@ SOURCES:
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737): [Hannah HOWSON](https://www.ancestry.com/family-tree/person/tree/206876160/person/422751704883/gallery)
 7. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 140
 8. [William and Mary College Quarterly VOL III P.256-260](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/kennerfamilywilliamandmarycollegequarterly.pdf)
+9. [Sons and Daughters of Virginia Founding Fathers](http://www.virginiafoundingfathers.org/): [Approved Ancestor](http://www.virginiafoundingfathers.org/ancestors.html)
 
 
 
