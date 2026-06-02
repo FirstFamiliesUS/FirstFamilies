@@ -9,7 +9,7 @@ NAME
 - Burial Place:  
 - Father: 
 - Mother:
-- Child: Elizabeth Lee
+- Child: [Elizabeth Lee](https://github.com/davidjkenner/FirstFamilies/blob/main/12-Elizabeth%20LEE.md)
 
 
 
