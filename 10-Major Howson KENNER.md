@@ -1,11 +1,5 @@
 NAME
 
-I am a native Missourian, a Military Spouse and an active public servant in the Department of Defense at Fort Meade Maryland.  I would like to inquire into obtaining a courtesy state Flag that has been flown over the State Capitol in honor of my ancestor 
-
-
-
-Yes, a Missouri flag, a certificate from the Governor, and a certificate from your office would be great.  
-
 - Born: 1712  `#7`
 - Birth Place:
 - Spouse:  Margaret Eskridge  `#7, #8`
@@ -20,14 +14,15 @@ Yes, a Missouri flag, a certificate from the Governor, and a certificate from yo
 
 
 SOURCES:
-1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
+1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID  [6796826](https://www.findagrave.com/memorial/6796826/howson-francis-kenner)
 2. [Land Grants](https://glorecords.blm.gov/search/default.aspx):
 3. Namesake
-4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
-5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors):
+4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID [LTSJ-TP8](https://ancestors.familysearch.org/en/LTSJ-TP8/howson-francis-kenner-1712-1778)
+5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors): [Kenner-135](https://www.wikitree.com/wiki/Kenner-135)
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737): [Major Howson KENNER](https://www.ancestry.com/family-tree/person/tree/206876160/person/422709759032/gallery)
 7. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 140
 8. [William and Mary College Quarterly VOL III P.256-260](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/kennerfamilywilliamandmarycollegequarterly.pdf)
+9. Sons of the American Revolution: [P-259095](https://sarpatriots.sar.org/patriot/display/259095)
 
 
 
