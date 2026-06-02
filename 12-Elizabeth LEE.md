@@ -25,7 +25,7 @@ SOURCES:
 3. Namesake
 4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
 5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors):
-6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737):
+6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737): [Elizabeth LEE](https://www.ancestry.com/family-tree/person/tree/206876160/person/422751705054/gallery)
 
 
 
