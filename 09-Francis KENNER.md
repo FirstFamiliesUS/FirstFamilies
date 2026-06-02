@@ -1,10 +1,4 @@
-NAME
-
-I am a native Missourian, a Military Spouse and an active public servant in the Department of Defense at Fort Meade Maryland.  I would like to inquire into obtaining a courtesy state Flag that has been flown over the State Capitol in honor of my ancestor 
-
-
-
-Yes, a Missouri flag, a certificate from the Governor, and a certificate from your office would be great.  
+NAME  
 
 - Born: 1734  `#7, #8`
 - Birth Place:  Virginia  `#7`
