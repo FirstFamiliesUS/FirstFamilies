@@ -13,9 +13,9 @@ Yes, a Missouri flag, a certificate from the Governor, and a certificate from yo
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father: 
+- Father:  [Colonel Richard LEE](https://github.com/davidjkenner/FirstFamilies/blob/main/13-Richard%20LEE.md)
 - Mother:
-- Child:
+- Child:  [Hannah HOWSON](https://github.com/davidjkenner/FirstFamilies/blob/main/11-Hannah%20HOWSON.md)
 
 
 
