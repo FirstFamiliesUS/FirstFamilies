@@ -14,7 +14,7 @@ Yes, a Missouri flag, a certificate from the Governor, and a certificate from yo
 - Died: 
 - Burial Place:  
 - Father: 
-- Mother:
+- Mother:  [Elizabeth LEE](https://github.com/davidjkenner/FirstFamilies/blob/main/12-Elizabeth%20LEE.md)
 - Child:  [Major Howson Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/10-Major%20Howson%20KENNER.md)  `#7, #8`
 
 
