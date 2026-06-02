@@ -30,7 +30,7 @@ SOURCES:
 3. [Elias Kenner Tombstone. Find A Grave Memorial ID: 88920798](https://www.findagrave.com/memorial/88920798/elias_housen-kenner)
 4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): [ID K8FJ-7RG](https://www.familysearch.org/tree/person/details/K8FJ-7RG).
 5. WikiTree: [Kenner-128](https://www.wikitree.com/wiki/Kenner-128)
-6. DNA: [Rev. Honorable Elias Housen Kenner](https://www.ancestry.com/family-tree/person/tree/206876160/person/422709444335/gallery?galleryPage=1&tab=gallery&sort=-created)
+6. DNA: [Rev. Honorable Elias Housen Kenner](https://www.ancestry.com/family-tree/person/tree/206876160/person/422709444335/gallery)
 
 NAME
 
