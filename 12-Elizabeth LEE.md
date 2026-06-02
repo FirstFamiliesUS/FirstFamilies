@@ -1,14 +1,9 @@
 NAME
 
-I am a native Missourian, a Military Spouse and an active public servant in the Department of Defense at Fort Meade Maryland.  I would like to inquire into obtaining a courtesy state Flag that has been flown over the State Capitol in honor of my ancestor 
-
-
-
-Yes, a Missouri flag, a certificate from the Governor, and a certificate from your office would be great.  
 
 - Born: 
 - Birth Place:
-- Spouse:
+- Spouse:  The Honorable Capt. Leonard HOWSON
 - Marriage Date:
 - Marriage Place
 - Died: 
@@ -23,8 +18,8 @@ SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
 2. [Land Grants](https://glorecords.blm.gov/search/default.aspx):
 3. Namesake
-4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
-5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors):
+4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID  [LHJV-4JF](https://ancestors.familysearch.org/en/LHJV-4JF/elizabeth-lee-1654-1714)
+5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors): [Lee-2711](https://www.wikitree.com/wiki/Lee-2711)
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737): [Elizabeth LEE](https://www.ancestry.com/family-tree/person/tree/206876160/person/422751705054/gallery)
 
 
