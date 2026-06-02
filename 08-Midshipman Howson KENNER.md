@@ -25,7 +25,7 @@ SOURCES:
 3. Namesake
 4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
 5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors):
-6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737):
+6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737): [Midshipman Howson Kenner](https://www.ancestry.com/family-tree/person/tree/206876160/person/422709562912/gallery)
 7. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 141
 8. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 140
 9. Virginia revolutionary pay certificate for his services on June 28, 1784 for 92 pounds, Volume CLXXV, page 556
