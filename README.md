@@ -75,3 +75,26 @@ RESOURCES:
 - Wisconsin. Virginia Nichols gininichols@charter.net, wsgs@wsgs.org
 - [Reunion Certificate](https://wsgs.org/page-1075288) - issued by the WSGS to families holding reunions.
 - PRESIDENTIAL MEMORIAL CERTIFICATES Perry, Doris L. doris.perry@va.gov
+
+--------------------------------------------------------
+
+[Family Associations](https://www.hereditary.us/family-associations)
+- [Society of Lees](http://www.thesocietyoftheleesofva.org/index.php)
+- Haskell Family Association
+- Germmanna
+- Carter Society
+- Dameron Family Association
+- Eskridge Family Assocation
+- Allred Family Association
+- Austin Family Association
+- Boone Society
+- Monticello Association
+- Leftwich Historical Association
+- National Society of the Washington Family Descendants
+- Fuqua Database
+- Clan MacBean
+- Clan Campbell Society
+- Clan Forbes Society
+- Clan Gunn
+- Soule Kindred
+- Mendenhall Family Association
