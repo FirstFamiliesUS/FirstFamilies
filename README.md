@@ -1,43 +1,5 @@
 https://www.dmwv.org/honoring.php#marker
 
-Acceptable Lineage Societies:
-Society of the Cincinnati
-
-Daughters of the Cincinnati
-
-General Society of the Sons of the Revolution
-
-Sons of the American Revolution
-
-General Society of Colonial Wars
-
-Holland Society of New York
-
-Saint Nicholas Society of the City of New York
-
-Daughters of Holland Dames
-
-Colonial Dames of America
-
-National Society of Colonial Dames of America
-
-National Society of Colonial Dames XVII Century
-
-National Society of Daughters of the American Revolution
-
-National Society of the Sons of the American Revolution
-
-Order of the Founders and Patriots of America
-
-National Society of Daughters of Founders and Patriots of America
-
-Jamestowne Society
-
-General Society of Mayflower Descendants
-
-Dutch Settlers Society of Albany
-
-
 RESOURCES:
 
 - [Ancestry](https://www.ancestry.com/)
