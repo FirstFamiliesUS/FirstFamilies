@@ -36,6 +36,7 @@ RESOURCES:
 - Wisconsin. Virginia Nichols gininichols@charter.net, wsgs@wsgs.org
 - [Reunion Certificate](https://wsgs.org/page-1075288) - issued by the WSGS to families holding reunions.
 - PRESIDENTIAL MEMORIAL CERTIFICATES Perry, Doris L. doris.perry@va.gov
+- [Maryland Geological Society Surnames](https://www.mdgensoc.org/surname.php)
 
 --------------------------------------------------------
 
