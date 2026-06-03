@@ -36,7 +36,7 @@ RESOURCES:
 - Wisconsin. Virginia Nichols gininichols@charter.net, wsgs@wsgs.org
 - [Reunion Certificate](https://wsgs.org/page-1075288) - issued by the WSGS to families holding reunions.
 - PRESIDENTIAL MEMORIAL CERTIFICATES Perry, Doris L. doris.perry@va.gov
-- [Maryland Geological Society Surnames](https://www.mdgensoc.org/surname.php)
+- [Maryland Geological Society Surnames](https://www.mdgensoc.org/surname.php): [Frederick County](https://frecogs.org/surname.php), [Allegany County](https://gsacmd.org/surnames/), [Carroll County](https://ccgsmd.org/cpage.php?pt=15), [Harford County](https://www.harfordhistory.org/research/research-by-mail/), [Montgomery County](https://mocogensoc.org/surname.php),  [Odenton Genial](https://odentongg.org/surname.php), [Prince George](https://www.pgcgs.org/cpage.php?pt=7), [St. Mary](https://smcgsi.org/surname-research), [Upper Shore](http://usgsmd.org/pdfs/USGSMD-Surname-Index-of-Family-Research-Volumes.pdf), 
 
 --------------------------------------------------------
 
