@@ -31,6 +31,7 @@ SOURCES:
 4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): [ID K8FJ-7RG](https://www.familysearch.org/tree/person/details/K8FJ-7RG).
 5. WikiTree: [Kenner-128](https://www.wikitree.com/wiki/Kenner-128)
 6. DNA: [Rev. Honorable Elias Housen Kenner](https://www.ancestry.com/family-tree/person/tree/206876160/person/422709444335/gallery)
+7. [Mendenhall Family Association](https://www.mendenhall.org/): [I21236](https://www.mendenhall.org/mfa/tng/getperson.php?personID=I21236&tree=MendEuro20260329) 
 
 NAME
 
