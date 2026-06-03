@@ -17,3 +17,4 @@ SOURCES:
 4. [Elias House Kenner II Death Certificate: 16322](https://www.sos.mo.gov/images/archives/deathcerts/1928/1928_00016926.PDF)
 5. [EHC Kenner Tombstone. Find A Grave Memorial ID: 67496459](https://www.findagrave.com/memorial/67496459/elias_houston_c-kenner).
 6. [DNA](https://www.ancestry.com/family-tree/person/tree/206876160/person/422709444137/gallery)
+7.  [Mendenhall Family Association](https://www.mendenhall.org/): [I21231](https://www.mendenhall.org/mfa/tng/getperson.php?personID=I21231&tree=MendEuro20260329) 
