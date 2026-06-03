@@ -37,7 +37,6 @@ General Society of Mayflower Descendants
 
 Dutch Settlers Society of Albany
 
-Order of the Crown of Charlemagne in the United States of America
 
 RESOURCES:
 
@@ -79,6 +78,7 @@ RESOURCES:
 --------------------------------------------------------
 
 [Family Associations](https://www.hereditary.us/family-associations)
+- [The Order of the Crown of Charlemagne](https://www.charlemagne.org/Gateway.html)
 - [Society of Lees](http://www.thesocietyoftheleesofva.org/index.php)
 - Haskell Family Association
 - Germmanna
