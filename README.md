@@ -43,21 +43,21 @@ RESOURCES:
 [Family Associations](https://www.hereditary.us/family-associations)
 - [The Order of the Crown of Charlemagne](https://www.charlemagne.org/Gateway.html)
 - [Society of Lees](http://www.thesocietyoftheleesofva.org/index.php)
-- Haskell Family Association
-- Germmanna
-- Carter Society
-- Dameron Family Association
-- Eskridge Family Assocation
-- Allred Family Association
-- Austin Family Association
+- [Haskell Family Association](http://hfa.haskells.net/pdf/members_only.html):
+- [Germmanna](http://germannafamily.org/index.php):
+- [Carter Society](https://cartersociety.org/index.php/membership#applications):
+- [Dameron Family Association](https://ddfa.org/articles/lawrence-dameron):
+- [Eskridge Family Assocation](https://eskridgefamilyassociation.com/files/first4-pdf.pdf):
+- [Allred Family Association](https://www.broughfamily.org/families/allreds_of_eccles_1500s_to_1700/):
+- [Austin Family Association](https://www.afaoa.org/cpage.php?pt=7):
 - Boone Society
 - Monticello Association
-- Leftwich Historical Association
+- [Leftwich Historical Association](https://www.leftwich.org/?page_id=56):
 - National Society of the Washington Family Descendants
-- Fuqua Database
-- Clan MacBean
-- Clan Campbell Society
-- Clan Forbes Society
-- Clan Gunn
-- Soule Kindred
+- [Fuqua Database](https://homepages.rootsweb.com/~fuqua/Main%20Database/index.htm): 
+- [Clan MacBean](https://clanmacbean.org/):
+- [Clan Campbell Society](https://www.ccsna.org/clan-campbell-genealogy):
+- [Clan Forbes Society](https://www.clan-forbes.org/genealogy):
+- [Clan Gunn](https://cgsna.org/project/chesapeake/):
+- [Soule Kindred](https://tng.soulekindred.org/):
 - [Mendenhall Family Association](https://www.mendenhall.org/): 
