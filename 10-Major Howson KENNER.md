@@ -24,6 +24,7 @@ SOURCES:
 8. [William and Mary College Quarterly VOL III P.256-260](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/kennerfamilywilliamandmarycollegequarterly.pdf)
 9. Sons of the American Revolution: [P-259095](https://sarpatriots.sar.org/patriot/display/259095)
 10. Daughters of the American Revolution: Margaret Eskridge Kenner. Ancestor #: [A064850](https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A064850)
+11. [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/): [I1663](https://www.colonial-settlers-md-va.us/getperson.php?personID=I1663&tree=Tree1) 
 
 
 
