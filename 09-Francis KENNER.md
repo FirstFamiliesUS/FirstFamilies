@@ -25,6 +25,7 @@ SOURCES:
 9. [William and Mary College Quarterly VOL III P.256-260](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/kennerfamilywilliamandmarycollegequarterly.pdf)
 10. Sons of the American Revolution:  Patriot #: [P-228660](https://sarpatriots.sar.org/patriot/display/228660)
 11. Daughters of the American Revolution:  DAR #: [A064845](http://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A064845)
+12. [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/): [I51390](https://www.colonial-settlers-md-va.us/getperson.php?personID=I51390&tree=Tree1) 
 
 
 
