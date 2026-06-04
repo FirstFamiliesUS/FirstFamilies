@@ -23,6 +23,7 @@ SOURCES:
 7. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 140
 8. [William and Mary College Quarterly VOL III P.256-260](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/kennerfamilywilliamandmarycollegequarterly.pdf)
 9. Sons of the American Revolution: [P-259095](https://sarpatriots.sar.org/patriot/display/259095)
+10. Daughters of the American Revolution: Margaret Eskridge Kenner. Ancestor #: [A064850](https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A064850)
 
 
 
