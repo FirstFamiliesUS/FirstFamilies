@@ -38,6 +38,7 @@ RESOURCES:
 - PRESIDENTIAL MEMORIAL CERTIFICATES Perry, Doris L. doris.perry@va.gov
 - [Maryland Geological Society Surnames](https://www.mdgensoc.org/surname.php): [Frederick County](https://frecogs.org/surname.php), [Allegany County](https://gsacmd.org/surnames/), [Carroll County](https://ccgsmd.org/cpage.php?pt=15), [Harford County](https://www.harfordhistory.org/research/research-by-mail/), [Montgomery County](https://mocogensoc.org/surname.php),  [Odenton Genial](https://odentongg.org/surname.php), [Prince George](https://www.pgcgs.org/cpage.php?pt=7), [St. Mary](https://smcgsi.org/surname-research), [Upper Shore](http://usgsmd.org/pdfs/USGSMD-Surname-Index-of-Family-Research-Volumes.pdf),
 - [Maryland Early Settlers](https://earlysettlers.msa.maryland.gov/):
+- [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/):
 
 --------------------------------------------------------
 
