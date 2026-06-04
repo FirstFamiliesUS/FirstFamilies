@@ -24,6 +24,7 @@ SOURCES:
 7. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 140
 8. [William and Mary College Quarterly VOL III P.256-260](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/kennerfamilywilliamandmarycollegequarterly.pdf)
 9. [Sons and Daughters of Virginia Founding Fathers](http://www.virginiafoundingfathers.org/): [Approved Ancestor](http://www.virginiafoundingfathers.org/ancestors.html)
+10. [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/): [I147845](https://www.colonial-settlers-md-va.us/getperson.php?personID=I147845&tree=Tree1)
 
 
 
