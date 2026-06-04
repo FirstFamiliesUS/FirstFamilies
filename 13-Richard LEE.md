@@ -23,7 +23,8 @@ SOURCES:
 7. [Jamestowne Approved Ancestor](http://www.jamestowne.org/lawson---leigh.html)
 8. Wikipedia: [Richard_Lee_I](https://en.wikipedia.org/wiki/Richard_Lee_I)
 9. [National Society Colonial Dames of America](https://nscda.org/): [Approved Ancestor](https://nscda.org/register-of-ancestors-sr/?roa-name=Richard+Lee&colonial-state=all)
-10. [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/): [I23100](https://www.colonial-settlers-md-va.us/getperson.php?personID=I23100&tree=Tree1) 
+10. [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/): [I23100](https://www.colonial-settlers-md-va.us/getperson.php?personID=I23100&tree=Tree1)
+11. [Society of Lees](http://www.thesocietyoftheleesofva.org/index.php)
 
 
 
