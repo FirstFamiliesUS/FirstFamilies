@@ -24,6 +24,7 @@ SOURCES:
 7. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 141
 8. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 140
 9. Virginia revolutionary pay certificate for his services on June 28, 1784 for 92 pounds, Volume CLXXV, page 556
+10. [Eastern Tennessee](https://www.easttnhistory.org/research/genealogy/tennessee-ancestors/family-search/): 10109  10152
 
 
 
