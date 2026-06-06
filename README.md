@@ -1,9 +1,9 @@
 
 
-Saints
+Saints:
 - [St. George’s Society](https://www.stgeorgesbalt.org/become-member)
 - [St. Andrew’s Society](https://standrewsociety.org/about-the-program/)
-- [Friendly Daughters of St. Patrick](https://www.friendlydaughters.org/events-1)
+- [Friendly Daughters of St. Patrick](https://www.friendlydaughters.org/events-1) [Emerald Isle Club](https://emeraldisleclub.com/events/)
 - [St. David](https://www.philadelphiawelsh.org/membership?utm_source=copilot.com)
 - [National Guild of St. Margaret of Scotland](https://www.guildofstmargaret.com/gateway-ancestors.html)
 - [The Order of the Crown of Charlemagne](https://www.charlemagne.org/Gateway.html)
@@ -16,6 +16,36 @@ Religions:
 - [Virginia Huguenot Society](https://www.frenchhuguenots-virginiasociety.org/)
 - [Huguenot Society of America](https://www.huguenotsocietyofamerica.org/history/ancestors/)
 - [Congregationalists](https://www.congregationallibrary.org/for-researchers/search-obituaries)
+- [Descendants of Colonial Clergy](https://www.colonialclergy.com/research/references/)
+- [Early Quaker Descendents](http://www.earlyquakers.org/qualifyingancestors.html), [Welcome Society](https://www.welcomesociety.org/ancestors.html), 
+- [National Society Founders of Places of Worship in America](https://www.nsfpwa.org/ancestors)
+
+[ForeFathers:](https://www.hereditary.us/family-associations) 
+- [Germmanna](http://germannafamily.org/index.php):
+- [Allred Family Association](https://www.broughfamily.org/families/allreds_of_eccles_1500s_to_1700/):
+- [Austin Family Association](https://www.afaoa.org/cpage.php?pt=7):
+- Boone Society
+- [Clan MacBean](https://clanmacbean.org/):
+- [Clan Campbell Society](https://www.ccsna.org/clan-campbell-genealogy):
+- [Carter Society](https://cartersociety.org/index.php/membership#applications):
+- [Dameron Family Association](https://ddfa.org/articles/lawrence-dameron):
+- [Eskridge Family Assocation](https://eskridgefamilyassociation.com/files/first4-pdf.pdf):
+- [Clan Forbes Society](https://www.clan-forbes.org/genealogy):
+- [Fuqua Database](https://homepages.rootsweb.com/~fuqua/Main%20Database/index.htm): 
+- [Clan Gunn](https://cgsna.org/project/chesapeake/):
+- [Haskell Family Association](http://hfa.haskells.net/pdf/members_only.html):
+- Monticello Association
+- Kenner Family Assocation
+- [Society of Lees](http://www.thesocietyoftheleesofva.org/index.php)
+- [Leftwich Historical Association](https://www.leftwich.org/?page_id=56):
+- [Mendenhall Family Association](https://www.mendenhall.org/): 
+- [Soule Kindred](https://tng.soulekindred.org/):
+- National Society of the Washington Family Descendants
+
+Children
+- Children of the American Revolution
+- [Maryland Society Children of 1812](https://nsc1812.weebly.com/our-patriots.html)
+
 
 
 ___________________________________________________________________________________________
@@ -58,26 +88,5 @@ ________________________________________________________________________________
 - [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/):
 - [Eastern Tennessee](https://www.easttnhistory.org/research/genealogy/tennessee-ancestors/family-search/):
 
---------------------------------------------------------
 
-[Family Associations](https://www.hereditary.us/family-associations)
-- 
-- [Society of Lees](http://www.thesocietyoftheleesofva.org/index.php)
-- [Haskell Family Association](http://hfa.haskells.net/pdf/members_only.html):
-- [Germmanna](http://germannafamily.org/index.php):
-- [Carter Society](https://cartersociety.org/index.php/membership#applications):
-- [Dameron Family Association](https://ddfa.org/articles/lawrence-dameron):
-- [Eskridge Family Assocation](https://eskridgefamilyassociation.com/files/first4-pdf.pdf):
-- [Allred Family Association](https://www.broughfamily.org/families/allreds_of_eccles_1500s_to_1700/):
-- [Austin Family Association](https://www.afaoa.org/cpage.php?pt=7):
-- Boone Society
-- Monticello Association
-- [Leftwich Historical Association](https://www.leftwich.org/?page_id=56):
-- National Society of the Washington Family Descendants
-- [Fuqua Database](https://homepages.rootsweb.com/~fuqua/Main%20Database/index.htm): 
-- [Clan MacBean](https://clanmacbean.org/):
-- [Clan Campbell Society](https://www.ccsna.org/clan-campbell-genealogy):
-- [Clan Forbes Society](https://www.clan-forbes.org/genealogy):
-- [Clan Gunn](https://cgsna.org/project/chesapeake/):
-- [Soule Kindred](https://tng.soulekindred.org/):
-- [Mendenhall Family Association](https://www.mendenhall.org/): 
+
