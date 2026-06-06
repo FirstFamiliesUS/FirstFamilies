@@ -11,14 +11,22 @@ Saints:
 - [Saint Nicholas Society of the City of New York](https://saintnicholassociety.org/welcome/membership/)
 - [Saint Bridget of Sweden](https://colonialswedes.net/list-of-qualifying-forefathers-static/)
 
+Royality
+- [Baronial Order of Magna Charta & Military Order of the Crusades](https://www.magnacharta.com/gateway-ancestors/)
+- [Descendants of the Founders of Ancient Windsor](https://dfaw.org/founders-list/)
+- [National Society Americans of Royal Descent](https://royalancestry.org/index.php/ancestors)
+
 Religions:
 - [Swiss Anabaptist](https://saga-omii.org/index.html)
-- [Virginia Huguenot Society](https://www.frenchhuguenots-virginiasociety.org/)
 - [Huguenot Society of America](https://www.huguenotsocietyofamerica.org/history/ancestors/)
+- [Virginia Huguenot Society](https://www.frenchhuguenots-virginiasociety.org/)
+- [Huguenot Society of Pennsylvania](https://pahuguenotsociety.wixsite.com/website)
+- [Huguenot Society of the Founders of Manakin](https://www.huguenotmanakin.org/copy-of-old-registered-lineages)
 - [Congregationalists](https://www.congregationallibrary.org/for-researchers/search-obituaries)
 - [Descendants of Colonial Clergy](https://www.colonialclergy.com/research/references/)
 - [Early Quaker Descendents](http://www.earlyquakers.org/qualifyingancestors.html), [Welcome Society](https://www.welcomesociety.org/ancestors.html), 
 - [National Society Founders of Places of Worship in America](https://www.nsfpwa.org/ancestors)
+- Dutch Reformed. [Dutch Colonial Society](http://www.dutchcolonialsociety.org/ancestors.htm) , [Dutch Settlers Society of Albany](https://www.dutchsettlerssociety.org/membership)
 
 [ForeFathers:](https://www.hereditary.us/family-associations) 
 - [Germmanna](http://germannafamily.org/index.php):
@@ -43,9 +51,37 @@ Religions:
 - National Society of the Washington Family Descendants
 
 Children
-- Children of the American Revolution
+- National Society of the Children of the American Revolution
 - [Maryland Society Children of 1812](https://nsc1812.weebly.com/our-patriots.html)
+- [National Society Children of the American Colonists](https://www.nationalsocietycac.org/)
+- [Sons of Union Veterans Juniors](https://suvcw.org/membership?utm_source=copilot.com)
 
+Government & Founders:
+- [American Descendants of the House of Burgess](http://descendantsofthehouseofburgesses.org/)
+- [Hereditary Order of Descendants of Colonial Governors](http://www.hereditary.us/contact.htm)
+- [Descendants of Founders of New Jersey](https://www.njfounders.org/founders)
+- [Descendants of the Founders of Hartford](https://www.foundersofhartford.org/the-founders/)
+
+Military & Law Enforcement:
+- [Sons of Union Veterans of the Civil War](https://www.suvcwdb.org/)
+- [Daughters of Union Veterans of the Civil War](https://www.duvcw.org/about)
+- [National Auxillary to Sons of Union Veterans of the Civil War](https://asuvcw.org/membership-information/)
+- [US Daughters of War of 1812](https://members.usdaughters1812.org/i4a/memberDirectory/index.cfm?directory_id=43&pageID=3817)
+- [General Society of the War of 1812](https://www.facebook.com/1812MD)
+- [Sons of American Revolution](https://sarpatriots.sar.org/patriot/search)
+- [DAR Descendents](https://services.dar.org/Public/DAR_Research/search/?Tab_ID=5)
+- [DAR Ancestors](https://services.dar.org/Public/DAR_Research/search/?Tab_ID=1)
+- [Ancient and Honorable Artillery Company](https://wdahac.wixsite.com/wdahac/eligible-ancestors)
+- [Ancient and Honorable Artillery Company of Massachusetts](https://newenglandsocieties.com/odahac-eligibility/)
+- [Daughters of the Cincinnati](https://daughters1894.org/membership/)
+- [Descendants of Colonial Regulators](https://colonialregulators.weebly.com/)
+- [General Society of Colonal Wars](https://gscw.org/contact/?)
+- [Descendants of Mexican War Veterans](http://www.dmwv.org/)
+- [Descendants of Sheriffs & Constables](https://sheriffsandconstables.weebly.com/ancestors.html)
+- [Military Order of the Daughters and Sons of Ohio](https://www.ogs.org/search-databases/)
+- [National Society Daughters of Colonial Wars](https://www.nsdcw.org/ancestor-s-list)
+- [Order of Americans of Armorial Ancestry](http://www.armorial.us/arms.htm)
+- [Society of the Descendants of Washington's Army at Valley Forge](https://www.valleyforgesociety.com/_files/ugd/cbe2c2_72d505a5537b47a981e600f0195a743e.pdf)
 
 
 ___________________________________________________________________________________________
@@ -53,12 +89,6 @@ ________________________________________________________________________________
 - [Fold3](https://www.fold3.com/login)
 - [FindAGrave](https://www.findagrave.com/)
 - [Land Grants](https://glorecords.blm.gov/search/default.aspx)
-- [Sons of Union Veterans of the Civil War](https://www.suvcwdb.org/)
-- [US Daughters of War of 1812](https://members.usdaughters1812.org/i4a/memberDirectory/index.cfm?directory_id=43&pageID=3817)
-- [General Society of the War of 1812](https://www.facebook.com/1812MD)
-- [Sons of American Revolution](https://sarpatriots.sar.org/patriot/search)
-- [DAR Descendents](https://services.dar.org/Public/DAR_Research/search/?Tab_ID=5)
-- [DAR Ancestors](https://services.dar.org/Public/DAR_Research/search/?Tab_ID=1)
 - [Ohio Genealogical Society of Approved List](https://www.ogs.org/wp-content/uploads/2025/06/SBO-2025-Roster-for-Website.pdf?utm_source=copilot.com)
 - [Missouri Approved List](https://mosga.org/upload/files/First_Families_approved_through_March_31%2C_2026_r1.pdf)
 - [Indiana Approved Ancestors](https://indianapioneers.org/ancestors/)
