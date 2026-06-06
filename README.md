@@ -1,7 +1,24 @@
-https://www.dmwv.org/honoring.php#marker
 
-#Saints
 
+Saints
+- [St. George’s Society](https://www.stgeorgesbalt.org/become-member)
+- [St. Andrew’s Society](https://standrewsociety.org/about-the-program/)
+- [Friendly Daughters of St. Patrick](https://www.friendlydaughters.org/events-1)
+- [St. David](https://www.philadelphiawelsh.org/membership?utm_source=copilot.com)
+- [National Guild of St. Margaret of Scotland](https://www.guildofstmargaret.com/gateway-ancestors.html)
+- [The Order of the Crown of Charlemagne](https://www.charlemagne.org/Gateway.html)
+- [National Society of Saints](http://nationalsocietyofsaintsandsinners.org/wp-content/uploads/2018/07/Approved-List-of-Saints-07-15-15.pdf)
+- [Saint Nicholas Society of the City of New York](https://saintnicholassociety.org/welcome/membership/)
+- [Saint Bridget of Sweden](https://colonialswedes.net/list-of-qualifying-forefathers-static/)
+
+Religions:
+- [Swiss Anabaptist](https://saga-omii.org/index.html)
+- [Virginia Huguenot Society](https://www.frenchhuguenots-virginiasociety.org/)
+- [Huguenot Society of America](https://www.huguenotsocietyofamerica.org/history/ancestors/)
+- [Congregationalists](https://www.congregationallibrary.org/for-researchers/search-obituaries)
+
+
+___________________________________________________________________________________________
 - [Ancestry](https://www.ancestry.com/)
 - [Fold3](https://www.fold3.com/login)
 - [FindAGrave](https://www.findagrave.com/)
@@ -20,7 +37,7 @@ https://www.dmwv.org/honoring.php#marker
 - [Michigan Database](http://data.mimgc.org/PioneerCertificates/FMPro?-db=PioneerCertificates&lay=web&-format=search.htm&-view). Kim Smith ksmith8061@aol.com, Michigan Pioneer Certificate chair
 - [Nebraska Surnames](https://nsgs.org/surname.php) . [Secretary of State](https://capitol.nebraska.gov/building/host-an-event/have-a-flag-flown/). Please contact Sign Solutions of Lincoln, (402)466-1144, for information about purchasing a flag to be flown at the Capitol 
 - [Oklahoma Surnames](https://okgensoc.org/surname.php?page=1&nr=50&scl=c0a)
-  
+- https://www.dmwv.org/honoring.php#marker  
 --------------------------------------------------------
 
 - [Missouri Online Death Certificates](https://s1.sos.mo.gov/records/Archives/ArchivesMvc/DeathCertificates)
@@ -44,7 +61,7 @@ https://www.dmwv.org/honoring.php#marker
 --------------------------------------------------------
 
 [Family Associations](https://www.hereditary.us/family-associations)
-- [The Order of the Crown of Charlemagne](https://www.charlemagne.org/Gateway.html)
+- 
 - [Society of Lees](http://www.thesocietyoftheleesofva.org/index.php)
 - [Haskell Family Association](http://hfa.haskells.net/pdf/members_only.html):
 - [Germmanna](http://germannafamily.org/index.php):
