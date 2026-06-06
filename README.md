@@ -11,7 +11,7 @@ Children:
 Saints:
 - [St. George’s Society](https://www.stgeorgesbalt.org/become-member)
 - [St. Andrew’s Society](https://standrewsociety.org/about-the-program/)
-- [Friendly Daughters of St. Patrick](https://www.friendlydaughters.org/events-1) [Emerald Isle Club](https://emeraldisleclub.com/events/)
+- [St. Patrick](https://irishparade.net/the-parade/partners-and-friends/?utm_source=copilot.com) , [Friendly Daughters of St. Patrick](https://www.friendlydaughters.org/events-1) [Emerald Isle Club](https://emeraldisleclub.com/events/)
 - [St. David](https://www.philadelphiawelsh.org/membership?utm_source=copilot.com)
 - [National Guild of St. Margaret of Scotland](https://www.guildofstmargaret.com/gateway-ancestors.html)
 - [The Order of the Crown of Charlemagne](https://www.charlemagne.org/Gateway.html)
