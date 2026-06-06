@@ -18,6 +18,7 @@ Saints:
 - [National Society of Saints](http://nationalsocietyofsaintsandsinners.org/wp-content/uploads/2018/07/Approved-List-of-Saints-07-15-15.pdf)
 - [Saint Nicholas Society of the City of New York](https://saintnicholassociety.org/welcome/membership/)
 - [Saint Bridget of Sweden](https://colonialswedes.net/list-of-qualifying-forefathers-static/)
+- [Saint Martin (Germany)](https://www.germansociety.org/annual-events#StMartinsParadeLaternenumzug)
 
 Royality
 - [Baronial Order of Magna Charta & Military Order of the Crusades](https://www.magnacharta.com/gateway-ancestors/)
