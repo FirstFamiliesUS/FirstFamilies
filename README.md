@@ -10,7 +10,7 @@ Children:
 
 Saints:
 - [St. George’s Society](https://www.stgeorgesbalt.org/become-member)
-- [Council of Scottish Clans](https://www.cosca.scot/surname), [St. Andrew’s Society](https://standrewsociety.org/about-the-program/), [St. Andrew's Society of Baltimore](https://standrewsbaltimore.com/events/), 
+- [St. Andrew’s Society](https://standrewsociety.org/about-the-program/), [St. Andrew's Society of Baltimore](https://standrewsbaltimore.com/events/), [St Andrews Mid-Maryland](https://sasmm.com/upcoming-events/),  
 - [St. Patrick](https://irishparade.net/the-parade/partners-and-friends/?utm_source=copilot.com) , [Friendly Daughters of St. Patrick](https://www.friendlydaughters.org/events-1) [Emerald Isle Club](https://emeraldisleclub.com/events/)
 - [St. David](https://www.philadelphiawelsh.org/membership?utm_source=copilot.com)
 - [National Guild of St. Margaret of Scotland](https://www.guildofstmargaret.com/gateway-ancestors.html)
@@ -38,6 +38,7 @@ Religions:
 
 [ForeFathers:](https://www.hereditary.us/family-associations) 
 - [Germmanna](http://germannafamily.org/index.php):
+- [Council of Scottish Clans](https://www.cosca.scot/surname)
 - [Allred Family Association](https://www.broughfamily.org/families/allreds_of_eccles_1500s_to_1700/):
 - [Austin Family Association](https://www.afaoa.org/cpage.php?pt=7):
 - Boone Society
