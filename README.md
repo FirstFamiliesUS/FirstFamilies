@@ -1,4 +1,10 @@
 
+Children
+- [Sons of Union Veterans Juniors](https://suvcw.org/membership?utm_source=copilot.com)
+- [Maryland Society Children of 1812](https://nsc1812.weebly.com/our-patriots.html)
+- [National Society of the Children of the American Revolution](https://nscar.org/)
+- [National Society Children of the American Colonists](https://www.nationalsocietycac.org/)
+
 
 Saints:
 - [St. George’s Society](https://www.stgeorgesbalt.org/become-member)
@@ -50,11 +56,7 @@ Religions:
 - [Soule Kindred](https://tng.soulekindred.org/):
 - National Society of the Washington Family Descendants
 
-Children
-- National Society of the Children of the American Revolution
-- [Maryland Society Children of 1812](https://nsc1812.weebly.com/our-patriots.html)
-- [National Society Children of the American Colonists](https://www.nationalsocietycac.org/)
-- [Sons of Union Veterans Juniors](https://suvcw.org/membership?utm_source=copilot.com)
+
 
 Government & Founders:
 - [American Descendants of the House of Burgess](http://descendantsofthehouseofburgesses.org/)
