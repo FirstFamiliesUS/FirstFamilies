@@ -34,6 +34,7 @@ SOURCES:
 5. [FamilySearch](https://www.familysearch.org/en/search/): ID [GP1R-1Y8](https://www.familysearch.org/en/tree/person/details/GP1R-1Y8)
 6. [Jerome Kenner Death Certificate](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/DadsDeathCertificate.png)
 7. AncestryDNA:  [422709443736](https://www.ancestry.com/family-tree/person/tree/206876160/person/422709443736/facts)
+8. [Wikitree](https://www.wikitree.com/wiki/): [Kenner-228](https://www.wikitree.com/wiki/Kenner-228)
 
 ACCOLADES:
 - Presidential Memorial Certificate
