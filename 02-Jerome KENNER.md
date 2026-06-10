@@ -33,6 +33,7 @@ SOURCES:
 4. [Jerome Kenner Tombstone, Find A Grave Memorial ID 207459319](https://www.findagrave.com/memorial/207459319/jerome-t.-kenner).
 5. [FamilySearch](https://www.familysearch.org/en/search/): ID [GP1R-1Y8](https://www.familysearch.org/en/tree/person/details/GP1R-1Y8)
 6. [Jerome Kenner Death Certificate](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/DadsDeathCertificate.png)
+7. AncestryDNA:  [422709443736](https://www.ancestry.com/family-tree/person/tree/206876160/person/422709443736/facts)
 
 ACCOLADES:
 - Presidential Memorial Certificate
