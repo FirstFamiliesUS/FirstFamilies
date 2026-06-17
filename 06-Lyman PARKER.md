@@ -28,5 +28,5 @@ SOURCES:
 ACCOLADES:
 - Presidential Memorial Certificate
 - Michigan First Families: Pre-Statehood Certificate # P-039
-- Ohio First Families
+- Ohio First Families (Pending)
 - Land Grants: No. 19564
