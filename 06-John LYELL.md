@@ -36,6 +36,6 @@ SOURCES:
 
 ACCOLADES:
 - Presidential Memorial Certificate
-- [Missouri First Families](https://mosga.org): [Butler](https://www.familysearch.org/en/wiki/Butler_County,_Missouri_Genealogy), [Ripley](https://www.familysearch.org/en/wiki/Ripley_County,_Missouri_Genealogy "Ripley County, Missouri Genealogy"), [Maries](https://www.familysearch.org/en/wiki/Maries_County,_Missouri_Genealogy "Maries County, Missouri Genealogy"),  [Monroe](https://www.familysearch.org/en/wiki/Monroe_County,_Missouri_Genealogy "Monroe County, Missouri Genealogy"), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy") 
+- [Missouri First Families](https://mosga.org): Civil War Certificate 
 - [Land Grants](https://glorecords.blm.gov/search/default.aspx):
 - Namesake
