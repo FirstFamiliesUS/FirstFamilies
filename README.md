@@ -112,7 +112,7 @@ ________________________________________________________________________________
 -  House Representative Ed Lewis of Maries County, Dylan Robinson <Dylan.Robinson@house.mo.gov>. Butler County Carol Workman Carol.Workman@house.mo.gov. Ripley County [Keith Elliott](https://house.mo.gov/memberdetails.aspx?district=153&year=2026&code=R) Missouri House representative for Ripley County — he serves District 153.
 - [Otoe County Pioneers](https://ocgsne.org/index.php/research/pioneers)
 - [Johnson County](https://johnsonctyilgenhist.org/), info@johnsonctyilgenhist.org,  [Illinois](https://ilgensoc.org/cpage.php?pt=599). David Oliver oliverdavid553@gmail.com
-- Illinois Vauna Crowder isgsoffice@ilgensoc.org
+- [Illinois Genealogical Society](https://ilgensoc.org/cstm_ILcmbDB.php). Vauna Crowder isgsoffice@ilgensoc.org
 - [Ohio](https://www.ogs.org/search-databases/). Sadie Ehrmantraut sehrmantraut@ogs.org
 - [Tennessee](https://tngs.org/TCD). Nancy Yager Smith, certificates@tngs.org , Director of Certificates. [Hawkins County](https://www.familysearch.org/en/wiki/Hawkins_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy) 
 
