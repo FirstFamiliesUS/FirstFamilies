@@ -28,5 +28,5 @@ SOURCES:
 
 ACCOLADES:
 
-- [Illinios First Families](https://ilgensoc.org)
+- [Illinios First Families](https://ilgensoc.org): [30489](https://ilgensoc.org/custom/dtl_prariePioneer.php?rid=30489)
 - Land Grant
