@@ -1,3 +1,7 @@
+Illinois House Representative for Camp Butler National Cemetery
+Camp Butler National Cemetery (5063 Camp Butler Rd, Springfield IL 62707) is in the Illinois House 87th District and is represented by Representative Tim Butler (R).
+Office email: butler@ilhousegop.org
+
 https://capitol.nebraska.gov/building/host-an-event/have-a-flag-flown/      sos.info@nebraska.gov
 
 Nebraska Secretary of State’s Office
