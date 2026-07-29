@@ -3,6 +3,10 @@ It is a public repository
 I will build it with Jekyll using CodeSpace
 I will purchase a template 
 
+https://hydejack.com/showcase/
+
+ThemeForest.net (Envato Mark
+
  JekyllThemes.io
 This is the most curated and popular directory specifically for Jekyll themes. They have a mix of free and premium options, usually ranging from $49 to $99.
 
