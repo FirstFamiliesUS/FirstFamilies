@@ -1,0 +1,22 @@
+I want to build a Facebook friendly website for https://github.com/davidjkenner/FirstFamilies
+It is a public repository
+I will build it with Jekyll using CodeSpace
+I will purchase a template 
+
+ JekyllThemes.io
+This is the most curated and popular directory specifically for Jekyll themes. They have a mix of free and premium options, usually ranging from $49 to $99.
+
+Categories: They offer highly tailored themes for Blogs, Portfolios, Business/SaaS landing pages, and Documentation.
+
+Benefits: Themes here are explicitly built with GitHub Pages compatibility in mind and are usually well-documented and optimized.
+
+2. ThemeForest (Envato Market)
+ThemeForest is the largest marketplace for website templates in general, and they have a dedicated "Jamstack" section that includes hundreds of Jekyll themes.
+
+Price Range: Usually $19 to $79.
+
+Benefits: You can find highly complex, multi-purpose themes here. If you need a site with many different types of pages, interactive UI elements, or specialized integrations, ThemeForest has the largest variety.
+
+
+3. Independent Theme Creators
+Many developers sell high-quality boutique Jekyll themes directly from their own websites. A notable example is Hydejack, a popular boutique theme designed specifically for academics, hackers, and portfolio sites, which offers both a free version and a paid PRO version with advanced features.
