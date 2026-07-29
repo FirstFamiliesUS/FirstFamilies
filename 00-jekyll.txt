@@ -4,7 +4,7 @@ It is a public repository
 I will Create a GitHub Organization (Best for branding without spending money)
 I will use AI to generate Logo.
 I will build it with Jekyll using CodeSpace
-I will purchase a template 
+I will purchase a template, ensuring your purchased theme uses the jekyll-seo-tag plugin 
 Can this site be monetize: Amazon Product Images (Zero Code);  Display Ads (Google AdSense) and The Expedia Group Affiliate Program.
 
 https://hydejack.com/showcase/
