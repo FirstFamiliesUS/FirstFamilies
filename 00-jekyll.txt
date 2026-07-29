@@ -1,7 +1,11 @@
-I want to build a Facebook friendly website for https://github.com/davidjkenner/FirstFamilies
+I want to build a website that is be Facebook, LinkedIn, Twitter, Discord, and Slack friendly.
+It will be hosted on Github for https://github.com/davidjkenner/FirstFamilies
 It is a public repository
+I will Create a GitHub Organization (Best for branding without spending money)
+I will use AI to generate Logo.
 I will build it with Jekyll using CodeSpace
 I will purchase a template 
+Can this site be monetize: Amazon Product Images (Zero Code);  Display Ads (Google AdSense) and The Expedia Group Affiliate Program.
 
 https://hydejack.com/showcase/
 
