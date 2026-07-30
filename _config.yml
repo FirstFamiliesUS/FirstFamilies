@@ -31,13 +31,15 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: daattali/beautiful-jekyll
-avatar: "/assets/images/logo.png"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "contrast"
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
