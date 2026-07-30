@@ -5,7 +5,8 @@ It will be hosted on Github for https://github.com/davidjkenner/FirstFamilies
 It is a public repository
 I will Create a GitHub Organization (Best for branding without spending money)
 I will use AI to generate Logo.
-I will build it with Jekyll using CodeSpace
+I will build it with Jekyll using CodeSpace.
+Copilot Free includes: 2,000 code completions per month and "Limited chat and agent usage.
 I will purchase a template, ensuring your purchased theme uses the jekyll-seo-tag plugin and have Google Analytics built-in. 
 This site be monetize: Amazon Product Images (Zero Code);  Display Ads (Google AdSense) and The Expedia Group Affiliate Program.
 This site will have a Mailchimp Button "Subscribe to Updates".
