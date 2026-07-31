@@ -5,3 +5,7 @@ main:
     url: /resources/
   - title: "Ancestors"
     url: /ancestors/
+    children:
+      - title: "Kenner Family"
+        url: /ancestors/kenner/
+
