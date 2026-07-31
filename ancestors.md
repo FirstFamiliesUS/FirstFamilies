@@ -15,6 +15,6 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 # First Families
 
 
-## [Kenner](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/kenner.md)
+## [Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/)
 
 
