@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Resources"
+permalink: /resources/
+---
 
 Children:
 - [Sons of Union Veterans Juniors](https://suvcw.org/membership?utm_source=copilot.com)
