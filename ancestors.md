@@ -16,7 +16,8 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 
 ## [Bower]({{ '/ancestors/bower/' | relative_url }})
 
+## [Holman]({{ '/ancestors/holman/' | relative_url }})
 
-## [Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/)
+## [Kenner]({{ '/ancestors/kenner/' | relative_url }})
 
 ## [Seymore]({{ '/ancestors/seymore/' | relative_url }})
