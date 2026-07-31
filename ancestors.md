@@ -19,4 +19,4 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 
 ## [Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/)
 
-
+## [Seymore]({{ '/ancestors/seymore/' | relative_url }})
