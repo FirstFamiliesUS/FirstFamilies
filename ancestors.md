@@ -14,6 +14,8 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 
 # First Families
 
+## [The Bower Family]({{ '/ancestors/bower/' | relative_url }})
+
 
 ## [Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/)
 
