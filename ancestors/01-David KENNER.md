@@ -1,3 +1,10 @@
+---
+layout: single
+title: "David Kenner"
+permalink: /ancestors/kenner/david/
+---
+
+
 David Kenner
 
 - Born: 17 June 1964  `#1, #2`
