@@ -11,7 +11,7 @@ Here we will detail the lineage, historical documents, and stories of the Kenner
 ![Kenner Family Association]({{ '/assets/images/KFA.jpg' | relative_url }})
 
 
-- [David Kenner](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/01-David%20KENNER.md) 
+- [David Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/01-David%20KENNER.html) 
 - [Jerome Kenner](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/02-Jerome%20KENNER.md)
 - [Perry Kenner](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/03-Perry%20KENNER.md)
 - [Rev. George T. Kenner](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/04-George%20KENNER.md)
