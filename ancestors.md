@@ -21,3 +21,6 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 ## [Kenner]({{ '/ancestors/kenner/' | relative_url }})
 
 ## [Seymore]({{ '/ancestors/seymore/' | relative_url }})
+
+## [Wilson]({{ '/ancestors/wilson/' | relative_url }})
+
