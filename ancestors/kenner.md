@@ -6,9 +6,11 @@ permalink: /ancestors/kenner/
 
 Welcome to the Kenner family history page.
 
-Here we will detail the lineage, historical documents, and stories of the Kenner ancestors in the United States.
+Here we will detail the lineage, historical documents, and stories of the Kenner ancestors in the United States
 
-**Kenner**
+![Kenner Family Association]({{ '/assets/images/KFA.jpg' | relative_url }})
+
+
 - [David Kenner](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/01-David%20KENNER.md) 
 - [Jerome Kenner](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/02-Jerome%20KENNER.md)
 - [Perry Kenner](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/03-Perry%20KENNER.md)
