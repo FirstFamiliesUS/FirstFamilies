@@ -27,9 +27,9 @@ Moved to Pulaski County, Missouri after his marriage in 1842. Was a Justice of t
 - Spouse: [Clarinda Latham](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Clarinda%20LATHAM.md?plain=1)       `#2`
 - Marriage Date: before 1844      `#1`
 - Marriage Place
-- Father: [William (Billie) Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/07-William%20KENNER.md)
+- Father: [William (Billie) Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/william/)
 - Mother: Elizabeth Mendenhall
-- Child:  [Elias Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/05-EHC%20KENNER.md)  `#1, #2`
+- Child:  [EHC Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/ehc/)  `#1, #2`
 
 SOURCES:
 1. [Year: 1860; Census Place: Dry Creek, Maries, Missouri; Roll: M653_632; Page: 562; Family History Library Film: 803632](https://www.ancestry.com/search/collections/7667/records/40427738?tid=168012819&pid=272180029271&ssrc=pt).
