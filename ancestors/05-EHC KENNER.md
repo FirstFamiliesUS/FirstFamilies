@@ -1,3 +1,11 @@
+---
+layout: single
+title: "EHC Kenner"
+permalink: /ancestors/kenner/ehc/
+---
+
+
+
 The Rev. EHC Kenner
 
 - Born: 1850  `#1, #5`
