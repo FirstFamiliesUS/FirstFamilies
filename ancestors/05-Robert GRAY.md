@@ -1,28 +1,13 @@
-Illinois House Representative for Camp Butler National Cemetery
-Camp Butler National Cemetery (5063 Camp Butler Rd, Springfield IL 62707) is in the Illinois House 87th District and is represented by Representative Tim Butler (R).
-Office email: butler@ilhousegop.org
-
-https://capitol.nebraska.gov/building/host-an-event/have-a-flag-flown/      sos.info@nebraska.gov
-
-Nebraska Secretary of State’s Office
-State Capitol Suite 2300
-P.O. Box 94608 
-Lincoln, NE 68509-4608
-
-I am requesting the Office of the Capitol Commission to fly a United State flag for commemorative purposes on a flag pole located at the Nebraska State Capitol. In honor of my ancestor CPL Robert Gary II. 
+---
+layout: single
+title: "Gray"
+permalink: /ancestors/gray/robert/
+---
 
 Robert Gray II was born in Maine and moved to Missouri before 31 December 1860. He went to Missouri where he was engaged in farming before the outbreak of the Civil War. Because of his strong Union convictions, he was compelled by abuse to leave the state of Missouri. He crossed over into Illinois, and on November 1, 1861, enlisted in the Army. He served about four years in Company D and H of the 26th Regiment of the Illinois Infantry. According to the National Park Service: 26th Regiment, Illinois Infantry. Detachments moved to Canton, LaGrange, Palmyra and Hannibal, Mo., and engaged in protecting the line of the Hannibal & St. Jo. R. R. till February 19, 1862. Ordered to Commerce, Mo., February 19, 1862. Operations against New Madrid and Island No. 10, February 28-April 8, 1862. Actions at New Madrid March 3, 4 and 6. He was also part of the "March to the Sea" with Sherman. He received his discharge July 20, 1865. 
 
 After the war, Nebraska become his home. Here he recieved a Land Grant. He married Isabel Pratt. They raised there children in Nebraska. He died was buried in Nebraska with full honors by Richardson Post 60 Grand Army of the Republic.  They were Pioneers of Otoe County, Nebraska. They had a large farm and built a large frame house. They had seven children, including Evalyn Frederica Gray. Evalyn married twice. First to Oldsburg and then to Robert James Holmna III. In 1900, after most of the children were grown and some of them were married, Robert & Isabelle Gray moved to a farm in Garfield County, Oklahoma. By hard work and self denial, they managed to acquire a good amount of property.
 
-Enclosed is a standard 3’ x 5’United States flag. 
-
-
-Robert Gray II was born in Maine and moved to Missouri before 31 December 1860. He went to Missouri where he was engaged in farming before the outbreak of the Civil War. Because of his strong Union convictions, he was compelled by abuse to leave the state of Missouri. He crossed over into Illinois, and on November 1, 1861, enlisted in the Army. He served about four years in Company D and H of the 26th Regiment of the Illinois Infantry. According to the National Park Service: 26th Regiment, Illinois Infantry. Detachments moved to Canton, LaGrange, Palmyra and Hannibal, Mo., and engaged in protecting the line of the Hannibal & St. Jo. R. R. till February 19, 1862. Ordered to Commerce, Mo., February 19, 1862. Operations against New Madrid and Island No. 10, February 28-April 8, 1862. Actions at New Madrid March 3, 4 and 6. He was also part of the "March to the Sea" with Sherman. He received his discharge July 20, 1865. 
-
-After the war, Nebraska become his home. Here he recieved a Land Grant. He married Isabel Pratt. They raised there children in Nebraska. He died was buried in Nebraska with full honors by Richardson Post 60 Grand Army of the Republic. 
-
-They were Pioneers of Otoe County, Nebraska. They had a large farm and built a large frame house. They had seven children, including Evalyn Frederica Gray. Evalyn married twice. First to Oldsburg and then to Robert James Holmna III. In 1900, after most of the children were grown and some of them were married, Robert & Isabelle Gray moved to a farm in Garfield County, Oklahoma. By hard work and self denial, they managed to acquire a good amount of property.
 
 - Born:  8 Nov 1832  `#1, #3, #4, #5` 
 - Birth Place:  Garland, Maine  `#3, #4, #5`
@@ -31,12 +16,13 @@ They were Pioneers of Otoe County, Nebraska. They had a large farm and built a l
 - Marriage Place: Nebraska  `#4`
 - Died:  26 Sep 1903  `#1, #3, #5` 
 - Burial Place:  [Harvard Cemetery](https://www.findagrave.com/cemetery/1993813/harvard-cemetery), Harvard,  Clay County,  Nebraska  `#1`  
-- Father: 
-- Mother:
-- Child:  [Evalyn Frederica Gray](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md)  `#3, #4`
 - Military Service: Corporal Company D and H of the 26th Regiment of the Illinois Infantry  `#1, #5`
 - Richardson Post 60 G.A.R.  `#3`
 
+- Father: [Robert Gray I]({{ '/ancestors/gray/robert1' | relative_url }}) 
+- Mother: [Susana Baker]({{ '/ancestors/baker/susana' | relative_url }})  
+- Spouse: [Isabell Pratt]({{ '/ancestors/pratt/isabell' | relative_url }}) 
+- Child: [Evalyn Gray]({{ '/ancestors/gray/evalyn' | relative_url }})    `#3, #4`
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [58099873](https://www.findagrave.com/memorial/58099873/robert-gray)
