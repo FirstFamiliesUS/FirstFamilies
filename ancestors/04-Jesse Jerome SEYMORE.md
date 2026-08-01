@@ -1,3 +1,15 @@
+---
+layout: single
+title: "Jesse Jerome Seymore"
+permalink: /ancestors/Seymore/jerome/
+---
+
+- Father:   [PVT Franklin H Seymore]({{ '/ancestors/seymore/franklin' | relative_url }})  
+- Mother:  [Virginia Fuqua]({{ '/ancestors/fuqua/virginia' | relative_url }})   
+- Spouse:  [Aulsy Wilson]({{ '/ancestors/wilson/aulsy' | relative_url }})   
+- Child:  [Ina Seymore]({{ '/ancestors/seymore/ina' | relative_url }}) 
+
+
 Jesse Jerome Seymore
 
 - Born: 
