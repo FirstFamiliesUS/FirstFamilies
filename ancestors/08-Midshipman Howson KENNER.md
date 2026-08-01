@@ -1,3 +1,11 @@
+---
+layout: single
+title: "Midshipman Kenner"
+permalink: /ancestors/kenner/midshipman/
+---
+
+
+
 NAME
 
 
