@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Jesse Jerome Seymore"
-permalink: /ancestors/Seymore/jerome/
+permalink: /ancestors/seymore/jerome/
 ---
 
 - Father:   [PVT Franklin H Seymore]({{ '/ancestors/seymore/franklin' | relative_url }})  
