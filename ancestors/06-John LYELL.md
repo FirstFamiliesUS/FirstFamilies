@@ -1,3 +1,16 @@
+---
+layout: single
+title: "Lyell"
+permalink: /ancestors/lyell/john/
+---
+
+- Father:  [John Albert Lyell]({{ '/ancestors/lyell/john2' | relative_url }})  
+- Mother:  [Sarah Plummer]({{ '/ancestors/plummer/sarah' | relative_url }})  
+- Spouse:  [Emily Sharp]({{ '/ancestors/sharp/emily' | relative_url }})  
+- Child:   [Mary Lyell]({{ '/ancestors/lyell/mary' | relative_url }})  
+
+
+
 PVT John Lyell
 
 I am a native Missourian, a Military Spouse and an active public servant in the Department of Defense at Fort Meade Maryland. I would like to inquire into obtaining a courtesy state Flag that has been flown over the State Capitol in honor of my ancestor PVT John Lyell who served in Missouri military unity during the Civil War
@@ -11,9 +24,6 @@ I am a native Missourian, a Military Spouse and an active public servant in the 
 - Marriage Place
 - Died: 20 Jul 1916  `#1`
 - Burial Place:  [Andrew Chapel Cemetery](https://www.findagrave.com/cemetery/27325/andrew-chapel-cemetery), [Warren](https://en.wikipedia.org/wiki/Warren_Township,_Marion_County,_Missouri),  [Marion County](https://www.familysearch.org/en/wiki/Marion_County,_Missouri_Genealogy), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy")    `#1`
-- Father: 
-- Mother:
-- Child: 
 - Military Service: Private in D 51'' Ind Inf  `#3`
 
 
