@@ -1,3 +1,18 @@
+---
+layout: single
+title: "Timothy Swindell"
+permalink: /ancestors/swindell/timothy/
+---
+
+- Father: [John Swindell]({{ '/ancestors/swindell/john2' | relative_url }})
+- Mother: [Mary McPherson]({{ '/ancestors/mcpherson/mary' | relative_url }})
+- Spouse: [Rebecca Crees]({{ '/ancestors/crees/rebecca' | relative_url }})    
+- Child: [John Swindell]({{ '/ancestors/swindell/john' | relative_url }})
+
+
+
+
+
 Timothy Swindell
 
 Ancestor #: 
