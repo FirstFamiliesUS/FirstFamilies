@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Perry Kenner"
+permalink: /ancestors/kenner/perry/
+---
+
+
 The Rev. George Kenner
 
 - Born: 5 Jan 1872  `#1, #3`
