@@ -6,9 +6,7 @@ permalink: /ancestors/kenner/william/
 
 
 
-https://tngs.org/page-1075284
 
-https://tngs.org/page-1075283
 
 NAME: William Kenner
 
@@ -23,9 +21,9 @@ On ancestry.com I am davidkenner1.  I have DNA evidence to prove that my great g
 - Marriage Place:  Hawkins Country, Tennessee    `#9`
 - Died:  1829   `#9` 
 - Burial Place:  unknown
-- Father:  [Midshipman Howson KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/08-Midshipman%20Howson%20KENNER.md)
+- Father:  [Midshipman Howson KENNER](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/midshipman/)
 - Mother:
-- Child:  Rev. [Elias Housen Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Elias%20KENNER.md)
+- Child:  Rev. [Elias Housen Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/elias/)
 
 
 
@@ -39,7 +37,9 @@ SOURCES:
 7. [Sevier Autobiography](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/SevierP529_top.jpg).
 8. [Tidbits in Tennessee](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Tidbits%20in%20Tennnessee.jpg)
 9. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 141
-10. [Mendenhall Family Association](https://www.mendenhall.org/): [I24903](https://www.mendenhall.org/mfa/tng/getperson.php?personID=I24903&tree=MendEuro20260329) 
+10. [Mendenhall Family Association](https://www.mendenhall.org/): [I24903](https://www.mendenhall.org/mfa/tng/getperson.php?personID=I24903&tree=MendEuro20260329)
+11. https://tngs.org/page-1075284
+12. https://tngs.org/page-1075283
 
 
 
