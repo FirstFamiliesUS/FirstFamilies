@@ -4,10 +4,10 @@ title: "The Bower Family"
 permalink: /ancestors/bower/
 ---
 
-- [Annette Bower](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/02-Marie%20Annette%20BOWER.md)
-- [Oscar Lee Bower](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/03-Lee%20BOWER.md)
-- [Edward Lee Bower](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/04-Edward%20BOWER.md)
-- [Benjamin Bower](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/05-Benjamin%20BOWER.md)
-- [PVT Jacob Bower](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/06-Jacob%20BOWER.md)
-- [PVT Andrew Bower](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/07-Andrew%20BOWER.txt)
+- [Annette Bower]({{ '/ancestors/bower/annette' | relative_url }})
+- [Lee Bower]({{ '/ancestors/bower/lee' | relative_url }})
+- [Edward Bower]({{ '/ancestors/bower/edward' | relative_url }})
+- [Benjamin Bower]({{ '/ancestors/bower/benjamin' | relative_url }})
+- [PVT Jacob Bower]({{ '/ancestors/bower/jacob' | relative_url }})
+- [PVT Andrew Bower]({{ '/ancestors/bower/andrew' | relative_url }})
 
