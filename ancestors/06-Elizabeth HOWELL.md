@@ -1,16 +1,27 @@
+---
+layout: single
+title: "Elizabeth Howell"
+permalink: /ancestors/howell/elizabeth/
+---
+
+
+- Father: [John Howell]({{ '/ancestors/howell/john' | relative_url }})
+- Mother: [Charlotte Cook]({{ '/ancestors/cook/charlotte' | relative_url }})
+- Spouse: [Deacon Henry H. Emerson]({{ '/ancestors/emerson/henry' | relative_url }}) `#1, #3, #4, #5, #6, #7`
+- Child: [Susannah Emerson]({{ '/ancestors/emerson/susannah' | relative_url }}) `#4, #5, #6`
+
+
+
 Elizabeth HOWELL EMERSON
 
 - Born: Nov 1825  `#5, #6, #7`
 - Birth Place: Illinois  `#4, #5`
-- Spouse:  [Henry Harvey Emerson](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Henry%20Harvey%20EMERSON.md)  `#1, #3, #4, #5, #6, #7`
 - Marriage Date:  16 March 1843  `#3, #4, #7`
 - Marriage Place: Illinois  `#3`
 - Residence:  Illinois 1843 -1870  `#3, #4, #5`
 - Died: before 1910  `#7`
 - Burial Place:  [ Black Creek Cemetery](https://www.findagrave.com/cemetery/27611/black-creek-cemetery) Poplar Bluff,  Butler County,  Missouri
-- Father: 
-- Mother:
-- Child:  [Susannah Emerson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Susannah%20EMERSON.md)  `#4, #5, #6`
+
 
 
 
