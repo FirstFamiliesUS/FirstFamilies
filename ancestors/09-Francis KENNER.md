@@ -9,13 +9,13 @@ PVT Francis KENNER
 
 - Born: 1734  `#7, #8`
 - Birth Place:  Virginia  `#7`
-- Spouse:  Elizabeth HOWARD  `#7, #8`
 - Marriage Date:
 - Marriage Place:  North Carolina  `#7`
 - Died:   1784  `#7`
 - Death Place:   Watauga, Washington Co., NC, now Carter Co., TN  `#7, #8`
 - Father:  [The Honorable Howson Kenner I]({{ '/ancestors/kenner/howson' | relative_url }})  `#7, #8, #9`
-- Mother:  Margaret Eskridge  `#7, #8, #9`
+- Mother:  [Margaret Eskridge]({{ '/ancestors/eskridge/margaret' | relative_url }})  `#7, #8, #9`
+- Spouse [Elizabeth Howard]({{ '/ancestors/howard/elizabeth' | relative_url }}) `#7, #8`
 - Child:  [Midshipman Howson Kenner]({{ '/ancestors/kenner/midshipman' | relative_url }})  `#7, #8`
 
 
