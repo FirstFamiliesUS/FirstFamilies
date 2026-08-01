@@ -1,39 +1,12 @@
+---
+layout: single
+title: "PVT Marshall Lincoln Pratt"
+permalink: /ancestors/pratt/marshall
+---
+
 Marshall L Pratt
 
-Castro, Anna <anna.castro@nebraska.gov>
-
-Nebraska Secretary of State’s Office
-
-State Capitol Suite 2300
-
-P.O. Box 94608
-
-Lincoln, NE 68509-4608
-
- 
-
-Greetings,
-
- 
-
-I am requesting the Office of the Capitol Commission to fly a United State flag for commemorative purposes on a flag pole located at the Nebraska State Capitol. In honor of my ancestor Marshall Lincoln Pratt.  Before moving to Nebraska he served in Captain Murrays Company Second Regiment Pennsylvania Volunteers. In 1860 he moved his large family to Nebraska City in Otoe County in Nebraska. He was known as farming and vegetables. He died and was buried in Nebraska
-
-ACCOLADES:
-
-- Nebraska First Families Certificate #23-002
- 
-I Priority Mailed you a copy of this letter and enclosed is a standard 3’ x 5’ United States flag. Expected delivery is 
-
-https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Flag%20Flying%20Policy.pdf
-
-David J. Kenner
-
-
-
-Name: Bob Hallstrom  
-Title: State Senator, Nebraska Unicameral  
-District: 1 — District 1 includes Otoe County.
-Email: bhallstrom@leg.ne.gov
+Before moving to Nebraska he served in Captain Murrays Company Second Regiment Pennsylvania Volunteers. In 1860 he moved his large family to Nebraska City in Otoe County in Nebraska. He was known as farming and vegetables. He died and was buried in Nebraska
 
 - Born: 1811  `#1, #3`
 - Birth Place: Massachusetts  `#3`
@@ -42,13 +15,14 @@ Email: bhallstrom@leg.ne.gov
 - Marriage Place:  Illinois  `#3`
 - Died: 6 Mar 1879  `#1`
 - Burial Place:  [Wyuka Cemetery](https://www.findagrave.com/cemetery/101646/wyuka-cemetery) Nebraska City,  Otoe County,  Nebraska
-- Father: 
-- Mother:
-- Child:  [Isabell Pratt](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Isabell%20PRATT.md) `#3`
 - Residence: 9 October, 1838 Michigan-Toledo Strip, Calhoun County, Michagan `#2, #7`
 - Residence: Wisconsin 1 Sept 1849 - 1857  `#5, #2, #6, #8`
 - Military Service: Captain Murrays Company Second Regiment Pennsylvania Volunteers  `#5`
 
+- Father:  [PVT Darius Pratt]({{ '/ancestors/pratt/darius' | relative_url }})  
+- Mother:   [Zilpha Wheeler]({{ '/ancestors/wheeler/zilpha' | relative_url }})  
+- Spouse: [Frederica Thummel]({{ '/ancestors/thummel/frederica' | relative_url }}) 
+- Child:  [Isabell Pratt]({{ '/ancestors/pratt/isabell' | relative_url }})   `#3`
 
 
 SOURCES:
@@ -63,7 +37,7 @@ SOURCES:
 9. [Michigan Deed Sale](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/PRATT_Calhoun%20Deeds%2C%20img452.pdf)
 
 ACCOLADES:
-- Illinios First Families (Pending)
+- Illinois First Families (Pending)
 - Iowa First Families
 - Michigan First Families Pre-Statehood Certificate: #P-0174
 - Nebraska First Families Certificate #23-002
