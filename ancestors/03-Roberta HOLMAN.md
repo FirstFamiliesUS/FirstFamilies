@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Roberta Holman"
+permalink: /ancestors/holman/roberta/
+---
+
+
 Roberta Isabelle Holman
 
 - Born: 30 August 1914  `#2, #3, #4, #6`
@@ -6,10 +13,10 @@ Roberta Isabelle Holman
 - Marriage Place: probably [Beauregard Parish](https://www.familysearch.org/en/wiki/Beauregard_Parish,_Louisiana_Genealogy), [Louisana](https://www.familysearch.org/en/wiki/Louisiana,_United_States_Genealogy)  `#3`
 - Died: 
 - Burial Place:
-- Father:   [Robert Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Robert%20HOLMAN.md)  `#3, #4, #6`
-- Mother:  [Evalyn Frederica Gray](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md)  `#3, #4, #5, #6` 
-- Spouse:  [Oscar Lee Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Lee%20BOWER.md)  `#1, #2, #5`
-- Child:  [Marie Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md)    `#1` 
+- Father:   [Robert Holman]({{ '/ancestors/holman/robert' | relative_url }})  `#3, #4, #6`
+- Mother:  [Evalyn Gray]({{ '/ancestors/gray/Evalyn' | relative_url }})  `#3, #4, #5, #6` 
+- Spouse:  [Lee Bower]({{ '/ancestors/bower/lee' | relative_url }})  `#1, #2, #5`
+- Child:  [Annette Bower]({{ '/ancestors/bower/annette' | relative_url }})    `#1` 
 
 
 
