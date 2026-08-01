@@ -1,15 +1,24 @@
+---
+layout: single
+title: "George W Wilson"
+permalink: /ancestors/wilson/george/
+---
+
+
 George Wilson
 
 - Born: 18 June 1949  `#1, #2`
 - Birth Place: [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)  `#2, #3, #4`
 - Died: 18 June 1848  `#1`
 - Burial:  Bennett Cemetery, Bennett, [Ripley](https://www.familysearch.org/en/wiki/Ripley_County,_Missouri_Genealogy "Ripley County, Missouri Genealogy"), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)  `#1`
-- Spouse:  [Jemima RICHARDSON ](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Jemima%20RICHARDSON.md) `#2, #4`
 - Marriage Date: before 1878  `#3`
 - Marriage Place: [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)  `#4`
-- Child:  [Aulsy J. Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Aulsy%20WILSON.md)  `#3`
-- Father: [William Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/06-William%20WILSON.md)  `#2`
-- Mother: Virginia Periehouse  `#2`
+
+ 
+- Father:  [PVT William Wilson]({{ '/ancestors/wilson/william' | relative_url }})  `#2`
+- Mother:  [Virginia Pevahouse]({{ '/ancestors/pevahouse/virginia' | relative_url }})  `#2`
+- Spouse:  [Jemima Richardson]({{ '/ancestors/richardson/jemima' | relative_url }})  `#2, #4`
+- Child:  [Aulsy Wilson]({{ '/ancestors/wilson/aulsy' | relative_url }}) `#3`
 
 ACCOLADES:
 - Land Grant: [MO4380__.054](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO4380__.054&docClass=STA&sid=tg4ogi5f.na4#patentDetailsTabIndex=0)	(80 acres)
