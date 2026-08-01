@@ -29,6 +29,8 @@ baseurl: "/FirstFamilies"
 logo: "/assets/images/logo.png"
 twitter_username: jekyllrb
 github_username:  jekyll
+og_image: "/assets/images/logo.png"
+
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"

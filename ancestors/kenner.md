@@ -2,7 +2,13 @@
 layout: single
 title: "The Kenner Family"
 permalink: /ancestors/kenner/
+sidebar:
+  nav: "ancestors_sidebar"
+header:
+  image: /assets/images/KFA.jpg
+  og_image: /assets/images/KFA.jpg
 ---
+
 
 Welcome to the Kenner family history page.
 
