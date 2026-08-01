@@ -1,16 +1,26 @@
-NAME
+---
+layout: single
+title: "Elizabeth Lee"
+permalink: /ancestors/lee/elizabeth/
+---
 
+
+- Father: [Colonel Richard Lee]({{ '/ancestors/lee/richard' | relative_url }})
+- Mother: [Anne Constable]({{ '/ancestors/constable/anne' | relative_url }})
+- Spouse: [Capt. Leonard Howson]({{ '/ancestors/howson/leonard' | relative_url }})
+- Child:  [Hannah Howson]({{ '/ancestors/howson/leonard' | relative_url }})
+
+
+NAME
 
 - Born: 
 - Birth Place:
-- Spouse:  The Honorable Capt. Leonard HOWSON
 - Marriage Date:
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father:  [Colonel Richard LEE](https://github.com/davidjkenner/FirstFamilies/blob/main/13-Richard%20LEE.md)
-- Mother:
-- Child:  [Hannah HOWSON](https://github.com/davidjkenner/FirstFamilies/blob/main/11-Hannah%20HOWSON.md)
+
+
 
 
 
