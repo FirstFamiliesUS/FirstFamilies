@@ -1,15 +1,22 @@
+---
+layout: single
+title: "Pratt"
+permalink: /ancestors/pratt/isabell/
+---
+
+
 Isabell Pratt
 
 - Born:  27 Feb 1846  `#1, #2, #4` 
 - Birth Place:  Dixon, Illinois  `#2, #2`
-- Spouse: [Robert Gray II](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Robert%20GRAY.md?plain=1)  `#1, #2`
 - Marriage Date:  13 March 1867  `#2`
 - Marriage Place:  Nebraska  `#2`
 - Died:  29 Jul 1917  `#1, #2` 
 - Burial Place:  [Harvard Cemetery](https://www.findagrave.com/cemetery/1993813/harvard-cemetery), Harvard,  Clay County,  Nebraska  `#1, #2`
-- Father:  [Marshall L Pratt](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Marshall%20L%20PRATT.md)  `#4` 
-- Mother:  Fredericka  `#4`
-- Child:  [Evalyn Frederica Gray](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Evalyn%20Frederica%20GRAY.md)  `#2`
+- Father:  [Marshall L. Pratt]({{ '/ancestors/pratt/marshall' | relative_url }})  `#4` 
+- Mother:   [Frederica Thummel]({{ '/ancestors/thummel/frederica' | relative_url }})  `#4`
+- Spouse: [CPL Robert Gray II]({{ '/ancestors/gray/robert' | relative_url }})  `#1, #2`
+- Child:  [Evalyn Gray]({{ '/ancestors/gray/evalyn' | relative_url }})  `#2`
 
 
 
