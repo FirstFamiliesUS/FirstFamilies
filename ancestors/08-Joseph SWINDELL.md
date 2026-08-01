@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Joseph Swindell"
+permalink: /ancestors/swindell/joseph/
+---
+
 Joseph Swindell
 
 Joseph Swindle was born in the Fort Germanna community in central Virginia. His parents were both from the Germman community. The Germanna people were immigrants in 1714-1717 to central VA. The were all Germans, and spoke German, and their church was Hebron Lutheran Church, in Madison, VA which still exists. All service4s and records were in German. Joseph's parents migrated from central VA through Rockingham Co NC, to their eventual permanent settlement at Boone Co, KY where they both died and are buried. Joseph Swindle's name was spelled as SWINDELL, probably chosen by his children as a prefered form. His wife was Mary BROWN, who was also of a German family line. Died at age 71 years old. Joseph Swindle raised his own large family in Monroe Co Missouri, but also raised my ancestor, Nancy Weaver Swindle, who was sent to him to be raised when she was a teenager. Her father was John Swindle, Jr the brother of Joseph. She came from Ashe Co NC.
@@ -8,10 +14,12 @@ Joseph Swindle was born in the Fort Germanna community in central Virginia. His 
 - Marriage Place:   [Madison County](https://www.familysearch.org/en/wiki/Madison_County,_Virginia_Genealogy), [Virginia](https://www.familysearch.org/en/wiki/Virginia,_United_States_Genealogy)  `#3`
 - Died:  14 Sep 1843  `#1`
 - Burial Place:  [Swindell Cemetery](https://www.findagrave.com/cemetery/31874/swindell-cemetery), [Madison](https://en.wikipedia.org/wiki/Madison,_Missouri),  [Monroe County](https://www.familysearch.org/en/wiki/Monroe_County,_Missouri_Genealogy)  [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)   `#1` 
-- Father:  [John SWINDELL](https://github.com/davidjkenner/FirstFamilies/blob/main/09-John%20Swindell.md)  
-- Mother:  Hannah WEAVER    `#3`
-- Spouse:  [Mary Ann BROWN](https://github.com/davidjkenner/FirstFamilies/blob/main/08-Mary%20Ann%20BROWN.md?plain=1)    `#1`
-- Child:  [Elizabeth SWINDELL](https://github.com/davidjkenner/FirstFamilies/blob/main/07-Elizabeth%20SWINDELL.md)
+
+
+- Father: [John Swindell]({{ '/ancestors/swindell/john' | relative_url }})
+- Mother: [Hannah Weaver]({{ '/ancestors/weaver/hannah' | relative_url }})  `#3`
+- Spouse: [Mary Ann Brown]({{ '/ancestors/brown/mary' | relative_url }})    `#1`
+- Child: [Elizabeth Swindell]({{ '/ancestors/swindell/emily' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [44642652](https://www.findagrave.com/memorial/44642652/joseph-swindell)
