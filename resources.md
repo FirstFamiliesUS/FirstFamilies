@@ -13,7 +13,7 @@ Children:
 - [National Society Children of the American Colonists](https://www.nationalsocietycac.org/)
 
 
-Saints:
+Saints & Blessed:
 - [St. George’s Society](https://www.stgeorgesbalt.org/become-member)
 - [St. Andrew’s Society](https://standrewsociety.org/about-the-program/), [St. Andrew's Society of Baltimore](https://standrewsbaltimore.com/events/), [St Andrews Mid-Maryland](https://sasmm.com/upcoming-events/),  
 - [St. Patrick](https://irishparade.net/the-parade/partners-and-friends/?utm_source=copilot.com) , [Friendly Daughters of St. Patrick](https://www.friendlydaughters.org/events-1) [Emerald Isle Club](https://emeraldisleclub.com/events/)
@@ -57,14 +57,13 @@ Religions:
 - [Fuqua Database](https://homepages.rootsweb.com/~fuqua/Main%20Database/index.htm): 
 - [Clan Gunn](https://cgsna.org/project/chesapeake/):
 - [Haskell Family Association](http://hfa.haskells.net/pdf/members_only.html):
-- Monticello Association
 - Kenner Family Assocation
 - [Society of Lees](http://www.thesocietyoftheleesofva.org/index.php)
 - [Leftwich Historical Association](https://www.leftwich.org/?page_id=56):
 - [Mendenhall Family Association](https://www.mendenhall.org/): 
-- [Soule Kindred](https://tng.soulekindred.org/):
+- Monticello Association
 - National Society of the Washington Family Descendants
-
+- [Soule Kindred](https://tng.soulekindred.org/):
 
 
 Government & Founders:
@@ -103,34 +102,35 @@ ________________________________________________________________________________
 - [Ohio Genealogical Society of Approved List](https://www.ogs.org/wp-content/uploads/2025/06/SBO-2025-Roster-for-Website.pdf?utm_source=copilot.com)
 - [Missouri Approved List](https://mosga.org/upload/files/First_Families_approved_through_March_31%2C_2026_r1.pdf)
 - [Indiana Approved Ancestors](https://indianapioneers.org/ancestors/)
-- [Iowa Approved Ancestors](https://iowagenealogy.org/surname.php) igsresearch@yahoo.com Marj. 
+- [Iowa Approved Ancestors](https://iowagenealogy.org/surname.php)  
 - [Pennsylvania Approved Ancestors](https://genpa.org/first-families-of-pennsylvania/list-of-approved-ancestors/)
-- [Michigan Database](http://data.mimgc.org/PioneerCertificates/FMPro?-db=PioneerCertificates&lay=web&-format=search.htm&-view). Kim Smith ksmith8061@aol.com, Michigan Pioneer Certificate chair
-- [Nebraska Surnames](https://nsgs.org/surname.php) . [Secretary of State](https://capitol.nebraska.gov/building/host-an-event/have-a-flag-flown/). Please contact Sign Solutions of Lincoln, (402)466-1144, for information about purchasing a flag to be flown at the Capitol 
+- [Michigan Database](http://data.mimgc.org/PioneerCertificates/FMPro?-db=PioneerCertificates&lay=web&-format=search.htm&-view). 
+- [Nebraska Surnames](https://nsgs.org/surname.php) . [Secretary of State](https://capitol.nebraska.gov/building/host-an-event/have-a-flag-flown/). 
 - [Oklahoma Surnames](https://okgensoc.org/surname.php?page=1&nr=50&scl=c0a)
-- https://www.dmwv.org/honoring.php#marker  
+- [V. A. Grave Marker](https://www.dmwv.org/honoring.php#marker)
+
 --------------------------------------------------------
 
 - [Missouri Online Death Certificates](https://s1.sos.mo.gov/records/Archives/ArchivesMvc/DeathCertificates)
 - [Missouri Surname](https://mosga.org/cstm_journalIndexSurname.php)
-- [Missouri House of Representatives](https://house.mo.gov/listmembers.aspx?utm_source=copilot.com), [Missouri Senate](https://www.senate.mo.gov/15info/SenateRoster.htm?utm_source=copilot.com). Cindy Theissen sassycat1959@hotmail.com 
--  House Representative Ed Lewis of Maries County, Dylan Robinson <Dylan.Robinson@house.mo.gov>. Butler County Carol Workman Carol.Workman@house.mo.gov. Ripley County [Keith Elliott](https://house.mo.gov/memberdetails.aspx?district=153&year=2026&code=R) Missouri House representative for Ripley County — he serves District 153.
+- [Missouri House of Representatives](https://house.mo.gov/listmembers.aspx?utm_source=copilot.com), [Missouri Senate](https://www.senate.mo.gov/15info/SenateRoster.htm?utm_source=copilot.com).
 - [Otoe County Pioneers](https://ocgsne.org/index.php/research/pioneers)
-- [Johnson County](https://johnsonctyilgenhist.org/), info@johnsonctyilgenhist.org,  [Illinois](https://ilgensoc.org/cpage.php?pt=599). David Oliver oliverdavid553@gmail.com
-- [Illinois Genealogical Society](https://ilgensoc.org/cstm_ILcmbDB.php). [Prairie Patriot Certificates DB](https://ilgensoc.org/cstm_ILcmbDB.php). Vauna Crowder isgsoffice@ilgensoc.org
-- [Ohio](https://www.ogs.org/search-databases/). Sadie Ehrmantraut sehrmantraut@ogs.org
-- [Tennessee](https://tngs.org/TCD). Nancy Yager Smith, certificates@tngs.org , Director of Certificates. [Hawkins County](https://www.familysearch.org/en/wiki/Hawkins_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy) 
 
-- Wisconsin. Virginia Nichols gininichols@charter.net, wsgs@wsgs.org
+- [Illinois Genealogical Society](https://ilgensoc.org/cstm_ILcmbDB.php). [Prairie Patriot Certificates DB](https://ilgensoc.org/cstm_ILcmbDB.php). 
+- [Johnson County](https://johnsonctyilgenhist.org/),   [Illinois](https://ilgensoc.org/cpage.php?pt=599). 
+- [Ohio Genealogical Society](https://www.ogs.org/search-databases/). 
+- [Tennessee Genealogical Society](https://tngs.org/TCD) [Hawkins County](https://www.familysearch.org/en/wiki/Hawkins_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy) 
+- https://tngs.org/page-1075284
+- https://tngs.org/page-1075283
+
+- Wisconsin Genealogical Society
 - [Reunion Certificate](https://wsgs.org/page-1075288) - issued by the WSGS to families holding reunions.
-- PRESIDENTIAL MEMORIAL CERTIFICATES Perry, Doris L. doris.perry@va.gov
+- PRESIDENTIAL MEMORIAL CERTIFICATES 
 - [Maryland Geological Society Surnames](https://www.mdgensoc.org/surname.php): [Frederick County](https://frecogs.org/surname.php), [Allegany County](https://gsacmd.org/surnames/), [Carroll County](https://ccgsmd.org/cpage.php?pt=15), [Harford County](https://www.harfordhistory.org/research/research-by-mail/), [Montgomery County](https://mocogensoc.org/surname.php),  [Odenton Genial](https://odentongg.org/surname.php), [Prince George](https://www.pgcgs.org/cpage.php?pt=7), [St. Mary](https://smcgsi.org/surname-research), [Upper Shore](http://usgsmd.org/pdfs/USGSMD-Surname-Index-of-Family-Research-Volumes.pdf),
 - [Maryland Early Settlers](https://earlysettlers.msa.maryland.gov/):
 - [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/):
 - [Eastern Tennessee](https://www.easttnhistory.org/research/genealogy/tennessee-ancestors/family-search/):
 
-https://tngs.org/page-1075284
 
-https://tngs.org/page-1075283
 
 
