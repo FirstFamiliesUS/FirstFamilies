@@ -20,8 +20,10 @@ Additional References:
 PA Archives, 3rd Series, Vol 21, pg 780
 DAR #261073
 
-Spouse: Barbara Klages
-Children: John; Jacob;
+- Father:  [Michael Bower]({{ '/ancestors/bower/andrew' | relative_url }}) 
+- Mother:  [Anna Stober]({{ '/ancestors/stober/anna' | relative_url }})
+- Spouse:  [Elizabeth Brugh]({{ '/ancestors/brugh/elizabeth' | relative_url }})
+- Child:  [Jacob Bower]({{ '/ancestors/bower/jacob' | relative_url }}) 
 
 Burial:
 Red Mount Church Cemetery (C-0070681)
