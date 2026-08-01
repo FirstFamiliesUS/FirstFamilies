@@ -5,7 +5,7 @@ permalink: /ancestors/kenner/david/
 ---
 
 
-David Kenner
+David J. Kenner
 
 - Born: 17 June 1964  `#1, #2`
 - Birth Place: [Poplar Bluff](https://en.wikipedia.org/wiki/Poplar_Bluff,_Missouri), [Butler County](https://www.familysearch.org/en/wiki/Butler_County,_Missouri_Genealogy), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)    `#1, #2`
@@ -18,7 +18,7 @@ David Kenner
 - [Maryland](https://md1812.org/), [General Society of War of 1812](https://gswar1812.org/), David Kenner National ID #8084, State ID #1046
 - [Sons of Confederate Veterans](https://scv.org/), [Trimble Camp #1836](https://www.mdscv.org/1836/), [Maryland](https://www.mdscv.org/MDSCV.org/Home.html),
 - [Sons of Union Veterans](https://suvcw.org/) , 
-- Pedigree: https://github.com/davidjkenner/FirstFamilies/blob/main/docs/DavidKenner-Pedigree.pdf
+- [Pedigree](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/docs/DavidKenner-Pedigree.pdf)
 
 
 
@@ -30,7 +30,7 @@ SOURCES:
 4. [Jerome Kenner Obituraury: Daily American Republic 11 March 2020](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/DAR-2674770.JPG).
 5. [David Kenner SAR](https://sarpatriots.sar.org/member/display/219515)
 6. [FamilySearch](https://www.familysearch.org/en/search/): ID [LR6S-78B](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B)
-7. Wikitree: https://www.wikitree.com/wiki/Kenner-232
+7. [Wikitree](https://www.wikitree.com/wiki/): [Kenner-232](https://www.wikitree.com/wiki/Kenner-232)
 
 
 
