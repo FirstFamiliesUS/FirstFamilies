@@ -1,3 +1,12 @@
+---
+layout: single
+title: "Howson Kenner"
+permalink: /ancestors/kenner/howson/
+---
+
+
+
+
 NAME
 
 - Born: 1712  `#7`
