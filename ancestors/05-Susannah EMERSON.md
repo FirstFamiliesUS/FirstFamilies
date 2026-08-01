@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Susannah Emerson"
+permalink: /ancestors/emerson/susannah/
+---
+
 Susannah Emerson
 
 - Born: 31 Oct 1850  `#1, #2, #4, #5`
@@ -7,10 +13,14 @@ Susannah Emerson
 - Marriage Place:  Johnson County, Illinois  `#3`
 - Died:  22 Sept 1918  `#1` 
 - Burial Place: probably Poplar Bluff, Butler County, Missouri  `#1` 
-- Father:  Henry Emerson  `#1, #2, #5`
+- Father:  Henry Emerson  
 - Mother:  Elizabeth  `#1, #2, #5`
 - Child:  Martha Staton  `#5`
 
+- Father:  [Deacon Henry H. Emerson]({{ '/ancestors/emerson/henry' | relative_url }})  `#1, #2, #5`
+- Mother:  [Elizabeth Howell]({{ '/ancestors/howell/elizabeth' | relative_url }})   
+- Spouse:  [John Allan Staton]({{ '/ancestors/staton/allan' | relative_url }})  
+- Child:  [Martha Staton]({{ '/ancestors/staton/martha' | relative_url }})  
 
 
 SOURCES:
