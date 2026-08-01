@@ -14,9 +14,9 @@ The Rev. EHC Kenner
 - Burial:  Black Creek Cemetery, Poplar Bluff, Butler County, Missouri   `#5`
 - Spouse:   [Matilda Miller](https://github.com/davidjkenner/FirstFamilies/edit/main/05-Matlida%20MILLER.md)  `#3, #4`    
 - Marriage Date: bedore 1872  `#2`
-- Father:   [Elias Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/elias/)  `#1`
+- Father:   [The Honorable Rev Elias Kenner]({{ '/ancestors/kenner/elias' | relative_url }})  `#1`
 - Mother: [Clarinda Latham](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Clarinda%20LATHAM.md?plain=1)  `#1`
-- Child:  [George Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/george/)  `#2`
+- Child:  [Perry Kenner]({{ '/ancestors/kenner/perry' | relative_url }})  `#2`
 
 SOURCES:
 1. [Year: 1860; Census Place: Dry Creek, Maries, Missouri; Roll: M653_632; Page: 562; Family History Library Film: 803632](https://www.ancestry.com/search/collections/7667/records/40427738?tid=168012819&pid=272180029271&ssrc=pt).
