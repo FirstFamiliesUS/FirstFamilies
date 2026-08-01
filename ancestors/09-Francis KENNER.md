@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Francis Kenner"
+permalink: /ancestors/kenner/francis/
+---
+
+
 PVT Francis KENNER
 
 - Born: 1734  `#7, #8`
