@@ -7,10 +7,12 @@ Jacob Bower
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father: 
-- Mother:
-- Child:
 
+
+- Father:  [PVT Andrew Bower]({{ '/ancestors/bower/andrew' | relative_url }}) 
+- Mother:  [Elizabeth Bechtel]({{ '/ancestors/bechtel/elizabeth' | relative_url }})
+- Spouse:  [Elizabeth Brugh]({{ '/ancestors/brugh/elizabeth' | relative_url }})
+- Child:  [Benjamin Bower]({{ '/ancestors/bower/benjamin' | relative_url }}) 
 
 
 SOURCES:
