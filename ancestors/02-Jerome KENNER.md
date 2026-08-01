@@ -7,20 +7,6 @@ permalink: /ancestors/kenner/jerome/
 
 Petty Officer Jerome Kenner
 
-Good day Mr. Billington,
-
-I would like to inquire into obtaining a courtesy US Flag that has been flown over the State Capitol. This flag to honor my ancestor  US Service Member, member of Law Enforcement or EMS, Teachers, Public Officials or others that have provided a service to the state or nation or in commemoration of a specific event.
-
-
-
-
-
-
-
-
-
-
-
 - Born: 22 April 1933  `#4, #3`
 - Birth Place: Doniphan Missouri `#3`
 - Died: 21 Feb 2020  `#4, #3`
