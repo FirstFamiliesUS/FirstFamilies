@@ -11,10 +11,10 @@ Petty Officer Jerome Kenner
 - Birth Place: Doniphan Missouri `#3`
 - Died: 21 Feb 2020  `#4, #3`
 - Burial:  Poplar Bluff City Cemetery, Poplar Bluff, Butler County, Missouri  `#4`
-- Spouse:  [Marie Annette Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md)  `#2, #3`
+- Spouse:  [Annette Bower]({{ '/ancestors/bower/annette' | relative_url }})  `#2, #3`
 - Marriage Date: 14 June 1955  `#2`
 - Father: [Perry Kenner]({{ '/ancestors/kenner/perry' | relative_url }})    `#2`
-- Mother: [Ina Seymore](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Ina%20SEYMORE.md)  `#3` 
+- Mother: [Ina Seymore]({{ '/ancestors/seymore/ina' | relative_url }})  `#3` 
 - Child: [David Kenner]({{ '/ancestors/kenner/david' | relative_url }})   `#3`
 
 
