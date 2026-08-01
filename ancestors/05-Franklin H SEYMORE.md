@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Jesse Jerome Seymore"
-permalink: /ancestors/Seymore/jerome/
+title: "PVT Franklin H. Seymore"
+permalink: /ancestors/seymore/franklin/
 ---
 
 
