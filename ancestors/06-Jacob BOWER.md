@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Jacob Bower"
+permalink: /ancestors/bower/jacob/
+---
+
+
 Jacob Bower
 
 - Born: 
