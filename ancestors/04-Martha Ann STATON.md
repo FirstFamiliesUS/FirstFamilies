@@ -1,15 +1,21 @@
+---
+layout: single
+title: "Martha Staton"
+permalink: /ancestors/staton/martha/
+---
+
 Martha Ann Staton
 
 - Born: 25 Aug. 1870  `#1, #3, #4, #5, #6`
 - Birth Place: Missouri  `#4`
-- Spouse:  [George Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/04-George%20KENNER.md)  `#3, #5, #7`
 - Marriage Date:  20 Sep 1890  `#3, #5`
 - Marriage Place:  Butler County, Missouri  `#3`
 - Died: 20 Dec. 1972  `#1, $6`  
 - Burial Place:    [Shirley Cemetery](https://www.findagrave.com/cemetery/31568/shirley-cemetery) Briar,  Ripley County,  Missouri,    `#1, #6`
-- Father:  [John Allan Staton](https://github.com/davidjkenner/FirstFamilies/blob/main/05-John%20Allan%20STATON.md)  `#6` 
-- Mother:  [Susannah Emerson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Susannah%20EMERSON.md)  `#4, $6`
-- Child:  [Perry Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Perry%20KENNER.md)  `#5, #6`
+- Father:  [John Allan Staton]({{ '/ancestors/staton/allan' | relative_url }})  `#6` 
+- Mother:  [Martha Liles]({{ '/ancestors/liles/martha' | relative_url }})  `#4, $6`
+- Spouse:  [Rev. George Kenner]({{ '/ancestors/kenner/george' | relative_url }})  `#3, #5, #7`
+- Child:  [Perry Kenner]({{ '/ancestors/kenner/perry' | relative_url }})  `#5, #6`
 
 
 
