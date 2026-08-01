@@ -4,6 +4,8 @@ title: "Jerome Kenner"
 permalink: /ancestors/kenner/jerome/
 ---
 
+![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
+
 
 Petty Officer Jerome Kenner
 
