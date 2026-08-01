@@ -1,16 +1,24 @@
+---
+layout: single
+title: "Elizabeth Chase"
+permalink: /ancestors/chase/elizabeth/
+---
 
-Elizabeth CHASE PARKER
+
+Elizabeth CHASE
 
 - Born: 1802  `#1, #2, #4`  
 - Birth Place:  New York  `#2, #4`
 - Died:   2 Nov 1864  `#1`
 - Burial:  Oakwood-Mount Pleasant Cemetery, Oakwood, Oakland County, Michigan  `#1`
-- Spouse:  [Lyman Parker](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Lyman%20PARKER.md)  `#1, #2, #3, #4, #5`
+
 - Marriage Date: before 1832 `#2`
 - Marriage Place: probably Ohio `#2`
-- Child:  [Hannah Parker](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Hannah%20PARKER.md)   `#2`
-- Father:  
-- Mother:
+- Father:  [Christopher Chase]({{ '/ancestors/chase/christopher' | relative_url }})
+- Mother:  [Elizabeth Nichols]({{ '/ancestors/nichols/elizabeth' | relative_url }})
+- Spouse:  [PVT Lyman Parker]({{ '/ancestors/parker/lyman' | relative_url }})  `#1, #2, #3, #4, #5`
+- Child:  [Hannah Parker]({{ '/ancestors/parker/hannah' | relative_url }})    `#2`
+
 - Residence: Lived in Ohio 1832 to 1834 where her 2 sons Baruch and Johnathan were born.  `#2, #4`
 - Residence: Living in Michigan 1850 - 1864  `#1, #2, #4`
 
