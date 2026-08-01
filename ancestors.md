@@ -56,3 +56,4 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 
 ## [Wilson]({{ '/ancestors/wilson/' | relative_url }})
 
+## [Wolfe]({{ '/ancestors/wolfe/' | relative_url }})
