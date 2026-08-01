@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Perry Kenner"
-permalink: /ancestors/kenner/perry/
+title: "George Kenner"
+permalink: /ancestors/kenner/george/
 ---
 
 
@@ -13,9 +13,9 @@ The Rev. George Kenner
 - Burial:  Shirley Cemetery, Briar, Ripley County, Missouri  `#4`
 - Spouse:   [Martha Staton](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Martha%20Ann%20STATON.md) `#2, #3`
 - Marriage Date: before 1892  `#2`
-- Child:  [Perry Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Perry%20KENNER.md)  `#2`
-- Father:   [EHC Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/05-EHC%20KENNER.md)  `#1, #3`
+- Father:   [EHC Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/ehc/)  `#1, #3`
 - Mother: [Matilda Miller](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Matlida%20Miller.md)  `#1, #3`
+- Child:  [Perry Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/perry/)  `#2`
 
 
 
