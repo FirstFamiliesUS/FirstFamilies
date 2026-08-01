@@ -4,5 +4,5 @@ title: "Emerson"
 permalink: /ancestors/emerson/
 ---
 
-- [Susannah Emerson](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/05-Susannah%20EMERSON.md)
-- [Henry H. Emerson](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/06-Henry%20Harvey%20EMERSON.md)
+- [Susannah Emerson]({{ '/ancestors/emerson/susannah' | relative_url }})
+- [Deacon Henry H. Emerson]({{ '/ancestors/emerson/henry' | relative_url }})
