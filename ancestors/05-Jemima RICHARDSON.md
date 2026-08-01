@@ -1,16 +1,22 @@
+---
+layout: single
+title: "Richardson"
+permalink: /ancestors/richardson/jemima/
+---
+
 Jemima Richardson
 
 - Born: 14 Feb 1859  `#2, #5`
 - Birth Place: [Linden](https://en.wikipedia.org/wiki/Linden,_Tennessee), [Perry County](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)  `#2, #5`
 - Died: 31 July 1924  `#2`
 - Burial:   [Bennett Cemetery](https://www.findagrave.com/cemetery/27545/bennett-cemetery), [Bennett](https://en.wikipedia.org/wiki/Bennett,_Missouri), [Ripley](https://www.familysearch.org/en/wiki/Ripley_County,_Missouri_Genealogy "Ripley County, Missouri Genealogy"), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy") `#1`
-- Spouse:  [George W. Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-George%20WILSON.md) `#4`
+
 - Marriage Date: before 1878  `#3`
-- Child:  [Aulsy Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Aulsy%20WILSON.md)
-- Father: [William A Richardson](https://github.com/davidjkenner/FirstFamilies/blob/main/06-William%20RICHARDSON.md)  `#2, #5`
-- Mother: Jane Childers  `#2`
 
-
+- Father: [William Richardson]({{ '/ancestors/richardson/william' | relative_url }})  `#2, #5`
+- Mother: [Martha Childers]({{ '/ancestors/childers/martha' | relative_url }})  `#2`
+- Spouse:  [George W. Wilson]({{ '/ancestors/wilson/george' | relative_url }}) `#4`
+- Child:  [Aulsy Wilson]({{ '/ancestors/wilson/aulsy' | relative_url }})
 
 
 SOURCES:
