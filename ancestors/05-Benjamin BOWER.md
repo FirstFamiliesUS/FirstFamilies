@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Benjamin Bower"
+permalink: /ancestors/bower/benjamin/
+---
+
+
 https://sarpatriots.sar.org/application/display/227819
 
 - Father:  [PVT Jacob Bower]({{ '/ancestors/bower/jacob' | relative_url }}) 
