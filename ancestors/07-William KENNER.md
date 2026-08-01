@@ -22,7 +22,8 @@ DNA evidence proves Elias Housen Kenner (1807 - 1897) is the son of William (Bil
 - Died:  1829   `#9` 
 - Burial Place:  unknown
 - Father:  [Midshipman Howson Kenner]({{ '/ancestors/kenner/midshipman' | relative_url }})
-- Mother:
+- Mother: [Lucy Callahan]({{ '/ancestors/callahan/lucy' | relative_url }})
+- Spouse:  [Elizabeth Mendenhall]({{ '/ancestors/mendenhall/elizabeth' | relative_url }})
 - Child:  [The Honorable Rev. Elais Kenner]({{ '/ancestors/kenner/elias' | relative_url }})
 
 
