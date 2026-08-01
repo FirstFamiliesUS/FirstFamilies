@@ -16,9 +16,9 @@ NAME
 - Marriage Place
 - Died:   29 June 1824  `#7, #8`
 - Burial Place:  Howson County, Tennessee  `#7`
-- Father:  [PVT Francis KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/09-Francis%20KENNER.md)  `#8`
+- Father:  [PVT Francis KENNER](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/francis/)  `#8`
 - Mother:  Elizabeth Howard  `#8`
-- Child:  [William (Billie) KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/07-William%20KENNER.md)
+- Child:  [William (Billie) KENNER](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/william/)
 
 
 
