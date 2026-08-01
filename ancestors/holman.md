@@ -4,6 +4,6 @@ title: "Holman"
 permalink: /ancestors/holman/
 ---
 
-- [Roberta Holman](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/03-Roberta%20HOLMAN.md)
-- [Robert Holman](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/04-Robert%20HOLMAN.md)
-- [Robert S. Holman](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/05-Robert%20S%20HOLMAN.md)
+- [Roberta Holman]({{ '/ancestors/homan/roberta' | relative_url }})
+- [Robert Holman]({{ '/ancestors/homan/robert' | relative_url }})
+- [Robert S. Holman]({{ '/ancestors/homan/roberts' | relative_url }})
