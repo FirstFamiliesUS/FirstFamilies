@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Edward Bower"
+permalink: /ancestors/bower/edward/
+---
+
 https://sarpatriots.sar.org/application/display/227819
 
 - Father:  [Benjamin Bower]({{ '/ancestors/bower/benjamin' | relative_url }}) 
