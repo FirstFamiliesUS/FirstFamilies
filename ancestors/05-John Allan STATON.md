@@ -1,19 +1,24 @@
+---
+layout: single
+title: "John Allan Staton"
+permalink: /ancestors/staton/allan/
+---
+
 John Allan STATON
 
 John Allan Staton died before 1880. His wife Susannah Emerson Staton and daughter Martha A. Staton are living with his father-in-law Henry H Emerson. His grave is unknown but most likely in an unmarked grave in Black Creek Baptist Church in Beaver Dam, Missouri. 
 
 - Born:  1849  `#1, #2` 
-- Birth Place:  Kentucky  `#1, #2`
-- Spouse:  [Susanna Emerson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Susannah%20EMERSON.md)   `#2, #3, #4`
+- Birth Place:  Kentucky  `#1, #2`  
 - Marriage Date:  18 Sept 1869  `#2, #3`
 - Marriage Place:  Johnson County, Illinois  `#3`
 - Died: before 1880  `#4` 
 - Burial Place:  
-- Father: Charles Staton  `#1`
-- Mother:  Martha A Staton  `#1`
-- Child: [Martha Staton](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Martha%20Ann%20STATON.md)  `#4, #5`
 
-
+- Father:  [PVT Charles Staton]({{ '/ancestors/staton/charles' | relative_url }})  `#1`
+- Mother:  [Martha Liles]({{ '/ancestors/liles/martha' | relative_url }})  `#1`
+- Spouse:  [Susannah Emerson]({{ '/ancestors/emerson/susannah' | relative_url }})  `#2, #3, #4`
+- Child:  [Martha Staton]({{ '/ancestors/staton/martha' | relative_url }})  `#4, #5`
 
 SOURCES:
 
