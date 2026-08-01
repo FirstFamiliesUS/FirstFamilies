@@ -11,13 +11,13 @@ NAME
 
 - Born: 1712  `#7`
 - Birth Place:
-- Spouse:  Margaret Eskridge  `#7, #8`
 - Marriage Date:
 - Marriage Place
 - Died: 1778
 - Burial Place:  
-- Father: Capt Francis Kenner  `#7`
+- Father: Capt. Francis Kenner I  [Capt Francis Kenner]({{ '/ancestors/kenner/francis1' | relative_url }})  `#7`
 - Mother:  [Hannah Howson](https://github.com/davidjkenner/FirstFamilies/blob/main/11-Hannah%20HOWSON.md)  `#7`
+- Spouse:   [Margaret Eskridge]({{ '/ancestors/eskridge/margaret' | relative_url }})  `#7, #8`
 - Child: [PVT Francis Kenner]({{ '/ancestors/kenner/francis' | relative_url }}) `#8`
 
 
