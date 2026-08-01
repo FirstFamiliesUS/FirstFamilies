@@ -1,15 +1,25 @@
+---
+layout: single
+title: "Colonel Richard Lee"
+permalink: /ancestors/lee/elizabeth/
+---
+
+
+- Father: [Richard Lee]({{ '/ancestors/lee/richard1' | relative_url }})
+- Mother: 
+- Spouse: [Anne Constable]({{ '/ancestors/constable/anne' | relative_url }})
+- Child:  [Elizabeth Lee]({{ '/ancestors/lee/elizabeth' | relative_url }})
+
+
 NAME
 
 - Born: 
 - Birth Place:
-- Spouse: Anne Constable
 - Marriage Date:
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father: 
-- Mother:
-- Child: [Elizabeth Lee](https://github.com/davidjkenner/FirstFamilies/blob/main/12-Elizabeth%20LEE.md)
+
 
 
 
