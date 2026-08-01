@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Andrew Bower"
+permalink: /ancestors/bower/andrew/
+---
+
+
 https://sarpatriots.sar.org/patriot/display/343806
 
 Application Info
