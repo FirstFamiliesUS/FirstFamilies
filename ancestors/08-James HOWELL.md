@@ -1,9 +1,18 @@
+---
+layout: single
+title: "PVT James Howell"
+permalink: /ancestors/howell/james/
+---
+
+
+- Father: [Edward Howell]({{ '/ancestors/howell/dward' | relative_url }})
+- Mother: 
+- Spouse: [Martha Denney]({{ '/ancestors/denney/martha' | relative_url }})
+- Child: [John Howell]({{ '/ancestors/howell/john' | relative_url }})
+
+
 PVT James HOWELL
 
-Representative Ed Lewis 
-
-
-— email: Ed.Lewis@house.mo.gov
 
 James served with the Pulaski Legion Continental Army Troops. Recognized as a Revolutionary War patriot by NSDAR A058534 and NSSAR P-186392. 
 
