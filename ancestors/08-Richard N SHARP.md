@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Rev. Richard N. Sharp"
+permalink: /ancestors/sharp/richard/
+---
+
 Circuit Rider Rev. Richard N Sharp
 
 Born Albemarle County VA, May 1, 1787. Joined Methodist Church Nov. 8, 1805. Licensed to preach, ordained deacon Feb. 23, 1812. Ordained elder, fall of 1818. Both times he was ordained by Bishop Francis Ashbury, the first Methodist bishop. In the fall of 1831,  Rev. Sharp moved to Missouri. He was awarded multiple landgrants in Missouri. On this land he built Sharpsburg, Missouri. The first post office was in the home of Richard Sharp and he served as post master until his death in 1850. He built Sharpsburg Methodist Church. It was part of a church circuit with Rev. Sharp preaching at Sharpsburg the 1st Sunday of the month, Deer Creek, 2nd, Black Creek 3rd, and James Sharp’s home, 4th. Rev. Sharp died in 1850 and is buried at Sharpsburg Cemetery. 
@@ -11,10 +17,11 @@ Rev. Richard Sharp Death reported in The Nashville Christian Advocate of the M.E
 - Marriage Place: 
 - Died:  4 Feb 1850  `#1`
 - Burial Place:  [Sharpsburg Cemetery](https://www.findagrave.com/cemetery/31525/sharpsburg-cemetery), [Marion County](https://www.familysearch.org/en/wiki/Marion_County,_Missouri_Genealogy),  [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)  `#1`
-- Father: [Robert Sharp](https://github.com/davidjkenner/FirstFamilies/blob/main/09-Robert%20SHARP.md)
-- Mother:
-- Child: [James A. Sharp](https://github.com/davidjkenner/FirstFamilies/blob/main/07-James%20Ansen%20SHARP.md)
 
+- Father: [Capt. Robert Sharp]({{ '/ancestors/sharp/obert' | relative_url }})
+- Mother: [Nancy Harris]({{ '/ancestors/harris/nancy' | relative_url }})
+- Spouse: [Nancy Rowe]({{ '/ancestors/rowe/nancy' | relative_url }})
+- Child:  [James Anson Sharp]({{ '/ancestors/sharp/james' | relative_url }})
 
 
 SOURCES:
