@@ -1,26 +1,26 @@
+---
+layout: single
+title: "PVT William Wilson"
+permalink: /ancestors/wilson/william/
+---
+
 PVT William Wilson
 
-I am a Military Spouse and an active public servant in the Department of Defense at Fort Meade Maryland.  I would like to inquire into obtaining a courtesy state Flag that has been flown over the State Capitol in honor of my ancestor  
-
-Yes, a Missouri flag, a certificate from the Governor, and a certificate from your office would be great.  The mailing address is 6003 Pouring Glories Way, Clarksville, MD 21029
-
-Thank you and have a blessed day
-David J. Kenner
-6003 Pouring Glories Way, Clarksville, MD 21029
-667-678-0854
 
 - Born: 1824  `#3`
 - Birth Place:  North Carolina  `#3`
-- Spouse:  [Virginia Periehouse](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Virginia%20PERIEHOUSE.md)   `#1, #3`
 - Marriage Date: before 1847  `#3`
 - Marriage Place: probably Tennessee  `#3`
 - Died: after 1860  `#3`  
 - Burial Place:  
-- Father: 
-- Mother:
-- Child:  [George W. Wilson](https://github.com/davidjkenner/FirstFamilies/blob/main/05-George%20WILSON.md)  `#1, #3`
 - Military Service: Battle Unit Name: [33rd Regiment, North Carolina Infantry](https://www.nps.gov/civilwar/search-battle-units-detail.htm?battleUnitCode=CNC0033RI)  Company: D
 - Residence:  In Tennessee since 1840 Census
+
+- Father:  [PVT Andrew Jackson Wilson]({{ '/ancestors/andrew/william' | relative_url }})  
+- Mother:  [Elizabeth McQueen]({{ '/ancestors/mcqueen/elizabeth' | relative_url }}) 
+- Spouse:  [Virginia Pevahouse]({{ '/ancestors/pevahouse/virginia' | relative_url }})   `#1, #3`
+- Child:  [George W. Wilson]({{ '/ancestors/wilson/george' | relative_url }})  `#1, #3`
+
 
 
 SOURCES:
