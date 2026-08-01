@@ -11,13 +11,17 @@ Here we will detail the lineage, historical documents, and stories of the Kenner
 ![Kenner Family Association]({{ '/assets/images/KFA.jpg' | relative_url }})
 
 
-- [David Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/david/)
-- [Jerome Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/jerome/)
-- [Perry Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/perry/)
-- [Rev. George T. Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/george/)
-- [Rev. E.H.C. Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/ehc/)
-- [The Honorable Elias H. Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/elias/)
-- [William (Billie) Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/william/)
-- [Midshipman Howson Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/midshipman/)
-- [PVT. Francis Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/francis/)
-- [The Honorable Major Howson Kenner I](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/howson/)
+- [David Kenner]({{ '/ancestors/kenner/david' | relative_url }})
+- [Jerome Kenner]({{ '/ancestors/kenner/jerome' | relative_url }})
+- [Perry Kenner]({{ '/ancestors/kenner/perry' | relative_url }})
+- [George Kenner]({{ '/ancestors/kenner/george' | relative_url }})
+- [Rev EHC Kenner]({{ '/ancestors/kenner/ehc' | relative_url }})
+- [The Honorable Rev. Elias Kenner]({{ '/ancestors/kenner/elias' | relative_url }})
+- [William Kenner]({{ '/ancestors/kenner/willia,' | relative_url }})
+- [Midshipman Howson Kenner]({{ '/ancestors/kenner/midshipman' | relative_url }})
+- [PVT. Francis Kenner]({{ '/ancestors/kenner/francis' | relative_url }})
+- [The Honorable Major Howson Kenner I]({{ '/ancestors/kenner/howson' | relative_url }})
+
+
+
+Kenner Family Association
