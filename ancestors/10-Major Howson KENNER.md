@@ -18,7 +18,7 @@ NAME
 - Burial Place:  
 - Father: Capt Francis Kenner  `#7`
 - Mother:  [Hannah Howson](https://github.com/davidjkenner/FirstFamilies/blob/main/11-Hannah%20HOWSON.md)  `#7`
-- Child: [PVT Francis KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/09-Francis%20KENNER.md), `#8`
+- Child: [PVT Francis KENNER](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/francis/), `#8`
 
 
 
