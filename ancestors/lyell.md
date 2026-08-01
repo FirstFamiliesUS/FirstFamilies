@@ -4,5 +4,6 @@ title: "Lyell"
 permalink: /ancestors/lyell/
 ---
 
-- [Mary Lyell](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/05-Mary%20LYELL.md)
-- [John Lyell](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/06-John%20LYELL.md)
+- [Mary Lyell]({{ '/ancestors/lyell/mary' | relative_url }})
+- [John Lyell]({{ '/ancestors/lyell/john' | relative_url }})
+
