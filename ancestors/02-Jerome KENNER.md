@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Jerome Kenner"
+permalink: /ancestors/kenner/jerome/
+---
+
+
 Petty Officer Jerome Kenner
 
 Good day Mr. Billington,
