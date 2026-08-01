@@ -10,14 +10,14 @@ NAME
 
 
 - Born:  1757  `#7, #8` 
-- Birth Place:
-- Spouse:  Lucy Callahan  `#7, #8`
+- Birth Place:  
 - Marriage Date:  1787  `#7`
 - Marriage Place
 - Died:   29 June 1824  `#7, #8`
 - Burial Place:  Howson County, Tennessee  `#7`
 - Father:  [PVT Francis Kenner]({{ '/ancestors/kenner/francis' | relative_url }})  `#8`
-- Mother:  Elizabeth Howard  `#8`
+- Mother:  [Elizabeth Howard]({{ '/ancestors/howard/elizabeth' | relative_url }})  `#8`
+- Spouse: [Lucy Callahan]({{ '/ancestors/callahan/lucy' | relative_url }})  `#7, #8`
 - Child:  [William Kenner]({{ '/ancestors/kenner/william' | relative_url }})
 
 
