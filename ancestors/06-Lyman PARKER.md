@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Parker"
+permalink: /ancestors/parker/lyman/
+---
+
+
 
 SGT Lyman Parker
 
@@ -5,15 +12,18 @@ SGT Lyman Parker
 - Birth Place: New York  `#2, #5` 
 - Died: 13 Nov 1880  `#1`
 - Burial:  Oakwood-Mount Pleasant Cemetery, Oakwood, Oakland County, Michigan  `#1`
-- Spouse:  [Elizabeth Chase](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Elizabeth%20CHASE.md) `#2, #5, #4, #6`
+
 - Marriage Date: before 1832 `#2`
 - Marriage Place: probably Ohio `#2`
-- Child:  [Hannah Parker](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Hannah%20PARKER.md)   `#2`
+
 - Father:  Barak Parker  `#6`
 - Mother:
 - Residence: Lived in Ohio 1832 to 1834 where his 2 sons Baruch and Johnathan were born.  `#2`
 
-
+- Father: [PVT Lyman Parker]({{ '/ancestors/parker/lyman' | relative_url }})  
+- Mother:  [Lowly Barker]({{ '/ancestors/barker/lowly' | relative_url }})   
+- Spouse:  [Elizabeth Chase]({{ '/ancestors/chase/elizabeth' | relative_url }})   `#2, #5, #4, #6`
+- Child:  [Hannah Parker]({{ '/ancestors/parker/hannah' | relative_url }})  `#2`
 
 
 
