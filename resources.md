@@ -129,5 +129,8 @@ ________________________________________________________________________________
 - [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/):
 - [Eastern Tennessee](https://www.easttnhistory.org/research/genealogy/tennessee-ancestors/family-search/):
 
+https://tngs.org/page-1075284
+
+https://tngs.org/page-1075283
 
 
