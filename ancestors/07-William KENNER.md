@@ -1,3 +1,11 @@
+---
+layout: single
+title: "William Kenner"
+permalink: /ancestors/kenner/william/
+---
+
+
+
 https://tngs.org/page-1075284
 
 https://tngs.org/page-1075283
