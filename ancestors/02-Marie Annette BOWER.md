@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Annette Bower"
+permalink: /ancestors/bower/annette/
+---
+
+
 Marie Annette Bower
 
 - Born: 8 Aug 1936  `#1, #2, #3`
