@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Miller"
+permalink: /ancestors/miller/isaac/
+---
+
+
 PVT Isaac Miller
 
 PVT Isaac Miller was born in Gasconade, Missouri in 1820 - before Missouri became a state!  Both him and his son served in the Osage County Regiment, Missouri Home Guard during the Civil War. He died during the War and is buried Jefferson Barracks National Cemetery.
@@ -9,12 +16,15 @@ PVT Isaac Miller was born in Gasconade, Missouri in 1820 - before Missouri becam
 - Marriage Place: Missouri  `#3`
 - Died: 
 - Burial Place:  Jefferson Barracks National Cemetery  `#5`
-- Father: James Miller
-- Mother:
-- Child:  Matilda Narcissa Miller
+
 - Residence: [Gasconade](https://en.wikipedia.org/wiki/Gasconade,_Missouri), [Gasconade County](https://www.familysearch.org/en/wiki/Gasconade_County,_Missouri_Genealogy), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)  `#4`
 - Military Service: [Osage County](https://www.familysearch.org/en/wiki/Osage_County,_Missouri_Genealogy) Home Gd Infantry Regiment [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)  `#6`
 
+
+- Father:   [James Miller]({{ '/ancestors/miller/james' | relative_url }})
+- Mother:  [Mary Oliver]({{ '/ancestors/oliver/mary' | relative_url }}) 
+- Spouse:  [Elizabeth Wolfe]({{ '/ancestors/wolfe/elizabeth' | relative_url }})  
+- Child:  [Matilda Miller]({{ '/ancestors/miller/matilda' | relative_url }})  
 
 
 SOURCES:
@@ -26,8 +36,7 @@ SOURCES:
 6. [Osage Co Home Gd Infantry Regiment Missouri](https://www.ancestry.com/search/collections/3866/records/4265?tid=168012819&pid=272453545321&ssrc=pt)
 7. Wikitree: [Miller-86710](https://www.wikitree.com/wiki/Miller-86710)
 8. [NPS Record](https://www.nps.gov/civilwar/search-soldiers-detail.htm?soldierId=E56704BB-DC7A-DF11-BF36-B8AC6F5D926A)
-9. 
-10. 
+
 
 
 ACCOLADES:
