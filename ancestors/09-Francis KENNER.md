@@ -14,9 +14,9 @@ PVT Francis KENNER
 - Marriage Place:  North Carolina  `#7`
 - Died:   1784  `#7`
 - Death Place:   Watauga, Washington Co., NC, now Carter Co., TN  `#7, #8`
-- Father:  [The Honorable Major Howson Kenner I](https://github.com/davidjkenner/FirstFamilies/blob/main/10-Major%20Howson%20KENNER.md)  `#7, #8, #9`
+- Father:  [The Honorable Major Howson Kenner I](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/howson/)  `#7, #8, #9`
 - Mother:  Margaret Eskridge  `#7, #8, #9`
-- Child:  [Midshipman Howson KENNER](https://github.com/davidjkenner/FirstFamilies/blob/main/08-Midshipman%20Howson%20KENNER.md)  `#7, #8`
+- Child:  [Midshipman Howson KENNER](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/midshipman/)  `#7, #8`
 
 
 
