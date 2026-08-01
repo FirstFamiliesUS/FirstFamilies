@@ -1,3 +1,11 @@
+---
+layout: single
+title: "Perry Kenner"
+permalink: /ancestors/kenner/perry/
+---
+
+
+
 Perry Kenner
 
 - Born: Nov 1895  `#1`
