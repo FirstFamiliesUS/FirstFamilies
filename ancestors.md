@@ -30,6 +30,8 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 
 ## [Latham]({{ '/ancestors/latham/' | relative_url }})
 
+## [Lee]({{ '/ancestors/lee/' | relative_url }})
+
 ## [Lyell]({{ '/ancestors/lyell/' | relative_url }})
 
 ## [Miller]({{ '/ancestors/miller/' | relative_url }})
