@@ -1,3 +1,17 @@
+---
+layout: single
+title: "John Howell"
+permalink: /ancestors/howell/john/
+---
+
+
+- Father: [PVT James Howell]({{ '/ancestors/howell/james' | relative_url }})
+- Mother: [Martha Denney]({{ '/ancestors/denney/martha' | relative_url }})
+- Spouse: [Charlotte Cook]({{ '/ancestors/cook/charlotte' | relative_url }})
+- Child: [Elizabeth Howell]({{ '/ancestors/howell/elizabeth' | relative_url }})
+
+
+
 NAME
 
 - Born:  1792  `#3, #4, #5, #6, #7`
