@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Latham"
+permalink: /ancestors/latham/clarinda/
+---
+
+
 Clarinda Latham Kenner
 
 
@@ -5,9 +12,11 @@ Clarinda Latham Kenner
 - Birth Place:  Tennessee                                                `#1, #2`
 - Died:  28 Dec 1896                                                     `#3`
 - Burial:  Macedonia Cemetery, Warm Stprings, Randolph County, Arkansas  `#3`
-- Spouse: [Elias Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/06-Elias%20KENNER.md)        `#2`
 - Marriage Date: before 1844      `#1`
-- Child:  [Elias Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/05-EHC%20KENNER.md)                                                   `#1, #2`            
+- Father: [James Latham]({{ '/ancestors/latham/james' | relative_url }})
+- Mother: [Lucrita Brakefield]({{ '/ancestors/brakefield/lucrita' | relative_url }})
+- Spouse: [The Honorable Rev. Elias Kenner]({{ '/ancestors/kenner/elias' | relative_url }})        `#2`
+- Child:  [Rev. EHC Kenner]({{ '/ancestors/kenner/ehc' | relative_url }})       `#1, #2`            
 
 
 SOURCES
