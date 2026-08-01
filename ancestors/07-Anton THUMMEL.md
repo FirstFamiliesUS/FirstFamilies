@@ -1,3 +1,15 @@
+---
+layout: single
+title: "Anton Thummel"
+permalink: /ancestors/thummel/anton/
+---
+
+
+- Father: [Gerhardt Thummel]({{ '/ancestors/thummel/gerhardt' | relative_url }})
+- Mother: [Margaretta Meyer]({{ '/ancestors/meyer/margaretta' | relative_url }})
+- Spouse: [Helen Klosterman]({{ '/ancestors/klosterman/helen' | relative_url }})
+- Child: [Frederica thummel]({{ '/ancestors/thummel/frederica' | relative_url }})
+
 
 
 - [Year: 1850; Census Place: Palmyra, Lee, Illinois; Roll: 116; Page: 79A](https://www.ancestry.com/search/collections/8054/records/16366504?tid=168012819&pid=272180027485&ssrc=pt)
