@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Elias Kenner"
+permalink: /ancestors/kenner/elias/
+---
+
+
 The Honorable Rev. Elias Housen Kenner
 
 He was Justice of the Peace for Maries County, MO. where he founded Kenner Methodist Church, Kenner Cemetary, Kenner School and has been certified by the state as a Missouri Pioneer.   Met with financial reverses in the 1870's and moved to [Union](https://en.wikipedia.org/wiki/Union_Township,_Ripley_County,_Missouri), [Ripley County](https://www.familysearch.org/en/wiki/Ripley_County,_Missouri_Genealogy), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy). He was a Ripley County Pioneer. He is listed on the Personal Tax List 1873 & 1877 are the earliest found for Ripley County. 1880 Federal Census for Ripley County, Missouri lists him as age 63 and blind. For generations of Kenners came from Ripley County. My great grandfather Rev. George Kenner lived in Briar and is buried there. Both my grandfather Perry and my father Jerome were born in Doniphan. 
