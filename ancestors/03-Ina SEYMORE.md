@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Ina Seymore"
-permalink: /ancestors/Seymore/ina/
+permalink: /ancestors/seymore/ina/
 ---
 
 - Father:   [Jesse Jerome Seymore]({{ '/ancestors/seymore/jerome' | relative_url }})  
