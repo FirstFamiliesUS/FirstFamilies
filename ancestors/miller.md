@@ -4,5 +4,6 @@ title: "Miller"
 permalink: /ancestors/miller/
 ---
 
-- [Matilda Miller](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/05-Matlida%20MILLER.md)
-- [PVT Isaac Miller](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/ancestors/06-Isaac%20MILLER.md)
+- [Matilda Miller]({{ '/ancestors/miller/matilda' | relative_url }})
+- [PVT Isaac Miller]({{ '/ancestors/miller/isaac' | relative_url }})
+
