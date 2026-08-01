@@ -12,16 +12,14 @@ Perry Kenner
 - Birth Place: Missouri  `#1`
 - Died: 19 June 1991  `#3`
 - Burial:  Poplar Bluff City Cemetery, Poplar Bluff, Butler County, Missouri  `#4`
-- Spouse:  [Ina Seymore](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Ina%20SEYMORE.md) `#3` 
 - Marriage Date: before 1930  `#5`
 - Father:   [Rev. Geroge Kenner]({{ '/ancestors/kenner/george' | relative_url }})  `#1, #3`
-- Mother:  [Martha Ann Staton](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Martha%20Ann%20STATON.md)  `#1, #3`
+- Mother:  [Martha Staton]({{ '/ancestors/staton/martha' | relative_url }})   `#1, #3`
+- Spouse:  [Ina Seymore]({{ '/ancestors/seymore/ina' | relative_url }})  `#3` 
 - Child:  [Jerome Kenner]({{ '/ancestors/kenner/jerome' | relative_url }}) `#2`
 
 
 SOURCES:
-
-
 
 1. [1900; Census Place: Kelly, Carter, Missouri; Page: 3; Enumeration District: 0036; FHL microfilm: 1240845](https://www.ancestry.com/search/collections/7602/records/29056288?tid=168012819&pid=272180029400&ssrc=pt).
 2. [Jerome Kenner Birth Announcesment. Daily American Republic 28 April 1933](https://www.newspapers.com/article/daily-american-republic-jerome-thomas/149875263/).
