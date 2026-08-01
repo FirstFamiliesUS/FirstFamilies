@@ -1,15 +1,22 @@
+---
+layout: single
+title: "Gray"
+permalink: /ancestors/gray/evalyn/
+---
+
 Evalyn Frederica GRAY
 
 - Born: 18 Feb 1870  `#1, #2`
 - Birth Place: Delaware, Otoe County, Nebraska  `#2, #4`
-- Spouse: [Robert Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/04-Robert%20HOLMAN.md)  `#1`
+
 - Marriage Date: before 30 Aug 1913  `#5`
 - Marriage Place: probably Oklahoma  `#5`
 - Died: 10 Feb 1965  `#1, #2, #3`
 - Burial Place:  Williamson Cemetery, Vidor, Orange County, Texas  `#1`
-- Father: [Robert Gray II](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Robert%20GRAY.md?plain=1)  `#2, #4, #5, #6`
-- Mother: [Isabelle Pratt](https://github.com/davidjkenner/FirstFamilies/blob/main/05-Isabell%20PRATT.md)  `#2, #4, #5, #6`
-- Child: [Roberta Holman](https://github.com/davidjkenner/FirstFamilies/blob/main/03-Roberta%20HOLMAN.md)  `#3`
+- Father: [CPL Robert Gray II]({{ '/ancestors/gray/robert' | relative_url }})  `#2, #4, #5, #6`
+- Mother: [Isabell Pratt]({{ '/ancestors/pratt/isabell' | relative_url }})  `#2, #4, #5, #6`
+- Spouse: [Robert Holman]({{ '/ancestors/holman/robert' | relative_url }})  `#1`
+- Child: [Roberta Holman]({{ '/ancestors/holman/roberta' | relative_url }})  `#3`
 
 
 
