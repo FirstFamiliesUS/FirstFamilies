@@ -1,3 +1,14 @@
+---
+layout: single
+title: "PVT John Swindell"
+permalink: /ancestors/swindell/john/
+---
+
+- Father: [Timothy Swindell]({{ '/ancestors/swindell/timothy' | relative_url }})
+- Mother: [Rebecca Crees]({{ '/ancestors/crees/rebecca' | relative_url }}) 
+- Spouse: [Hannah Weaver]({{ '/ancestors/weaver/hannah' | relative_url }})   
+- Child: [Joseph Swindell]({{ '/ancestors/swindell/joseph' | relative_url }})
+
 PVT John Swindell
 
 - Ancestor #:  [A112056](https://services.dar.org/public/dar_research/search_adb/?action=full&p_id=A112056)
