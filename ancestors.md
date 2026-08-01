@@ -16,6 +16,8 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 
 ## [Bower]({{ '/ancestors/bower/' | relative_url }})
 
+## [Chase]({{ '/ancestors/chase/' | relative_url }})
+
 ## [Emerson]({{ '/ancestors/emerson/' | relative_url }})
 
 ## [Gray]({{ '/ancestors/gray/' | relative_url }})
@@ -34,13 +36,21 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 
 ## [Parker]({{ '/ancestors/parker/' | relative_url }})
 
+## [Paul]({{ '/ancestors/paul/' | relative_url }})
+
 ## [Pratt]({{ '/ancestors/pratt/' | relative_url }})
 
 ## [Richardson]({{ '/ancestors/richardson/' | relative_url }})
 
 ## [Seymore]({{ '/ancestors/seymore/' | relative_url }})
 
+## [Sharp]({{ '/ancestors/sharp/' | relative_url }})
+
 ## [Staton]({{ '/ancestors/staton/' | relative_url }})
+
+## [Swindell]({{ '/ancestors/swindell/' | relative_url }})
+
+## [Thummel]({{ '/ancestors/thummel/' | relative_url }})
 
 ## [Wilson]({{ '/ancestors/wilson/' | relative_url }})
 
