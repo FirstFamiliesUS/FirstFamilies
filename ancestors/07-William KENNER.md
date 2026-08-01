@@ -21,9 +21,9 @@ DNA evidence proves Elias Housen Kenner (1807 - 1897) is the son of William (Bil
 - Marriage Place:  Hawkins Country, Tennessee    `#9`
 - Died:  1829   `#9` 
 - Burial Place:  unknown
-- Father:  [Midshipman Howson KENNER](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/midshipman/)
+- Father:  [Midshipman Howson Kenner]({{ '/ancestors/kenner/midshipman' | relative_url }})
 - Mother:
-- Child:  Rev. [Elias Housen Kenner](https://firstfamiliesus.github.io/FirstFamilies/ancestors/kenner/elias/)
+- Child:  [The Honorable Rev. Elais Kenner]({{ '/ancestors/kenner/elias' | relative_url }})
 
 
 
