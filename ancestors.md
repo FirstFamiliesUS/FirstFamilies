@@ -24,6 +24,8 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 
 ## [Holman]({{ '/ancestors/holman/' | relative_url }})
 
+## [Howell]({{ '/ancestors/howell/' | relative_url }})
+
 ## [Kenner]({{ '/ancestors/kenner/' | relative_url }})
 
 ## [Latham]({{ '/ancestors/latham/' | relative_url }})
@@ -31,8 +33,6 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 ## [Lyell]({{ '/ancestors/lyell/' | relative_url }})
 
 ## [Miller]({{ '/ancestors/miller/' | relative_url }})
-
-## [Paul]({{ '/ancestors/paul/' | relative_url }})
 
 ## [Parker]({{ '/ancestors/parker/' | relative_url }})
 
