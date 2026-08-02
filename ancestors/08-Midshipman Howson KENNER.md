@@ -4,7 +4,7 @@ title: "Midshipman Kenner"
 permalink: /ancestors/kenner/midshipman/
 ---
 
-
+![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
 NAME
 
