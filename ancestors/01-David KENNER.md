@@ -37,3 +37,5 @@ SOURCES:
 
 
 
+
+- [The Kenner Chronicle]({{ '/docs/kennerchronicle.pdf' | relative_url }})
