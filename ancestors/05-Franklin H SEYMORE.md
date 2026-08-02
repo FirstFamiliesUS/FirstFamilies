@@ -4,7 +4,7 @@ title: "PVT Franklin H. Seymore"
 permalink: /ancestors/seymore/franklin/
 ---
 
-
+![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
 PVT Franklin H Seymore
 
