@@ -26,6 +26,7 @@ Perry Kenner
 4. [Perry Kenner Tombstone. Find A Grave Memorial ID: 170789003](https://www.findagrave.com/memorial/170789003/perry-kenner)
 5. [Year: 1930; Census Place: Poplar Bluff, Butler, Missouri; Page: 2A; Enumeration District: 0014; FHL microfilm: 2340914](https://www.ancestry.com/family-tree/person/tree/168012819/person/272180029187/facts)
 6. [FamilySearch](https://www.familysearch.org/en/search/): ID [GQMN-HKR](https://www.familysearch.org/en/tree/person/details/GQMN-HKR)
+7. [Wikitree](https://www.wikitree.com/wiki/): [Kenner-227](https://www.wikitree.com/wiki/Kenner-227)
 
 ### ACCOLADES:
 
