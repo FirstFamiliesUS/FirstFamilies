@@ -26,6 +26,8 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 
 ## [Howell]({{ '/ancestors/howell/' | relative_url }})
 
+## [Howson]({{ '/ancestors/howson/' | relative_url }})
+
 ## [Kenner]({{ '/ancestors/kenner/' | relative_url }})
 
 ## [Latham]({{ '/ancestors/latham/' | relative_url }})
