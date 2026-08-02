@@ -32,3 +32,5 @@ Petty Officer Jerome Kenner
 ### ACCOLADES:
 
 - Presidential Memorial Certificate
+
+- [The Kenner Chronicle]({{ '/docs/kennerchronicle.pdf' | relative_url }})

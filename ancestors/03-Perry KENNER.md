@@ -30,3 +30,5 @@ Perry Kenner
 ### ACCOLADES:
 
 - [Iowa First Families](https://iowagenealogy.org):
+
+- [The Kenner Chronicle]({{ '/docs/kennerchronicle.pdf' | relative_url }})

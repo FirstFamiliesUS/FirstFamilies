@@ -93,3 +93,5 @@ OR
 DOWNLOAD the Certificate Application to your computer, fill it out and save it. DO NOT fill it out on the web. E-mail the completed form to certificates@tngs.org  AND pay on-line by clicking the Certificate Program Payment button below.
 
 Questions:  certificates@tngs.org   
+
+- [The Kenner Chronicle]({{ '/docs/kennerchronicle.pdf' | relative_url }})
