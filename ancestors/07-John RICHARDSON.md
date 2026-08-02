@@ -1,3 +1,14 @@
+---
+layout: single
+title: "PVT John Richardson"
+permalink: /ancestors/richardson/john/
+---
+
+- Father: [William Richardson]({{ '/ancestors/richardson/william1' | relative_url }})  
+- Mother:  [Ann Guignard]({{ '/ancestors/guignard/ann' | relative_url }})
+- Spouse:  [Mary Horner]({{ '/ancestors/horner/mary' | relative_url }})  
+- Child:  [William Richardson]({{ '/ancestors/richardson/william' | relative_url }}) 
+
 
 ![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
