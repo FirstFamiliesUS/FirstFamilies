@@ -44,3 +44,5 @@ ACCOLADES:
 
 
 - [The Kenner Chronicle Vol 2]({{ '/docs/kennerchronicle-vol2.pdf' | relative_url }})
+
+- [Kenner Family William and Mary College Quarterly]({{ '/docs/kennerfamilywilliamandmarycollegequarterly.pdf' | relative_url }})

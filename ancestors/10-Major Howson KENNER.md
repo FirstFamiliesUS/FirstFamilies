@@ -41,3 +41,5 @@ ACCOLADES:
 - Presidential Memorial Certificate
 - [Tennessee First Families](https://tngs.org/): [Henry](https://tngs.org/resources/Site/Custom_HTML_Files/TCD/County/Henry.html), [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy),
 
+
+- [Kenner Family William and Mary College Quarterly]({{ '/docs/kennerfamilywilliamandmarycollegequarterly.pdf' | relative_url }})
