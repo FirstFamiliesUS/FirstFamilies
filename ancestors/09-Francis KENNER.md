@@ -3,6 +3,8 @@ layout: single
 title: "Francis Kenner"
 permalink: /ancestors/kenner/francis/
 ---
+![DAR Logo]({{ '/assets/images/DAR_LOGO.jpg' | relative_url }})
+
 ![General Society Sons of the Revolution]({{ '/assets/images/General_Society_Sons_of_the_Revolution_Insignia.jpg' | relative_url }})
 
 ![Tennessee Genealogical Society]({{ '/assets/images/TNGS.jpg' | relative_url }})
