@@ -4,7 +4,7 @@ title: "EHC Kenner"
 permalink: /ancestors/kenner/ehc/
 ---
 
-
+![MSGA]({{ '/assets/images/msga3.jpg' | relative_url }})
 
 The Rev. EHC Kenner
 
