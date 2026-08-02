@@ -3,6 +3,8 @@ layout: single
 title: "Midshipman Kenner"
 permalink: /ancestors/kenner/midshipman/
 ---
+![Tennessee Genealogical Society]({{ '/assets/images/TNGS.jpg' | relative_url }})
+
 
 ![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 

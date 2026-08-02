@@ -3,6 +3,8 @@ layout: single
 title: "Elias Kenner"
 permalink: /ancestors/kenner/elias/
 ---
+![Tennessee Genealogical Society]({{ '/assets/images/TNGS.jpg' | relative_url }})
+
 
 
 The Honorable Rev. Elias Housen Kenner
