@@ -4,6 +4,7 @@ title: "Andrew Bower"
 permalink: /ancestors/bower/andrew/
 ---
 
+![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
 https://sarpatriots.sar.org/patriot/display/343806
 
