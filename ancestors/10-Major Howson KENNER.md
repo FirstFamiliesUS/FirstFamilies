@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Howson Kenner"
+title: "The Honorable Howson Kenner I"
 permalink: /ancestors/kenner/howson/
 ---
 ![Antebellum Planters]({{ '/assets/images/AntebellumPlanters.jpg' | relative_url }})
@@ -46,10 +46,7 @@ SOURCES:
 ACCOLADES:
 - Presidential Memorial Certificate
 - [Tennessee First Families](https://tngs.org/): [Henry](https://tngs.org/resources/Site/Custom_HTML_Files/TCD/County/Henry.html), [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy),
-
-<<<<<<< HEAD
-
 - [Kenner Family William and Mary College Quarterly]({{ '/docs/kennerfamilywilliamandmarycollegequarterly.pdf' | relative_url }})
-=======
+
 - [The Kenner Chronicle Vol 2]({{ '/docs/kennerchronicle-vol2.pdf' | relative_url }})
->>>>>>> e797a46f1790d58877a2d3a90bd1b9da574eb7d6
+
