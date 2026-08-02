@@ -4,6 +4,8 @@ title: "PVT William Wilson"
 permalink: /ancestors/wilson/william/
 ---
 
+![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
+
 PVT William Wilson
 
 
