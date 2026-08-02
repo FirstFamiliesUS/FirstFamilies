@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "EHC Kenner"
+title: "Rev. EHC Kenner"
 permalink: /ancestors/kenner/ehc/
 ---
 
