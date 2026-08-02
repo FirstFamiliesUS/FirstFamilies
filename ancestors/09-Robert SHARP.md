@@ -4,6 +4,8 @@ title: "Capt. Robert Sharp"
 permalink: /ancestors/sharp/robert/
 ---
 
+![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
+
 https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Robert%20Sharp%20DAR.pdf
 
 https://sarpatriots.sar.org/patriot/display/287820
