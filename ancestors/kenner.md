@@ -18,10 +18,10 @@ Here we will detail the lineage, historical documents, and stories of the Kenner
 
 
 - [David Kenner]({{ '/ancestors/kenner/david' | relative_url }})
-- [Jerome Kenner]({{ '/ancestors/kenner/jerome' | relative_url }})
+- [Petty Officer Jerome Kenner]({{ '/ancestors/kenner/jerome' | relative_url }})
 - [Perry Kenner]({{ '/ancestors/kenner/perry' | relative_url }})
-- [George Kenner]({{ '/ancestors/kenner/george' | relative_url }})
-- [Rev EHC Kenner]({{ '/ancestors/kenner/ehc' | relative_url }})
+- [Rev. George Kenner]({{ '/ancestors/kenner/george' | relative_url }})
+- [Rev. EHC Kenner]({{ '/ancestors/kenner/ehc' | relative_url }})
 - [The Honorable Rev. Elias Kenner]({{ '/ancestors/kenner/elias' | relative_url }})
 - [William Kenner]({{ '/ancestors/kenner/willia,' | relative_url }})
 - [Midshipman Howson Kenner]({{ '/ancestors/kenner/midshipman' | relative_url }})
