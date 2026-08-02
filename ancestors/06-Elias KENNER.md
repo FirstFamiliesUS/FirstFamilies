@@ -58,32 +58,6 @@ ACCOLADES:
 - Kenner Cemetery
 
 
-Certificates are issued for one of five settlement periods: 
-
-Colonial -- prior to 1 June 1796
-Territorial -- prior to 15 June 1836
-Antebellum -- prior to 6 May 1861
-Civil War -- 1861-1865 or applied for TN Confederate War Pension
-Nineteenth Century -- prior to 31 Dec 1900 
-
-This presentation has more information about the certificate program --> Tennessee Settlers Certificates Program.pdf
-
-Click here --> Certificate Instructions  for the application form and instructions.
-
-The cost of a Certificate is $30.
-
-PRINT the Certificate Application and fill it out. Mail the completed form, along with your payment, to our office:
-
-Tennessee Genealogical Society
-PO Box 381824
-Germantown, TN 38183-1824
-
-OR
-
-DOWNLOAD the Certificate Application to your computer, fill it out and save it. DO NOT fill it out on the web. E-mail the completed form to certificates@tngs.org  AND pay on-line by clicking the Certificate Program Payment button below.
-
-Questions:  certificates@tngs.org   
-
 - [The Kenner Chronicle]({{ '/docs/kennerchronicle.pdf' | relative_url }})
 
 - [The Kenner Chronicle Vol 2]({{ '/docs/kennerchronicle-vol2.pdf' | relative_url }})
