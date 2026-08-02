@@ -4,6 +4,7 @@ title: "John Howell"
 permalink: /ancestors/howell/john/
 ---
 
+![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
 - Father: [PVT James Howell]({{ '/ancestors/howell/james' | relative_url }})
 - Mother: [Martha Denney]({{ '/ancestors/denney/martha' | relative_url }})
