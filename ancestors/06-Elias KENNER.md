@@ -4,6 +4,7 @@ title: "Elias Kenner"
 permalink: /ancestors/kenner/elias/
 ---
 
+![MSGA]({{ '/assets/images/msga3.jpg' | relative_url }})
 
 The Honorable Rev. Elias Housen Kenner
 
