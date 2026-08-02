@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Richardson"
+title: "William Richardson"
 permalink: /ancestors/richardson/william/
 ---
 
