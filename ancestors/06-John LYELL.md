@@ -1,20 +1,17 @@
 ---
 layout: single
-title: "Lyell"
+title: "PVT John Lyell"
 permalink: /ancestors/lyell/john/
 ---
+
+![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
 - Father:  [John Albert Lyell]({{ '/ancestors/lyell/john2' | relative_url }})  
 - Mother:  [Sarah Plummer]({{ '/ancestors/plummer/sarah' | relative_url }})  
 - Spouse:  [Emily Sharp]({{ '/ancestors/sharp/emily' | relative_url }})  
 - Child:   [Mary Lyell]({{ '/ancestors/lyell/mary' | relative_url }})  
 
-
-
 PVT John Lyell
-
-I am a native Missourian, a Military Spouse and an active public servant in the Department of Defense at Fort Meade Maryland. I would like to inquire into obtaining a courtesy state Flag that has been flown over the State Capitol in honor of my ancestor PVT John Lyell who served in Missouri military unity during the Civil War
-
 
 
 - Born: 21 Aug 1829  `#1`
