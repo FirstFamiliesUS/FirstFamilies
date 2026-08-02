@@ -15,7 +15,7 @@ NAME
 - Marriage Place
 - Died: 1778
 - Burial Place:  
-- Father: Capt. Francis Kenner I  [Capt Francis Kenner]({{ '/ancestors/kenner/francis1' | relative_url }})  `#7`
+- Father: [Capt Richard Kenner II]({{ '/ancestors/kenner/richard2' | relative_url }})  `#7`
 - Mother:  [Hannah Howson]({{ '/ancestors/howson/hannah' | relative_url }})  `#7`
 - Spouse:   [Margaret Eskridge]({{ '/ancestors/eskridge/margaret' | relative_url }})  `#7, #8`
 - Child: [PVT Francis Kenner]({{ '/ancestors/kenner/francis' | relative_url }}) `#8`
@@ -41,3 +41,4 @@ ACCOLADES:
 - Presidential Memorial Certificate
 - [Tennessee First Families](https://tngs.org/): [Henry](https://tngs.org/resources/Site/Custom_HTML_Files/TCD/County/Henry.html), [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy),
 
+- [Kenner Family William and Mary College Quarterly]({{ '/docs/kennerfamilywilliamandmarycollegequarterly.pdf' | relative_url }})
