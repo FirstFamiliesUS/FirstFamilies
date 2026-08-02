@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Howson Kenner"
-permalink: /ancestors/kenner/howson/
+title: "Capt. Francis Kenner I"
+permalink: /ancestors/kenner/francis1/
 ---
 
 ![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
