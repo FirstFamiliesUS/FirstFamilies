@@ -4,6 +4,8 @@ title: "PVT Charles Staton"
 permalink: /ancestors/staton/charles/
 ---
 
+![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
+
 NAME
 
 - Born: 
