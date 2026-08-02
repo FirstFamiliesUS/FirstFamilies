@@ -95,3 +95,5 @@ DOWNLOAD the Certificate Application to your computer, fill it out and save it. 
 Questions:  certificates@tngs.org   
 
 - [The Kenner Chronicle]({{ '/docs/kennerchronicle.pdf' | relative_url }})
+
+- [The Kenner Chronicle Vol 2]({{ '/docs/kennerchronicle-vol2.pdf' | relative_url }})

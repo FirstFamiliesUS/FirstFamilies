@@ -48,3 +48,5 @@ ACCOLADES:
 
 
 - [The Kenner Chronicle]({{ '/docs/kennerchronicle.pdf' | relative_url }})
+
+- [The Kenner Chronicle Vol 2]({{ '/docs/kennerchronicle-vol2.pdf' | relative_url }})
