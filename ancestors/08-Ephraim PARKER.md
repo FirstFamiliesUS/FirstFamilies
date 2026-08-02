@@ -4,6 +4,7 @@ title: "PVT Ephraim Parker"
 permalink: /ancestors/parker/ephraim
 ---
 
+![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
 - PARKER, EPHRAIM Ancestor #: A087427
 - Service:  CONNECTICUT    Rank(s): PRIVATE
