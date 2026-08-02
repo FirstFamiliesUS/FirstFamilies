@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Richardson"
+title: "Jemima Richardson"
 permalink: /ancestors/richardson/jemima/
 ---
 
