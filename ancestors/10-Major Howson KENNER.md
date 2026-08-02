@@ -3,6 +3,8 @@ layout: single
 title: "Howson Kenner"
 permalink: /ancestors/kenner/howson/
 ---
+![General Society Sons of the Revolution]({{ '/assets/images/General_Society_Sons_of_the_Revolution_Insignia.jpg' | relative_url }})
+
 
 ![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 

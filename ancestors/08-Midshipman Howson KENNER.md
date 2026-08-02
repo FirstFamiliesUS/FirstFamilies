@@ -3,6 +3,8 @@ layout: single
 title: "Midshipman Kenner"
 permalink: /ancestors/kenner/midshipman/
 ---
+![General Society Sons of the Revolution]({{ '/assets/images/General_Society_Sons_of_the_Revolution_Insignia.jpg' | relative_url }})
+
 ![Tennessee Genealogical Society]({{ '/assets/images/TNGS.jpg' | relative_url }})
 
 
