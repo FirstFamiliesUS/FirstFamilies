@@ -1,11 +1,9 @@
 main:
   - title: "Home"
     url: /
+  - title: "Events"
+    url: /events/
   - title: "Resources"
     url: /resources/
   - title: "Ancestors"
     url: /ancestors/
-    children:
-      - title: "Kenner Family"
-        url: /ancestors/kenner/
-
