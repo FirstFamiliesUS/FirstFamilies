@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Francis Kenner"
+title: "PVT Francis Kenner"
 permalink: /ancestors/kenner/francis/
 ---
 ![Antebellum Planters]({{ '/assets/images/AntebellumPlanters.jpg' | relative_url }})
@@ -49,8 +49,5 @@ SOURCES:
 ACCOLADES:
 - Presidential Memorial Certificate
 - [Tennessee First Families](https://tngs.org/): [Henry](https://tngs.org/resources/Site/Custom_HTML_Files/TCD/County/Henry.html), [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy),
-
-
 - [The Kenner Chronicle Vol 2]({{ '/docs/kennerchronicle-vol2.pdf' | relative_url }})
-
 - [Kenner Family William and Mary College Quarterly]({{ '/docs/kennerfamilywilliamandmarycollegequarterly.pdf' | relative_url }})
