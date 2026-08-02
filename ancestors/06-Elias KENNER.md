@@ -6,6 +6,7 @@ permalink: /ancestors/kenner/elias/
 ![Tennessee Genealogical Society]({{ '/assets/images/TNGS.jpg' | relative_url }})
 
 
+![MSGA]({{ '/assets/images/msga3.jpg' | relative_url }})
 
 The Honorable Rev. Elias Housen Kenner
 
