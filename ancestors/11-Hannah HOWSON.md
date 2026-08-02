@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Hannah Howson"
+permalink: /ancestors/howson/hannah/
+---
+
+
 NAME
 
 
@@ -8,9 +15,10 @@ NAME
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father: 
-- Mother:  [Elizabeth LEE](https://github.com/davidjkenner/FirstFamilies/blob/main/12-Elizabeth%20LEE.md)
-- Child:  [Major Howson Kenner](https://github.com/davidjkenner/FirstFamilies/blob/main/10-Major%20Howson%20KENNER.md)  `#7, #8`
+- Father: [Capt. Leonard Howson I]({{ '/ancestors/howson/leonard' | relative_url }})
+- Mother: [Elizabeth Lee]({{ '/ancestors/lee/elizabeth' | relative_url }})
+- Spouse: [Capt. Francis Kenner I]({{ '/ancestors/kenner/francis1' | relative_url }})
+- Child:  [The Honorable Major Howson Kenner I]({{ '/ancestors/kenner/howson' | relative_url }})  `#7, #8`
 
 
 
