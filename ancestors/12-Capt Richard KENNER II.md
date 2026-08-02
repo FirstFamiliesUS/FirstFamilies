@@ -3,6 +3,8 @@ layout: single
 title: "Capt. Richard Kenner II (The Burgess)"
 permalink: /ancestors/kenner/richard2/
 ---
+![Antebellum Planters]({{ '/assets/images/AntebellumPlanters.jpg' | relative_url }})
+
 
 ![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 

@@ -3,6 +3,8 @@ layout: single
 title: "Midshipman Kenner"
 permalink: /ancestors/kenner/midshipman/
 ---
+![Antebellum Planters]({{ '/assets/images/AntebellumPlanters.jpg' | relative_url }})
+
 ![DAR Logo]({{ '/assets/images/DAR_LOGO.jpg' | relative_url }})
 
 ![General Society Sons of the Revolution]({{ '/assets/images/General_Society_Sons_of_the_Revolution_Insignia.jpg' | relative_url }})
