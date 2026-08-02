@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Midshipman Kenner"
+title: "Midshipman Howson Kenner"
 permalink: /ancestors/kenner/midshipman/
 ---
 ![Antebellum Planters]({{ '/assets/images/AntebellumPlanters.jpg' | relative_url }})
