@@ -4,7 +4,7 @@ title: "Howson Kenner"
 permalink: /ancestors/kenner/howson/
 ---
 
-
+![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
 
 NAME
