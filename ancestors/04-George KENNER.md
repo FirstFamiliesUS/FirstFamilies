@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "George Kenner"
+title: "Rev. George Kenner"
 permalink: /ancestors/kenner/george/
 ---
 
