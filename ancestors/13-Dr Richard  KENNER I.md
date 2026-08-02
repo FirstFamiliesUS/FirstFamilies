@@ -4,7 +4,7 @@ title: "Dr Richard Kenner I"
 permalink: /ancestors/kenner/richard1/
 ---
 
-![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
+
 
 
 NAME
@@ -38,6 +38,6 @@ SOURCES:
 
 
 ACCOLADES:
-- Presidential Memorial Certificate
-- [Tennessee First Families](https://tngs.org/): [Henry](https://tngs.org/resources/Site/Custom_HTML_Files/TCD/County/Henry.html), [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy),
+- Doctors and surgeaons
+
 
