@@ -4,6 +4,7 @@ title: "Jacob Bower"
 permalink: /ancestors/bower/jacob/
 ---
 
+![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
 Jacob Bower
 
