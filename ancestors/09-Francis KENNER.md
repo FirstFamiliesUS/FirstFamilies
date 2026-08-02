@@ -4,6 +4,7 @@ title: "Francis Kenner"
 permalink: /ancestors/kenner/francis/
 ---
 
+![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
 PVT Francis KENNER
 
