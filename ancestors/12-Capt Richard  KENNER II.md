@@ -15,7 +15,7 @@ NAME
 - Marriage Place
 - Died: 1778
 - Burial Place:  
-- Father: Capt. Francis Kenner I  [Capt Francis Kenner]({{ '/ancestors/kenner/francis1' | relative_url }})  `#7`
+- Father: [Dr Richard Kenner I]({{ '/ancestors/kenner/richard1' | relative_url }})
 - Mother:  [Hannah Howson]({{ '/ancestors/howson/hannah' | relative_url }})  `#7`
 - Spouse:   [Margaret Eskridge]({{ '/ancestors/eskridge/margaret' | relative_url }})  `#7, #8`
 - Child: [PVT Francis Kenner]({{ '/ancestors/kenner/francis' | relative_url }}) `#8`
