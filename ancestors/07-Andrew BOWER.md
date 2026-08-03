@@ -7,7 +7,7 @@ permalink: /ancestors/bower/andrew/
 ![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
 
-- Father:  [Michael Bower]({{ '/ancestors/bower/andrew' | relative_url }}) 
+- Father:  [Michael Bower]({{ '/ancestors/bower/michael' | relative_url }}) 
 - Mother:  [Anna Stober]({{ '/ancestors/stober/anna' | relative_url }})
 - Spouse:  [Elizabeth Brugh]({{ '/ancestors/brugh/elizabeth' | relative_url }})
 - Child:  [Jacob Bower]({{ '/ancestors/bower/jacob' | relative_url }}) 
