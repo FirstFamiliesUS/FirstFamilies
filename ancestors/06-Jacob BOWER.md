@@ -23,6 +23,19 @@ Jacob Bower
 - Child:  [Benjamin Bower]({{ '/ancestors/bower/benjamin' | relative_url }}) 
 
 
+
 SOURCES:
-1. [US Daughters War of 1812. Ancestor ID:  7033](https://members.usdaughters1812.org/i4a/memberDirectory/index.cfm?srch_ANCESTOR_ID_singleLineText_190=&srch_ANC_LNAME_singleLineText_191=Bower&srch_ANC_FNAME_singleLineText_369=Jacob&srch_BIRTH_STATE_singleLineText_368=&srch_ANCESTOR_STATE_SERVED_singleLineText_192=&srch_DEATH_STATE_singleLineText_370=&srch_ANC_SERVICE_singleLineText_193=&srch_SPOUSE_singleLineText_194=&srch_CHILD_singleLineText_195=&srch_CHILDS_SPOUSE_singleLineText_196=&controller=memberDirectory&action=resultsListing&directory_id=43&start=1&submitFlag=1&pageID=3817).
-2. https://sarpatriots.sar.org/application/display/227819 
+1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 
+2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
+3. Namesake
+4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID 
+5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors): 
+6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737):
+7. [National Society United States Daughters of 1812](https://usdaughters1812.org/i4a/memberDirectory/index.cfm?directory_id=43&pageID=3817). Ancestor ID: 7033
+8. Sons of the American Revolution. Patriot [227819](https://sarpatriots.sar.org/application/display/227819)
+ 
+ACCOLADES:
+- Presidential Memorial Certificate
+- [Land Grants](https://glorecords.blm.gov/search/default.aspx):
+- Namesake
+ 
