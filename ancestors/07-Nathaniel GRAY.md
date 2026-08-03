@@ -15,10 +15,10 @@ permalink: /ancestors/gray/nathaniel/
 - Burial Place:  
 
 
-- Father: [PVT Nathaniel Gray]({{ '/ancestors/gray/nathaniel' | relative_url }})     
-- Mother: [Abigail Haskell]({{ '/ancestors/haskell/abigail' | relative_url }})   
-- Spouse: [Susana Baker]({{ '/ancestors/baker/susana' | relative_url }})     
-- Child:  [CPL Robert Gray II]({{ '/ancestors/gray/robert' | relative_url }})
+- Father: [Jonathan Gray]({{ '/ancestors/gray/jonathan' | relative_url }})    
+- Mother: [Catherine Roberts]({{ '/ancestors/roberts/catherine' | relative_url }})   
+- Spouse: [Abigail Haskell]({{ '/ancestors/haskell/abigail' | relative_url }})     
+- Child:  [Robert Gray I]({{ '/ancestors/gray/robert1' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 
