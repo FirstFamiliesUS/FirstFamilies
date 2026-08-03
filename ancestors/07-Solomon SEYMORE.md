@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Forefather Thomas Seymore"
-permalink: /ancestors/seymore/thomas/
+title: "PVT Solomon Seymore"
+permalink: /ancestors/seymore/solomon/
 ---
 
 
