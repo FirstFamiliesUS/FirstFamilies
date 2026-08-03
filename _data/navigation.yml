@@ -3,10 +3,10 @@ main:
     url: /
   - title: "Events"
     children:
+      - title: "All Events"
+        url: /events/
       - title: "Washington DC"
         url: /events/washington-dc/
-      - title: "Reunions"
-        url: /events/reunions/
   - title: "Resources"
     url: /resources/
   - title: "Ancestors"
