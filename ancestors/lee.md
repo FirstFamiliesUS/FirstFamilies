@@ -5,4 +5,4 @@ permalink: /ancestors/lee/
 ---
 
 - [Elizabeth Lee]({{ '/ancestors/lee/elizabeth' | relative_url }})
-- [Richard Lee]({{ '/ancestors/lee/richard' | relative_url }})
+- [Richard Lee]({{ '/ancestors/lee/richard1' | relative_url }})
