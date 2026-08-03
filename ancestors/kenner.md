@@ -29,7 +29,7 @@ Here we will detail the lineage, historical documents, and stories of the Kenner
 - [The Honorable Major Howson Kenner I]({{ '/ancestors/kenner/howson' | relative_url }})
 - [Capt Francis Kenner I]({{ '/ancestors/kenner/francis1' | relative_url }})
 - [Capt Richard Kenner II]({{ '/ancestors/kenner/richard2' | relative_url }})
-- [Dr Richard Kenner I]({{ '/ancestors/kenner/richard1' | relative_url }})
+- [Forefather Dr Richard Kenner I]({{ '/ancestors/kenner/richard1' | relative_url }})
 
 
 
