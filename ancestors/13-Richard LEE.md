@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Colonel Richard Lee"
-permalink: /ancestors/lee/elizabeth/
+permalink: /ancestors/lee/richard1/
 ---
 
 
-- Father: [Richard Lee]({{ '/ancestors/lee/richard1' | relative_url }})
+- Father: 
 - Mother: 
 - Spouse: [Anne Constable]({{ '/ancestors/constable/anne' | relative_url }})
 - Child:  [Elizabeth Lee]({{ '/ancestors/lee/elizabeth' | relative_url }})
