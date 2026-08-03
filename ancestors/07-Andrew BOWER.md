@@ -6,6 +6,27 @@ permalink: /ancestors/bower/andrew/
 
 ![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
+
+- Father:  [Michael Bower]({{ '/ancestors/bower/andrew' | relative_url }}) 
+- Mother:  [Anna Stober]({{ '/ancestors/stober/anna' | relative_url }})
+- Spouse:  [Elizabeth Brugh]({{ '/ancestors/brugh/elizabeth' | relative_url }})
+- Child:  [Jacob Bower]({{ '/ancestors/bower/jacob' | relative_url }}) 
+
+SOURCES:
+1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 
+2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
+3. Namesake
+4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID 
+5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors): 
+6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737):
+7. [National Society United States Daughters of 1812](https://usdaughters1812.org/i4a/memberDirectory/index.cfm?directory_id=43&pageID=3817). Ancestor ID: 7033
+8. Sons of the American Revolution. Patriot [227819](https://sarpatriots.sar.org/application/display/227819)
+ 
+ACCOLADES:
+- Presidential Memorial Certificate
+- [Land Grants](https://glorecords.blm.gov/search/default.aspx):
+- Namesake
+
 https://sarpatriots.sar.org/patriot/display/343806
 
 Application Info
@@ -28,11 +49,6 @@ Additional References:
 PA Archives, 3rd Series, Vol 21, pg 780
 DAR #261073
 
-- Father:  [Michael Bower]({{ '/ancestors/bower/andrew' | relative_url }}) 
-- Mother:  [Anna Stober]({{ '/ancestors/stober/anna' | relative_url }})
-- Spouse:  [Elizabeth Brugh]({{ '/ancestors/brugh/elizabeth' | relative_url }})
-- Child:  [Jacob Bower]({{ '/ancestors/bower/jacob' | relative_url }}) 
-
 Burial:
 Red Mount Church Cemetery (C-0070681)
 Location:
@@ -50,5 +66,3 @@ SAR Grave Dedication Date:
 
 Date Approved	Society	ACN	SAR Member Info	Lineage via Child	View Application Detail
 2021-06-18	MD	97619	 David Jerome Kenner (219515)	Jacob
-
-https://sarpatriots.sar.org/application/display/227819
