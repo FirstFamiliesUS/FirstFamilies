@@ -16,8 +16,10 @@ Welcome to the Events page. Here you can view upcoming family events and gatheri
 
 ## National Holidays
 
-![Posterity Day](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/assets/images/PosterityDay.png)
+![Posterity Day]({{ '/assets/images/PosterityDay.png' | relative_url }})
 
-![German American Day](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/assets/images/GermanAmericanDay.png)
+![German American Day]({{ '/assets/images/GermanAmericanDay.png' | relative_url }})
+
+
 
 
