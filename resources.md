@@ -11,6 +11,7 @@ Children:
 - [National Society Children of 1812](https://nsc1812.weebly.com/our-patriots.html)   
 - [National Society of the Children of the American Revolution](https://nscar.org/)
 - [National Society Children of the American Colonists](https://www.nationalsocietycac.org/)
+- [Sons of the American Legion](https://en.wikipedia.org/wiki/Sons_of_the_American_Legion)
 
 
 Saints & Blessed:
