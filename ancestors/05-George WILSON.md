@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "George W Wilson"
-permalink: /ancestors/wilson/george/
+permalink: /ancestors/wilson/georgew/
 ---
 
 
