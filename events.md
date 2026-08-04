@@ -14,3 +14,8 @@ Welcome to the Events page. Here you can view upcoming family events and gatheri
 
 * [First Families in the United States - Washington DC]({{ '/events/washington-dc/' | relative_url }})
 
+## National Holidays
+
+![Posterity Day](https://raw.githubusercontent.com/FirstFamiliesUSets/images/PosterityDay.png
+
+![German American Day](https://raw.githubusercontent.com/FirstFamiliesUSets/images/GermanAmericanDay.png
