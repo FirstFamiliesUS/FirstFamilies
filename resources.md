@@ -92,6 +92,7 @@ Military & Law Enforcement:
 - [National Society Daughters of Colonial Wars](https://www.nsdcw.org/ancestor-s-list)
 - [Order of Americans of Armorial Ancestry](http://www.armorial.us/arms.htm)
 - [Society of the Descendants of Washington's Army at Valley Forge](https://www.valleyforgesociety.com/_files/ugd/cbe2c2_72d505a5537b47a981e600f0195a743e.pdf)
+- [Ladies of the Grand Army of the Republic](https://www.lgarnational.org/home.html)
 
 
 ___________________________________________________________________________________________
