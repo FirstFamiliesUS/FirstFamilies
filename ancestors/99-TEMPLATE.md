@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Susannah Emerson"
+permalink: /ancestors/emerson/susannah/
+---
+
+
 NAME
 
 
