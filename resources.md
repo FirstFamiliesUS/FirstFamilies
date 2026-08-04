@@ -93,6 +93,7 @@ Military & Law Enforcement:
 - [Order of Americans of Armorial Ancestry](http://www.armorial.us/arms.htm)
 - [Society of the Descendants of Washington's Army at Valley Forge](https://www.valleyforgesociety.com/_files/ugd/cbe2c2_72d505a5537b47a981e600f0195a743e.pdf)
 - [Ladies of the Grand Army of the Republic](https://www.lgarnational.org/home.html)
+- [The Order of the Indian Wars of the United States](http://oiwus.org/)
 
 
 ___________________________________________________________________________________________
@@ -131,6 +132,7 @@ ________________________________________________________________________________
 - [Maryland Early Settlers](https://earlysettlers.msa.maryland.gov/):
 - [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/):
 - [Eastern Tennessee](https://www.easttnhistory.org/research/genealogy/tennessee-ancestors/family-search/):
+- https://en.wikipedia.org/wiki/List_of_hereditary_and_lineage_organizations_in_the_United_States
 
 
 
