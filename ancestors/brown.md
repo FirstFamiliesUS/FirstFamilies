@@ -5,4 +5,5 @@ permalink: /ancestors/brown/
 ---
 
 - [Mary Brown]({{ '/ancestors/brown/mary' | relative_url }})
-- Lt. Col Thomas Brown]({{ '/ancestors/brown/thomas' | relative_url }})
+- [Thomas Brown]({{ '/ancestors/brown/thomas' | relative_url }})
+- [Coleman Brown]({{ '/ancestors/brown/coleman' | relative_url }})
