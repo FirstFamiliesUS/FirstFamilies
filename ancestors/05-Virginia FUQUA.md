@@ -7,20 +7,16 @@ permalink: /ancestors/fuqua/virginia/
 NAME
 
 
-
-
- 
-
 - Born: 
 - Birth Place:
-- Spouse:
 - Marriage Date:
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father: 
-- Mother:
-- Child:
+- Father:   [Rev. Jesse Jerome Fuqua I]({{ '/ancestors/fuqua/jerome' | relative_url }})
+- Mother:   [Narcissa Carter]({{ '/ancestors/carter/narcissa' | relative_url }})
+- Spouse:   [PVT Franklin H. Seymore]({{ '/ancestors/seymore/franklin' | relative_url }})
+- Child:    [Jesse Jerome Seymore]({{ '/ancestors/seymore/jerome' | relative_url }})
 
 
 
