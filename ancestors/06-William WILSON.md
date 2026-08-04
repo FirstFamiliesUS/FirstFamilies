@@ -18,7 +18,7 @@ PVT William Wilson
 - Military Service: Battle Unit Name: [33rd Regiment, North Carolina Infantry](https://www.nps.gov/civilwar/search-battle-units-detail.htm?battleUnitCode=CNC0033RI)  Company: D
 - Residence:  In Tennessee since 1840 Census
 
-- Father:  [PVT Andrew Jackson Wilson]({{ '/ancestors/andrew/william' | relative_url }})  
+- Father:  [PVT Andrew Jackson Wilson]({{ '/ancestors/andrew/wilson' | relative_url }})  
 - Mother:  [Elizabeth McQueen]({{ '/ancestors/mcqueen/elizabeth' | relative_url }}) 
 - Spouse:  [Virginia Pevahouse]({{ '/ancestors/pevahouse/virginia' | relative_url }})   `#1, #3`
 - Child:  [George W. Wilson]({{ '/ancestors/wilson/georgew' | relative_url }})  `#1, #3`
