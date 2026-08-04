@@ -16,9 +16,13 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 
 ## [Bower]({{ '/ancestors/bower/' | relative_url }})
 
+## [Carter]({{ '/ancestors/carter/' | relative_url }})
+
 ## [Chase]({{ '/ancestors/chase/' | relative_url }})
 
 ## [Emerson]({{ '/ancestors/emerson/' | relative_url }})
+
+## [Fuqua]({{ '/ancestors/fuqua/' | relative_url }})
 
 ## [Gray]({{ '/ancestors/gray/' | relative_url }})
 
