@@ -10,5 +10,5 @@ permalink: /ancestors/wilson/
 - [Andrew Jackson Wilson I]({{ '/ancestors/wilson/andrew' | relative_url }}) 
 - [PVT Garland Wilson]({{ '/ancestors/wilson/garland' | relative_url }}) 
 - [SGT John Wilson]({{ '/ancestors/wilson/john' | relative_url }}) 
-- [Geroge Wilson II]({{ '/ancestors/wilson/george2' | relative_url }}) 
+- [George Wilson II]({{ '/ancestors/wilson/george2' | relative_url }}) 
 - [Forefather Geroge Wilson I]({{ '/ancestors/wilson/george1' | relative_url }}) 
