@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "PVT William Wilson"
-permalink: /ancestors/wilson/william/
+permalink: /ancestors/wilson/william2/
 ---
 
 ![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
@@ -21,7 +21,7 @@ PVT William Wilson
 - Father:  [PVT Andrew Jackson Wilson]({{ '/ancestors/andrew/william' | relative_url }})  
 - Mother:  [Elizabeth McQueen]({{ '/ancestors/mcqueen/elizabeth' | relative_url }}) 
 - Spouse:  [Virginia Pevahouse]({{ '/ancestors/pevahouse/virginia' | relative_url }})   `#1, #3`
-- Child:  [George W. Wilson]({{ '/ancestors/wilson/george' | relative_url }})  `#1, #3`
+- Child:  [George W. Wilson]({{ '/ancestors/wilson/georgew' | relative_url }})  `#1, #3`
 
 
 
