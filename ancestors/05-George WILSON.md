@@ -15,7 +15,7 @@ George Wilson
 - Marriage Place: [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)  `#4`
 
  
-- Father:  [PVT William Wilson]({{ '/ancestors/wilson/william' | relative_url }})  `#2`
+- Father:  [PVT William Wilson]({{ '/ancestors/wilson/william2' | relative_url }})  `#2`
 - Mother:  [Virginia Pevahouse]({{ '/ancestors/pevahouse/virginia' | relative_url }})  `#2`
 - Spouse:  [Jemima Richardson]({{ '/ancestors/richardson/jemima' | relative_url }})  `#2, #4`
 - Child:  [Aulsy Wilson]({{ '/ancestors/wilson/aulsy' | relative_url }}) `#3`
