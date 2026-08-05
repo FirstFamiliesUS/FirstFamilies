@@ -15,7 +15,6 @@ Children:
 
 Royality
 - [Baronial Order of Magna Charta & Military Order of the Crusades](https://www.magnacharta.com/gateway-ancestors/)
-- [Descendants of the Founders of Ancient Windsor](https://dfaw.org/founders-list/)
 - [National Society Americans of Royal Descent](https://royalancestry.org/index.php/ancestors)
 
 Saints & Blessed:
@@ -35,7 +34,6 @@ Religions:
 - [National Society Founders of Places of Worship in America](https://www.nsfpwa.org/ancestors)
 - [Swiss Anabaptist](https://saga-omii.org/index.html)
 - [Congregationalists](https://www.congregationallibrary.org/for-researchers/search-obituaries)
-- Dutch Reformed. [Dutch Colonial Society](http://www.dutchcolonialsociety.org/ancestors.htm) , [Dutch Settlers Society of Albany](https://www.dutchsettlerssociety.org/membership)
 - [Huguenot Society of America](https://www.huguenotsocietyofamerica.org/history/ancestors/)
 - [Virginia Huguenot Society](https://www.frenchhuguenots-virginiasociety.org/)
 - [Huguenot Society of Pennsylvania](https://pahuguenotsociety.wixsite.com/website)
@@ -83,16 +81,24 @@ War of Independence:
 - [Sons of American Revolution](https://sarpatriots.sar.org/patriot/search)
 - [DAR Descendents](https://services.dar.org/Public/DAR_Research/search/?Tab_ID=5)
 - [DAR Ancestors](https://services.dar.org/Public/DAR_Research/search/?Tab_ID=1)
-- [Ancient and Honorable Artillery Company](https://wdahac.wixsite.com/wdahac/eligible-ancestors)
-- [Ancient and Honorable Artillery Company of Massachusetts](https://newenglandsocieties.com/odahac-eligibility/)
 - [Daughters of the Cincinnati](https://daughters1894.org/membership/)
 - [Descendants of Colonial Regulators](https://colonialregulators.weebly.com/)
 - [Society of the Descendants of Washington's Army at Valley Forge](https://www.valleyforgesociety.com/_files/ugd/cbe2c2_72d505a5537b47a981e600f0195a743e.pdf)
 
-French and Indian War:
+Colonial Wars:
+- [Ancient and Honorable Artillery Company](https://wdahac.wixsite.com/wdahac/eligible-ancestors)
+- [Ancient and Honorable Artillery Company of Massachusetts](https://newenglandsocieties.com/odahac-eligibility/)
 - [General Society of Colonal Wars](https://gscw.org/contact/?)
 - [National Society Daughters of Colonial Wars](https://www.nsdcw.org/ancestor-s-list)
 - [The Order of the Indian Wars of the United States](http://oiwus.org/)
+
+
+Farmers & Planters
+- [National Society Sons and Daughters of Antebellum Planters](https://antebellumplanters.org/ancestors/)
+- [Order of Colonial Lords of Manors in America](https://www.coloniallords.org/manors/)
+- [Order of Descendants of Ancient Planters](http://www.ancient-planters.org/ancestors.html)
+- [National Society Descendants of Colonial Indentured Servants](http://www.indenturedservants.org/ancestors.html)
+- [National Society Descendants of American Farmers](https://www.nsdoaf.com/our-ancestors)
 
 
 MISC:
@@ -100,9 +106,32 @@ MISC:
 - [Order of Americans of Armorial Ancestry](http://www.armorial.us/arms.htm)
 - [Descendants of Sheriffs & Constables](https://sheriffsandconstables.weebly.com/ancestors.html)
 - [Descendants of Mexican War Veterans](http://www.dmwv.org/)
+- [Guild of Colonial Artisans and Tradesmen](https://guildcolonialartsandtrades.weebly.com/ancestors.html)
+- [Order of the Founders of North America](https://www.foundersofna.org/Forms/OFNA%20Ancestor%20List.pdf)
+- [National Society of The Colonial Dames of America](https://nscda.org/historical-activities/ancestor-biographies/)
+- [National Society Sons and Daughters of the Pilgrims](https://www.societyofthepilgrims.com/qualifying-ancestors.html)
+- [Order of the Founders & Patiots of America](https://ofpa.org/genealogy/)
+- [Colonial and Antebellum Bench and Bar](https://benchbar.us/ancestors/)
+- [Order of Descendants of Colonial Physicians and Chirurgiens](https://ordercolonialpandc.org/ancestor-list)
+- [Society of the Cincinnati](https://www.americanrevolutioninstitute.org/soldiers-and-sailors-of-the-revolutionary-war/officers-represented-in-the-society-of-the-cincinnati/)
+- [Continental Society Daughters of Indian Wars](https://csdiw.org/qualifying-ancestors/)
+- [Flagon and Trencher](http://www.flagonandtrencher.org/Ancestors.htm)
+- [Alabama Genealogical Society](https://algensoc.org/main/ancestorindex.pdf)
+- [Order of the First Families of Maine](https://newenglandsocieties.com/offme-eligibility/)
+- [Society of The Ark and The Dove](https://www.thearkandthedove.com/passenger-list/)
+- [Hereditary Order of the First Families of Massachusetts](https://newenglandsocieties.com/hoffma-eligibility/)
+- [The Winthrop Society](https://www.winthropsociety.com/doctext)
+- [Order of the First Families of Mississippi](https://offms.org/history-of-the-order/ancestor-roster/)
+- [General Society of Mayflower Descendants](https://themayflowersociety.org/genealogy/patriots-to-passengers/)
+- [First Settlers of Shenandoah Valley](http://www.firstsettlersshenandoahvalley.com/settlers.html)
+- [Order of the First Families of New Hampshire](http://www.firstfamiliesofnewhampshire.org/ancestors.html)
+- [Holland Society of New York](https://hollandsociety.org/join/)
+- Society of the First Families of New York
+- [Society of Daughters of Holland Dames](https://hollanddames.org/ancestors/)
 
 --------------------------------------------------------
 States:
+- [Descendants of the Founders of Ancient Windsor](https://dfaw.org/founders-list/)
 - [Descendants of the Founders of Hartford](https://www.foundersofhartford.org/the-founders/)
 - [Illinois Genealogical Society](https://ilgensoc.org/cstm_ILcmbDB.php). [Prairie Patriot Certificates DB](https://ilgensoc.org/cstm_ILcmbDB.php). 
 - [Johnson County](https://johnsonctyilgenhist.org/),   [Illinois](https://ilgensoc.org/cpage.php?pt=599).
@@ -114,6 +143,7 @@ States:
 - [Nebraska Surnames](https://nsgs.org/surname.php). [Nebraska Secretary of State](https://capitol.nebraska.gov/building/host-an-event/have-a-flag-flown/). 
     - [Otoe County Pioneers](https://ocgsne.org/index.php/research/pioneers)
 - [Descendants of Founders of New Jersey](https://www.njfounders.org/founders)
+- [Dutch Settlers Society of Albany](https://www.dutchsettlerssociety.org/membership)
 - [Oklahoma Surnames](https://okgensoc.org/surname.php?page=1&nr=50&scl=c0a)
 - [Ohio Genealogical Society of Approved List](https://www.ogs.org/wp-content/uploads/2025/06/SBO-2025-Roster-for-Website.pdf?utm_source=copilot.com). [Ohio Genealogical Society](https://www.ogs.org/search-databases/). 
 - [Pennsylvania Approved Ancestors](https://genpa.org/first-families-of-pennsylvania/list-of-approved-ancestors/)
