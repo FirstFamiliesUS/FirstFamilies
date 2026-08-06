@@ -14,6 +14,8 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 
 # First Families
 
+## [Allred]({{ '/ancestors/allred/' | relative_url }})
+
 ## [Bower]({{ '/ancestors/bower/' | relative_url }})
 
 ## [Bonum]({{ '/ancestors/bonum/' | relative_url }})
@@ -33,6 +35,8 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 ## [Gray]({{ '/ancestors/gray/' | relative_url }})
 
 ## [Holman]({{ '/ancestors/holman/' | relative_url }})
+
+## [Horner]({{ '/ancestors/horner/' | relative_url }})
 
 ## [Howell]({{ '/ancestors/howell/' | relative_url }})
 
