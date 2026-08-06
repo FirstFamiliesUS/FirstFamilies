@@ -32,5 +32,4 @@ Here we will detail the lineage, historical documents, and stories of the Kenner
 - [Forefather Dr Richard Kenner I]({{ '/ancestors/kenner/richard1' | relative_url }})
 
 
-
-[Kenner Family Association](https://www.facebook.com/profile.php?id=100063314974122)
+[Kenner Family Assocation](https://www.facebook.com/p/Kenner-Family-Association-100063314974122/)

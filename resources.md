@@ -56,7 +56,7 @@ Religions:
 - [Fuqua Database](https://homepages.rootsweb.com/~fuqua/Main%20Database/index.htm): 
 - [Clan Gunn](https://cgsna.org/project/chesapeake/):
 - [Haskell Family Association](http://hfa.haskells.net/pdf/members_only.html):
-- Kenner Family Assocation
+- [Kenner Family Assocation](https://www.facebook.com/p/Kenner-Family-Association-100063314974122/)
 - [Society of Lees](http://www.thesocietyoftheleesofva.org/index.php)
 - [Leftwich Historical Association](https://www.leftwich.org/?page_id=56):
 - [Mendenhall Family Association](https://www.mendenhall.org/): 
