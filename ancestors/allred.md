@@ -4,7 +4,7 @@ title: "The Allred Family"
 permalink: /ancestors/allred/
 ---
 
-- [Annette Allred]({{ '/ancestors/allred/annette' | relative_url }})
+- [Elizabeth Allred]({{ '/ancestors/allred/elizabeth' | relative_url }})
 - [Lee Allred]({{ '/ancestors/allred/lee' | relative_url }})
 - [Edward Allred]({{ '/ancestors/allred/edward' | relative_url }})
 - [Benjamin Allred]({{ '/ancestors/allred/benjamin' | relative_url }})
