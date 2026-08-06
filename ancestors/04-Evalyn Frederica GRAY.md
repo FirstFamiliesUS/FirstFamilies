@@ -13,7 +13,7 @@ Evalyn Frederica GRAY
 - Marriage Place: probably Oklahoma  `#5`
 - Died: 10 Feb 1965  `#1, #2, #3`
 - Burial Place:  Williamson Cemetery, Vidor, Orange County, Texas  `#1`
-- Father: [CPL Robert Gray II]({{ '/ancestors/gray/robert' | relative_url }})  `#2, #4, #5, #6`
+- Father: [CPL Robert Gray II]({{ '/ancestors/gray/robert2' | relative_url }})  `#2, #4, #5, #6`
 - Mother: [Isabell Pratt]({{ '/ancestors/pratt/isabell' | relative_url }})  `#2, #4, #5, #6`
 - Spouse: [Robert Holman]({{ '/ancestors/holman/robert' | relative_url }})  `#1`
 - Child: [Roberta Holman]({{ '/ancestors/holman/roberta' | relative_url }})  `#3`

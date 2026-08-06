@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Gray"
-permalink: /ancestors/gray/robert/
+permalink: /ancestors/gray/robert2/
 gallery:
   - url: /assets/images/PMC-sample.jpg
     image_path: /assets/images/PMC-sample.jpg

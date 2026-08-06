@@ -15,7 +15,7 @@ Isabell Pratt
 - Burial Place:  [Harvard Cemetery](https://www.findagrave.com/cemetery/1993813/harvard-cemetery), Harvard,  Clay County,  Nebraska  `#1, #2`
 - Father:  [Marshall L. Pratt]({{ '/ancestors/pratt/marshall' | relative_url }})  `#4` 
 - Mother:   [Frederica Thummel]({{ '/ancestors/thummel/frederica' | relative_url }})  `#4`
-- Spouse: [CPL Robert Gray II]({{ '/ancestors/gray/robert' | relative_url }})  `#1, #2`
+- Spouse: [CPL Robert Gray II]({{ '/ancestors/gray/robert2' | relative_url }})  `#1, #2`
 - Child:  [Evalyn Gray]({{ '/ancestors/gray/evalyn' | relative_url }})  `#2`
 
 
