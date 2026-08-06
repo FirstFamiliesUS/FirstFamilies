@@ -52,6 +52,8 @@ Here we will trace the lineages, stories, and historical records of the First Fa
 
 ## [Paul]({{ '/ancestors/paul/' | relative_url }})
 
+## [Philpott]({{ '/ancestors/philpott/' | relative_url }})
+
 ## [Pratt]({{ '/ancestors/pratt/' | relative_url }})
 
 ## [Richardson]({{ '/ancestors/richardson/' | relative_url }})
