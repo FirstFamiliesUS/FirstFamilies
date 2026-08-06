@@ -11,4 +11,5 @@ permalink: /ancestors/allred/
 - [PVT Jacob Allred]({{ '/ancestors/allred/jacob' | relative_url }})
 - [PVT Andrew Allred]({{ '/ancestors/allred/andrew' | relative_url }})
 - [Forefather Michael Allred]({{ '/ancestors/allred/michael' | relative_url }})
+
 [Allred Family Association](https://www.broughfamily.org/families/allreds_of_eccles_1500s_to_1700/)
