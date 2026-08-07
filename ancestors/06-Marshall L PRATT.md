@@ -17,7 +17,7 @@ Before moving to Nebraska he served in Captain Murrays Company Second Regiment P
 - Burial Place:  [Wyuka Cemetery](https://www.findagrave.com/cemetery/101646/wyuka-cemetery) [Nebraska City](https://en.wikipedia.org/wiki/Nebraska_City,_Nebraska), [Otoe County](https://www.familysearch.org/en/wiki/Otoe_County,_Nebraska_Genealogy), [Nebraska](https://www.familysearch.org/en/wiki/Nebraska,_United_States_Genealogy)
 - Residence: 9 October, 1838 [Michigan-Toledo Strip](https://en.wikipedia.org/wiki/Timeline_of_the_Toledo_Strip), [Calhoun County](https://www.familysearch.org/en/wiki/Calhoun_County,_Michigan_Genealogy), [Michigan](https://www.familysearch.org/en/wiki/Michigan,_United_States_Genealogy) `#2, #7`
 - Residence: [Wisconsin](https://www.familysearch.org/en/wiki/Wisconsin,_United_States_Genealogy) 1 Sept 1849 - 1857  `#5, #2, #6, #8`
-- Residence: [Illinois](https://www.familysearch.org/en/wiki/Illinois,_United_States_Genealogy), before 1841 `#10` - after 28 Feb 1846 [Dixon](https://en.wikipedia.org/wiki/Dixon,_Illinois), [Lee County](https://www.familysearch.org/en/wiki/Lee_County,_Illinois_Genealogy), [IL] (https://www.familysearch.org/en/wiki/Illinois,_United_States_Genealogy). `#10`
+- Residence: [Illinois](https://www.familysearch.org/en/wiki/Illinois,_United_States_Genealogy), before 1841 `#10` - after 28 Feb 1846 [Dixon](https://en.wikipedia.org/wiki/Dixon,_Illinois), [Lee County](https://www.familysearch.org/en/wiki/Lee_County,_Illinois_Genealogy), [Illinois](https://www.familysearch.org/en/wiki/Illinois,_United_States_Genealogy). `#10`
 - Military Service: Captain Murrays Company Second Regiment Pennsylvania Volunteers  `#5`
 
 - Father:  [PVT Darius Pratt]({{ '/ancestors/pratt/darius' | relative_url }})  
