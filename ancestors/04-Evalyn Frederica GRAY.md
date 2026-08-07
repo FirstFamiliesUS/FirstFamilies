@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Gray"
+title: "Evalyn Gray"
 permalink: /ancestors/gray/evalyn/
 ---
 
