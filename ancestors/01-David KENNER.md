@@ -12,7 +12,7 @@ David J. Kenner
 - Died: Living
 - Burial Place:  N/A
 - Father: [Jerome Kenner]({{ '/ancestors/kenner/jerome' | relative_url }})    `#1, #2, #3, #4`
-- Mother: [Marie Annette Bower](https://github.com/davidjkenner/FirstFamilies/blob/main/02-Marie%20Annette%20BOWER.md)   `#1, #2, #3, #4` 
+- Mother: [Annette Bower]({{ '/ancestors/bower/annette' | relative_url }})   `#1, #2, #3, #4` 
 - WID: 1776518586
 - State/Society: [Maryland](https://mdssar.org/events), [SAR](https://www.sar.org/) , Chapter: [Charles Carroll of Carrollton](https://mdssar.org/chapters/carrollton) , National Number: [219515](https://sarpatriots.sar.org/member/display/219515)
 - [Maryland](https://md1812.org/), [General Society of War of 1812](https://gswar1812.org/), David Kenner National ID #8084, State ID #1046
