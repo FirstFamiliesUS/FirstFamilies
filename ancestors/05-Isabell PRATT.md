@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Pratt"
+title: "Isabell Pratt"
 permalink: /ancestors/pratt/isabell/
 ---
 
