@@ -17,7 +17,7 @@ Before moving to Nebraska he served in Captain Murrays Company Second Regiment P
 - Burial Place:  [Wyuka Cemetery](https://www.findagrave.com/cemetery/101646/wyuka-cemetery) [Nebraska City](https://en.wikipedia.org/wiki/Nebraska_City,_Nebraska), [Otoe County](https://www.familysearch.org/en/wiki/Otoe_County,_Nebraska_Genealogy), [Nebraska](https://www.familysearch.org/en/wiki/Nebraska,_United_States_Genealogy)
 - Residence: 9 October, 1838 [Michigan-Toledo Strip](https://en.wikipedia.org/wiki/Timeline_of_the_Toledo_Strip), [Calhoun County](https://www.familysearch.org/en/wiki/Calhoun_County,_Michigan_Genealogy), [Michigan](https://www.familysearch.org/en/wiki/Michigan,_United_States_Genealogy) `#2, #7`
 - Residence: [Wisconsin](https://www.familysearch.org/en/wiki/Wisconsin,_United_States_Genealogy) 1 Sept 1849 - 1857  `#5, #2, #6, #8`
-- Residence: [Ogle County](https://www.familysearch.org/en/wiki/Ogle_County,_Illinois_Genealogy), [Illinois](https://www.familysearch.org/en/wiki/Illinois,_United_States_Genealogy), 18 Oct 1838 - after 28 Feb 1846 [Dixon](https://en.wikipedia.org/wiki/Dixon,_Illinois), [Lee County](https://www.familysearch.org/en/wiki/Lee_County,_Illinois_Genealogy), [IL](https://www.familysearch.org/en/wiki/Illinois,_United_States_Genealogy).
+- Residence: [Illinois](https://www.familysearch.org/en/wiki/Illinois,_United_States_Genealogy), before 1841 `#10` - after 28 Feb 1846 [Dixon](https://en.wikipedia.org/wiki/Dixon,_Illinois), [Lee County](https://www.familysearch.org/en/wiki/Lee_County,_Illinois_Genealogy), [IL] (https://www.familysearch.org/en/wiki/Illinois,_United_States_Genealogy). `#10`
 - Military Service: Captain Murrays Company Second Regiment Pennsylvania Volunteers  `#5`
 
 - Father:  [PVT Darius Pratt]({{ '/ancestors/pratt/darius' | relative_url }})  
@@ -36,6 +36,7 @@ SOURCES:
 7. [Michigan, Homestead and Cash Entry Patents, Pre-1908. Document Number 7564](https://www.ancestry.com/search/collections/2075/records/61758?tid=168012819&pid=272180028408&ssrc=pt)
 8. [Year: 1860; Census Place: Otoe, Nebraska Territory; Page: 349; Family History Library Film: 803665](https://www.ancestry.com/search/collections/7667/records/44302232)
 9. [Michigan Deed Sale](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/PRATT_Calhoun%20Deeds%2C%20img452.pdf)
+10. [Year: 1850; Census Place: Highland, Iowa, Wisconsin; Roll: 999; Page: 368A](https://www.ancestry.com/search/collections/8054/records/9024568). 
 
 ACCOLADES:
 - Illinois First Families (Pending)
