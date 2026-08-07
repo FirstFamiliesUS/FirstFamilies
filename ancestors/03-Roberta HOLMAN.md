@@ -14,7 +14,7 @@ Roberta Isabelle Holman
 - Died: 
 - Burial Place:
 - Father:   [Robert Holman]({{ '/ancestors/holman/robert' | relative_url }})  `#3, #4, #6`
-- Mother:  [Evalyn Gray]({{ '/ancestors/gray/Evalyn' | relative_url }})  `#3, #4, #5, #6` 
+- Mother:  [Evalyn Gray]({{ '/ancestors/gray/evalyn' | relative_url }})  `#3, #4, #5, #6` 
 - Spouse:  [Lee Bower]({{ '/ancestors/bower/lee' | relative_url }})  `#1, #2, #5`
 - Child:  [Annette Bower]({{ '/ancestors/bower/annette' | relative_url }})    `#1` 
 
