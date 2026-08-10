@@ -2,8 +2,6 @@ backend:
   name: github
   repo: FirstFamiliesUS/FirstFamilies
   branch: main
-  auth_type: pkce
-  app_id: Ov23liEmILwym8DJ95ua
 
 # This saves uploaded images directly to your assets folder
 media_folder: "assets/images"
