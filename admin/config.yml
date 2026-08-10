@@ -1,0 +1,34 @@
+backend:
+  name: github
+  repo: FirstFamiliesUS/FirstFamilies
+  branch: main
+
+# This saves uploaded images directly to your assets folder
+media_folder: "assets/images"
+public_folder: "/assets/images"
+
+collections:
+  # 1. ANCESTORS COLLECTION
+  - name: "ancestors"
+    label: "Ancestors"
+    folder: "ancestors"
+    create: true
+    slug: "{{title}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "single" }
+      - { label: "Name/Title", name: "title", widget: "string" }
+      - { label: "Permalink (e.g., /ancestors/kenner/david/)", name: "permalink", widget: "string" }
+      - { label: "Header Image", name: "image", widget: "image", required: false }
+      - { label: "Body Content", name: "body", widget: "markdown" }
+
+  # 2. EVENTS COLLECTION
+  - name: "events"
+    label: "Events"
+    folder: "events"
+    create: true
+    slug: "{{title}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "single" }
+      - { label: "Event Title", name: "title", widget: "string" }
+      - { label: "Permalink (e.g., /events/washington-dc/)", name: "permalink", widget: "string" }
+      - { label: "Body Content", name: "body", widget: "markdown" }
