@@ -14,17 +14,26 @@
     }
     .site-header {
       background-color: #0f172a;
-      padding: 15px 30px;
+      padding: 12px 30px;
       display: flex;
       justify-content: space-between;
       align-items: center;
       border-bottom: 1px solid #334155;
     }
-    .site-title {
+    .site-brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
       color: #ffffff;
       font-size: 1.2rem;
       font-weight: bold;
       text-decoration: none;
+    }
+    .site-logo {
+      height: 42px;
+      width: 42px;
+      object-fit: contain;
+      border-radius: 50%;
     }
     .nav-menu {
       list-style: none;
@@ -76,11 +85,18 @@
       margin: 40px auto;
       padding: 0 20px;
     }
+    .main-content a {
+      color: #38bdf8;
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
   <header class="site-header">
-    <a class="site-title" href="{{ '/' | relative_url }}">First Families of the United States</a>
+    <a class="site-brand" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Logo" class="site-logo">
+      <span>First Families of the United States</span>
+    </a>
     <ul class="nav-menu">
       <li><a href="{{ '/' | relative_url }}">Home</a></li>
       <li class="dropdown">
