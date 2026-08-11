@@ -4,31 +4,20 @@ title: "Washington DC"
 permalink: /events/washington-dc/
 ---
 
-* [St. John’s, Lafayette Square](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.748kp66k4rxm)
+
 * [Afternoon Tea](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.upr9jsp1l197)
 * [White House Visitor Center](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.52u8agwbwy74)
 * [President's Park](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.kbjtnb8p7b8w)
 * [National Christmas Tree](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.cp707dc7d7e6)
 * [Willard Holiday Caroling](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.oqok8rif9f6d)
 * [Willard Museum](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.j606fnsj4avi)
+* [St. John’s, Lafayette Square](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.748kp66k4rxm)
 * [Parking](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.nx1t9vsyicvo)
 
 ## Map
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.271787838212!2d-77.0363093!3d38.8948997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7a320765227%3A0xcefe101855fab5d7!2sNational%20Christmas%20Tree!5e0!3m2!1sen!2sus!4v1786486860276!5m2!1sen!2sus" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
-## [St. John’s, Lafayette Square](https://stjohns-dc.org/about/calendar/)
-
-11:00 am Choral Eucharist
-
-St. John’s, Lafayette Square  
-16th and H Streets, NW  
-Washington, DC 20005  
-(202) 347-8766
-
-Tours of St. John’s Church and Parish House take place on Sundays after the 11:00 AM service, free of charge.
-
-![St. John's Church](/assets/images/LafayetteSquare.jpg)
 
 ## [Afternoon Tea](https://washington.intercontinental.com/food-drink/peacock-alley-tea/)
 
@@ -81,6 +70,20 @@ December 1 till December 23. 6:00 p.m. to 6:45 p.m. and 7:15 p.m. to 8:00 p.m.
 ## Willard Museum
 
 The Willard Hotel is located at 1401 Pennsylvania Avenue ([MAP](https://www.google.com/maps/place/InterContinental+The+Willard+Washington+D.c./@38.8963163,-77.0324718,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x2bd5468bc23e2458)), just two blocks east of [The White House](https://dcbikeblogger.wordpress.com/tag/white-house-peace-vigil/). It is a luxury hotel, with a history of famous guests over the years. In addition to Lincoln, Presidents Taylor, Fillmore, Pierce, Buchanan, Lincoln, Taft, Wilson, Coolidge and Harding all stayed at the Willard. President Grant also stayed there, and frequented the Willard lobby during his presidency, where he coined the term “lobbyists.” And two vice-presidents actually lived there during their terms in office. Martin Luther King, Jr., wrote his famous “I Have a Dream” speech in his hotel room at the Willard in 1963 in the days before delivering it from [the steps of the Lincoln Memorial](https://dcbikeblogger.wordpress.com/2015/04/14/a-memorial-within-a-memorial/) during the March on Washington for Jobs and Freedom. The Willard also hosted Julia Ward Howe, who wrote the words for The Battle Hymn of the Republic in her room at the hotel early one morning. Among the Willard’s many other notable guests are P. T. Barnum, Mark Twain, Walt Whitman, General Tom Thumb, Samuel Morse, the Duke of Windsor, Harry Houdini, Gypsy Rose Lee, Gloria Swanson, Emily Dickinson, Charles Dickens, and Buffalo Bill.
+
+## [St. John’s, Lafayette Square](https://stjohns-dc.org/about/calendar/)
+
+11:00 am Choral Eucharist
+
+St. John’s, Lafayette Square  
+16th and H Streets, NW  
+Washington, DC 20005  
+(202) 347-8766
+
+Tours of St. John’s Church and Parish House take place on Sundays after the 11:00 AM service, free of charge.
+
+![St. John's Church](/assets/images/LafayetteSquare.jpg)
+
 
 ## [Parking](https://spothero.com/search?kind=address&latitude=38.895211&longitude=-77.0327373&search_string=White+House+Visitor+Center%2C+Pennsylvania+Avenue+Northwest%2C+Washington%2C+DC%2C+USA)
 
