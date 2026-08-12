@@ -29,7 +29,10 @@ Hours: Friday, Saturday, and Sunday – 1:00 p.m. and 3:30 p.m. seating
 
 Make your reservation via [OpenTable](https://www.opentable.com/r/willard-peacock-alley-tea-reservations-washington?restref=1014928&lang=en-US&ot_source=Restaurant%20website) or call +1 202 942 7010
 
-![Afternoon Tea](/assets/images/AfternoonTea.jpg)
+![Afternoon Tea](/FirstFamilies/assets/images/AfternoonTea.jpg)
+
+
+
 
 ## [White House Visitor Center](https://www.nps.gov/whho/planyourvisit/white-house-visitor-center.htm)
 
@@ -37,7 +40,7 @@ The White House Visitor Center, located at 1450 Pennsylvania Ave. NW ([map](http
 
 Open every day 7:30 AM–4:00 PM
 
-![White House Visitor Center](/assets/images/WhiteHouseVisitorCenter.jpg)
+![White House Visitor Center](/FirstFamilies/assets/images/WhiteHouseVisitorCenter.jpg)
 
 ## [President's Park](https://www.nps.gov/whho/planyourvisit/explore-president-s-park.htm)
 
@@ -49,7 +52,7 @@ The [northern trail](https://www.nps.gov/whho/planyourvisit/explore-the-northern
 
 The [southern trail](https://www.nps.gov/whho/planyourvisit/explore-the-southern-trail.htm) leaves the visitor center and winds its way around the magnificent open parade ground known as the Ellipse, past monuments, memorials, and fountains, ending at the fence surrounding the White House South Lawn.
 
-![President's Park](/assets/images/PresidentsPark.jpg)
+![President's Park](/FirstFamilies/assets/images/PresidentsPark.jpg)
 
 ## [National Christmas Tree](https://www.thenationaltree.org/)
 
@@ -61,7 +64,7 @@ ask-npf@nationalparks.org
 
 [Learn more at nps.gov](https://www.nps.gov/whho/planyourvisit/national-christmas-tree.htm)
 
-![National Christmas Tree](/assets/images/NationalChristmasTree.jpg)
+![National Christmas Tree](/FirstFamilies/assets/images/NationalChristmasTree.jpg)
 
 ## [Willard Holiday Caroling](https://washington.intercontinental.com/events/willard-holiday-caroling/)
 
@@ -82,7 +85,7 @@ Washington, DC 20005
 
 Tours of St. John’s Church and Parish House take place on Sundays after the 11:00 AM service, free of charge.
 
-![St. John's Church](/assets/images/LafayetteSquare.jpg)
+![St. John's Church](/FirstFamilies/assets/images/LafayetteSquare.jpg)
 
 
 ## [Parking](https://spothero.com/search?kind=address&latitude=38.895211&longitude=-77.0327373&search_string=White+House+Visitor+Center%2C+Pennsylvania+Avenue+Northwest%2C+Washington%2C+DC%2C+USA)
