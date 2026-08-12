@@ -32,9 +32,8 @@ Hours: Friday, Saturday, and Sunday – 1:00 p.m. and 3:30 p.m. seating
 
 Make your reservation via [OpenTable](https://www.opentable.com/r/willard-peacock-alley-tea-reservations-washington?restref=1014928&lang=en-US&ot_source=Restaurant%20website) or call +1 202 942 7010
 
-![enter image description here](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/assets/images/AfternoonTea.jpg)
 
-
+![White House Visitor Center](/FirstFamilies/assets/images/AfternoonTea.jpg)
 
 
 
