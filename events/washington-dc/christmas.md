@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Washington DC"
-permalink: /events/washington-dc/christmas
+permalink: /events/washington-dc/christmas/
 ---
 
 
