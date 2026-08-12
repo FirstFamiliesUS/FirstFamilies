@@ -19,6 +19,17 @@ permalink: /events/washington-dc/christmas/
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.271787838212!2d-77.0363093!3d38.8948997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7a320765227%3A0xcefe101855fab5d7!2sNational%20Christmas%20Tree!5e0!3m2!1sen!2sus!4v1786486860276!5m2!1sen!2sus" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 
+![Afternoon Tea]({{ site.baseurl }}/assets/images/AfternoonTea.jpg)
+
+![White House Visitor Center]({{ site.baseurl }}/assets/images/WhiteHouseVisitorCenter.jpg)
+
+![President's Park]({{ site.baseurl }}/assets/images/PresidentsPark.jpg)
+
+![National Christmas Tree]({{ site.baseurl }}/assets/images/NationalChristmasTree.jpg)
+
+![St. John's Church]({{ site.baseurl }}/assets/images/LafayetteSquare.jpg)
+
+
 ## [Afternoon Tea](https://washington.intercontinental.com/food-drink/peacock-alley-tea/)
 
 Named among the top ten places to do “[Afternoon Tea like a royal” by the Travel Channel](https://www.travelchannel.com/interests/food-and-drink/10-places-to-do-afternoon-tea-like-a-royal), Willard InterContinental is the premier venue for Afternoon Tea in Washington, D.C. Seated among the grandeur of Peacock Alley, guests to Willard’s traditional Afternoon Tea enjoy a broad selection of the finest estate and boutique blended loose leaf teas by the [J’enwey Tea Company](https://jenweytea.com/), savory finger sandwiches, decadent pastries, and Willard’s famous freshly baked scones.
