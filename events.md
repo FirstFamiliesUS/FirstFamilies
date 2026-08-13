@@ -1,7 +1,6 @@
 ---
-layout: single
-title: "Events"
-permalink: /events/
+layout: default
+title: Events
 has_children: true
 nav_order: 2
 ---
