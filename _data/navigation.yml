@@ -2,7 +2,11 @@ main:
   - title: "Home"
     url: /
   - title: "Events"
-    url: /events/
+    children:
+      - title: "Cathedral"
+        url: /events/washington-dc/cathedral/
+      - title: "Christmas"
+        url: /events/washington-dc/christmas/
   - title: "Resources"
     url: /resources/
   - title: "Ancestors"
