@@ -1,7 +1,9 @@
 ---
 layout: single
 title: "Christmas in DC"
-permalink: /events/washington-dc/christmas/
+permalink: /events/washington-dc/cathedral/
+sidebar:
+  nav: "dc_events"
 ---
 
 
