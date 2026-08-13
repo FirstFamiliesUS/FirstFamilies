@@ -11,7 +11,10 @@ permalink: /events/washington-dc/christmas/
 * [National Christmas Tree](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.cp707dc7d7e6)
 * [Willard Holiday Caroling](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.oqok8rif9f6d)
 * [Willard Museum](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.j606fnsj4avi)
+* [DAR Library & Museum](https://www.firstfamilies.us/events/washington-dc#h.7pfve7nks4qh)
+* [White House](https://www.firstfamilies.us/events/washington-dc#h.qgcwgxfatvc)
 * [St. John’s, Lafayette Square](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.748kp66k4rxm)
+* [St. John's Episcopal Church](https://www.firstfamilies.us/events/washington-dc#h.z3wnrgefu9v9)
 * [Parking](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.nx1t9vsyicvo)
 
 ## Map
@@ -21,6 +24,7 @@ permalink: /events/washington-dc/christmas/
 
 
 
+![Afternoon Tea Willard](/FirstFamilies/assets/images/AfternoonTea.jpg)
 
 ## [Afternoon Tea](https://washington.intercontinental.com/food-drink/peacock-alley-tea/)
 
@@ -33,9 +37,9 @@ Hours: Friday, Saturday, and Sunday – 1:00 p.m. and 3:30 p.m. seating
 Make your reservation via [OpenTable](https://www.opentable.com/r/willard-peacock-alley-tea-reservations-washington?restref=1014928&lang=en-US&ot_source=Restaurant%20website) or call +1 202 942 7010
 
 
-![White House Visitor Center](/FirstFamilies/assets/images/AfternoonTea.jpg)
 
 
+![White House Visitor Center](/FirstFamilies/assets/images/WhiteHouseVisitorCenter.jpg)
 
 ## [White House Visitor Center](https://www.nps.gov/whho/planyourvisit/white-house-visitor-center.htm)
 
@@ -43,7 +47,18 @@ The White House Visitor Center, located at 1450 Pennsylvania Ave. NW ([map](http
 
 Open every day 7:30 AM–4:00 PM
 
-![White House Visitor Center](/FirstFamilies/assets/images/WhiteHouseVisitorCenter.jpg)
+
+![DAR Library and Museum](/FirstFamilies/assets/images/darLibraryMuseum.jpg)
+
+## DAR Library & Museum
+
+Monday-Friday: 8:30 a.m. – 4:00 p.m. Saturday: 9:00 a.m. – 5:00 p.m.
+
+The DAR Library is closed on all federal holidays.
+
+[Girl Scout Badge Program](https://www.dar.org/museum/education/girl-scout-badge-programs). Requires 10 scouts minimum and currently $10 per scout
+
+![President's Park](/FirstFamilies/assets/images/PresidentsPark.jpg)
 
 ## [President's Park](https://www.nps.gov/whho/planyourvisit/explore-president-s-park.htm)
 
@@ -55,7 +70,7 @@ The [northern trail](https://www.nps.gov/whho/planyourvisit/explore-the-northern
 
 The [southern trail](https://www.nps.gov/whho/planyourvisit/explore-the-southern-trail.htm) leaves the visitor center and winds its way around the magnificent open parade ground known as the Ellipse, past monuments, memorials, and fountains, ending at the fence surrounding the White House South Lawn.
 
-![President's Park](/FirstFamilies/assets/images/PresidentsPark.jpg)
+
 
 ## [National Christmas Tree](https://www.thenationaltree.org/)
 
@@ -77,7 +92,11 @@ December 1 till December 23. 6:00 p.m. to 6:45 p.m. and 7:15 p.m. to 8:00 p.m.
 
 The Willard Hotel is located at 1401 Pennsylvania Avenue ([MAP](https://www.google.com/maps/place/InterContinental+The+Willard+Washington+D.c./@38.8963163,-77.0324718,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x2bd5468bc23e2458)), just two blocks east of [The White House](https://dcbikeblogger.wordpress.com/tag/white-house-peace-vigil/). It is a luxury hotel, with a history of famous guests over the years. In addition to Lincoln, Presidents Taylor, Fillmore, Pierce, Buchanan, Lincoln, Taft, Wilson, Coolidge and Harding all stayed at the Willard. President Grant also stayed there, and frequented the Willard lobby during his presidency, where he coined the term “lobbyists.” And two vice-presidents actually lived there during their terms in office. Martin Luther King, Jr., wrote his famous “I Have a Dream” speech in his hotel room at the Willard in 1963 in the days before delivering it from [the steps of the Lincoln Memorial](https://dcbikeblogger.wordpress.com/2015/04/14/a-memorial-within-a-memorial/) during the March on Washington for Jobs and Freedom. The Willard also hosted Julia Ward Howe, who wrote the words for The Battle Hymn of the Republic in her room at the hotel early one morning. Among the Willard’s many other notable guests are P. T. Barnum, Mark Twain, Walt Whitman, General Tom Thumb, Samuel Morse, the Duke of Windsor, Harry Houdini, Gypsy Rose Lee, Gloria Swanson, Emily Dickinson, Charles Dickens, and Buffalo Bill.
 
+![St Johns Episcopal](/FirstFamilies/assets/images/stJohnsEpiscopal.jpg)
+
 ## [St. John’s, Lafayette Square](https://stjohns-dc.org/about/calendar/)
+
+Beginning with James Madison, until the present, every person who has held the office of President of the United States has attended a service at St. John’s. Several early Presidents were communicants, as were more recent ones. Thus, St. John’s is known as “the Church of the Presidents” and is registered as a National Historic Landmark. Pew 54 is the President’s Pew, and is reserved for the President’s use when in attendance at the church. St. John’s has more than 1,000 members. Newcomers to the Washington area are invited to become members of the parish, and visitors are always welcome at services and parish activities.
 
 11:00 am Choral Eucharist
 
