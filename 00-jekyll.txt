@@ -6,6 +6,7 @@ It is a public repository
 I have used AI to generate Logo.
 I am building it with Jekyll using CodeSpace.
 I have also installed Sveltia CMS.
+Currently I am using theme: Minimal Mistakes
 I have created a new page: https://firstfamiliesus.github.io/FirstFamilies/events/washington-dc/cathedral/
 However it does not show up under Washington DC drop down which is under Events drop-down box. 
 
