@@ -1,22 +1,12 @@
 ---
-layout: single
+layout: default
 title: "National Cathedral"
 permalink: /events/washington-dc/cathedral/
-sidebar:
-  nav: "dc_events"
+parent: "Washington DC"
+grand_parent: "Events"
 ---
 
-[The National Cathedral](https://www.firstfamilies.us/events/washington-dc#h.u1yntlf5cq8z)
 
-[Open City Cafe](https://www.firstfamilies.us/events/washington-dc#h.upy9uxomettp)
-
-[All Hallows Guild](https://www.firstfamilies.us/events/washington-dc#h.k175gz39h1nt)
-
-[Kirkin’ O’ The Tartan](https://www.firstfamilies.us/events/washington-dc#h.7dkqi8s5g7rk)
-
-[National Zoo](https://www.firstfamilies.us/events/washington-dc#h.u6e5vzcok0r8)
-
-[Duke's Counter](https://www.firstfamilies.us/events/washington-dc#h.ua1soctwb60i)
 
 
 
