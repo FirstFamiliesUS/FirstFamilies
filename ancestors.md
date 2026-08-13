@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Our Ancestors"
 permalink: /ancestors/
 ---
