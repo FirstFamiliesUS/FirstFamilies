@@ -1,9 +1,9 @@
 ---
-layout: single
-title: "Christmas in DC"
+layout: default
+title: "Washington DC Christmas"
 permalink: /events/washington-dc/christmas/
-sidebar:
-  nav: "dc_events"
+parent: "Washington DC"
+grand_parent: "Events"
 ---
 
 
