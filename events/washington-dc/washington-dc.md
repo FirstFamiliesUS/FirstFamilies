@@ -4,15 +4,7 @@ title: "Washington DC"
 permalink: /events/washington-dc/
 ---
 
-[The National Cathedral](https://www.firstfamilies.us/events/washington-dc#h.u1yntlf5cq8z)
 
-[Open City Cafe](https://www.firstfamilies.us/events/washington-dc#h.upy9uxomettp)
-
-[All Hallows Guild](https://www.firstfamilies.us/events/washington-dc#h.k175gz39h1nt)
-
-[National Zoo](https://www.firstfamilies.us/events/washington-dc#h.u6e5vzcok0r8)
-
-[Duke's Counter](https://www.firstfamilies.us/events/washington-dc#h.ua1soctwb60i)
 
 [Washington Monument](https://www.firstfamilies.us/events/washington-dc#h.2o30fzpyj3p1)
 
@@ -21,8 +13,6 @@ permalink: /events/washington-dc/
 [National Society Daughters of The American Colonists](https://www.firstfamilies.us/events/washington-dc#h.glc4kidg57v2)
 
 [National Society United States Daughters of 1812](https://www.firstfamilies.us/events/washington-dc#h.g6oxg6c7n4fh)
-
-[Kirkin’ O’ The Tartan](https://www.firstfamilies.us/events/washington-dc#h.7dkqi8s5g7rk)
 
 [Lincoln Memorial](https://www.firstfamilies.us/events/washington-dc#h.z8ubrp2c4z49)
 
@@ -36,8 +26,6 @@ permalink: /events/washington-dc/
 
 [Big Bus Tours](https://www.firstfamilies.us/events/washington-dc#h.ht7u7mn95p9u)
 
-[Colonial Parking - The Washington Harbour](https://www.firstfamilies.us/events/washington-dc#h.ws0wktl8lpyl)
-
 [Cherry Blossoms River Cruise](https://www.firstfamilies.us/events/washington-dc#h.6xk0wxwuhq0)
 
 [Nick's Riverside Grill](https://www.firstfamilies.us/events/washington-dc#h.bmfx1d88ugy3)
@@ -46,54 +34,9 @@ permalink: /events/washington-dc/
 
 [National Society Colonial Dames 17th Century](https://www.firstfamilies.us/events/washington-dc#h.vegkenc4rk7w)
 
+[Colonial Parking - The Washington Harbour](https://www.firstfamilies.us/events/washington-dc#h.ws0wktl8lpyl)
 
 
-![National Cathedral](/FirstFamilies/assets/images/NationalCathedral.jpg)
-
-## [The National Cathedral](https://cathedral.org/calendar/)
-
-The Cathedral administers the Sacrament of [Holy Baptism](https://cathedral.org/worship/baptisms-weddings-funerals/holy-baptism/) on the days recommended in the Book of Common Prayer: All Saints’ Day in the fall, the Feast of the Baptism of our Lord in January, at the Great Vigil of Easter in the spring, and the Day of Pentecost in the early summer. In addition to these dates, baptism is also offered on the Last Sunday after the Epiphany and the second Sunday in July.
-
-3101 Wisconsin Ave. NW Washington, DC 20016
-
-Phone:(202) 537-6200 info@cathedral.org
-
-
-![Open City Cafe](/FirstFamilies/assets/images/openCityCafe.jpg)
-
-## Open City Cafe
-
-Open City at the National Cathedral is a cafe where locals, visitors and the various communities gather to share a table and enjoy thoughtfully crafted fare. At Open City at the National Cathedral you can linger over a latte, have a quiet lunch, or enjoy a brunch date with friends under the backdrop of the National Cathedral. Families, students and tourists call us one the small gems of our nation’s capital. We offer espresso drinks in the Northern Italian tradition, home made pastries, and sandwiches served on hand-crafted rustic breads. [Menu](https://www.opencitycathedraldc.com/).
-
-![All Hallows Guild](/FirstFamilies/assets/images/allHallowsGuild.jpg)
-
-## [All Hallows Guild](https://allhallowsguild.org/events/)
-
-All Hallows Guild was founded in 1916 to provide for the care and beautification of the grounds of Washington National Cathedral. The Guild works closely with the horticultural staff to preserve this historic landscape and raises funds for renovation and renewal of the gardens.
-
-![National Zoo](/FirstFamilies/assets/images/nationalZoo.jpg)
-
-## [National Zoo](https://nationalzoo.si.edu/visit)
-
-Grounds Open: 8 a.m. to 4 p.m.; last admittance is at 3 p.m.
-
-If you plan to drive and park at the Zoo, you must reserve a Paid Parking Pass online before your visit. Parking is available for a flat rate of $30, and spaces are extremely limited. All cars must enter through the main vehicle entrance at [3001 Connecticut Ave, NW](https://www.google.com/maps/place/3001-3047+Connecticut+Ave+NW,+Washington,+DC+20008/@38.9298861,-77.0563008,18z/data=!3m1!4b1!4m5!3m4!1s0x89b7c82abc366d1d:0x891dca391cea57aa!8m2!3d38.929884!4d-77.0552065)
-
-[Entry Pass](https://secure.nationalzoo.si.edu/events#tn-events-calendar-view-month)
-
-[Reserve Parking Pass](https://secure.nationalzoo.si.edu/events#tn-events-calendar-view-month)
-
-![Duke's Counter](/FirstFamilies/assets/images/dukesCounter.jpg)
-
-## [Duke's Counter](https://www.dukesgrocery.com/dukescounter)
-
-Across from the main entrance to the National Zoo, our trim, white-walled gastropub welcomes locals, families and tourists alike with the hearty portions and friendly service that Duke's is known for, with a Kids Menu plus convenient delivery and carry out options.
-
-Choose from eight draught beers, fine wines and seasonal cocktails from the copper top bar, which is a great place to catch sports. The sun-splashed patio is a great place to relax, and we regularly host special events.
-
-Cheers!
-
-![Washington Monument](/FirstFamilies/assets/images/washingtonMonument.jpg)
 
 ## Washington Monument
 
@@ -147,21 +90,6 @@ Washington, DC, 20005
 ![St Andrews Society](/FirstFamilies/assets/images/stAndrewsSociety.jpg)
 
 
-## [Kirkin’ O’ The Tartan](https://saintandrewsociety.org/events/kirkin/)
-
-T he St. Andrew’s Society has conducted the Kirkin’ Service at the National Cathedral. Reserved seating in the National Cathedral is available for this service in reserved areas. Reservations are free to all Members and Guests and they may be obtained from the Society’s Sergeant-at-Arms and Kirkin’ Chairman David S. McKenzie. For seating , please e-mail the Chairman at caberman162@yahoo.com
-
-3:30 PM– All guests must take their seats in either the general congregation area or in reserved seats in the Front Nave or Great Choir (see reservation instructions below.)
-
-3:45 PM – Society Members (preferably in kilts) will line up behind the Color Guard and Pipes & Drums for the Procession. (See instructions, below.)
-
-4:00 PM– Procession and service commences.
-
-5:00 PM– Pipes & Drums and Scottish Highland Dancing concert
-
-6:00 PM – Dinner with the Society
-
-![Lincoln Memorial](/FirstFamilies/assets/images/lincolnMemorial.jpg)
 
 ## Lincoln Memorial
 
