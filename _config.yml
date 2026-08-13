@@ -32,12 +32,20 @@ github_username:  jekyll
 og_image: "/assets/images/logo.png"
 
 
-# Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.28.0"
-minimal_mistakes_skin: "dark"
+# Site Settings
+title: "First Families"
+description: "Genealogy and History of First Families"
+
+# Theme Settings
+remote_theme: just-the-docs/just-the-docs
+
+# Search & Navigation Settings
+search_enabled: true
+heading_anchors: true
+
+# Plugins
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
