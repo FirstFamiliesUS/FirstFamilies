@@ -40,6 +40,7 @@ description: "Genealogy and History of First Families"
 remote_theme: just-the-docs/just-the-docs
 
 # Search & Navigation Settings
+permalink: pretty
 search_enabled: true
 heading_anchors: true
 
