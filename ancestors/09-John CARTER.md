@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "CPT John Carter"
 permalink: /ancestors/carter/john/
 ---

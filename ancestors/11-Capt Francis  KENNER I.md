@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Capt. Francis Kenner I"
 permalink: /ancestors/kenner/francis1/
 ---

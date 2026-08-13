@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Emily Sharp"
 permalink: /ancestors/sharp/emily/
 ---

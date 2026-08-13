@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Swindell Family"
 permalink: /ancestors/swindell/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Virginia Fuqua"
 permalink: /ancestors/fuqua/virginia/
 ---

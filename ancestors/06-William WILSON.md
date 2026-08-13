@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "PVT William Wilson"
 permalink: /ancestors/wilson/william2/
 ---

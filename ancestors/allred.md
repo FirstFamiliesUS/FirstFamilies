@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Allred Family"
 permalink: /ancestors/allred/
 ---

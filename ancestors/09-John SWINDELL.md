@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "PVT John Swindell"
 permalink: /ancestors/swindell/john/
 ---

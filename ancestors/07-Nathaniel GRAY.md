@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "PVT Nathaniel gray"
 permalink: /ancestors/gray/nathaniel/
 ---

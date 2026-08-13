@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Isabell Pratt"
 permalink: /ancestors/pratt/isabell/
 ---

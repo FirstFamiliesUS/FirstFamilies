@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Edward Bower"
 permalink: /ancestors/bower/edward/
 ---

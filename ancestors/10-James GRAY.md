@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "James Gray I"
 permalink: /ancestors/gray/james1/
 ---

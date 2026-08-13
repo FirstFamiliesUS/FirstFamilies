@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Hannah Howson"
 permalink: /ancestors/howson/hannah/
 ---

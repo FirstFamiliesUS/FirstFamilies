@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Jemima Richardson"
 permalink: /ancestors/richardson/jemima/
 ---

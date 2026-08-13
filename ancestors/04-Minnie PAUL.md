@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Paul"
 permalink: /ancestors/paul/minnie
 ---

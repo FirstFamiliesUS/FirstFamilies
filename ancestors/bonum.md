@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Bonum Family"
 permalink: /ancestors/bonum/
 ---

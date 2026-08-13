@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Elizabeth Wolfe"
 permalink: /ancestors/wolfe/
 ---

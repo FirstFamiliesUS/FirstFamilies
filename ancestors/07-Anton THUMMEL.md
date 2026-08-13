@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Anton Thummel"
 permalink: /ancestors/thummel/anton/
 ---

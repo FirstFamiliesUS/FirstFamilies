@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Philpott Family"
 permalink: /ancestors/philpott/
 ---

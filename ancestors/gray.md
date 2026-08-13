@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Gray Family"
 permalink: /ancestors/gray/
 ---

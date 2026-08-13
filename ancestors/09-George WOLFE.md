@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Forefather George Wolfe"
 permalink: /ancestors/wolfe/george/
 ---

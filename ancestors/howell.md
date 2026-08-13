@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Howell Family"
 permalink: /ancestors/howell/
 ---

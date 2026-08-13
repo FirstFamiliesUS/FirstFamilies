@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Lee Family"
 permalink: /ancestors/lee/
 ---

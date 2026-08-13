@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Forefather Thomas Seymore"
 permalink: /ancestors/seymore/thomas/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "William Richardson"
 permalink: /ancestors/richardson/william/
 ---

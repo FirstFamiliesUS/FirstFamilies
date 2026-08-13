@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Capt. Richard Kenner II (The Burgess)"
 permalink: /ancestors/kenner/richard2/
 ---

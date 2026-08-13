@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Mary Ann Brown"
 permalink: /ancestors/brown/mary/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Elizabeth Lee"
 permalink: /ancestors/lee/elizabeth/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Honorable CPT Thomas Carter (The Burgess)"
 permalink: /ancestors/carter/thomas/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Chase Family"
 permalink: /ancestors/chase/
 ---

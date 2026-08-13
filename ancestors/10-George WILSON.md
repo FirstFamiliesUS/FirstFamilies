@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "George Wilson II"
 permalink: /ancestors/wilson/george2/
 ---

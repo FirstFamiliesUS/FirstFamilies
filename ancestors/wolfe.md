@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Wolfe Family"
 permalink: /ancestors/wolfe/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Capt. Robert Sharp"
 permalink: /ancestors/sharp/robert/
 ---

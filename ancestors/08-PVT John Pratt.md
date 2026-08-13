@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "PVT John Pratt"
 permalink: /ancestors/pratt/john/
 ---

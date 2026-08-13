@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Mary Horner"
 permalink: /ancestors/horner/mary/
 ---

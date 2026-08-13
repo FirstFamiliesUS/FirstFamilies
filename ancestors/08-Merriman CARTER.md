@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "CPL Merriman Carter"
 permalink: /ancestors/carter/merriman/
 ---

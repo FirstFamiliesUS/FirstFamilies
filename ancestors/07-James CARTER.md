@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "James Carter"
 permalink: /ancestors/carter/james/
 ---

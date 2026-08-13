@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Gray"
 permalink: /ancestors/gray/robert2/
 gallery:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Forefather CPT Robert Philpott (The Burgess)"
 permalink: /ancestors/philpott/robert/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Warrington Staton"
 permalink: /ancestors/staton/warrington/
 ---

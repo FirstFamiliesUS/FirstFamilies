@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Midshipman Howson Kenner"
 permalink: /ancestors/kenner/midshipman/
 ---

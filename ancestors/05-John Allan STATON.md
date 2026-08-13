@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "John Allan Staton"
 permalink: /ancestors/staton/allan/
 ---

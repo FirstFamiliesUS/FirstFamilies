@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "PVT Solomon Seymore"
 permalink: /ancestors/seymore/solomon/
 ---

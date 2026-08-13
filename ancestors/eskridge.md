@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Eskridge Family"
 permalink: /ancestors/eskridge/
 ---

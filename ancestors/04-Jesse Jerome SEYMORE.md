@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Jesse Jerome Seymore"
 permalink: /ancestors/seymore/jerome/
 ---

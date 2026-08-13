@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Narcissa Carter"
 permalink: /ancestors/carter/narcissa/
 ---

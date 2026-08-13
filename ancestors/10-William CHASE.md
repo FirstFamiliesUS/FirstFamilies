@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "William Chase III"
 permalink: /ancestors/chase/william3/
 ---

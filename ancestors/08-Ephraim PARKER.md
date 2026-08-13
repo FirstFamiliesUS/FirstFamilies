@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "PVT Ephraim Parker"
 permalink: /ancestors/parker/ephraim
 ---

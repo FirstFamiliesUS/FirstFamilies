@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Regulator James Gray"
 permalink: /ancestors/gray/james1/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Holman"
 permalink: /ancestors/holman/
 ---

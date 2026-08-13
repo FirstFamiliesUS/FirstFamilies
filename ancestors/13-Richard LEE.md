@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Colonel Richard Lee"
 permalink: /ancestors/lee/richard1/
 ---

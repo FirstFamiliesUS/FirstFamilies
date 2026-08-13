@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Rebecca Bonum"
 permalink: /ancestors/bonum/rebecca/
 ---

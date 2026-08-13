@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Alsey Seymore"
 permalink: /ancestors/seymore/alsey/
 ---

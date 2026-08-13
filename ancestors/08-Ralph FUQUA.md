@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Ralph Fuqua"
 permalink: /ancestors/fuqua/ralph/
 ---

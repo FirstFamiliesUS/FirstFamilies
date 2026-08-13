@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Aulsy Wilson"
 permalink: /ancestors/wilson/aulsy/
 ---

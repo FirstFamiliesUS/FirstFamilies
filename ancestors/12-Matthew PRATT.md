@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Forefather Matthew Pratt"
 permalink: /ancestors/pratt/matthew/
 ---

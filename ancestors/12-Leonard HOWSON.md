@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Capt. Leonard Howson I"
 permalink: /ancestors/howson/leonard/
 ---

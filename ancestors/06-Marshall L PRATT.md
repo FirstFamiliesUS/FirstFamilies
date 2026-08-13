@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "PVT Marshall Lincoln Pratt"
 permalink: /ancestors/pratt/marshall
 ---

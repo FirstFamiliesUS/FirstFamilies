@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "PVT Francis Kenner"
 permalink: /ancestors/kenner/francis/
 ---

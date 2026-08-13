@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "CPT John Horner"
 permalink: /ancestors/horner/john2/
 ---

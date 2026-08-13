@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Rev. George Kenner"
 permalink: /ancestors/kenner/george/
 ---

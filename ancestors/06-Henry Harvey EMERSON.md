@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Deacon Henry H. Emerson"
 permalink: /ancestors/emerson/henry/
 ---

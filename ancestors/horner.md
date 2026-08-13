@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Horner Family"
 permalink: /ancestors/horner/
 ---

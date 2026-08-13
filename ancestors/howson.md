@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Howson Family"
 permalink: /ancestors/howson/
 ---

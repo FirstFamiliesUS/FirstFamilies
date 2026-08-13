@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Evalyn Gray"
 permalink: /ancestors/gray/evalyn/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Forefather COL George Eskridge (The Burgess)"
 permalink: /ancestors/eskridge/george2/
 ---

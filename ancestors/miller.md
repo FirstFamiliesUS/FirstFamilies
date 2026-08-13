@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Miller"
 permalink: /ancestors/miller/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "PVT Garland Wilson"
 permalink: /ancestors/wilson/garland/
 ---

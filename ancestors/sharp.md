@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Sharp Family"
 permalink: /ancestors/sharp/
 ---

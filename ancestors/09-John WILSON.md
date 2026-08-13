@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: SGT John Wilson"
 permalink: /ancestors/wilson/john/
 ---

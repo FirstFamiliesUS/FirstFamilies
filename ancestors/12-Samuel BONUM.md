@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Forefather Samuel Bonum"
 permalink: /ancestors/bonum/samuel/
 ---

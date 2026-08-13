@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Frederica Thummel"
 permalink: /ancestors/thummel/fredica/
 ---

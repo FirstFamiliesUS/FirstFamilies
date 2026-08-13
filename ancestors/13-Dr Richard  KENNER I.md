@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Forefather Dr. Richard Kenner I"
 permalink: /ancestors/kenner/richard1/
 ---

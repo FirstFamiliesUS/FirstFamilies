@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Ina Seymore"
 permalink: /ancestors/seymore/ina/
 ---

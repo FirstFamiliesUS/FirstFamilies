@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "My Wilson Family"
 permalink: /ancestors/wilson/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Staton Family"
 permalink: /ancestors/staton/
 ---

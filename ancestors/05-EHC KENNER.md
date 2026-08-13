@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Rev. EHC Kenner"
 permalink: /ancestors/kenner/ehc/
 ---

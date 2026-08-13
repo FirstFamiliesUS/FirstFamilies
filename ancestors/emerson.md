@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Emerson Family"
 permalink: /ancestors/emerson/
 ---

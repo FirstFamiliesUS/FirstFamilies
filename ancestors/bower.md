@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Bower Family"
 permalink: /ancestors/bower/
 ---

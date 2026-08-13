@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Thummel Family"
 permalink: /ancestors/thummel/
 ---

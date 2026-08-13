@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "PVT James Latham"
 permalink: /ancestors/latham/james/
 ---

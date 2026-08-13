@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Samuel Pratt II"
 permalink: /ancestors/pratt/samuel2/
 ---

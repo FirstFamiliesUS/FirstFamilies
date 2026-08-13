@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Fuqua Family"
 permalink: /ancestors/fuqua/
 ---

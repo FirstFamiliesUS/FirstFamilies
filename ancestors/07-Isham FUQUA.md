@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Patriot Rev. Isham Fuqua"
 permalink: /ancestors/fuqua/isham/
 ---

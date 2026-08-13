@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Seymore"
 permalink: /ancestors/seymore/
 ---

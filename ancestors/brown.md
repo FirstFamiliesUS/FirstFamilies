@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Brown Family"
 permalink: /ancestors/brown/
 ---

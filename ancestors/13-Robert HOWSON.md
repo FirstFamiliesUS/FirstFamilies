@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Forefather Capt. Robert Howson I"
 permalink: /ancestors/howson/robert/
 ---

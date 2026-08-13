@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "John Howell"
 permalink: /ancestors/howell/john/
 ---

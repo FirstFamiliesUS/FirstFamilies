@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Susannah Emerson"
 permalink: /ancestors/emerson/susannah/
 ---

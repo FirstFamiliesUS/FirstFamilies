@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Jotham Parker"
 permalink: /ancestors/parker/jotham/
 ---

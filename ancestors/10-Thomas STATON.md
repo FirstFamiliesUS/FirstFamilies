@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "PVT Thomas Staton"
 permalink: /ancestors/staton/thomas/
 ---

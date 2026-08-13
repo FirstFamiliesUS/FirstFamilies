@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Rev. Jesse Jerome Fuqua I"
 permalink: /ancestors/fuqua/jerome/
 ---

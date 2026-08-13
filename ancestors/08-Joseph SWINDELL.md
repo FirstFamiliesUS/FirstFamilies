@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Joseph Swindell"
 permalink: /ancestors/swindell/joseph/
 ---

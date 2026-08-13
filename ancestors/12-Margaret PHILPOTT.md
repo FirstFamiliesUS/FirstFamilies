@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Margaret Philpott"
 permalink: /ancestors/philpott/margaret/
 ---

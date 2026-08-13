@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Isaac Chase I"
 permalink: /ancestors/chase/isaac1/
 ---

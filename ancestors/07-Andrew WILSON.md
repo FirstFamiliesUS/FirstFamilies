@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Andrew Jackson Wilson"
 permalink: /ancestors/wilson/andrew/
 ---

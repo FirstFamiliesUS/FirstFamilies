@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Patriot Margaret Eskridge"
 permalink: /ancestors/eskridge/margaret/
 ---

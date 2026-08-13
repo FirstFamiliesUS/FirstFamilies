@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Honorable Skipwith Carter"
 permalink: /ancestors/carter/skipwith/
 ---

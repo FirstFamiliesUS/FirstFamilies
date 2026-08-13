@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "David Kenner"
 permalink: /ancestors/kenner/david/
 ---

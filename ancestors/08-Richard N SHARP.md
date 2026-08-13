@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Rev. Richard N. Sharp"
 permalink: /ancestors/sharp/richard/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "The Honorable Howson Kenner I"
 permalink: /ancestors/kenner/howson/
 ---

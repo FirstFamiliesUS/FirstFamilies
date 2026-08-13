@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "PVT Franklin H. Seymore"
 permalink: /ancestors/seymore/franklin/
 ---

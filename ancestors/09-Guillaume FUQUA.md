@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Forefather Guillaume Fuqua"
 permalink: /ancestors/fuqua/guillaume/
 ---

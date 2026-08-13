@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "PVT James Howell"
 permalink: /ancestors/howell/james/
 ---
