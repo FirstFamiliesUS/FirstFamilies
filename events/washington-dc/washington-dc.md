@@ -2,6 +2,8 @@
 layout: single
 title: "Washington DC"
 permalink: /events/washington-dc/
+sidebar:
+  nav: "dc_events"
 ---
 
 
