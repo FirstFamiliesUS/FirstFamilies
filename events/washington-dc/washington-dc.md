@@ -1,42 +1,14 @@
 ---
-layout: single
+layout: default
 title: "Washington DC"
 permalink: /events/washington-dc/
-sidebar:
-  nav: "dc_events"
+parent: "Events"
+has_children: true
+nav_order: 1
 ---
 
-
-
-[Washington Monument](https://www.firstfamilies.us/events/washington-dc#h.2o30fzpyj3p1)
-
-[Colonial Dames Musuem](https://www.firstfamilies.us/events/washington-dc#h.3t3ozo5pqndh)
-
-[National Society Daughters of The American Colonists](https://www.firstfamilies.us/events/washington-dc#h.glc4kidg57v2)
-
-[National Society United States Daughters of 1812](https://www.firstfamilies.us/events/washington-dc#h.g6oxg6c7n4fh)
-
-[Lincoln Memorial](https://www.firstfamilies.us/events/washington-dc#h.z8ubrp2c4z49)
-
-[High Tea at the Willard Hotel](https://www.firstfamilies.us/events/washington-dc#h.heqsjbl5mii)
-
-[Ford's Theatre National Historic Site](https://www.firstfamilies.us/events/washington-dc#h.lpa7xyl6jcs)
-
-[Anderson House](https://www.firstfamilies.us/events/washington-dc#h.1am5zz1yzz1w)
-
-[Army and Navy Club](https://www.firstfamilies.us/events/washington-dc#h.v4kyia3jbcf6)
-
-[Big Bus Tours](https://www.firstfamilies.us/events/washington-dc#h.ht7u7mn95p9u)
-
-[Cherry Blossoms River Cruise](https://www.firstfamilies.us/events/washington-dc#h.6xk0wxwuhq0)
-
-[Nick's Riverside Grill](https://www.firstfamilies.us/events/washington-dc#h.bmfx1d88ugy3)
-
-[Potomac Water Taxi](https://www.firstfamilies.us/events/washington-dc#h.c677x2mzgs5j)
-
-[National Society Colonial Dames 17th Century](https://www.firstfamilies.us/events/washington-dc#h.vegkenc4rk7w)
-
-[Colonial Parking - The Washington Harbour](https://www.firstfamilies.us/events/washington-dc#h.ws0wktl8lpyl)
+# Washington DC Events
+Explore our Washington DC historical and seasonal event guides below.
 
 
 
