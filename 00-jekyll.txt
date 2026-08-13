@@ -1,15 +1,20 @@
-I already have an email address and domain name
-I want to build a website that is be Facebook, LinkedIn, Twitter, Discord, and Slack friendly.
-This will be a family blog and travel site
-It will be hosted on Github for https://github.com/davidjkenner/FirstFamilies
+I want to build a travel site that is be Facebook, LinkedIn, Twitter, Discord, and Slack friendly.
+I already have an gmail email address and domain name
+I have created a GitHub Organization (Best for branding without spending money)
+It will be hosted on Github for https://github.com/FirstFamiliesUS/FirstFamilies
 It is a public repository
-I will Create a GitHub Organization (Best for branding without spending money)
-I will use AI to generate Logo.
-I will build it with Jekyll using CodeSpace.
-Copilot Free includes: 2,000 code completions per month and "Limited chat and agent usage.
+I have used AI to generate Logo.
+I am building it with Jekyll using CodeSpace.
+I have also installed Sveltia CMS.
+I have created a new page: https://firstfamiliesus.github.io/FirstFamilies/events/washington-dc/cathedral/
+However it does not show up under Washington DC drop down which is under Events drop-down box. 
+
 I will purchase a template, ensuring your purchased theme uses the jekyll-seo-tag plugin and have Google Analytics built-in. 
 This site be monetize: Amazon Product Images (Zero Code);  Display Ads (Google AdSense) and The Expedia Group Affiliate Program.
 This site will have a Mailchimp Button "Subscribe to Updates".
+
+
+Copilot Free includes: 2,000 code completions per month and "Limited chat and agent usage.
 
 You must disclose that you make money from links. Amazon requires a specific phrase somewhere on your site: "As an Amazon Associate I earn from qualifying purchases." You should also have a clear disclaimer at the top of any travel post containing Expedia links.
 
