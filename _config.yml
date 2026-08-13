@@ -33,8 +33,14 @@ og_image: "/assets/images/logo.png"
 
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.28.0"
-minimal_mistakes_skin: "dark"
+remote_theme: just-the-docs/just-the-docs
+
+# Ensure your baseurl is set for GitHub Pages sub-folder hosting
+url: "https://firstfamiliesus.github.io"
+baseurl: "/FirstFamilies"
+
+# Color scheme options: light (default), dark, or auto
+color_scheme: dark
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
