@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Washington DC"
-permalink: /events/washington-dc/
-parent: "Events"
+title: "Washington D.C."
+parent: Events
 has_children: true
 nav_order: 1
 ---

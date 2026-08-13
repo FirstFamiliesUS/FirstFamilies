@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "National Cathedral"
-permalink: /events/washington-dc/cathedral/
-parent: "Washington DC"
-grand_parent: "Events"
+title: "Washington National Cathedral"
+parent: "Washington D.C."
+grand_parent: Events
+nav_order: 1
 ---
 
 
