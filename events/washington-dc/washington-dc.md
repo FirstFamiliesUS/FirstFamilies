@@ -197,7 +197,7 @@ Ford's Theatre National Historic Site, Ford's Theatre Museum, Petersen House (th
 [reserve tickets](https://fords.org/calendar/)
 
 
-![Anderson House](/FirstFamilies/assets/images/andersonHouse.jpg)
+![Anderson House](/FirstFamilies/assets/images/andersonHouse.png)
 
 ## [Anderson House](https://www.americanrevolutioninstitute.org/events)
 
@@ -207,7 +207,7 @@ The library is open by appointment Monday through Friday, 10 a.m. to 4 p.m. For 
 
 2118 Massachusetts Avenue, NW Washington, DC 20008
 
-![Army and Navy Club](/FirstFamilies/assets/images/armyNavyClub.jpg)
+![Army and Navy Club](/FirstFamilies/assets/images/armyNavyClub.png)
 
 ## [Army and Navy Club](https://armynavyclub.org/)
 
