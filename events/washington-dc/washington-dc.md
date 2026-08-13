@@ -16,12 +16,6 @@ permalink: /events/washington-dc/
 
 [Washington Monument](https://www.firstfamilies.us/events/washington-dc#h.2o30fzpyj3p1)
 
-[DAR Library & Museum](https://www.firstfamilies.us/events/washington-dc#h.7pfve7nks4qh)
-
-[White House](https://www.firstfamilies.us/events/washington-dc#h.qgcwgxfatvc)
-
-[White House Visitor Center](https://www.firstfamilies.us/events/washington-dc#h.och522cduy48)
-
 [Colonial Dames Musuem](https://www.firstfamilies.us/events/washington-dc#h.3t3ozo5pqndh)
 
 [National Society Daughters of The American Colonists](https://www.firstfamilies.us/events/washington-dc#h.glc4kidg57v2)
@@ -39,8 +33,6 @@ permalink: /events/washington-dc/
 [Anderson House](https://www.firstfamilies.us/events/washington-dc#h.1am5zz1yzz1w)
 
 [Army and Navy Club](https://www.firstfamilies.us/events/washington-dc#h.v4kyia3jbcf6)
-
-[St. John's Episcopal Church](https://www.firstfamilies.us/events/washington-dc#h.z3wnrgefu9v9)
 
 [Big Bus Tours](https://www.firstfamilies.us/events/washington-dc#h.ht7u7mn95p9u)
 
@@ -108,15 +100,9 @@ Cheers!
 [Reserve tickets online](https://www.recreation.gov/ticket/facility/234635) (recommended) or get free, [same-day tickets](https://www.nps.gov/wamo/planyourvisit/fees.htm#walkup) at the Washington Monument Lodge on 15th Street near the Washington Monument. You must have a ticket to enter the Washington Monument. Supplies are limited and advance reservations are strongly recommended. While there is not a national park entrance fee, a reservation fee applies to advance reservations.
 
 
-![DAR Library and Museum](/FirstFamilies/assets/images/darLibraryMuseum.jpg)
 
-## DAR Library & Museum
 
-Monday-Friday: 8:30 a.m. – 4:00 p.m. Saturday: 9:00 a.m. – 5:00 p.m.
 
-The DAR Library is closed on all federal holidays.
-
-[Girl Scout Badge Program](https://www.dar.org/museum/education/girl-scout-badge-programs). Requires 10 scouts minimum and currently $10 per scout
 
   
 
@@ -215,13 +201,9 @@ The Army and Navy Club Building is one of the tallest buildings in the city of W
 
 The Army and Navy Club is a private club located at 901 17th Street NW, Washington, D.C.
 
-![St Johns Episcopal](/FirstFamilies/assets/images/stJohnsEpiscopal.jpg)
 
-## [St. John's Episcopal Church](https://stjohns-dc.org/events/)
 
-Beginning with James Madison, until the present, every person who has held the office of President of the United States has attended a service at St. John’s. Several early Presidents were communicants, as were more recent ones. Thus, St. John’s is known as “the Church of the Presidents” and is registered as a National Historic Landmark. Pew 54 is the President’s Pew, and is reserved for the President’s use when in attendance at the church. St. John’s has more than 1,000 members. Newcomers to the Washington area are invited to become members of the parish, and visitors are always welcome at services and parish activities.
 
-16th and H Streets, NW, Washington, DC 20005• (202) 347-8766
 
 ![Big Bus Tours](/FirstFamilies/assets/images/bigBusTours.jpg)
 
@@ -231,11 +213,7 @@ Experience Washington DC's most famous landmarks and attractions with Big Bus To
 
 ![Colonial Parking](/FirstFamilies/assets/images/colonialParking.jpg)
 
-## [Colonial Parking - The Washington Harbour](https://maps.app.goo.gl/Txp4yZUDdTaj3G7UA)
 
-1010 Whitehurst Fwy NW, Washington, DC 20007
-
-![Cherry Blossoms River Cruise](/FirstFamilies/assets/images/cherryBlossumsRiverCruise.jpg)
 
 ## [Cherry Blossoms River Cruise](http://capitolrivercruises.com/)
 
@@ -273,3 +251,8 @@ The National Society Colonial Dames XVII Century, as a non-profit organization, 
 
 1300 New Hampshire Avenue, NW · Washington, DC 20036-1502 · Phone: 202-293-1700
 
+## [Colonial Parking - The Washington Harbour](https://maps.app.goo.gl/Txp4yZUDdTaj3G7UA)
+
+1010 Whitehurst Fwy NW, Washington, DC 20007
+
+![Cherry Blossoms River Cruise](/FirstFamilies/assets/images/cherryBlossumsRiverCruise.jpg)
