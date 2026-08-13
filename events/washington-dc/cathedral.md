@@ -1,7 +1,9 @@
 ---
 layout: single
-title: "The National Cathedral"
+title: "National Cathedral"
 permalink: /events/washington-dc/cathedral/
+sidebar:
+  nav: "dc_events"
 ---
 
 [The National Cathedral](https://www.firstfamilies.us/events/washington-dc#h.u1yntlf5cq8z)
