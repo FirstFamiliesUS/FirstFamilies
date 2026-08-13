@@ -3,14 +3,17 @@ main:
     url: /
   - title: "Events"
     url: /events/
+  - title: "Resources"
+    url: /resources/
+  - title: "Ancestors"
+    url: /ancestors/
+
+dc_events:
+  - title: "Washington DC"
     children:
-      - title: "Washington DC (Overview)"
+      - title: "DC Overview"
         url: /events/washington-dc/
       - title: "DC Christmas"
         url: /events/washington-dc/christmas/
       - title: "National Cathedral"
         url: /events/washington-dc/cathedral/
-  - title: "Resources"
-    url: /resources/
-  - title: "Ancestors"
-    url: /ancestors/
