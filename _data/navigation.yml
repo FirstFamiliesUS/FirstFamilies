@@ -1,16 +1,15 @@
 main:
   - title: "Home"
     url: /
-- title: "Events"
+  - title: "Events"
     url: /events/
     children:
-      - title: "Washington DC"
+      - title: "Washington DC (Overview)"
         url: /events/washington-dc/
-        children:
-          - title: "Christmas"
-            url: /events/washington-dc/christmas/
-          - title: "National Cathedral"
-            url: /events/washington-dc/cathedral/
+      - title: "DC Christmas"
+        url: /events/washington-dc/christmas/
+      - title: "National Cathedral"
+        url: /events/washington-dc/cathedral/
   - title: "Resources"
     url: /resources/
   - title: "Ancestors"
