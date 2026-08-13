@@ -1,10 +1,13 @@
 ---
-layout: single
-title: "Upcoming Events"
+layout: default
+title: "Events"
 permalink: /events/
+has_children: true
+nav_order: 2
 ---
 
-Welcome to the Events page. Here you can view upcoming family events and gatherings.
+# Events
+Welcome to our events directory. Select a location from the menu to explore.
 
 ## Family Calendar
 
