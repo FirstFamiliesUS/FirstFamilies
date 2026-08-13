@@ -1,21 +1,11 @@
 ---
 layout: single
-title: "Washington DC"
+title: "Christmas in DC"
 permalink: /events/washington-dc/christmas/
 ---
 
 
-* [Afternoon Tea](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.upr9jsp1l197)
-* [White House Visitor Center](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.52u8agwbwy74)
-* [President's Park](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.kbjtnb8p7b8w)
-* [National Christmas Tree](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.cp707dc7d7e6)
-* [Willard Holiday Caroling](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.oqok8rif9f6d)
-* [Willard Museum](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.j606fnsj4avi)
-* [DAR Library & Museum](https://www.firstfamilies.us/events/washington-dc#h.7pfve7nks4qh)
-* [White House](https://www.firstfamilies.us/events/washington-dc#h.qgcwgxfatvc)
-* [St. John’s, Lafayette Square](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.748kp66k4rxm)
-* [St. John's Episcopal Church](https://www.firstfamilies.us/events/washington-dc#h.z3wnrgefu9v9)
-* [Parking](https://www.firstfamilies.us/events/washington-dc/national-christmas-tree#h.nx1t9vsyicvo)
+
 
 ## Map
 
