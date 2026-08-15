@@ -32,5 +32,6 @@ Petty Officer Jerome Kenner
 ### ACCOLADES:
 
 - Presidential Memorial Certificate
+- [Petty Officer Jerome Kenner Funeral with Full Military Honors](https://youtu.be/wVqm4q3siPQ)
 
 - [The Kenner Chronicle]({{ '/docs/kennerchronicle.pdf' | relative_url }})
