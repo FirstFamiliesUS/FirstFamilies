@@ -76,6 +76,7 @@ Civil War:
 War of 1812:
 - [US Daughters of War of 1812](https://members.usdaughters1812.org/i4a/memberDirectory/index.cfm?directory_id=43&pageID=3817)
 - [General Society of the War of 1812](https://www.facebook.com/1812MD)
+- [Maryland War of 1812](https://md1812.org/history-resources/geneology/)
 
 War of Independence:
 - [Sons of American Revolution](https://sarpatriots.sar.org/patriot/search)
