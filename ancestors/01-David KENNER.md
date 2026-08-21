@@ -7,7 +7,7 @@ permalink: /ancestors/kenner/david/
 
 David J. Kenner
 
-- Born: 17 June 1964  `#1, #2`
+- Born: 17 June
 - Birth Place: [Poplar Bluff](https://en.wikipedia.org/wiki/Poplar_Bluff,_Missouri), [Butler County](https://www.familysearch.org/en/wiki/Butler_County,_Missouri_Genealogy), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)    `#1, #2`
 - Died: Living
 - Burial Place:  N/A
