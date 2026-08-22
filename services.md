@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Services
+title: Events
 permalink: /services/
 custom_color:
 custom_font: 
@@ -9,7 +9,7 @@ scroll_top_btn:
 
 # Header / Hero Section
 hero:
-  title: "Our Services"
+  title: "Our Ancestors"
   subtitle: "We are a creative company that focuses on establishing long-term relationships with customers."
   bg_color: "bg-soft-primary"
 
