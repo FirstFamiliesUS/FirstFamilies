@@ -1,0 +1,23 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Events"
+    url: /events/
+    children:
+      - title: "Maryland"
+        url: /events/maryland/
+      - title: "Virginia"
+        url: /events/virginia/
+      - title: "Washington DC"
+        url: /events/washington-dc/
+        children:
+          - title: "DC Overview"
+            url: /events/washington-dc/
+          - title: "DC Christmas"
+            url: /events/washington-dc/christmas/
+          - title: "National Cathedral"
+            url: /events/washington-dc/cathedral/
+  - title: "Resources"
+    url: /resources/
+  - title: "Ancestors"
+    url: /ancestors/

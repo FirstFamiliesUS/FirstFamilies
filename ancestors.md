@@ -1,0 +1,77 @@
+---
+layout: default
+title: "Our Ancestors"
+permalink: /ancestors/
+---
+
+Welcome to the Ancestors directory. 
+
+Here we will trace the lineages, stories, and historical records of the First Families.
+
+*(You can add your family trees, photos, and historical documents here!)*
+
+
+
+# First Families
+
+## [Allred]({{ '/ancestors/allred/' | relative_url }})
+
+## [Bower]({{ '/ancestors/bower/' | relative_url }})
+
+## [Bonum]({{ '/ancestors/bonum/' | relative_url }})
+
+## [Brown]({{ '/ancestors/brown/' | relative_url }})
+
+## [Carter]({{ '/ancestors/carter/' | relative_url }})
+
+## [Chase]({{ '/ancestors/chase/' | relative_url }})
+
+## [Emerson]({{ '/ancestors/emerson/' | relative_url }})
+
+## [Eskridge]({{ '/ancestors/eskridge/' | relative_url }})
+
+## [Fuqua]({{ '/ancestors/fuqua/' | relative_url }})
+
+## [Gray]({{ '/ancestors/gray/' | relative_url }})
+
+## [Holman]({{ '/ancestors/holman/' | relative_url }})
+
+## [Horner]({{ '/ancestors/horner/' | relative_url }})
+
+## [Howell]({{ '/ancestors/howell/' | relative_url }})
+
+## [Howson]({{ '/ancestors/howson/' | relative_url }})
+
+## [Kenner]({{ '/ancestors/kenner/' | relative_url }})
+
+## [Latham]({{ '/ancestors/latham/' | relative_url }})
+
+## [Lee]({{ '/ancestors/lee/' | relative_url }})
+
+## [Lyell]({{ '/ancestors/lyell/' | relative_url }})
+
+## [Miller]({{ '/ancestors/miller/' | relative_url }})
+
+## [Parker]({{ '/ancestors/parker/' | relative_url }})
+
+## [Paul]({{ '/ancestors/paul/' | relative_url }})
+
+## [Philpott]({{ '/ancestors/philpott/' | relative_url }})
+
+## [Pratt]({{ '/ancestors/pratt/' | relative_url }})
+
+## [Richardson]({{ '/ancestors/richardson/' | relative_url }})
+
+## [Seymore]({{ '/ancestors/seymore/' | relative_url }})
+
+## [Sharp]({{ '/ancestors/sharp/' | relative_url }})
+
+## [Staton]({{ '/ancestors/staton/' | relative_url }})
+
+## [Swindell]({{ '/ancestors/swindell/' | relative_url }})
+
+## [Thummel]({{ '/ancestors/thummel/' | relative_url }})
+
+## [Wilson]({{ '/ancestors/wilson/' | relative_url }})
+
+## [Wolfe]({{ '/ancestors/wolfe/' | relative_url }})
