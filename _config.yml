@@ -1,3 +1,4 @@
+# General Settings
 title: "First Families of the United States"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -10,6 +11,22 @@ logo: "/assets/images/logo.png"
 twitter_username: jekyllrb
 github_username:  jekyll
 og_image: "/assets/images/logo.png"
+favicon: "/assets/img/favicon.webp"
+# Sitewide Logo
+logo_1x: "/assets/images/logo.png"
+
+# Seo Meta Settings
+meta_og_image: "/assets/img/meta-image.webp"  # Image used for OpenGraph (Facebook, LinkedIn)
+meta_twitter_image: "/assets/img/meta-image.webp"  # Image used for Twitter cards
+
+# Site Wide Theme Color Setting
+color_scheme: # Aqua Fuchsia Grape Green Leaf Navy Orange Pink Purple Red Sky Violet Yellow
+
+# Site Wide Theme Font Setting
+font_scheme: # dm , space , thicccboi , urbanist
+
+# Site Wide Font Icons Setting (FontAwesome, Unicons, etc.)
+font_icons_scheme: # https://unicons.iconscout.com/release/v4.0.8/css/line.css
 
 # Build settings
 markdown: kramdown
