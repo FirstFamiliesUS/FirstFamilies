@@ -1,7 +1,7 @@
 ---
 layout: default
 title: First Families in the United States
-permalink: /
+permalink: /demo7/
 custom_color: purple
 custom_font: thicccboi
 scroll_top_btn:
