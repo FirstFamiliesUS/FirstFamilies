@@ -1,6 +1,6 @@
 ---
-layout: demo7
-title: First Families in the United States
+layout: default
+title: Demo 7
 permalink: /demo7/
 custom_color: purple
 custom_font: thicccboi
