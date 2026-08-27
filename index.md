@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Demo 17
-permalink: /demo17/
+layout: page
+title: Home
+permalink: /
 custom_color: navy
 scroll_top_btn:
   enable: true 
