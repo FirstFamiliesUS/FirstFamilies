@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: default
 title: Surnames starting with K
 permalink: /surnames/k/
 ---
 
-### K
+K
 
-* [Kenner](/path-to-kenner-profile/)
+* [Kenner](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/surnames/kenner/kenner.md)
 * Kennedy
 * Klein
