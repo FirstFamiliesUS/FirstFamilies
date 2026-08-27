@@ -6,6 +6,6 @@ permalink: /surnames/k/
 
 # K
 
-* [Kenner](/surnames/kenner/)
+* [Kenner](/surnames/kenner/kenner.md)
 * Kennedy
 * Klein
