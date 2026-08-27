@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Kenner Family"
-permalink: /ancestors/kenner/
+permalink: /surnames/kenner/
 sidebar:
   nav: "ancestors_sidebar"
 header:
