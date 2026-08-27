@@ -6,6 +6,6 @@ permalink: /surnames/k/
 
 # K
 
-* [Kenner](/surnames/kenner/)
+* [Kenner](https://firstfamiliesus.github.io/FirstFamilies/surnames/kenner/)
 * Kennedy
 * Klein
