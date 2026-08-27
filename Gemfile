@@ -1,15 +1,27 @@
 source "https://rubygems.org"
 
-# This forces your Codespace to use the exact same versions as GitHub's live servers
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "4.4.1"  # Update to match installed version
+gem "webrick", "~> 1.8"
 
-# Required for Minimal Mistakes theme
-gem "jekyll-include-cache", group: :jekyll_plugins
+group :jekyll_plugins do
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-paginate-v2"
+  gem "jekyll-sass-converter"
+  gem 'jekyll-watch'
+  gem 'jekyll-tagging'
+  gem 'jekyll-archives'
+  gem 'jekyll-toc'
+  gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+  gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7' if Gem.win_platform?
+  gem "csv" 
+  gem "logger"
+  gem "base64"
+end
 
-gem "csv", "~> 3.3"
+# Updated vendor compilation dependencies
+gem "sassc"
 
-gem "webrick", "~> 1.9"
-
-gem "bigdecimal", "~> 4.1"
-gem "logger", "~> 1.7"
-gem "ostruct", "~> 0.6.3"
+# Image processing
+gem "image_processing"

@@ -1,0 +1,62 @@
+signin:
+  enabled: true
+  title: "Sign In"
+  text: "Please enter your credentials to continue."
+  form:
+    email:
+      placeholder: "Enter your email"
+      label: "Email"
+    password:
+      placeholder: "Enter your password"
+      label: "Password"
+    submit: "Sign In"
+  forgot_password: "Forgot your password?"
+  no_account: "Don't have an account?"
+  signup: "Sign up"
+
+signin:
+  enabled: true
+  title: "Sign In"
+  text: "Please enter your credentials to continue."
+  form:
+    email:
+      placeholder: "Enter your email"
+      label: "Email"
+    password:
+      placeholder: "Enter your password"
+      label: "Password"
+    submit: "Sign In"
+  forgot_password: "Forgot your password?"
+  no_account: "Don't have an account?"
+  signup: "Sign up"
+
+signup:
+  enabled: true
+  title: "Create Account"
+  text: "Create your account to get started."
+  form:
+    name:
+      placeholder: "Enter your name"
+      label: "Name"
+    email:
+      placeholder: "Enter your email"
+      label: "Email"
+    password:
+      placeholder: "Enter your password"
+      label: "Password"
+    confirm_password:
+      placeholder: "Confirm your password"
+      label: "Confirm Password"
+    submit: "Create Account"
+  yes_account: "Already have an account?"
+  signin: "Sign in"
+  social_signin:
+    - url: "#"
+      button: "btn-facebook"
+      icon: "uil uil-facebook"
+    - url: "#"
+      button: "btn-google"
+      icon: "uil uil-google"
+    - url: "#"
+      button: "btn-twitter"
+      icon: "uil uil-twitter"
