@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Alabama
 permalink: /events/alabama/
 ---
