@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Emerson Family"
-permalink: /ancestors/emerson/
+permalink: /surnames/emerson/
 ---
 
 - [Susannah Emerson]({{ '/ancestors/emerson/susannah' | relative_url }})
