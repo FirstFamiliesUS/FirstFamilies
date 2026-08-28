@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Philpott Family"
-permalink: /ancestors/philpott/
+permalink: /surnames/philpott/
 ---
 
 - [Margaret Philpott]({{ '/ancestors/philpott/margaret' | relative_url }})
