@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "My Wilson Family"
-permalink: /ancestors/wilson/
+permalink: /surnames/wilson/
 ---
 
 - [Aulsy Wilson]({{ '/ancestors/wilson/aulsy' | relative_url }})
