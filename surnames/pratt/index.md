@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Pratt"
-permalink: /ancestors/pratt/
+permalink: /surnames/pratt/
 ---
 
 - [Isabell Pratt]({{ '/ancestors/pratt/isabell' | relative_url }})
