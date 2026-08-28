@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Carter Family"
-permalink: /ancestors/carter/
+permalink: /surnames/carter/
 ---
 
 - [Narcissa Carter]({{ '/ancestors/carter/narcissa' | relative_url }})
