@@ -6,14 +6,15 @@ custom_color: navy
 scroll_top_btn:
   enable: true 
 
+# Children Section
 Children:
-- [Sons of the American Legion](https://en.wikipedia.org/wiki/Sons_of_the_American_Legion)
-- [Sons of Union Veterans Juniors](https://suvcw.org/membership?utm_source=copilot.com)
-- [Daughters of Union Veterans of the Civil War](https://www.duvcw.org/membership)
-- [Children of the Confederacy](https://hqudc.org/join-the-udc/children-of-the-confederacy/)
-- [National Society Children of 1812](https://nsc1812.weebly.com/our-patriots.html)   
-- [National Society of the Children of the American Revolution](https://nscar.org/)
-- [National Society Children of the American Colonists](https://www.nationalsocietycac.org/)
+  - "[Sons of the American Legion](https://en.wikipedia.org/wiki/Sons_of_the_American_Legion)"
+  - "[Sons of Union Veterans Juniors](https://suvcw.org/membership?utm_source=copilot.com)"
+  - "[Daughters of Union Veterans of the Civil War](https://www.duvcw.org/membership)"
+  - "[Children of the Confederacy](https://hqudc.org/join-the-udc/children-of-the-confederacy/)"
+  - "[National Society Children of 1812](https://nsc1812.weebly.com/our-patriots.html)"
+  - "[National Society of the Children of the American Revolution](https://nscar.org/)"
+  - "[National Society Children of the American Colonists](https://www.nationalsocietycac.org/)"
 
 # Hero Section
 hero:
@@ -168,39 +169,42 @@ cta:
     url: "#"
     class: btn btn-primary rounded-pill
 ---
-<div class="content-wrapper">
-<header class="wrapper bg-gray">
-{% include components/navbar/navbar.html 
-    classList="fancy navbar-light navbar-bg-light caret-none"
-    fancy=true
-    logoAlt="logo-dark"
-    otherClassList="w-100 d-flex ms-auto"
-    otherSocial=true
-%}
-</header>
-<!-- /header -->
 
-{% include components/sections/demo17/hero.html %}
-<section class="wrapper bg-gray">
-  <div class="container">
-   <div class="card shadow-none my-n13 my-md-n15 my-lg-n17">
-      <div class="card-body py-12 py-lg-14 px-lg-11 py-xl-16 px-xl-13">
-{% include components/sections/demo17/services.html %}
-{% include components/sections/demo17/strategy.html %}
-{% include components/sections/demo17/facts.html %}
-{% include components/sections/demo17/testimonials.html %}
-{% include components/sections/demo17/case-studies.html %}
-{% include components/sections/demo17/team.html %}
-{% include components/sections/demo17/why-choose.html %}
-{% include components/sections/demo17/cta.html %}
+<div class="content-wrapper">
+  <header class="wrapper bg-gray">
+    {% include components/navbar/navbar.html 
+        classList="fancy navbar-light navbar-bg-light caret-none"
+        fancy=true
+        logoAlt="logo-dark"
+        otherClassList="w-100 d-flex ms-auto"
+        otherSocial=true
+    %}
+  </header>
+  <!-- /header -->
+
+  {% include components/sections/demo17/hero.html %}
+  
+  <section class="wrapper bg-gray">
+    <div class="container">
+      <div class="card shadow-none my-n13 my-md-n15 my-lg-n17">
+        <div class="card-body py-12 py-lg-14 px-lg-11 py-xl-16 px-xl-13">
+          {% include components/sections/demo17/services.html %}
+          {% include components/sections/demo17/strategy.html %}
+          {% include components/sections/demo17/facts.html %}
+          {% include components/sections/demo17/testimonials.html %}
+          {% include components/sections/demo17/case-studies.html %}
+          {% include components/sections/demo17/team.html %}
+          {% include components/sections/demo17/why-choose.html %}
+          {% include components/sections/demo17/cta.html %}
+        </div>
+      </div>
+    </div>
+  </section>
 </div>
-</div>
-</div>
-</section>
-</div>
+
 {% include components/footer/footer.html 
-  style="three-column"
-  container_padding="pt-20 pt-lg-21 pb-7"
-  bg_color="bg-dark" 
-  text_color="text-inverse"
+    style="three-column"
+    container_padding="pt-20 pt-lg-21 pb-7"
+    bg_color="bg-dark" 
+    text_color="text-inverse"
 %}
