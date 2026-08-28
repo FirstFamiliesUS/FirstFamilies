@@ -6,5 +6,6 @@ permalink: /surnames/w/
 
 # W
 
-* Wilson
-* Wolfe
+* [Wilson](https://firstfamiliesus.github.io/FirstFamilies/surnames/wilson/)
+* [Wolfe](https://firstfamiliesus.github.io/FirstFamilies/surnames/wolfe/)
+
