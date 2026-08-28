@@ -433,50 +433,48 @@ main:
         url: /surnames/w/
 
   - title: Events
-  url: "#"
-  sublinks:
-    - title: Alabama
-      url: /events/alabama/
-    - title: Connecticut
-      url: /events/connecticut/
-    - title: Delaware
-      url: /events/delaware/
-    - title: Georgia
-      url: /events/georgia/
-    - title: Maine
-      url: /events/maine/
-    - title: Maryland
-      url: /events/maryland/
-    - title: Massachusetts
-      url: /events/massachusetts/
-    - title: Mississippi
-      url: /events/mississippi/
-    - title: New Hampshire
-      url: /events/new-hampshire/
-    - title: New Jersey
-      url: /events/new-jersey/
-    - title: New York
-      url: /events/new-york/
-    - title: North Carolina
-      url: /events/north-carolina/
-    - title: Ohio
-      url: /events/ohio/
-    - title: Rhode Island
-      url: /events/rhode-island/
-    - title: Pennsylvania
-      url: /events/pennsylvania/
-    - title: South Carolina
-      url: /events/south-carolina/
-    - title: Tennessee
-      url: /events/tennessee/
-    - title: Virginia
-      url: /events/virginia/
-    - title: Washington DC
-      url: /events/washington-dc/
-    - title: West Virginia
-      url: /events/west-virginia/
-
-
+    type: dropdown
+    items:
+      - title: Alabama
+        url: /events/alabama/
+      - title: Connecticut
+        url: /events/connecticut/
+      - title: Delaware
+        url: /events/delaware/
+      - title: Georgia
+        url: /events/georgia/
+      - title: Maine
+        url: /events/maine/
+      - title: Maryland
+        url: /events/maryland/
+      - title: Massachusetts
+        url: /events/massachusetts/
+      - title: Mississippi
+        url: /events/mississippi/
+      - title: New Hampshire
+        url: /events/new-hampshire/
+      - title: New Jersey
+        url: /events/new-jersey/
+      - title: New York
+        url: /events/new-york/
+      - title: North Carolina
+        url: /events/north-carolina/
+      - title: Ohio
+        url: /events/ohio/
+      - title: Rhode Island
+        url: /events/rhode-island/
+      - title: Pennsylvania
+        url: /events/pennsylvania/
+      - title: South Carolina
+        url: /events/south-carolina/
+      - title: Tennessee
+        url: /events/tennessee/
+      - title: Virginia
+        url: /events/virginia/
+      - title: Washington DC
+        url: /events/washington-dc/
+      - title: West Virginia
+        url: /events/west-virginia/
 
 # One-page navigation configuration
 onepage:
