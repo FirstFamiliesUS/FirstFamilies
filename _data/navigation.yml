@@ -184,8 +184,8 @@ main:
             url: /signup2/
           - title: Terms
             url: /terms/
-      - title: Onepage
-        url: /onepage/
+      - title: Resources
+        url: /resources/
 
   - title: Projects
     type: dropdown-columns
