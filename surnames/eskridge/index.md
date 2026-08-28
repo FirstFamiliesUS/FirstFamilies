@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Eskridge Family"
-permalink: /ancestors/eskridge/
+permalink: /surnames/eskridge/
 ---
 
 - [Patriot Margaret Eskrige]({{ '/ancestors/eskridge/margaret' | relative_url }})
