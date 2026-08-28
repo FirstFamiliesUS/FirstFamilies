@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Seymore"
-permalink: /ancestors/seymore/
+permalink: /surnames/seymore/
 ---
 
 - [Ina Seymore]({{ '/ancestors/seymore/ina' | relative_url }})
