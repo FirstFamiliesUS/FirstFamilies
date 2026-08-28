@@ -397,39 +397,40 @@ main:
             url: /docs/elements/tooltips-popovers/
           - title: Typography
             url: /docs/elements/typography/
-- title: Surnames
-  url: #
-  children:
-    - title: A
-      url: /surnames/a/
-    - title: B
-      url: /surnames/b/
-    - title: C
-      url: /surnames/c/
-    - title: E
-      url: /surnames/e/
-    - title: F
-      url: /surnames/f/
-    - title: G
-      url: /surnames/g/
-    - title: H
-      url: /surnames/h/
-    - title: K
-      url: /surnames/k/
-    - title: L
-      url: /surnames/l/
-    - title: M
-      url: /surnames/m/
-    - title: P
-      url: /surnames/p/
-    - title: R
-      url: /surnames/r/
-    - title: S
-      url: /surnames/s/
-    - title: T
-      url: /surnames/t/
-    - title: W
-      url: /surnames/w/
+
+  - title: Surnames
+    type: dropdown
+    items:
+      - title: A
+        url: /surnames/a/
+      - title: B
+        url: /surnames/b/
+      - title: C
+        url: /surnames/c/
+      - title: E
+        url: /surnames/e/
+      - title: F
+        url: /surnames/f/
+      - title: G
+        url: /surnames/g/
+      - title: H
+        url: /surnames/h/
+      - title: K
+        url: /surnames/k/
+      - title: L
+        url: /surnames/l/
+      - title: M
+        url: /surnames/m/
+      - title: P
+        url: /surnames/p/
+      - title: R
+        url: /surnames/r/
+      - title: S
+        url: /surnames/s/
+      - title: T
+        url: /surnames/t/
+      - title: W
+        url: /surnames/w/
 
 # One-page navigation configuration
 onepage:
@@ -446,7 +447,3 @@ onepage:
       url: "#testimonials"
     - text: Contact
       url: "#contact"
-
-
-
-      
