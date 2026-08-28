@@ -8,6 +8,6 @@ permalink: /surnames/c/
 
 * [Carter](https://firstfamiliesus.github.io/FirstFamilies/surnames/carter/)
 * [Chase](https://firstfamiliesus.github.io/FirstFamilies/surnames/chase/)
-* [Childress](https://firstfamiliesus.github.io/FirstFamilies/surnames/Childress/)
+* [Childress](https://firstfamiliesus.github.io/FirstFamilies/surnames/childress/)
 
 
