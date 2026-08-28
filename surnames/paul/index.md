@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Paul"
-permalink: /ancestors/paul/
+permalink: /surnames/paul/
 ---
 
 - [Minnie Paul]({{ '/ancestors/paul/minnie' | relative_url }})
