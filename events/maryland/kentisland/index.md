@@ -1,3 +1,30 @@
+---
+layout: default
+title: Kent Island, Maryland
+permalink: /events/maryland/kentisland/
+---
+
+# Kent Island, Maryland
+
+## Overview
+[Paste your converted Kent Island overview text from Pandoc here]
+
+![Kent Island Historical Map](https://firstfamiliesus.github.io/FirstFamilies/assets/images/kentisland/map.png)
+
+## Early Settlers & Genealogy
+* **Kent Island Surnames**: [Surname Index PDF](https://kentislandheritagesociety.org/wp-content/uploads/2018/05/Surname-List-update.pdf)
+
+## Historical Events & Resources
+[Paste the remaining content from your Kent Island document here]
+
+---
+
+*Last updated: August 2026*
+
+
+
+
+
 Every Father\'s Day, Christ Church (Episcopal) carries on a wonderful
 tradition where the Bishop gives a special blessing to all the fathers.
 The history here runs incredibly deep. Founded by our ancestors Robert
