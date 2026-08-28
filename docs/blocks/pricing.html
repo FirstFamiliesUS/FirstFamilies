@@ -1,4 +1,4 @@
---- 
+---
 layout: doc
 title: Blocks - Pricing
 description: Copy any custom block snippet below and paste it on your page to build your website easily.
@@ -33,8 +33,8 @@ pricing4:
   button_url: "#"
 ---
   
-  {% if page.pricing1.enable %}
-  {% assign pricing_data = site.data.pricing_plans %}
+{% if page.pricing1.enable %}
+{% assign pricing_data = site.data.pricing_plans %}
 <section id="snippet-1" class="wrapper bg-light wrapper-border">
   <div class="container pt-15 pt-md-17 pb-13 pb-md-15">
     <div class="row gy-6">
@@ -233,7 +233,8 @@ pricing1:
   <!-- /.container -->
 </section>
 {% endif %}
-    <!-- /section -->
+<!-- /section -->
+
 {% if page.pricing2.enable %}
 {% assign pricing_data = site.data.pricing_plans %}
 <section id="snippet-2" class="wrapper bg-light wrapper-border">
@@ -376,7 +377,6 @@ pricing1:
       </div>
     </div>
   </div>
-  </div>
 </section>
 {% endraw %}
               {% endhighlight %}
@@ -401,7 +401,6 @@ pricing2:
   enable: true
   title: "Our Pricing"
   description: "We offer great prices, premium products and quality service for your business."
-
               {% endhighlight %}
             </div>
           </div>
@@ -411,10 +410,10 @@ pricing2:
   </div>
 </section>
 {% endif %}
-    <!-- /section -->
-    
-    {% if page.pricing3.enable %}
-    {% assign pricing_data = site.data.pricing_plans %}
+<!-- /section -->
+  
+{% if page.pricing3.enable %}
+{% assign pricing_data = site.data.pricing_plans %}
 <section id="snippet-3" class="wrapper bg-light wrapper-border">
   <div class="container pt-15 pt-md-17 pb-13 pb-md-15">
     <h2 class="display-5 mb-7 text-center">{{ page.pricing3.title }}</h2>
@@ -569,11 +568,11 @@ pricing2:
           <div class="code-wrapper-inner">
             <button class="btn-clipboard" data-clipboard-target="#data3">Copy</button>
             <div id="data3">
-              {% highlight Yaml %}
+              {% highlight yaml %}
 pricing3:
   enable: true
-  title: "Our Pricing"       
-  {% endhighlight %}
+  title: "Our Pricing"
+              {% endhighlight %}
             </div>
           </div>
         </div>
@@ -582,161 +581,139 @@ pricing3:
   </div>
 </section>
 {% endif %}
-    <!-- /section -->
-    {% if page.pricing4.enable %}
-    {% assign pricing_data = site.data.pricing_plans %}
-    <section id="snippet-4" class="wrapper bg-light wrapper-border">
-      <div class="container pt-15 pt-md-17 pb-11 pb-md-12">
-        <h2 class="display-4 mb-3">{{ page.pricing4.title }}</h2>
-        <p class="lead fs-lg">{{ page.pricing4.description }}</p>
-        <div class="row">
-          <div class="col-lg-4">
-            <p>{{ page.pricing4.trial_text }} <a href="{{ page.pricing4.trial_link }}" class="hover">{{ page.pricing4.trial_link_text }}</a></p>
-          </div>
-        </div>
-        <a href="{{ page.pricing4.button_url }}" class="btn btn-primary rounded-pill mt-2">{{ page.pricing4.button_text }}</a>
-        
-        <div class="table-responsive mt-10 mt-lg-0">
-          <table class="table table-borderless table-striped text-center">
-            <thead>
-              <tr>
-                <th class="w-25"></th>
-                {% for plan in pricing_data.plans %}
-                <th>
-                  <div class="h4 mb-1">{{ plan.name }}</div>
-                  <div class="fs-15 fw-normal text-secondary">{{ plan.pricing.monthly.currency }}{{ plan.pricing.monthly.amount }} / {{ plan.pricing.monthly.duration }}</div>
-                </th>
-                {% endfor %}
-              </tr>
-            </thead>
-            <tbody>
-              {% for feature in pricing_data.plans[0].features %}
-              <tr>
-                <td class="option text-start">{{ feature.name }}</td>
-                {% for plan in pricing_data.plans %}
-                  {% assign matching_feature = plan.features[forloop.parentloop.index0] %}
-                  <td>
-                    {% if matching_feature.values[0] != "" and matching_feature.values[0] != "-" %}
-                      {{ matching_feature.values[0] }}
-                    {% elsif matching_feature.enabled %}
-                      <i class="uil uil-check bg-pale-primary text-primary rounded-circle p-1"></i>
-                    {% else %}
-                      -
-                    {% endif %}
-                  </td>
-                {% endfor %}
-              </tr>
-              {% endfor %}
-            </tbody>
-            <tfoot>
-              <tr>
-                <th class="w-25"></th>
-                {% for plan in pricing_data.plans %}
-                  <th>
-                    {% for button in plan.choose_plan_btn %}
-                    <a href="{{ button.link }}" class="btn btn-soft-primary rounded-pill mt-1">{{ button.text }}</a>
-                    {% endfor %}
-                  </th>
-                {% endfor %}
-              </tr>
-            </tfoot>
-          </table>
-        </div>
+<!-- /section -->
+
+{% if page.pricing4.enable %}
+{% assign pricing_data = site.data.pricing_plans %}
+<section id="snippet-4" class="wrapper bg-light wrapper-border">
+  <div class="container pt-15 pt-md-17 pb-11 pb-md-12">
+    <h2 class="display-4 mb-3">{{ page.pricing4.title }}</h2>
+    <p class="lead fs-lg">{{ page.pricing4.description }}</p>
+    <div class="row">
+      <div class="col-lg-4">
+        <p>{{ page.pricing4.trial_text }} <a href="{{ page.pricing4.trial_link }}" class="hover">{{ page.pricing4.trial_link_text }}</a></p>
       </div>
+    </div>
+    <a href="{{ page.pricing4.button_url }}" class="btn btn-primary rounded-pill mt-2">{{ page.pricing4.button_text }}</a>
     
-      <div class="container pb-15 pb-md-17">
-        <div class="card">
-          <div class="card-footer border-0 position-relative">
-            <a class="collapse-link collapsed" data-bs-toggle="collapse" href="#collapse-snippet-4-html">
-              View HTML code
-            </a>
-          </div>
-          <div id="collapse-snippet-4-html" class="card-footer bg-dark p-0 accordion-collapse collapse">
-            <div class="code-wrapper">
-              <div class="code-wrapper-inner">
-                <button class="btn-clipboard" data-clipboard-target="#html4">Copy</button>
-                <div id="html4">
-                  {% highlight html %}
-    {% raw %}
-    <section class="wrapper bg-light wrapper-border">
-      <div class="container pt-15 pt-md-17 pb-11 pb-md-12">
-        <h2 class="display-4 mb-3">Our Pricing</h2>
-        <p class="lead fs-lg">We offer <span class="underline">great prices</span>, premium and quality products for your business.</p>
-        <div class="row">
-          <div class="col-lg-4">
-            <p>Enjoy a <a href="#" class="hover">free 30-day trial</a> and experience the full service. No credit card required!</p>
-          </div>
-        </div>
-        <a href="#" class="btn btn-primary rounded-pill mt-2">See All Prices</a>
-        
-        <div class="table-responsive mt-10 mt-lg-0">
-          <div class="table-responsive mt-10 mt-lg-0">
-            <table class="table table-borderless table-striped text-center">
-              <thead>
-                <tr>
-                  <th class="w-25"></th>
-                  {% for plan in pricing_data.plans %}
-                  <th>
-                    <div class="h4 mb-1">{{ plan.name }}</div>
-                    <div class="fs-15 fw-normal text-secondary">{{ plan.pricing.monthly.currency }}{{ plan.pricing.monthly.amount }} / {{ plan.pricing.monthly.duration }}</div>
-                  </th>
-                  {% endfor %}
-                </tr>
-              </thead>
-              <tbody>
-                {% for feature in pricing_data.plans[0].features %}
-                <tr>
-                  <td class="option text-start">{{ feature.name }}</td>
-                  {% for plan in pricing_data.plans %}
-                    {% assign matching_feature = plan.features[forloop.parentloop.index0] %}
-                    <td>
-                      {% if matching_feature.values[0] != "" and matching_feature.values[0] != "-" %}
-                        {{ matching_feature.values[0] }}
-                      {% elsif matching_feature.enabled %}
-                        <i class="uil uil-check bg-pale-primary text-primary rounded-circle p-1"></i>
-                      {% else %}
-                        -
-                      {% endif %}
-                    </td>
-                  {% endfor %}
-                </tr>
-                {% endfor %}
-              </tbody>
-              <tfoot>
-                <tr>
-                  <th class="w-25"></th>
-                  {% for plan in pricing_data.plans %}
-                    <th>
-                      {% for button in plan.choose_plan_btn %}
-                      <a href="{{ button.link }}" class="btn btn-soft-primary rounded-pill mt-1">{{ button.text }}</a>
-                      {% endfor %}
-                    </th>
-                  {% endfor %}
-                </tr>
-              </tfoot>
-            </table>
-          </div>
-        </div>
+    <div class="table-responsive mt-10 mt-lg-0">
+      <table class="table table-borderless table-striped text-center">
+        <thead>
+          <tr>
+            <th class="w-25"></th>
+            {% for plan in pricing_data.plans %}
+            <th>
+              <div class="h4 mb-1">{{ plan.name }}</div>
+              <div class="fs-15 fw-normal text-secondary">{{ plan.pricing.monthly.currency }}{{ plan.pricing.monthly.amount }} / {{ plan.pricing.monthly.duration }}</div>
+            </th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for feature in pricing_data.plans[0].features %}
+          <tr>
+            <td class="option text-start">{{ feature.name }}</td>
+            {% for plan in pricing_data.plans %}
+              {% assign matching_feature = plan.features[forloop.parentloop.index0] %}
+              <td>
+                {% if matching_feature.values[0] != "" and matching_feature.values[0] != "-" %}
+                  {{ matching_feature.values[0] }}
+                {% elsif matching_feature.enabled %}
+                  <i class="uil uil-check bg-pale-primary text-primary rounded-circle p-1"></i>
+                {% else %}
+                  -
+                {% endif %}
+              </td>
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <!-- /.container -->
+
+  <div class="container pb-15 pb-md-17">
+    <div class="card">
+      <!-- HTML Section -->
+      <div class="card-footer border-0 position-relative">
+        <a class="collapse-link collapsed" data-bs-toggle="collapse" href="#collapse-snippet-4-html">
+          View HTML code
+        </a>
       </div>
-    </section>
-    {% endraw %}
-                  {% endhighlight %}
-                </div>
-              </div>
+      <div id="collapse-snippet-4-html" class="card-footer bg-dark p-0 accordion-collapse collapse">
+        <div class="code-wrapper">
+          <div class="code-wrapper-inner">
+            <button class="btn-clipboard" data-clipboard-target="#html4">Copy</button>
+            <div id="html4">
+              {% highlight html %}
+{% raw %}
+<section class="wrapper bg-light">
+  <div class="container pt-15 pt-md-17 pb-11 pb-md-12">
+    <h2 class="display-4 mb-3">Our Pricing</h2>
+    <p class="lead fs-lg">We offer <span class="underline">great prices</span>, premium and quality products for your business.</p>
+    <div class="row">
+      <div class="col-lg-4">
+        <p>Enjoy a <a href="#" class="hover">free 30-day trial and experience the full service. No credit card required!</a></p>
+      </div>
+    </div>
+    <a href="#" class="btn btn-primary rounded-pill mt-2">See All Prices</a>
+    
+    <div class="table-responsive mt-10 mt-lg-0">
+      <table class="table table-borderless table-striped text-center">
+        <thead>
+          <tr>
+            <th class="w-25"></th>
+            {% for plan in pricing_data.plans %}
+            <th>
+              <div class="h4 mb-1">{{ plan.name }}</div>
+              <div class="fs-15 fw-normal text-secondary">{{ plan.pricing.monthly.currency }}{{ plan.pricing.monthly.amount }} / {{ plan.pricing.monthly.duration }}</div>
+            </th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for feature in pricing_data.plans[0].features %}
+          <tr>
+            <td class="option text-start">{{ feature.name }}</td>
+            {% for plan in pricing_data.plans %}
+              {% assign matching_feature = plan.features[forloop.parentloop.index0] %}
+              <td>
+                {% if matching_feature.values[0] != "" and matching_feature.values[0] != "-" %}
+                  {{ matching_feature.values[0] }}
+                {% elsif matching_feature.enabled %}
+                  <i class="uil uil-check bg-pale-primary text-primary rounded-circle p-1"></i>
+                {% else %}
+                  -
+                {% endif %}
+              </td>
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+{% endraw %}
+              {% endhighlight %}
             </div>
           </div>
-    
-          <div class="card-footer border-0 position-relative">
-            <a class="collapse-link collapsed" data-bs-toggle="collapse" href="#collapse-snippet-4-json">
-              View Yaml data
-            </a>
-          </div>
-          <div id="collapse-snippet-4-json" class="card-footer bg-dark p-0 accordion-collapse collapse">
-            <div class="code-wrapper">
-              <div class="code-wrapper-inner">
-                <button class="btn-clipboard" data-clipboard-target="#data4">Copy</button>
-                <div id="data4">
-                  {% highlight yaml %}
+        </div>
+      </div>
+
+      <!-- JSON Data Section -->
+      <div class="card-footer border-0 position-relative">
+        <a class="collapse-link collapsed" data-bs-toggle="collapse" href="#collapse-snippet-4-json">
+          View Yaml data
+        </a>
+      </div>
+      <div id="collapse-snippet-4-json" class="card-footer bg-dark p-0 accordion-collapse collapse">
+        <div class="code-wrapper">
+          <div class="code-wrapper-inner">
+            <button class="btn-clipboard" data-clipboard-target="#data4">Copy</button>
+            <div id="data4">
+              {% highlight yaml %}
 pricing4:
   enable: true
   title: "Our Pricing"
@@ -746,14 +723,12 @@ pricing4:
   trial_link_text: "free 30-day trial and experience the full service. No credit card required!"
   button_text: "See All Prices"
   button_url: "#"
-                  {% endhighlight %}
-                </div>
-              </div>
+              {% endhighlight %}
             </div>
           </div>
         </div>
       </div>
-    </section>
-    {% endif %}
-    <!-- /section -->
- 
+    </div>
+  </div>
+</section>
+{% endif %}

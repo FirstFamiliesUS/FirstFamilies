@@ -6,4 +6,5 @@ permalink: /surnames/g/
 
 # G
 
-* Gray
+* [Gray](https://firstfamiliesus.github.io/FirstFamilies/surnames/gray/)
+

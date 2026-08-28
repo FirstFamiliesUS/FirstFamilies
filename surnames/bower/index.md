@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Bower Family"
-permalink: /ancestors/bower/
+permalink: /surnames/bower/
 ---
 
 - [Annette Bower]({{ '/ancestors/bower/annette' | relative_url }})
