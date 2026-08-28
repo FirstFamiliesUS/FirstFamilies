@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Fuqua Family"
-permalink: /ancestors/fuqua/
+permalink: /surnames/fuqua/
 ---
 
 - [Virginia Fuqua]({{ '/ancestors/fuqua/virginia' | relative_url }})
