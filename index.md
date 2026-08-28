@@ -5,7 +5,6 @@ permalink: /
 custom_color: navy
 scroll_top_btn:
   enable: true 
----
 
 
 
