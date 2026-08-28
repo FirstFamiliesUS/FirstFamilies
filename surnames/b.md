@@ -6,6 +6,7 @@ permalink: /surnames/b/
 
 # B
 
-* Bonum
-* Bower
-* Brown
+* [Bonum](https://firstfamiliesus.github.io/FirstFamilies/surnames/bonum/)
+* [Bower](https://firstfamiliesus.github.io/FirstFamilies/surnames/bower/)
+* [Brown](https://firstfamiliesus.github.io/FirstFamilies/surnames/brown/)
+
