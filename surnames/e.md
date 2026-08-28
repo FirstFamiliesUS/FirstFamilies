@@ -6,5 +6,6 @@ permalink: /surnames/e/
 
 # E
 
-* Emerson
-* Eskridge
+* [Emerson](https://firstfamiliesus.github.io/FirstFamilies/surnames/emerson/)
+* [Eskridge](https://firstfamiliesus.github.io/FirstFamilies/surnames/eskridge/)
+
