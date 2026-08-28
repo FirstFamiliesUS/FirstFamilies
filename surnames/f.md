@@ -6,4 +6,5 @@ permalink: /surnames/f/
 
 # F
 
-* Fuqua
+* [Fuqua](https://firstfamiliesus.github.io/FirstFamilies/surnames/fuqua/)
+
