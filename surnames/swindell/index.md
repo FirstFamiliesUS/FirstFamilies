@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Swindell Family"
-permalink: /ancestors/swindell/
+permalink: /surnames/swindell/
 ---
 
 - [Elizabeth Swindell]({{ '/ancestors/swindell/emily' | relative_url }})
