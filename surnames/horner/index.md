@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Horner Family"
-permalink: /ancestors/horner/
+permalink: /surnames/horner/
 ---
 
 - [Mary Horner]({{ '/ancestors/horner/mary' | relative_url }})
