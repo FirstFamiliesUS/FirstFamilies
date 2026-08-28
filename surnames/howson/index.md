@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Howson Family"
-permalink: /ancestors/howson/
+permalink: /surnames/howson/
 ---
 
 - [Hannah Howson]({{ '/ancestors/howson/hannah' | relative_url }})
