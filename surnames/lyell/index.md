@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lyell"
-permalink: /ancestors/lyell/
+permalink: /surnames/lyell/
 ---
 
 - [Mary Lyell]({{ '/ancestors/lyell/mary' | relative_url }})
