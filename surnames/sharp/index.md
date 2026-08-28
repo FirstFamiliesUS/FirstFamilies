@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Sharp Family"
-permalink: /ancestors/sharp/
+permalink: /surnames/sharp/
 ---
 
 - [Emily Sharp]({{ '/ancestors/sharp/emily' | relative_url }})
