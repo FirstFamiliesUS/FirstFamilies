@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Brown Family"
-permalink: /ancestors/brown/
+permalink: /surnames/brown/
 ---
 
 - [Mary Brown]({{ '/ancestors/brown/mary' | relative_url }})
