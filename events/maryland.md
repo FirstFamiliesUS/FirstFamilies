@@ -33,6 +33,11 @@ This program is built around the people and places that make Maryland so special
 ![Maryland Junior Ranger](https://firstfamiliesus.github.io/FirstFamilies/assets/images/mdJrRanger.png)
 
 
+## Places
+
+* [Kent Island](https://firstfamiliesus.github.io/FirstFamilies/events/maryland/kentisland/)
+
+
 ## Coming Soon
 
 More detailed family histories, migration stories, and research resources will be added to this page over time.
