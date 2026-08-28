@@ -43,3 +43,4 @@ More detailed family histories, migration stories, and research resources will b
 ---
 
 *Last updated: August 2026*
+* [Annapolis]({{ '/events/maryland/annapolis/' | relative_url }})
