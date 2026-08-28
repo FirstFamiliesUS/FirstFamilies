@@ -5,6 +5,10 @@ on:
     branches: [ main, master ]
   workflow_dispatch:
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 permissions:
   contents: read
   pages: write
@@ -24,10 +28,16 @@ jobs:
           bundler-cache: true
 
       - name: Build with Jekyll
+        # Added production environment variable here
+        env:
+          JEKYLL_ENV: production 
         run: bundle exec jekyll build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        # Explicitly telling it where the built files are
+        with:
+          path: ./_site 
 
   deploy:
     environment:
