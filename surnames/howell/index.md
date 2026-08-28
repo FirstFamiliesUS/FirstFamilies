@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Howell Family"
-permalink: /ancestors/howell/
+permalink: /surnames/howell/
 ---
 
 - [Elizabeth Howell]({{ '/ancestors/howell/elizabeth' | relative_url }})
