@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Lee Family"
-permalink: /ancestors/lee/
+permalink: /surnames/lee/
 ---
 
 - [Elizabeth Lee]({{ '/ancestors/lee/elizabeth' | relative_url }})
