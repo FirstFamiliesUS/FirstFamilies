@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Wolfe Family"
-permalink: /ancestors/wolfe/
+permalink: /surnames/wolfe/
 ---
 
 - [Elizabeth Wolfe]({{ '/ancestors/wolfe/elizabeth' | relative_url }})
