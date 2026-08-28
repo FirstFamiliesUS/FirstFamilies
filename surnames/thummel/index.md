@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Thummel Family"
-permalink: /ancestors/thummel/
+permalink: /surnames/thummel/
 ---
 
 - [Frederica thummel]({{ '/ancestors/thummel/frederica' | relative_url }})
