@@ -1,0 +1,30 @@
+---
+layout: default
+title: "Regulator James Gray"
+permalink: /ancestors/gray/james1/
+---
+
+- Born: 
+- Birth Place:
+- Spouse:
+- Marriage Date:
+- Marriage Place
+- Died: 
+- Burial Place:  
+
+
+- Father:  [Forefather William Emerson]({{ '/ancestors/emerson/william' | relative_url }})
+- Mother:  [Elizabeth Johnson]({{ '/ancestors/johnson/elizabeth' | relative_url }}) 
+- Spouse: [Margaret Moore]({{ '/ancestors/moore/margaret' | relative_url }})    
+- Child:  [Isaac Emerson]({{ '/ancestors/emerson/isaac' | relative_url }})
+
+SOURCES:
+1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 
+2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
+3. Namesake
+4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID 
+5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors): 
+6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737): 
+ 
+ACCOLADES:
+- Presidential Memorial Certificate
