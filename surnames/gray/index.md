@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Gray Family"
-permalink: /ancestors/gray/
+permalink: /surnames/gray/
 ---
 
 - [Evalyn Gray]({{ '/ancestors/gray/evalyn' | relative_url }})
