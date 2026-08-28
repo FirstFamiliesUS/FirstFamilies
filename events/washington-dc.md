@@ -4,6 +4,11 @@ title: Washington, D.C.
 permalink: /events/washington-dc/
 ---
 
+## Explore Washington D.C.
+
+- [Washington National Cathedral](/events/washington-dc/cathedral/)
+- [Christmas in Washington D.C.](/events/washington-dc/christmas/)
+
 
 # Washington DC Events
 Explore our Washington DC historical and seasonal event guides below.
