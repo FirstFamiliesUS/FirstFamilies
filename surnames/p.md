@@ -6,8 +6,9 @@ permalink: /surnames/p/
 
 # P
 
-* Parker
-* Paul
-* Periehouse
-* Philpott
-* Pratt
+* [Parker](https://firstfamiliesus.github.io/FirstFamilies/surnames/parker/)
+* [Paul](https://firstfamiliesus.github.io/FirstFamilies/surnames/paul/)
+* [Periehouse](https://firstfamiliesus.github.io/FirstFamilies/surnames/periehouse/)
+* [Philpott](https://firstfamiliesus.github.io/FirstFamilies/surnames/philpott/)
+* [Pratt](https://firstfamiliesus.github.io/FirstFamilies/surnames/pratt/)
+
