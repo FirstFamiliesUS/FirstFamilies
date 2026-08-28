@@ -6,6 +6,15 @@ custom_color: navy
 scroll_top_btn:
   enable: true 
 
+Children:
+- [Sons of the American Legion](https://en.wikipedia.org/wiki/Sons_of_the_American_Legion)
+- [Sons of Union Veterans Juniors](https://suvcw.org/membership?utm_source=copilot.com)
+- [Daughters of Union Veterans of the Civil War](https://www.duvcw.org/membership)
+- [Children of the Confederacy](https://hqudc.org/join-the-udc/children-of-the-confederacy/)
+- [National Society Children of 1812](https://nsc1812.weebly.com/our-patriots.html)   
+- [National Society of the Children of the American Revolution](https://nscar.org/)
+- [National Society Children of the American Colonists](https://www.nationalsocietycac.org/)
+
 # Hero Section
 hero:
   subtitle: Hello! This is Sandbox
