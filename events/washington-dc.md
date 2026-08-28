@@ -159,10 +159,10 @@ The National Society Colonial Dames XVII Century, as a non-profit organization, 
 
 ## Related Pages
 
-- **[Washington National Cathedral](/events/washington-dc/cathedral/)**  
+- [Washington National Cathedral](/FirstFamilies/events/washington-dc/cathedral/)
   Historic cathedral and landmark in Washington, D.C.
 
-- **[Christmas in Washington D.C.](/events/washington-dc/christmas/)**  
+- [Christmas in Washington D.C.](/FirstFamilies/events/washington-dc/christmas/)  
   Holiday events, traditions, and festive locations around the capital.
 
 
