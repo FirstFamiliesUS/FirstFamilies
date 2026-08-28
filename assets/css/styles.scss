@@ -1,4 +1,7 @@
 ---
 ---
 
+// Defensive wrapper - helps surface which map is causing the nil error
+$__safe_import: true;
+
 @import "../_sass/style";
