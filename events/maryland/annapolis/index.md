@@ -1,3 +1,10 @@
+---
+layout: default
+title: Annapolis, Maryland
+permalink: /events/maryland/annapolis/
+---
+
+
 Resources
 
 [Annapolis, Maryland -
