@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Miller"
-permalink: /ancestors/miller/
+permalink: /surnames/miller/
 ---
 
 - [Matilda Miller]({{ '/ancestors/miller/matilda' | relative_url }})
