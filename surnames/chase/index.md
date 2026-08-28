@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Chase Family"
-permalink: /ancestors/chase/
+permalink: /surnames/chase/
 ---
 
 - [Elizabeth Chase]({{ '/ancestors/chase/elizabeth' | relative_url }})
