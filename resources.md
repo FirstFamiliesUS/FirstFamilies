@@ -76,7 +76,7 @@ Civil War:
 War of 1812:
 - [US Daughters of War of 1812](https://members.usdaughters1812.org/i4a/memberDirectory/index.cfm?directory_id=43&pageID=3817)
 - [General Society of the War of 1812](https://www.facebook.com/1812MD)
-- [Maryland War of 1812](https://md1812.org/history-resources/geneology/)
+
 
 War of Independence:
 - [Sons of American Revolution](https://sarpatriots.sar.org/patriot/search)
@@ -138,7 +138,7 @@ States:
 - [Johnson County](https://johnsonctyilgenhist.org/),   [Illinois](https://ilgensoc.org/cpage.php?pt=599).
 - [Indiana Approved Ancestors](https://indianapioneers.org/ancestors/)
 - [Iowa Approved Ancestors](https://iowagenealogy.org/surname.php)  
-- [Maryland Geological Society Surnames](https://www.mdgensoc.org/surname.php): [Frederick County](https://frecogs.org/surname.php), [Allegany County](https://gsacmd.org/surnames/), [Carroll County](https://ccgsmd.org/cpage.php?pt=15), [Harford County](https://www.harfordhistory.org/research/research-by-mail/), [Montgomery County](https://mocogensoc.org/surname.php),  [Odenton Genial](https://odentongg.org/surname.php), [Prince George](https://www.pgcgs.org/cpage.php?pt=7), [St. Mary](https://smcgsi.org/surname-research), [Upper Shore](http://usgsmd.org/pdfs/USGSMD-Surname-Index-of-Family-Research-Volumes.pdf), [Maryland Early Settlers](https://earlysettlers.msa.maryland.gov/), [Kent Island Surnames](https://kentislandheritagesociety.org/wp-content/uploads/2018/05/Surname-List-update.pdf), 
+
 - [Michigan Database](http://data.mimgc.org/PioneerCertificates/FMPro?-db=PioneerCertificates&lay=web&-format=search.htm&-view). 
 - [Missouri Approved List](https://mosga.org/upload/files/First_Families_approved_through_March_31%2C_2026_r1.pdf). [Missouri Surname](https://mosga.org/cstm_journalIndexSurname.php). [Missouri Online Death Certificates](https://s1.sos.mo.gov/records/Archives/ArchivesMvc/DeathCertificates). [Missouri House of Representatives](https://house.mo.gov/listmembers.aspx?utm_source=copilot.com), [Missouri Senate](https://www.senate.mo.gov/15info/SenateRoster.htm?utm_source=copilot.com).
 - [Nebraska Surnames](https://nsgs.org/surname.php). [Nebraska Secretary of State](https://capitol.nebraska.gov/building/host-an-event/have-a-flag-flown/). 
