@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Staton Family"
-permalink: /ancestors/staton/
+permalink: /surnames/staton/
 ---
 
 - [Martha Staton]({{ '/ancestors/staton/martha' | relative_url }})
