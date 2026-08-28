@@ -4,12 +4,6 @@ title: Washington, D.C.
 permalink: /events/washington-dc/
 ---
 
-## Explore Washington D.C.
-
-- [Washington National Cathedral](/events/washington-dc/cathedral/)
-- [Christmas in Washington D.C.](/events/washington-dc/christmas/)
-
-
 # Washington DC Events
 Explore our Washington DC historical and seasonal event guides below.
 
@@ -162,6 +156,14 @@ The National Society Colonial Dames XVII Century, as a non-profit organization, 
 
 ![Cherry Blossoms River Cruise](/FirstFamilies/assets/images/cherryBlossumsRiverCruise.jpg)
 
+
+## Related Pages
+
+- **[Washington National Cathedral](/events/washington-dc/cathedral/)**  
+  Historic cathedral and landmark in Washington, D.C.
+
+- **[Christmas in Washington D.C.](/events/washington-dc/christmas/)**  
+  Holiday events, traditions, and festive locations around the capital.
 
 
 ## Coming Soon
