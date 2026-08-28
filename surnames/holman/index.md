@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Holman"
-permalink: /ancestors/holman/
+permalink: /surnames/holman/
 ---
 
 - [Roberta Holman]({{ '/ancestors/holman/roberta' | relative_url }})
