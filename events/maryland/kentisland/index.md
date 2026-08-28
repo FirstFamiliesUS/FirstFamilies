@@ -35,7 +35,7 @@ William Claiborne's party founded Kent Island---the very first
 settlement in what would eventually become the state of Maryland. Such a
 beautiful legacy to reflect on today!
 
-![](./media/media/image1.jpeg){width="7.5in" height="4.21875in"}
+![](./media/media/image1.jpeg)
 
 [Christ Church](https://www.ccpki.org/connect/calendar/)
 
@@ -105,7 +105,7 @@ Pier](https://www.qac.org/Facilities/Facility/Details/Romancoke-Pier-128)
 
 Romancoke Wharf County Park, 9700 Romancoke Rd, Stevensville, MD 21666
 
-![](./media/media/image6.png){width="1.5625in" height="1.5625in"}
+![](./media/media/image6.png)
 
 [Kent Island Heritage
 Society](https://kentislandheritagesociety.org/kent-island-surnames/)
@@ -198,7 +198,7 @@ height="5.333333333333333in"}
 
 <kentpointmarina@gmail.com>
 
-![](./media/media/image12.jpeg){width="7.5in" height="4.2125in"}
+![](./media/media/image12.jpeg)
 
 [House for Rent](https://t.vrbo.io/tCQ94aCgeUb)
 
