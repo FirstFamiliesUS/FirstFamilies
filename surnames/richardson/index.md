@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Richardson"
-permalink: /ancestors/richardson/
+permalink: /surnames/richardson/
 ---
 
 - [Jemima Richardson]({{ '/ancestors/richardson/jemima' | relative_url }})
