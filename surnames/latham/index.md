@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Latham"
-permalink: /ancestors/latham/
+permalink: /surnames/latham/
 ---
 
 - [Clarinda Latham]({{ '/ancestors/latham/clarinda' | relative_url }})
