@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Parker"
-permalink: /ancestors/parker/
+permalink: /surnames/parker/
 ---
 
 - [Hannah Parker]({{ '/ancestors/parker/hannah' | relative_url }})
