@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "Christmas Event"
-parent: "Washington D.C."
-grand_parent: Events
-nav_order: 2
+title: Christmas in Washington D.C.
+permalink: /events/washington-dc/christmas/
 ---
 
 
