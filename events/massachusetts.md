@@ -8,39 +8,53 @@ permalink: /events/massachusetts/
 
 Welcome to the Massachusetts section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Massachusetts.
 
-## Overview
+![](./media/media/image1.png)
 
-Add a short introduction about Massachusetts’s role in early American settlement here.  
-You can mention when the territory was organized, key migration routes, or notable historical periods.
+[Hereditary Order of the First Families of
+Massachusetts](https://newenglandsocieties.com/hoffma-eligibility/)
 
-## Historical Context
+Men and women over the age of 18 years, who are lineal descendants of
+men or women who settled within the bounds of the Massachusetts Bay
+Colony **before the year 1650** may be eligible for membership.  For
+purposes of this Order, the term "settler" refers to one who lived in
+the Colony for at least one year, although possibly in more than one
+town during that time. 
 
-- Brief history of the area
-- Major settlement periods
-- Important counties or regions for early families
+![](./media/media/image2.jpeg)
 
-## Notable Surnames
+[Ancient and Honorable Artillery Company of
+Massachusetts](https://newenglandsocieties.com/odahac-eligibility/)
 
-List some of the prominent early family names associated with this state:
+Those individuals eligible for membership shall be at least eighteen
+years of age with legitimate descent from (1) a member of The Ancient
+and Honorable Artillery Company of Massachusetts who served between the
+years 1637-1774; (2) a minister who preached the Election Sermon during
+the years 1638-1774; (3) Governor John Winthrop, (4) Deputy Governor
+Thomas Dudley, (5) a member of the Council or a delegate to the General
+Court in 1638 when the Company Charter was granted, (6) members of the
+Ancient and Honorable Artillery Company of Massachusetts "by right of
+descent," or (7) members of the National Society of Women Descendants of
+The Ancient and Honorable Artillery Company. 
 
-- Smith
-- Johnson
-- Williams
-- Brown
-- Jones
+![](./media/media/image3.jpeg)
 
-*(Replace with actual surnames you want to highlight)*
+[The Winthrop Society](https://www.winthropsociety.com/doctext)
 
-## Resources
-
-- [Massachusetts State Archives](https://archives.alabama.gov/)
-- [Massachusetts Genealogical Society](https://www.algensoc.org/)
-- Local historical societies and county records
+The Winthrop Society currently consists of proven descendants of the
+first settlers of the Massachusetts Bay Colony. It is open to all men
+and women of good character and proven descent from one or more
+passengers of the Winthrop fleet, or of others who settled in the Bay
+Colony and Down East\* by the end of 1640. 
 
 ## Coming Soon
 
 More detailed family histories, migration stories, and research resources will be added to this page over time.
 
+* [Boston]({{ '/events/massachusetts/boston/' | relative_url }})
+* [Plymouth]({{ '/events/massachusetts/plymouth/' | relative_url }})
+* [Quincy]({{ '/events/massachusetts/quincy/' | relative_url }})
+* [Weymouth]({{ '/events/massachusetts/weymouth/' | relative_url }})
+  
 ---
 
 *Last updated: August 2026*
