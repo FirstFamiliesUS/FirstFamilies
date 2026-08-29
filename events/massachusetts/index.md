@@ -4,8 +4,7 @@ title: Massachusetts, Massachusetts
 permalink: /events/massachusetts/massachusetts/
 ---
 
-![](./media/media/image1.png){width="3.53125in"
-height="2.3020833333333335in"}
+![](./media/media/image1.png)
 
 [Hereditary Order of the First Families of
 Massachusetts](https://newenglandsocieties.com/hoffma-eligibility/)
