@@ -44,4 +44,6 @@ More detailed family histories, migration stories, and research resources will b
 * [Annapolis]({{ '/events/maryland/annapolis/' | relative_url }})
 * [Anne Arundel]({{ '/events/maryland/anne-arundel/' | relative_url }})
 * [Frederick]({{ '/events/maryland/frederick/' | relative_url }})
+* [Anne Arundel]({{ '/events/maryland/anne-arundel/' | relative_url }})
+* [Carroll]({{ '/events/maryland/carroll/' | relative_url }})
 * [Kent Island]({{ '/events/maryland/kentisland/' | relative_url }})
