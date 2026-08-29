@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Maryland
-permalink: /events/maryland/
+title: Virginia
+permalink: /events/virginia/
 ---
 
-# First Families in the United States: Maryland
+# First Families in the United States: Virginia
 
 ## Society of The Ark and The Dove
 The Society of The Ark and The Dove was founded in 1910 to perpetuate the memory of the first families of Maryland and to provide opportunities for fellowship for all those who trace their descent from Lord Baltimore and from those who came on the Ark and the Dove in 1634 to settle the proprietary province of Maryland.
