@@ -62,4 +62,3 @@ fled France for other countries. 
 * [Arlington]({{ '/events/virginia/arlington/' | relative_url }})
 * [Blue Ridge]({{ '/events/virginia/blue-ridge/' | relative_url }})
 * [Fredericksburg]({{ '/events/virginia/fredericksburg/' | relative_url }})
-* [Fredericksburg]({{ '/events/virginia/fredericksburg/' | relative_url }})
