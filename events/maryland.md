@@ -48,3 +48,4 @@ More detailed family histories, migration stories, and research resources will b
 * [Kent Island]({{ '/events/maryland/kentisland/' | relative_url }})
 * [St-mary]({{ '/events/maryland/st-mary/' | relative_url }})
 * [St Michaels]({{ '/events/maryland/st-michaels/' | relative_url }})
+* [Baltimore]({{ '/events/maryland/baltimore/' | relative_url }})
