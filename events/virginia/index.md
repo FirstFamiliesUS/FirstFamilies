@@ -1,5 +1,4 @@
-![](./media/media/image1.jpeg){width="7.5in"
-height="2.359722222222222in"}
+![](./media/media/image1.jpeg)
 
 [Jamestowne
 Society](https://www.jamestowne.org/qualifying-ancestors.html)
@@ -28,8 +27,7 @@ the Colony of Virginia.  To recognize and record the names of those
 individuals who were residents within the boundaries of the Virginia
 Colony **on or before 31 December 1699**. 
 
-![](./media/media/image3.jpeg){width="7.5in"
-height="1.0430555555555556in"}
+![](./media/media/image3.jpeg)
 
 [Virginia Huguenot
 Society](https://www.frenchhuguenots-virginiasociety.org/)
