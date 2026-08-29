@@ -47,3 +47,4 @@ More detailed family histories, migration stories, and research resources will b
 * [Frederick]({{ '/events/maryland/frederick/' | relative_url }})
 * [Kent Island]({{ '/events/maryland/kentisland/' | relative_url }})
 * [St-mary]({{ '/events/maryland/st-mary/' | relative_url }})
+* [St Michaels]({{ '/events/maryland/st-michaels/' | relative_url }})
