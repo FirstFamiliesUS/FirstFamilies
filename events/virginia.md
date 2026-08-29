@@ -59,3 +59,4 @@ fled France for other countries. 
 
 # Upcoming Events
 * [Alexandria]({{ '/events/virginia/alexandria/' | relative_url }})
+* [Arlington]({{ '/events/virginia/arlington/' | relative_url }})
