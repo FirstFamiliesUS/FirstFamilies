@@ -6,46 +6,53 @@ permalink: /events/virginia/
 
 # First Families in the United States: Virginia
 
-## Society of The Ark and The Dove
-The Society of The Ark and The Dove was founded in 1910 to perpetuate the memory of the first families of Maryland and to provide opportunities for fellowship for all those who trace their descent from Lord Baltimore and from those who came on the Ark and the Dove in 1634 to settle the proprietary province of Maryland.
+![](./media/media/image1.jpeg)
 
-![The Ark and The Dove]({{ '/assets/images/ArkDove.png' | relative_url }})
+[Jamestowne
+Society](https://www.jamestowne.org/qualifying-ancestors.html)
 
-## Resources
-* **Maryland Genealogical Society**: The research fee, payable in advance, is $20.00 per hour for members of the Maryland Genealogical Society, $30.00 per hour for non-members, and does not include the cost of any copies of documents which you may request. The Society cannot guarantee that a search will be successful, and the research fee is not refundable.
-* **Maryland, United States Genealogy** • FamilySearch
-* [Maryland War of 1812](https://md1812.org/history-resources/geneology/)
-* [Maryland Genealogical Society Surnames](https://www.mdgensoc.org/surname.php): [Frederick County](https://frecogs.org/surname.php), [Allegany County](https://gsacmd.org/surnames/), [Carroll County](https://ccgsmd.org/cpage.php?pt=15), [Harford County](https://www.harfordhistory.org/research/research-by-mail/), [Montgomery County](https://mocogensoc.org/surname.php), [Odenton Genealogical](https://odentongg.org/surname.php), [Prince George](https://www.pgcgs.org/cpage.php?pt=7), [St. Mary](https://smcgsi.org/surname-research), [Upper Shore](http://usgsmd.org/pdfs/USGSMD-Surname-Index-of-Family-Research-Volumes.pdf), [Maryland Early Settlers](https://earlysettlers.msa.maryland.gov/), [Kent Island Surnames](https://kentislandheritagesociety.org/wp-content/uploads/2018/05/Surname-List-update.pdf)
+**10 April 1606** stock was sold in London Company or the Virginia
+Company
 
-## Maryland Day
-* **Date**: 25 March
+Resident in Virginia at the time of the 1624/25 Muster or earlier
 
-![Maryland Day Celebration]({{ '/assets/images/MarylandDay.jpg' | relative_url }})
+Governor, Secretary of State, Treasurer, Attorney General, Clerk of the
+General Court, Member of the Council or House of Burgesses; Anglican
+Church (Church of England) minister in Virginia;  served as an official
+Indian Interpreter in Virginia  or owned land on Jamestown Island or
+lived on the Island on or before **1699**
 
-## Maryland Junior Ranger
-This program is built around the people and places that make Maryland so special. During this program Junior Rangers will:
-* Explore the parks, natural and historical areas.
-* Learn about conservation and stewardship.
-* Explore recreational opportunities.
+![](./media/media/image2.jpeg)
 
-*Print, color, and cut your very own Park Ranger to join you on adventures.*
+[Sons and Daughters of Virginia Founding
+Fathers](http://www.virginiafoundingfathers.org/ancestors.html)
 
-![Maryland Junior Ranger]({{ '/assets/images/mdJrRanger.png' | relative_url }})
+The Sons and Daughters of Virginia Founding Fathers (SDVAFF) is a
+lineage society that is a non-profit, charitable organization dedicated:
+To honor those hardy and enterprising early ancestors who concentrated
+their efforts, labor and skills in building the enduring greatness of
+the Colony of Virginia.  To recognize and record the names of those
+individuals who were residents within the boundaries of the Virginia
+Colony **on or before 31 December 1699**. 
 
+![](./media/media/image3.jpeg)
 
+[Virginia Huguenot
+Society](https://www.frenchhuguenots-virginiasociety.org/)
 
-## Coming Soon
+The Edict of Nantes, signed by Henry IV in April, 1598, ended the Wars
+of Religion, and allowed the Huguenots some religious freedoms,
+including exercise of their religion in 20 specified towns in France.
+The Revocation of the Edict of Nantes by Louis XIV in October, 1685,
+began a new persecution of the Huguenots. Hundreds of thousands of them
+fled France for other countries. 
 
-More detailed family histories, migration stories, and research resources will be added to this page over time.
+Resources
 
----
+[Societies](https://www.cyndislist.com/us/va/societies/)
 
-*Last updated: August 2026*
-* [Annapolis]({{ '/events/maryland/annapolis/' | relative_url }})
-* [Anne Arundel]({{ '/events/maryland/anne-arundel/' | relative_url }})
-* [Carroll]({{ '/events/maryland/carroll/' | relative_url }})
-* [Frederick]({{ '/events/maryland/frederick/' | relative_url }})
-* [Kent Island]({{ '/events/maryland/kentisland/' | relative_url }})
-* [St-mary]({{ '/events/maryland/st-mary/' | relative_url }})
-* [St Michaels]({{ '/events/maryland/st-michaels/' | relative_url }})
-* [Baltimore]({{ '/events/maryland/baltimore/' | relative_url }})
+[Wikitree](https://www.wikitree.com/wiki/Category:Virginia_Colony)
+
+[FamilySearch](https://www.familysearch.org/en/wiki/Virginia,_United_States_Genealogy)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Virginia)
