@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Alexandria, Maryland
-permalink: /events/maryland/alexandria/
+title: Alexandria, Virginia
+permalink: /events/virginia/alexandria/
 ---
 
 As the hometown of George Washington, Alexandria and its surrounding
@@ -12,16 +12,14 @@ famous Old Town sites such as Robert E. Lee\'s boyhood home, George
 Washington\'s Townhouse and Market Square, one of the oldest market
 places in the whole country.
 
-![](./media/media/image1.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+![](./media/media/image1.jpeg)
 
 Reagan National Airport
 
 From here you can go just about anywhere in the greater Washington DC
 area
 
-![](./media/media/image2.jpeg){width="5.333333333333333in"
-height="3.0in"}
+![](./media/media/image2.jpeg)
 
 Gadsby's Tavern
 
@@ -44,8 +42,7 @@ Wednesday through Saturday Lunch 11:30am to 2:30pm
 
 Wednesday through Sunday Dinner from 5:30pm
 
-![](./media/media/image3.jpeg){width="7.5in"
-height="4.209722222222222in"}
+![](./media/media/image3.jpeg)
 
 [Gadsby's Tavern Museum](https://www.alexandriava.gov/GadsbysTavern)
 
@@ -65,8 +62,7 @@ visitors who have dined at Gadsby\'s Tavern Restaurant.
 [Gadsby\'s Tavern Museum, 134 N. Royal
 St](https://apps.alexandriava.gov/Calendar/?sl=4) 
 
-![](./media/media/image4.jpeg){width="7.5in"
-height="4.213888888888889in"}
+![](./media/media/image4.jpeg)
 
 Tavern Square Parking
 
@@ -87,8 +83,7 @@ station, trolleys provide easy on-off access to the more than 200 , 
 and  found in Old Town Alexandria.  [Download the
 map](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:f57be505-0683-4bbe-b09c-8a60982a3290). 
 
-![](./media/media/image6.jpeg){width="6.333333333333333in"
-height="3.5625in"}
+![](./media/media/image6.jpeg)
 
 Chart House
 
@@ -100,8 +95,7 @@ city.  [Brunch](https://www.chart-house.com/location/chart-house-alexandria-va
 EVERY SUNDAY \| 11 AM - 2 PM. Kids meals are currently \$12. Discounts
 for AARP.  Parking next door at Thomason Alley currently \$5 for Sunday
 
-![](./media/media/image7.jpeg){width="7.5in"
-height="4.213888888888889in"}
+![](./media/media/image7.jpeg)
 
 Thompson's Alley Parking
 
@@ -113,8 +107,7 @@ Weekend and Holidays: one hour \$2.50; max \$5
 [More
 Info](https://visitalexandria.com/listings/thompsons-alley-parking-garage/).
 
-![](./media/media/image8.jpeg){width="6.25in"
-height="3.5104166666666665in"}
+![](./media/media/image8.jpeg)
 
 Visitor Center
 
@@ -138,26 +131,22 @@ is one hour in length. Currently the price is \$20 per adult and **FREE
 for Children 12 and under**. [Advance reservations are
 required](http://113905.blackbaudhosting.com/113905/tickets?tab=3&txobjid=b4fb59d8-d5f0-482e-9183-ad79bb84f414). 
 
-![](./media/media/image10.jpeg){width="4.9375in"
-height="2.7708333333333335in"}
+![](./media/media/image10.jpeg)
 
 Pentagon Visitor Center
 
-![](./media/media/image11.jpeg){width="7.333333333333333in"
-height="4.125in"}
+![](./media/media/image11.jpeg)
 
 George Washington Memorial Parkway
 
-![](./media/media/image12.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+![](./media/media/image12.jpeg)
 
 Water Taxi
 
 Starting at \$22 hour per person. [To
 book](https://www.cityexperiences.com/washington-dc/city-cruises/water-taxi/washington-dc-water-taxi/). 
 
-![](./media/media/image13.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+![](./media/media/image13.jpeg)
 
 Lady Bird Johnson Park
 
@@ -176,8 +165,7 @@ cruise options to the Wharf and National Harbor. [We also offer an
 option to Mount Vernon From
 DC.](https://www.cityexperiences.com/washington-dc/city-cruises/mount-vernon-excursion-cruise/)  
 
-![](./media/media/image15.jpeg){width="6.40625in"
-height="3.6041666666666665in"}
+![](./media/media/image15.jpeg)
 
 Mount Vernon
 
@@ -201,8 +189,7 @@ groups@mountvernon.org).
 Explore our state-of-the-art galleries and theaters in the Donald W.
 Reynolds Museum and Education Center.
 
-![](./media/media/image16.jpeg){width="4.6875in"
-height="2.6354166666666665in"}
+![](./media/media/image16.jpeg)
 
 Mount Vernon Inn
 
@@ -214,8 +201,7 @@ Mount Vernon Inn
 **Tuesday - Friday: **11 a.m. to 8 p.m.\
 **Saturday: **10 a.m. to 8 p.m.
 
-![](./media/media/image17.jpeg){width="7.5in"
-height="4.213888888888889in"}
+![](./media/media/image17.jpeg)
 
 Archaeology Museum
 
@@ -236,8 +222,7 @@ activities, and explore small temporary exhibits highlighting
 archaeological research. The museum is open Fridays and Saturdays 11
 a.m.-4 p.m., and Sundays 1-4 p.m.
 
-![](./media/media/image18.jpeg){width="7.5in"
-height="4.213888888888889in"}
+![](./media/media/image18.jpeg)
 
 National Inventors Hall of Fame
 
@@ -254,8 +239,7 @@ The first Saturday of every month, 11 a.m. to 3 p.m.\*
 
 Sundays and federal holidays, CLOSED
 
-![](./media/media/image19.png){width="6.072916666666667in"
-height="1.78125in"}
+![](./media/media/image19.png)
 
 [St. Andrew & St.
 Margaret](https://www.standrewandstmargaret.org/events)
