@@ -8,34 +8,17 @@ permalink: /events/maine/
 
 Welcome to the Maine section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Maine.
 
-## Overview
 
-Add a short introduction about Maine’s role in early American settlement here.  
-You can mention when the territory was organized, key migration routes, or notable historical periods.
+![](./media/media/image1.jpeg){width="2.7291666666666665in"
+height="3.125in"}
 
-## Historical Context
+[Order of the First Families of
+Maine](https://newenglandsocieties.com/offme-eligibility/)
 
-- Brief history of the area
-- Major settlement periods
-- Important counties or regions for early families
-
-## Notable Surnames
-
-List some of the prominent early family names associated with this state:
-
-- Smith
-- Johnson
-- Williams
-- Brown
-- Jones
-
-*(Replace with actual surnames you want to highlight)*
-
-## Resources
-
-- [Maine State Archives](https://archives.alabama.gov/)
-- [Maine Genealogical Society](https://www.algensoc.org/)
-- Local historical societies and county records
+Membership is open to individuals at least eighteen years of age, who
+are lineal descendants of an ancestor who was a resident of present-day
+Maine, by the year** 1652**. Membership is by invitation only and shall
+be extended by the President General. Membership inquiries are welcome. 
 
 ## Coming Soon
 
