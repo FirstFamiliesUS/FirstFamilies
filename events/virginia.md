@@ -47,7 +47,7 @@ The Revocation of the Edict of Nantes by Louis XIV in October, 1685,
 began a new persecution of the Huguenots. Hundreds of thousands of them
 fled France for other countries. 
 
-Resources
+# Resources
 
 [Societies](https://www.cyndislist.com/us/va/societies/)
 
@@ -56,3 +56,6 @@ Resources
 [FamilySearch](https://www.familysearch.org/en/wiki/Virginia,_United_States_Genealogy)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Virginia)
+
+# Upcoming Events
+* [Alexandria]({{ '/events/virginia/alexandria/' | relative_url }})
