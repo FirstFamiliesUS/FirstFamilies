@@ -24,6 +24,10 @@ be extended by the President General. Membership inquiries are welcome. 
 
 More detailed family histories, migration stories, and research resources will be added to this page over time.
 
+*Last updated: August 2026*
+* [Kennebec]({{ '/events/maine/kennebec/' | relative_url }})
+* [York]({{ '/events/maine/york/' | relative_url }})
+
 ---
 
 *Last updated: August 2026*
