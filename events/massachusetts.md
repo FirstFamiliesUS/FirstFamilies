@@ -46,6 +46,8 @@ and women of good character and proven descent from one or more
 passengers of the Winthrop fleet, or of others who settled in the Bay
 Colony and Down East\* by the end of 1640. 
 
+- [Hereditary Order of the First Families of Massachusetts](https://newenglandsocieties.com/hoffma-eligibility/)
+
 ## Coming Soon
 
 More detailed family histories, migration stories, and research resources will be added to this page over time.
