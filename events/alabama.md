@@ -8,34 +8,42 @@ permalink: /events/alabama/
 
 Welcome to the Alabama section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Alabama.
 
-## Overview
+![](./media/media/image1.jpeg)
 
-Add a short introduction about Alabama’s role in early American settlement here.  
-You can mention when the territory was organized, key migration routes, or notable historical periods.
+[Alabama Genealogical
+Society](https://algensoc.org/main/ancestorindex.pdf)
 
-## Historical Context
+First Families of Alabama is a certificate program offered by the
+Alabama Genealogical Society to its members and is designed to identify
+and honor the memory of early residents of the state of Alabama. Early
+residents are those settlers who resided within the present boundaries
+of Alabama prior to statehood, 14 December 1819. Criteria for the
+certificate are:
 
-- Brief history of the area
-- Major settlement periods
-- Important counties or regions for early families
+- Membership\* in Alabama Genealogical Society
 
-## Notable Surnames
+- Completion of Application and Proof of Descent
 
-List some of the prominent early family names associated with this state:
+- Attached copies of documented proof of descent for each generation
 
-- Smith
-- Johnson
-- Williams
-- Brown
-- Jones
+- A check for \$20.00 for each certificate payable to Alabama
+  Genealogical Society
 
-*(Replace with actual surnames you want to highlight)*
+The application and documentation is submitted to the First Families of
+Alabama Committee for verification of the information. Approved
+applications and documentation will be deposited in the [Special
+Collection
+Department](http://library.samford.edu/about/sc/aboutsc.html), Samford
+University Library, to help preserve the history of your ancestors and
+aid others in their research. This safe location prevents the possible
+loss of your valuable family research and preserves your lineage for
+easy retrieval by researchers. This program is one sure way to preserve
+your lineage as each member qualifying for the First Families of Alabama
+will receive a beautiful signed and numbered certificate, suitable for
+framing.
 
-## Resources
-
-- [Alabama State Archives](https://archives.alabama.gov/)
-- [Alabama Genealogical Society](https://www.algensoc.org/)
-- Local historical societies and county records
+\*Membership information can be found in the [membership
+section](https://algensoc.org/main/benefits.html) 
 
 ## Coming Soon
 
