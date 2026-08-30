@@ -10,3 +10,6 @@ permalink: /surnames/b/
 * [Bower](https://firstfamiliesus.github.io/FirstFamilies/surnames/bower/)
 * [Brown](https://firstfamiliesus.github.io/FirstFamilies/surnames/brown/)
 
+* [Beals]({{ '/surnames/beals/' | relative_url }})
+* [Beeson]({{ '/surnames/beeson/' | relative_url }})
+* [Boone]({{ '/surnames/boone/' | relative_url }})
