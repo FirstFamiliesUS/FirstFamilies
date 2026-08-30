@@ -4,8 +4,7 @@ title: Cincinnati, Ohio
 permalink: /events/ohio/cincinnati/
 ---
 
-![](./media/media/image1.png){width="2.6041666666666665in"
-height="2.6041666666666665in"}
+![](./media/media/image1.png)
 
 [Military Order of the Daughters and Sons of
 Ohio](https://www.ogs.org/search-databases/)
