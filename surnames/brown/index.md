@@ -1,9 +1,12 @@
 ---
 layout: default
-title: "The Brown Family"
+title: The Brown Family
 permalink: /surnames/brown/
 ---
 
-- [Mary Brown]({{ '/ancestors/brown/mary' | relative_url }})
-- [Thomas Brown]({{ '/ancestors/brown/thomas' | relative_url }})
-- [Coleman Brown]({{ '/ancestors/brown/coleman' | relative_url }})
+![](./media/media/image1.jpeg){width="3.8333333333333335in"
+height="2.15625in"}
+
+Mary Ann Brown
+
+Pioneer
