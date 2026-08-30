@@ -4,8 +4,7 @@ title: South Carolina, South Carolina
 permalink: /events/south-carolina/south-carolina/
 ---
 
-![](./media/media/image1.png){width="4.166666666666667in"
-height="3.3020833333333335in"}
+![](./media/media/image1.png)
 
 [The Society of First Families of South
 Carolina](https://firstfamiliesofsc.com/ancestors)
