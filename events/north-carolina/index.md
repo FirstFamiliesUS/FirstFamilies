@@ -1,3 +1,10 @@
+---
+layout: default
+title: North Carolina
+permalink: /events/north-carolina/
+---
+
+
 ![](./media/media/image1.png)
 
 [Order of First Families of North
