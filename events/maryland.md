@@ -46,6 +46,6 @@ More detailed family histories, migration stories, and research resources will b
 * [Carroll]({{ '/events/maryland/carroll/' | relative_url }})
 * [Frederick]({{ '/events/maryland/frederick/' | relative_url }})
 * [Kent Island]({{ '/events/maryland/kentisland/' | relative_url }})
-* [St-mary]({{ '/events/maryland/st-mary/' | relative_url }})
+* [St Mary]({{ '/events/maryland/st-mary/' | relative_url }})
 * [St Michaels]({{ '/events/maryland/st-michaels/' | relative_url }})
 * [Baltimore]({{ '/events/maryland/baltimore/' | relative_url }})
