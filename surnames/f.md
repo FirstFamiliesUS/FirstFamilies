@@ -9,3 +9,5 @@ permalink: /surnames/f/
 * [Fuqua](https://firstfamiliesus.github.io/FirstFamilies/surnames/fuqua/)
 
 * [Farmer]({{ '/surnames/farmer/' | relative_url }})
+* [Filley]({{ '/surnames/filley/' | relative_url }})
+* [Forbes]({{ '/surnames/forbes/' | relative_url }})

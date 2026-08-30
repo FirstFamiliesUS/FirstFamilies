@@ -9,3 +9,6 @@ permalink: /surnames/w/
 * [Wilson](https://firstfamiliesus.github.io/FirstFamilies/surnames/wilson/)
 * [Wolfe](https://firstfamiliesus.github.io/FirstFamilies/surnames/wolfe/)
 
+* [Washington]({{ '/surnames/washington/' | relative_url }})
+* [Wheeler]({{ '/surnames/wheeler/' | relative_url }})
+* [Woolman]({{ '/surnames/woolman/' | relative_url }})

@@ -20,3 +20,4 @@ permalink: /surnames/b/
 * [Bozeman]({{ '/surnames/bozeman/' | relative_url }})
 * [Branch]({{ '/surnames/branch/' | relative_url }})
 * [Brown]({{ '/surnames/brown/' | relative_url }})
+* [Bean]({{ '/surnames/bean/' | relative_url }})

@@ -11,3 +11,5 @@ permalink: /surnames/s/
 * [Staton](https://firstfamiliesus.github.io/FirstFamilies/surnames/staton/)
 * [Swindell](https://firstfamiliesus.github.io/FirstFamilies/surnames/swindell/)
 
+* [Scarborough]({{ '/surnames/scarborough/' | relative_url }})
+* [Soule]({{ '/surnames/soule/' | relative_url }})

@@ -10,3 +10,6 @@ permalink: /surnames/l/
 * [Lee](https://firstfamiliesus.github.io/FirstFamilies/surnames/lee/)
 * [Lyell](https://firstfamiliesus.github.io/FirstFamilies/surnames/lyell/)
 
+* [Leftwich]({{ '/surnames/leftwich/' | relative_url }})
+* [Liles]({{ '/surnames/liles/' | relative_url }})
+* [Lincoln]({{ '/surnames/lincoln/' | relative_url }})

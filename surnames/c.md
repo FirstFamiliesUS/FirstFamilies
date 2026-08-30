@@ -14,3 +14,4 @@ permalink: /surnames/c/
 * [Clayton]({{ '/surnames/clayton/' | relative_url }})
 * [Cook]({{ '/surnames/cook/' | relative_url }})
 * [Cooper]({{ '/surnames/cooper/' | relative_url }})
+* [Campbell]({{ '/surnames/campbell/' | relative_url }})

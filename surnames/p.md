@@ -12,3 +12,5 @@ permalink: /surnames/p/
 * [Philpott](https://firstfamiliesus.github.io/FirstFamilies/surnames/philpott/)
 * [Pratt](https://firstfamiliesus.github.io/FirstFamilies/surnames/pratt/)
 
+* [Pennington]({{ '/surnames/pennington/' | relative_url }})
+* [Pierson]({{ '/surnames/pierson/' | relative_url }})

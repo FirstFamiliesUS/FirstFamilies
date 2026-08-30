@@ -11,3 +11,5 @@ permalink: /surnames/r/
 * [Periehouse](https://firstfamiliesus.github.io/FirstFamilies/surnames/periehouse/)
 * [Philpott](https://firstfamiliesus.github.io/FirstFamilies/surnames/philpott/)
 * [Pratt](https://firstfamiliesus.github.io/FirstFamilies/surnames/pratt/)
+* [Russell]({{ '/surnames/russell/' | relative_url }})
+* [Rutledge]({{ '/surnames/rutledge/' | relative_url }})
