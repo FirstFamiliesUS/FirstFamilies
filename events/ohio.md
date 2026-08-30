@@ -8,39 +8,24 @@ permalink: /events/ohio/
 
 Welcome to the Ohio section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Ohio.
 
-## Overview
+![](./media/media/image1.png)
 
-Add a short introduction about Ohio’s role in early American settlement here.  
-You can mention when the territory was organized, key migration routes, or notable historical periods.
+[Military Order of the Daughters and Sons of
+Ohio](https://www.ogs.org/search-databases/)
 
-## Historical Context
+Any member of OGS who can prove satisfactory lineal descent from a
+resident of the State of Ohio who served in the armed forces of the
+United States or the British colonial forces of the original thirteen
+colonies prior to the American Revolutionary War, according to the
+Society's rules and guidelines, is eligible to become a member of the
+Military Order of the Daughters and Sons of Ohio (MODSO).
 
-- Brief history of the area
-- Major settlement periods
-- Important counties or regions for early families
-
-## Notable Surnames
-
-List some of the prominent early family names associated with this state:
-
-- Smith
-- Johnson
-- Williams
-- Brown
-- Jones
-
-*(Replace with actual surnames you want to highlight)*
-
-## Resources
-
-- [Ohio State Archives](https://archives.alabama.gov/)
-- [Ohio Genealogical Society](https://www.algensoc.org/)
-- Local historical societies and county records
 
 ## Coming Soon
 
 More detailed family histories, migration stories, and research resources will be added to this page over time.
 
+* [Cincinnati]({{ '/events/ohio/cincinnati/' | relative_url }})
 ---
 
 *Last updated: August 2026*
