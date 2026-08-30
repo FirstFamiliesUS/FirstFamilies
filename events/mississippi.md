@@ -8,34 +8,14 @@ permalink: /events/mississippi/
 
 Welcome to the Mississippi section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Mississippi.
 
-## Overview
+![](./media/media/image1.png)
 
-Add a short introduction about Mississippi’s role in early American settlement here.  
-You can mention when the territory was organized, key migration routes, or notable historical periods.
+[Order of the First Families of
+Mississippi](https://offms.org/history-of-the-order/ancestor-roster/)
 
-## Historical Context
-
-- Brief history of the area
-- Major settlement periods
-- Important counties or regions for early families
-
-## Notable Surnames
-
-List some of the prominent early family names associated with this state:
-
-- Smith
-- Johnson
-- Williams
-- Brown
-- Jones
-
-*(Replace with actual surnames you want to highlight)*
-
-## Resources
-
-- [Mississippi State Archives](https://archives.alabama.gov/)
-- [Mississippi Genealogical Society](https://www.algensoc.org/)
-- Local historical societies and county records
+OFFM is committed to genealogical documentation, historical education,
+and recognition of the achievements of our state, not only from the
+colonial period of 1699 through 1817 
 
 ## Coming Soon
 
