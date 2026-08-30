@@ -128,7 +128,6 @@ States:
 - [Missouri Approved List](https://mosga.org/upload/files/First_Families_approved_through_March_31%2C_2026_r1.pdf). [Missouri Surname](https://mosga.org/cstm_journalIndexSurname.php). [Missouri Online Death Certificates](https://s1.sos.mo.gov/records/Archives/ArchivesMvc/DeathCertificates). [Missouri House of Representatives](https://house.mo.gov/listmembers.aspx?utm_source=copilot.com), [Missouri Senate](https://www.senate.mo.gov/15info/SenateRoster.htm?utm_source=copilot.com).
 - [Nebraska Surnames](https://nsgs.org/surname.php). [Nebraska Secretary of State](https://capitol.nebraska.gov/building/host-an-event/have-a-flag-flown/). 
     - [Otoe County Pioneers](https://ocgsne.org/index.php/research/pioneers)
-- [Dutch Settlers Society of Albany](https://www.dutchsettlerssociety.org/membership)
 - [Oklahoma Surnames](https://okgensoc.org/surname.php?page=1&nr=50&scl=c0a)
 - Wisconsin Genealogical Society. [Reunion Certificate](https://wsgs.org/page-1075288) - issued by the WSGS to families holding reunions.
 - [American Descendants of the House of Burgess](http://descendantsofthehouseofburgesses.org/)
