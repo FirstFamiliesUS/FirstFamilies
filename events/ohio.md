@@ -20,6 +20,7 @@ colonies prior to the American Revolutionary War, according to the
 Society's rules and guidelines, is eligible to become a member of the
 Military Order of the Daughters and Sons of Ohio (MODSO).
 
+- [Ohio Genealogical Society of Approved List](https://www.ogs.org/wp-content/uploads/2025/06/SBO-2025-Roster-for-Website.pdf?utm_source=copilot.com). [Ohio Genealogical Society](https://www.ogs.org/search-databases/). 
 
 ## Coming Soon
 
