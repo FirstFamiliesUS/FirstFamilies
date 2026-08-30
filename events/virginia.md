@@ -49,13 +49,15 @@ fled France for other countries. 
 
 # Resources
 
-[Societies](https://www.cyndislist.com/us/va/societies/)
+- [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/):
 
-[Wikitree](https://www.wikitree.com/wiki/Category:Virginia_Colony)
+- [Societies](https://www.cyndislist.com/us/va/societies/)
 
-[FamilySearch](https://www.familysearch.org/en/wiki/Virginia,_United_States_Genealogy)
+- [Wikitree](https://www.wikitree.com/wiki/Category:Virginia_Colony)
 
-[Wikipedia](https://en.wikipedia.org/wiki/Virginia)
+- [FamilySearch](https://www.familysearch.org/en/wiki/Virginia,_United_States_Genealogy)
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Virginia)
 
 # Upcoming Events
 * [Alexandria]({{ '/events/virginia/alexandria/' | relative_url }})
