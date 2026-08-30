@@ -1,5 +1,4 @@
-![](./media/media/image1.png){width="2.875in"
-height="2.8645833333333335in"}
+![](./media/media/image1.png)
 
 [Tennessee Genealogical Society](https://tngs.org/Certificates/)
 
