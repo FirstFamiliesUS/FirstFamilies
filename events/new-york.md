@@ -57,6 +57,7 @@ affairs either in the Netherlands and/or the United States. 
 
 More detailed family histories, migration stories, and research resources will be added to this page over time.
 
+* [Albany]({{ '/events/new-york/albany/' | relative_url }})
 * [New York City]({{ '/events/new-york/new-york-city/' | relative_url }})
 * [Westchester]({{ '/events/new-york/westchester/' | relative_url }})
 
