@@ -103,8 +103,6 @@ Farmers & Planters
 
 
 MISC:
-- [Military Order of the Daughters and Sons of Ohio](https://www.ogs.org/search-databases/)
-- [Order of Americans of Armorial Ancestry](http://www.armorial.us/arms.htm)
 - [Descendants of Sheriffs & Constables](https://sheriffsandconstables.weebly.com/ancestors.html)
 - [Descendants of Mexican War Veterans](http://www.dmwv.org/)
 - [Guild of Colonial Artisans and Tradesmen](https://guildcolonialartsandtrades.weebly.com/ancestors.html)
@@ -117,38 +115,21 @@ MISC:
 - [Society of the Cincinnati](https://www.americanrevolutioninstitute.org/soldiers-and-sailors-of-the-revolutionary-war/officers-represented-in-the-society-of-the-cincinnati/)
 - [Continental Society Daughters of Indian Wars](https://csdiw.org/qualifying-ancestors/)
 - [Flagon and Trencher](http://www.flagonandtrencher.org/Ancestors.htm)
-- [Alabama Genealogical Society](https://algensoc.org/main/ancestorindex.pdf)
-- [Order of the First Families of Maine](https://newenglandsocieties.com/offme-eligibility/)
-- [Society of The Ark and The Dove](https://www.thearkandthedove.com/passenger-list/)
-- [Hereditary Order of the First Families of Massachusetts](https://newenglandsocieties.com/hoffma-eligibility/)
-- [The Winthrop Society](https://www.winthropsociety.com/doctext)
-- [Order of the First Families of Mississippi](https://offms.org/history-of-the-order/ancestor-roster/)
-- [General Society of Mayflower Descendants](https://themayflowersociety.org/genealogy/patriots-to-passengers/)
-- [First Settlers of Shenandoah Valley](http://www.firstsettlersshenandoahvalley.com/settlers.html)
-- [Order of the First Families of New Hampshire](http://www.firstfamiliesofnewhampshire.org/ancestors.html)
-- [Holland Society of New York](https://hollandsociety.org/join/)
 - Society of the First Families of New York
-- [Society of Daughters of Holland Dames](https://hollanddames.org/ancestors/)
+
 
 --------------------------------------------------------
 States:
-- [Descendants of the Founders of Ancient Windsor](https://dfaw.org/founders-list/)
-- [Descendants of the Founders of Hartford](https://www.foundersofhartford.org/the-founders/)
 - [Illinois Genealogical Society](https://ilgensoc.org/cstm_ILcmbDB.php). [Prairie Patriot Certificates DB](https://ilgensoc.org/cstm_ILcmbDB.php). 
 - [Johnson County](https://johnsonctyilgenhist.org/),   [Illinois](https://ilgensoc.org/cpage.php?pt=599).
 - [Indiana Approved Ancestors](https://indianapioneers.org/ancestors/)
 - [Iowa Approved Ancestors](https://iowagenealogy.org/surname.php)  
-
 - [Michigan Database](http://data.mimgc.org/PioneerCertificates/FMPro?-db=PioneerCertificates&lay=web&-format=search.htm&-view). 
 - [Missouri Approved List](https://mosga.org/upload/files/First_Families_approved_through_March_31%2C_2026_r1.pdf). [Missouri Surname](https://mosga.org/cstm_journalIndexSurname.php). [Missouri Online Death Certificates](https://s1.sos.mo.gov/records/Archives/ArchivesMvc/DeathCertificates). [Missouri House of Representatives](https://house.mo.gov/listmembers.aspx?utm_source=copilot.com), [Missouri Senate](https://www.senate.mo.gov/15info/SenateRoster.htm?utm_source=copilot.com).
 - [Nebraska Surnames](https://nsgs.org/surname.php). [Nebraska Secretary of State](https://capitol.nebraska.gov/building/host-an-event/have-a-flag-flown/). 
     - [Otoe County Pioneers](https://ocgsne.org/index.php/research/pioneers)
-- [Descendants of Founders of New Jersey](https://www.njfounders.org/founders)
 - [Dutch Settlers Society of Albany](https://www.dutchsettlerssociety.org/membership)
 - [Oklahoma Surnames](https://okgensoc.org/surname.php?page=1&nr=50&scl=c0a)
-- [Ohio Genealogical Society of Approved List](https://www.ogs.org/wp-content/uploads/2025/06/SBO-2025-Roster-for-Website.pdf?utm_source=copilot.com). [Ohio Genealogical Society](https://www.ogs.org/search-databases/). 
-- [Pennsylvania Approved Ancestors](https://genpa.org/first-families-of-pennsylvania/list-of-approved-ancestors/)
-- [Tennessee Genealogical Society](https://tngs.org/TCD) [Hawkins County](https://www.familysearch.org/en/wiki/Hawkins_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)  https://tngs.org/page-1075284 https://tngs.org/page-1075283. [Eastern Tennessee](https://www.easttnhistory.org/research/genealogy/tennessee-ancestors/family-search/):
 - Wisconsin Genealogical Society. [Reunion Certificate](https://wsgs.org/page-1075288) - issued by the WSGS to families holding reunions.
 - [American Descendants of the House of Burgess](http://descendantsofthehouseofburgesses.org/)
 
@@ -163,7 +144,6 @@ ________________________________________________________________________________
 - [Land Grants](https://glorecords.blm.gov/search/default.aspx) 
 - [V. A. Grave Marker](https://www.dmwv.org/honoring.php#marker)
 - PRESIDENTIAL MEMORIAL CERTIFICATES 
-- [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/):
 - https://en.wikipedia.org/wiki/List_of_hereditary_and_lineage_organizations_in_the_United_States
 
 
