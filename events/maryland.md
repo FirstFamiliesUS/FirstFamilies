@@ -17,6 +17,8 @@ The Society of The Ark and The Dove was founded in 1910 to perpetuate the memory
 * [Maryland War of 1812](https://md1812.org/history-resources/geneology/)
 * [Maryland Genealogical Society Surnames](https://www.mdgensoc.org/surname.php): [Frederick County](https://frecogs.org/surname.php), [Allegany County](https://gsacmd.org/surnames/), [Carroll County](https://ccgsmd.org/cpage.php?pt=15), [Harford County](https://www.harfordhistory.org/research/research-by-mail/), [Montgomery County](https://mocogensoc.org/surname.php), [Odenton Genealogical](https://odentongg.org/surname.php), [Prince George](https://www.pgcgs.org/cpage.php?pt=7), [St. Mary](https://smcgsi.org/surname-research), [Upper Shore](http://usgsmd.org/pdfs/USGSMD-Surname-Index-of-Family-Research-Volumes.pdf), [Maryland Early Settlers](https://earlysettlers.msa.maryland.gov/), [Kent Island Surnames](https://kentislandheritagesociety.org/wp-content/uploads/2018/05/Surname-List-update.pdf)
 
+- [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/):
+
 ## Maryland Day
 * **Date**: 25 March
 
