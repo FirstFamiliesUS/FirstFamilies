@@ -11,3 +11,6 @@ permalink: /surnames/c/
 * [Childress](https://firstfamiliesus.github.io/FirstFamilies/surnames/childress/)
 
 
+* [Clayton]({{ '/surnames/clayton/' | relative_url }})
+* [Cook]({{ '/surnames/cook/' | relative_url }})
+* [Cooper]({{ '/surnames/cooper/' | relative_url }})

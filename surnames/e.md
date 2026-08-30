@@ -9,3 +9,4 @@ permalink: /surnames/e/
 * [Emerson](https://firstfamiliesus.github.io/FirstFamilies/surnames/emerson/)
 * [Eskridge](https://firstfamiliesus.github.io/FirstFamilies/surnames/eskridge/)
 
+* [Empson]({{ '/surnames/empson/' | relative_url }})
