@@ -8,38 +8,25 @@ permalink: /events/south-carolina/
 
 Welcome to the South Carolina section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to South Carolina.
 
-## Overview
+![](./media/media/image1.png)
 
-Add a short introduction about South Carolina’s role in early American settlement here.  
-You can mention when the territory was organized, key migration routes, or notable historical periods.
+[The Society of First Families of South
+Carolina](https://firstfamiliesofsc.com/ancestors)
 
-## Historical Context
-
-- Brief history of the area
-- Major settlement periods
-- Important counties or regions for early families
-
-## Notable Surnames
-
-List some of the prominent early family names associated with this state:
-
-- Smith
-- Johnson
-- Williams
-- Brown
-- Jones
-
-*(Replace with actual surnames you want to highlight)*
-
-## Resources
-
-- [South Carolina State Archives](https://archives.alabama.gov/)
-- [South Carolina Genealogical Society](https://www.algensoc.org/)
-- Local historical societies and county records
+South Carolinians ​​​are proud of our long, rich history. Our state has
+been influencing the birth and direction of a nation since  the earliest
+days of colonization.  The Society of First Families of South
+Carolina **1670-1700**  is working to perpetuate the memory of those who
+achieved a permanent settlement in South Carolina between 1670 and 1700;
+cherish, maintain and extend the institution of American freedom; and
+foster true patriotism and love of country.
 
 ## Coming Soon
 
 More detailed family histories, migration stories, and research resources will be added to this page over time.
+
+* [Charleston]({{ '/events/south-carolina/charleston/' | relative_url }})
+* [Piedmont]({{ '/events/south-carolina/piedmont/' | relative_url }})
 
 ---
 
