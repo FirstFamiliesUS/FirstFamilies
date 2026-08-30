@@ -4,8 +4,7 @@ title: New Hampshire, New Hampshire
 permalink: /events/new-hampshire/new-hampshire/
 ---
 
-![](./media/media/image1.jpeg){width="7.5in"
-height="6.9944444444444445in"}
+![](./media/media/image1.jpeg)
 
 [Order of the First Families of New
 Hampshire](http://www.firstfamiliesofnewhampshire.org/ancestors.html)
