@@ -1,5 +1,4 @@
-![](./media/media/image1.png){width="5.208333333333333in"
-height="5.208333333333333in"}
+![](./media/media/image1.png)
 
 [Order of First Families of North
 Carolina](https://www.offnc.org/ancestors.html)
