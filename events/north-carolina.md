@@ -8,39 +8,14 @@ permalink: /events/north-carolina/
 
 Welcome to the North Carolina section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to North Carolina.
 
-## Overview
-
-Add a short introduction about North Carolina’s role in early American settlement here.  
-You can mention when the territory was organized, key migration routes, or notable historical periods.
-
-## Historical Context
-
-- Brief history of the area
-- Major settlement periods
-- Important counties or regions for early families
-
-## Notable Surnames
-
-List some of the prominent early family names associated with this state:
-
-- Smith
-- Johnson
-- Williams
-- Brown
-- Jones
-
-*(Replace with actual surnames you want to highlight)*
-
-## Resources
-
-- [North Carolina State Archives](https://archives.alabama.gov/)
-- [North Carolina Genealogical Society](https://www.algensoc.org/)
-- Local historical societies and county records
 
 ## Coming Soon
 
 More detailed family histories, migration stories, and research resources will be added to this page over time.
 
+* [Alamance]({{ '/events/north-carolina/alamance/' | relative_url }})
+* [Piedmont Triad]({{ '/events/north-carolina/piedmont-triad/' | relative_url }})
+  
 ---
 
 *Last updated: August 2026*
