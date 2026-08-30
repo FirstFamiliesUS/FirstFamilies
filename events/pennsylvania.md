@@ -13,6 +13,8 @@ Welcome to the Pennsylvania section of First Families. This page highlights earl
 [Genealogical Society of
 Pennsylvania](https://genpa.org/first-families-of-pennsylvania/)
 
+- [Pennsylvania Approved Ancestors](https://genpa.org/first-families-of-pennsylvania/list-of-approved-ancestors/)
+
 Colony and Commonwealth: **1638--1790** 
 
 ![](./media/media/image2.png)
