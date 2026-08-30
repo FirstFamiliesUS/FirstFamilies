@@ -13,3 +13,7 @@ permalink: /surnames/b/
 * [Beals]({{ '/surnames/beals/' | relative_url }})
 * [Beeson]({{ '/surnames/beeson/' | relative_url }})
 * [Boone]({{ '/surnames/boone/' | relative_url }})
+* [Borton]({{ '/surnames/borton/' | relative_url }})
+* [Bowater]({{ '/surnames/bowater/' | relative_url }})
+* [Bowman]({{ '/surnames/bowman/' | relative_url }})
+* [Bowman]({{ '/surnames/bowman/' | relative_url }})
