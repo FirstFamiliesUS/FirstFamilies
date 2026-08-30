@@ -4,16 +4,14 @@ title: Pennsylvania, Pennsylvania
 permalink: /events/pennsylvania/pennsylvania/
 ---
 
-![](./media/media/image1.jpeg){width="2.9791666666666665in"
-height="2.3020833333333335in"}
+![](./media/media/image1.jpeg)
 
 [Genealogical Society of
 Pennsylvania](https://genpa.org/first-families-of-pennsylvania/)
 
 Colony and Commonwealth: **1638--1790** 
 
-![](./media/media/image2.png){width="3.5520833333333335in"
-height="1.4479166666666667in"}
+![](./media/media/image2.png)
 
 [Colonial Society of
 Pennsylvania](https://colonialsocietypa.org/wp-content/uploads/2021/12/CSPA-Centenial-Register-Roll-of-Ancestors.pdf)
@@ -23,8 +21,7 @@ connected to the settlement of Pennsylvania which occurred prior to
 1700, as well as the collection, preservation, and publishing of records
 and documents related to the early history of our Commonwealth.
 
-![](./media/media/image3.png){width="7.5in"
-height="1.042361111111111in"}
+![](./media/media/image3.png)
 
 [Welcome Society](https://www.welcomesociety.org/ancestors.html)
 
