@@ -8,39 +8,24 @@ permalink: /events/new-hampshire/
 
 Welcome to the New Hampshire section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to New Hampshire.
 
-## Overview
+![](./media/media/image1.jpeg)
 
-Add a short introduction about New Hampshire’s role in early American settlement here.  
-You can mention when the territory was organized, key migration routes, or notable historical periods.
+[Order of the First Families of New
+Hampshire](http://www.firstfamiliesofnewhampshire.org/ancestors.html)
 
-## Historical Context
-
-- Brief history of the area
-- Major settlement periods
-- Important counties or regions for early families
-
-## Notable Surnames
-
-List some of the prominent early family names associated with this state:
-
-- Smith
-- Johnson
-- Williams
-- Brown
-- Jones
-
-*(Replace with actual surnames you want to highlight)*
-
-## Resources
-
-- [New Hampshire State Archives](https://archives.alabama.gov/)
-- [New Hampshire Genealogical Society](https://www.algensoc.org/)
-- Local historical societies and county records
+Honor those hardy and enterprising early ancestors who concentrated
+their efforts, labor and skills in building the enduring greatness of
+the State of New Hampshire. Recognize and record those individuals who
+established residency, owned land or businesses within the boundaries of
+present day New Hampshire between 1622 - 1680. 
 
 ## Coming Soon
 
 More detailed family histories, migration stories, and research resources will be added to this page over time.
 
+*Last updated: August 2026*
+* [Rockingham]({{ '/events/new-hampshire/rockingham/' | relative_url }})
+* 
 ---
 
 *Last updated: August 2026*
