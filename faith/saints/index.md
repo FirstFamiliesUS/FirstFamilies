@@ -146,3 +146,4 @@ Pepin of Landen, an act designed to protect her community.
 * []({{ '/faith/saints//' | relative_url }})
 * []({{ '/faith/saints//' | relative_url }})
 * [Joseph]({{ '/faith/saints/joseph/' | relative_url }})
+* [George]({{ '/faith/saints/george/' | relative_url }})
