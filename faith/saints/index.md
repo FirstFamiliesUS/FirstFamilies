@@ -141,3 +141,5 @@ succeeded Beuve as abbess. At the end of her life, she obtained from
 Pepin of Landen, an act designed to protect her community.
 
  Feast Day is 24 April
+* []({{ '/faith/saints//' | relative_url }})
+* []({{ '/faith/saints//' | relative_url }})
