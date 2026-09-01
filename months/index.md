@@ -1,5 +1,4 @@
-# April is English Heritage Month!
+# Celebrating our rich diverse culture!
 
-Annual Events:
 
-* St. George  April 23
+
