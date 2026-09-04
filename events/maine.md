@@ -5,13 +5,13 @@ permalink: /events/maine/
 ---
 
 <section class="wrapper bg-light">
-  <div class="container py-12 py-md-14">
-    <div class="row justify-content-center">
-      <div class="col-lg-9">
-        <article class="card shadow-lg">
-          <div class="card-body p-6 p-md-8" markdown="1">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-<img src="{{ '/events/maine/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Seal of the Order of the First Families of Maine">
+<img src="{{ '/events/maine/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Seal of the Order of the First Families of Maine">
 
 # Maine
 
@@ -32,9 +32,9 @@ More detailed family histories, migration stories, and research resources will b
 
 *Last updated: August 2026*
 
-          </div>
-        </article>
-      </div>
-    </div>
-  </div>
+</div>
+</article>
+</div>
+</div>
+</div>
 </section>
