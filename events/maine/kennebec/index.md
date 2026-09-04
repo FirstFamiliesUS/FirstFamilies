@@ -4,6 +4,13 @@ title: Kennebec, Maine
 permalink: /events/maine/kennebec/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
 Resources
 
 [Kennebec County, Maine -
@@ -29,8 +36,8 @@ Wikipedia](https://en.wikipedia.org/wiki/Vassalboro,_Maine) 
 
 [Vassalboro Historical Society & Museum](http://www.vhsme.org/)
 
-![](./media/media/image1.jpeg){width="2.0208333333333335in"
-height="1.1354166666666667in"}
+<img src="{{ '/events/maine/kennebec/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Majek Seafood and Grill">
+
 
 [Majek Seafood & Grill](https://majekseafood.com/)
 
@@ -38,8 +45,8 @@ height="1.1354166666666667in"}
 
 +12074458043
 
-![](./media/media/image2.jpeg){width="7.5in"
-height="4.211111111111111in"}
+<img src="{{ '/events/maine/kennebec/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Albert Church Brown Memorial">
+
 
 [Albert Church Brown Memorial
 Library ](https://www.facebook.com/chinalibrary/)
@@ -50,12 +57,15 @@ chinalibraryacb@gmail.com 
 
 1 207-968-2926
 
-![](./media/media/image3.jpeg){width="7.5in"
-height="4.214583333333334in"}
+<img src="{{ '/events/maine/kennebec/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Lake view">
+
+
 
 [China Lake](https://www.lakesofmaine.org/lake-overview.html?m=5448)
 
 571 Lakeview Dr, China, ME 04358
+
+<img src="{{ '/events/maine/kennebec/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Haskell Cemetery">
 
 ![](./media/media/image4.jpeg){width="4.25in"
 height="2.3854166666666665in"}
