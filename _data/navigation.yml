@@ -472,6 +472,8 @@ main:
             url: /events/maryland/annapolis/
           - title: Anne Arundel
             url: /events/maryland/anne-arundel/
+          - title: Baltimore
+            url: /events/maryland/baltimore/
           - title: Carroll
             url: /events/maryland/carroll/
           - title: Frederick
@@ -482,8 +484,7 @@ main:
             url: /events/maryland/st-mary/
           - title: St. Michaels
             url: /events/maryland/st-michaels/
-          - title: Baltimore
-            url: /events/maryland/baltimore/
+
       - title: Massachusetts
         url: /events/massachusetts/
       - title: Mississippi
