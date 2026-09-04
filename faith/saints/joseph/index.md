@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Saint  Feast Day
+title: Saint Joseph Feast Day
 permalink: /faith/saints/joseph/
 ---
 
----
-layout: default
-title: Saint  Feast Day
-permalink: /faith/saints/joseph/
----
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
 ![](./media/media/image1.jpeg)
 
@@ -16,14 +17,12 @@ permalink: /faith/saints/joseph/
 
 Patron Saint of Belgium
 
-![](./media/media/image2.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+![](./media/media/image2.jpeg)
 
 [Genealogical Society of Flemish
 Americans](https://www.flemishlibrary.org/)
 
-![](./media/media/image3.jpeg){width="2.7916666666666665in"
-height="3.6979166666666665in"}
+![](./media/media/image3.jpeg)
 
 [Royal Association Genealogical and Heraldic Office of
 Belgium](https://en.wikipedia.org/wiki/Royal_Belgian_Genealogical_and_Heraldic_Office)
