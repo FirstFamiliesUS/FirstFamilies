@@ -1,20 +1,25 @@
 ---
 layout: default
-title: Charlemagne Feast Day
+title: Blessed Charlemagne Feast Day
 permalink: /faith/saints/charlemagne/
 ---
 
-[Famous
-Descendants](https://famouskin.com/famous-kin-menu.php?name=4143+charlemagne)
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
+[Famous Descendants](https://famouskin.com/famous-kin-menu.php?name=4143+charlemagne)
 
 For a list of famous descendants of Charlemagne:
 <https://famouskin.com/famous-kin-menu.php?name=4143+charlemagne>
 
-![](./media/media/image1.gif){width="7.5in"
-height="0.3902777777777778in"}
+![](./media/media/image1.gif)
 
-[Order of the Crown of
-Charlemagne](https://www.charlemagne.org/Gateway.html)
+[Order of the Crown of Charlemagne](https://www.charlemagne.org/Gateway.html)
 
 Historical and genealogical research and to perpetuate the memory and to
 honor the name of Emperor Charlemagne; to bring into one group the
@@ -34,11 +39,9 @@ The Order meets once a year in Washington, DC at a \"black
 tie\" [dinner](https://www.charlemagne.org/dinner.html) event the second
 Thursday of April.
 
-![](./media/media/image2.jpeg){width="3.4375in"
-height="4.479166666666667in"}
+![](./media/media/image2.jpeg)
 
-[Feast
-Day](https://www.traditioninaction.org/History/A02CharlemagneTribute.html)
+[Feast Day](https://www.traditioninaction.org/History/A02CharlemagneTribute.html)
 
 Charlemagne was revered as a saint in the Holy Roman Empire and some
 other locations after the twelfth century. The Apostolic See did not
