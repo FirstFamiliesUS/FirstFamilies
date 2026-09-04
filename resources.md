@@ -4,6 +4,14 @@ title: "Resources"
 permalink: /resources/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
 Children:
 - [Sons of the American Legion](https://en.wikipedia.org/wiki/Sons_of_the_American_Legion)
 - [Sons of Union Veterans Juniors](https://suvcw.org/membership?utm_source=copilot.com)
