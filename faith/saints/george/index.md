@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Saint  Feast Day
+title: Saint George Feast Day
 permalink: /faith/saints/george/
 ---
 
