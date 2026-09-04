@@ -52,7 +52,7 @@ A memorial honoring local service members located in Grasonville.
 ### Kent Island Heritage Society
 Founded in 1975 to discover, identify, restore, and preserve the rich history of Kent Island, helping residents and visitors appreciate its role in Maryland and national history.
 
-<img src="{{ '/events/maryland/kentisland/media/media/image6.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kent Island Heritage Society">
+<img src="{{ '/events/maryland/kentisland/media/media/image6.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kent Island Heritage Society">
 
 
 ---
@@ -62,7 +62,7 @@ Founded in 1975 to discover, identify, restore, and preserve the rich history of
 ### Historic Kent Island Resort
 Country house charm and modern sophistication on the shores of Chesapeake Bay. Enjoy 220 acres of serene parklands, hiking and cycling trails, nearly 2 miles of waterfront for kayaking, an in-ground swimming pool, and seasonal dining at 18TWENTY.
 
-<img src="{{ '/events/maryland/kentisland/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kent Island Resort">
+<img src="{{ '/events/maryland/kentisland/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kent Island Resort">
 
 
 * **Address:** 500 Kent Manor Drive, Stevensville, MD 21666
