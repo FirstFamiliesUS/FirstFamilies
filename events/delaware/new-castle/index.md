@@ -4,29 +4,30 @@ title: New Castle, Delaware
 permalink: /events/delaware/new-castle/
 ---
 
-![](./media/media/image1.png){width="6.770833333333333in"
-height="3.8020833333333335in"}
+# New Castle, Delaware
 
-Grubb-Worth Mansion
+## Overview
+New Castle, Delaware, situated along the Delaware River, boasts a rich colonial history dating back to its founding by the Dutch West India Company in 1651 as Fort Casimir. The area later became a crucial hub for English settlement, trade, and early industrial enterprise in northern Delaware.
 
-![](./media/media/image2.png){width="4.166666666666667in"
-height="2.34375in"}
+---
 
-[Grubb Historical Marker](https://www.hmdb.org/m.asp?m=146375)
+## Historic Properties & Genealogy
 
-John [Grubb](https://www.firstfamilies.us/ancestors/england/grubb), one
-of the original English settlers in Delaware, acquired a one-third
-interest in a 600 acre tract of land at this location in 1680. Several
-generations passed and the Grubb family greatly increased their land
-holdings in the area and successfully opened leather tanning and iron
-manufacturing businesses. In 1783 one of John Grubb's great-grandsons,
-Amor Augustus Grubb, built a fieldstone home which is believed to be on
-the foundation of his great-grandfather's original house from 1684. The
-house and land would remain in the hands of Amor Grubb's heirs until
-1913. In 1918 the house and surrounding land were bought by Edward Worth
-of The Worth Steel Company who would expand the house and double its
-size. The Worth family named the estate Ledgeworth. In 1952 the Catholic
-Foundation of the Diocese of Wilmington purchased the estate and sold it
-to the Holy Rosary Parish to be used as a convent for the Sisters of
-Saint Joseph. The Convent was closed in 1980 and the mansion was used
-for various activities and meetings as well as a retreat. 
+### Grubb-Worth Mansion (Ledgeworth)
+The Grubb-Worth Mansion stands on historic land first settled by early English pioneer John Grubb, whose descendants played a significant role in Delaware's early leather tanning and iron manufacturing industries.
+
+![Grubb-Worth Mansion](./media/media/image1.png)
+
+![Grubb Historical Marker](./media/media/image2.png)
+
+* **Settlement & Ownership History:**
+  * **1680:** John Grubb, an early English settler in Delaware, acquired a one-third interest in a 600-acre tract at this location.
+  * **1783:** Amor Augustus Grubb, great-grandson of John Grubb, built a fieldstone residence believed to sit on the foundation of the original 1684 homestead. The property remained in the Grubb family for generations until 1913.
+  * **1918:** Edward Worth of the Worth Steel Company purchased the estate, expanded the residence to double its original size, and named the estate **Ledgeworth**.
+  * **1952–Present:** Purchased by the Catholic Foundation of the Diocese of Wilmington for Holy Rosary Parish to serve as a convent for the Sisters of Saint Joseph (closed in 1980) and later used as a retreat and community center.
+* **Ancestor Profile:** [John Grubb - First Families Ancestor Page](https://www.firstfamilies.us/ancestors/england/grubb)
+* **Historical Marker Details:** [Grubb Historical Marker - HMDB](https://www.hmdb.org/m.asp?m=146375)
+
+---
+
+*Last updated: September 2026*
