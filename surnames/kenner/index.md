@@ -3,6 +3,11 @@ layout: default
 title: "The Kenner Family"
 permalink: /surnames/kenner/
 sidebar:
+  nav: "ancestors_sidebar"
+header:
+  image: /assets/images/KFA.jpg
+  og_image: /assets/images/KFA.jpg
+---
 
 <section class="wrapper bg-light">
 <div class="container py-12 py-md-14">
@@ -10,13 +15,6 @@ sidebar:
 <div class="col-lg-9">
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
-
-  nav: "ancestors_sidebar"
-header:
-  image: /assets/images/KFA.jpg
-  og_image: /assets/images/KFA.jpg
----
-
 
 Welcome to the Kenner family history page.
 
