@@ -4,32 +4,53 @@ title: Germanna, Virginia
 permalink: /events/virginia/germanna/
 ---
 
-![](./media/media/image1.jpeg){width="7.083333333333333in"
-height="3.9791666666666665in"}
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-[Germanna Visitor Center](http://germannafamily.org/login.php)
+# Germanna, Virginia
 
-Historic Germanna
+Germanna is a key historic site in central Virginia, marking the early 18th-century settlement of German immigrants brought to the colony by Lt. Governor Alexander Spotswood. The region spans historic Orange, Culpeper, and Madison counties, featuring rich genealogical resources and iconic colonial architecture.
 
-2062 Germanna Highway Locust Grove, VA 22508-0279
+---
 
-Phone: 540-423-1700
+## Visitor Centers & Heritage Sites
 
-[Contact ](https://germanna.org/contact/)
+### Historic Germanna Visitor Center
 
-![](./media/media/image2.jpeg){width="7.5in"
-height="4.209027777777778in"}
+<img src="{{ '/events/virginia/germanna/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Germanna Visitor Center">
 
-Hebron Lutheran Church
+Dedicated to preserving the heritage of the 1714 and 1717 German settlers and researching the early history of the region.
 
-Hebron Lutheran Church is a historic Lutheran church located in the
-countryside northeast of Madison, Madison County, Virginia. The original
-section was built about 1740, with the south wing added about 1800. It
-is a one-story, \"T\" shaped, frame building on a stone
-foundation. [Wikipedia](https://en.wikipedia.org/wiki/Hebron_Lutheran_Church)
+* **Address:** [2062 Germanna Highway, Locust Grove, VA 22508](https://www.google.com/maps/search/?api=1&query=2062+Germanna+Highway+Locust+Grove+VA+22508)
+* **Phone:** [(540) 423-1700](tel:+15404231700)
+* **Website:** [germanna.org](https://germanna.org/)
+* **Contact:** [Contact Historic Germanna](https://germanna.org/contact/)
 
-[Address](https://www.google.com/search?sxsrf=AB5stBhWSm0H77dQB2cVykOgoAU4NYJVrg:1690141664956&q=hebron+lutheran+church+address&ludocid=3744465954009638989&sa=X&ved=2ahUKEwjh4byszKWAAxXjFlkFHSMdA9AQ6BN6BAhtEAI):
-899 Blankenbaker Rd, Madison, VA 22727
+---
 
-[Phone](https://www.google.com/search?sxsrf=AB5stBhWSm0H77dQB2cVykOgoAU4NYJVrg:1690141664956&q=hebron+lutheran+church+phone&ludocid=3744465954009638989&sa=X&ved=2ahUKEwjh4byszKWAAxXjFlkFHSMdA9AQ6BN6BAhiEAI): [(540)
-948-4381](https://www.google.com/search?q=hebron+lutheran+church+madison+va&sxsrf=AB5stBg3RxeGxKHrK8BzB_TgxjDMT_vkbA%3A1690141334362&ei=loK9ZNOiEJGv5NoPnMO34AQ&gs_ssp=eJwNyEsOQDAQANDY9hS1sDbMqHIEl5B-UwmVlNLj85aPsfZoQaweywvV3ECRkyb0xlgarCLsZiiIfgT0PQqanCS71MHpdEa-5zu4pCI3IScT-KHsdv3_qA880Rrr&oq=Hebron+Luther&gs_lp=Egxnd3Mtd2l6LXNlcnAiDUhlYnJvbiBMdXRoZXIqAggBMgoQABiABBgUGIcCMhAQLhiABBgUGIcCGMcBGK8BMgUQABiABDILEC4YgAQYxwEYrwEyBRAAGIAEMgsQLhiABBjHARivATIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMh8QLhiABBgUGIcCGMcBGK8BGJcFGNwEGN4EGOAE2AEBSK8iUABY4xBwAHgBkAEAmAGWAqAB2QyqAQU0LjguMbgBAcgBAPgBAcICBxAjGIoFGCfCAggQLhiKBRiRAsICERAuGIAEGLEDGIMBGMcBGNEDwgILEAAYgAQYsQMYgwHCAhEQLhiABBixAxiDARjHARivAcICCBAAGIoFGJECwgIWEC4YgAQYFBiHAhixAxiDARjHARivAcICERAuGIoFGLEDGIMBGMcBGNEDwgILEC4YgAQYsQMYgwHCAg4QLhiABBixAxjHARjRA8ICCxAAGIoFGLEDGJECwgIIEAAYigUYsQPCAhEQLhiKBRixAxiDARjHARivAcICERAuGIMBGMcBGLEDGNEDGIAEwgILEAAYigUYsQMYgwHCAhcQLhiKBRiRAhiXBRjcBBjeBBjgBNgBAcICCBAAGIAEGLEDwgILEC4YigUYsQMYkQLCAgsQLhivARjHARiABMICDhAuGIoFGLEDGMcBGK8BwgIFEC4YgATCAg4QLhivARjHARixAxiABMICDhAuGIAEGLEDGMcBGK8BwgIaEC4YigUYsQMYkQIYlwUY3AQY3gQY4ATYAQHCAhoQLhivARjHARiABBiXBRjcBBjeBBjgBNgBAeIDBBgAIEGIBgG6BgYIARABGBQ&sclient=gws-wiz-serp)
+## Historic Churches & Landmarks
+
+### Hebron Lutheran Church
+
+<img src="{{ '/events/virginia/germanna/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Hebron Lutheran Church">
+
+A historic Lutheran church built by early German immigrants in Madison County. Constructed around 1740 with a south wing added circa 1800, it is a one-story, T-shaped frame structure on a stone foundation and stands as the oldest continuously used Lutheran church building in the United States.
+
+* **Address:** [899 Blankenbaker Rd, Madison, VA 22727](https://www.google.com/maps/search/?api=1&query=899+Blankenbaker+Rd+Madison+VA+22727)
+* **Phone:** [(540) 948-4381](tel:+15409484381)
+* **Reference:** [Hebron Lutheran Church Wikipedia Entry](https://en.wikipedia.org/wiki/Hebron_Lutheran_Church)
+
+---
+
+*Last updated: September 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>
