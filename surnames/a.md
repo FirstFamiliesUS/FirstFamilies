@@ -19,9 +19,6 @@ permalink: /surnames/a/
 ---
 
 *Last updated: September 2026*
-
-
-
 </div>
 </article>
 </div>
