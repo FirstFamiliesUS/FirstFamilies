@@ -514,6 +514,44 @@ main:
       - title: West Virginia
         url: /events/west-virginia/
 
+
+  - title: Faith
+  subitems:
+    - title: Baptists
+      url: /faith/baptists/
+    - title: Congregationalists
+      url: /faith/congregationalists/
+    - title: Dutch Reformed
+      url: /faith/dutch-reformed/
+    - title: Episcopalian
+      url: /faith/episcopalian/
+    - title: Freemasonry
+      url: /faith/freemasonry/
+    - title: Huguenot
+      url: /faith/huguenot/
+    - title: Judaism
+      url: /faith/judaism/
+    - title: Lutheran
+      url: /faith/lutheran/
+    - title: Mennonites
+      url: /faith/mennonites/
+    - title: Methodists
+      url: /faith/methodists/
+    - title: Moravians
+      url: /faith/moravians/
+    - title: Old Catholics
+      url: /faith/old-catholics/
+    - title: Presbyterians
+      url: /faith/presbyterians/
+    - title: Saints
+      url: /faith/saints/
+    - title: Quakers
+      url: /faith/quakers/
+
+
+
+
+
 # One-page navigation configuration
 onepage:
   links:
