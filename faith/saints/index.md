@@ -31,6 +31,8 @@ members were discussed and resolved. We extend a heartfelt thank you to
 our members for helping us make the Society an even greater pleasure to
 join.
 
+[Approved List of Saints](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/faith/saints/Approved-List-of-Saints-07-15-15.pdf)
+
 
 
 
