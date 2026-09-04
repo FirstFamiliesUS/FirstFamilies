@@ -4,13 +4,30 @@ title: Maine
 permalink: /events/maine/
 ---
 
+<img src="{{ '/events/maine/media/media/image1.jpeg' | relative_url }}"
+     class="img-fluid rounded shadow-sm d-block mx-auto mb-4"
+     alt="Seal of the Order of the First Families of Maine">
+
+<section class="wrapper bg-light">
+  <div class="container py-12 py-md-14">
+    <div class="row justify-content-center">
+      <div class="col-lg-9">
+        <article class="card shadow-lg">
+          <div class="card-body p-6 p-md-8">
+            <!-- Page content goes here -->
+          </div>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+
 # Maine
 
 Welcome to the Maine section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Maine.
 
 
-![](./media/media/image1.jpeg){width="2.7291666666666665in"
-height="3.125in"}
+![](./media/media/image1.jpeg)
 
 [Order of the First Families of
 Maine](https://newenglandsocieties.com/offme-eligibility/)
