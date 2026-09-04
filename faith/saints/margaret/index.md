@@ -4,11 +4,16 @@ title: Saint Margaret Feast Day
 permalink: /faith/saints/margaret/
 ---
 
-![](./media/media/image1.png){width="7.5in"
-height="1.8104166666666666in"}
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-[National Guild of St. Margaret of
-Scotland](https://www.guildofstmargaret.com/gateway-ancestors.html)
+![](./media/media/image1.png)
+
+[National Guild of St. Margaret of Scotland](https://www.guildofstmargaret.com/gateway-ancestors.html)
 
 The National Guild of St. Margaret of Scotland was founded not only to
 perpetuate the memory and deeds of St. Margaret but also to act as a
@@ -18,8 +23,7 @@ interested persons world-wide. We invite you to navigate throughout the
 website to learn more about our lineage group. If you have any questions
 please feel free to contact any of our Governing Officers.
 
-![](./media/media/image2.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+![](./media/media/image2.jpeg)
 
 [Margaret of Scotland Feast
 Day](https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland#Veneration)
@@ -41,8 +45,7 @@ She is also venerated as a saint in the Anglican Communion. Margaret is
 honored in the Church of England and in the Episcopal Church on 16
 November.
 
-![](./media/media/image3.jpeg){width="3.3854166666666665in"
-height="4.6875in"}
+![](./media/media/image3.jpeg)
 
 [St. Andrew and St. Margaret of
 Scotland](https://www.standrewandstmargaret.org/events)
