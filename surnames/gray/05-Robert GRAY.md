@@ -3,14 +3,6 @@ layout: default
 title: "Gray"
 permalink: /surnames/gray/robert2/
 gallery:
-
-<section class="wrapper bg-light">
-<div class="container py-12 py-md-14">
-<div class="row justify-content-center">
-<div class="col-lg-9">
-<article class="card shadow-lg">
-<div class="card-body p-6 p-md-8" markdown="1">
-
   - url: /assets/images/PMC-sample.jpg
     image_path: /assets/images/PMC-sample.jpg
     alt: "PMC Sample"
@@ -33,6 +25,13 @@ gallery:
     image_path: /assets/images/oklahoma_logo.jpg
     alt: "OKS"
 ---
+
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
 {% comment %} {% include gallery layout="third" caption="Accolades and Society Memberships" %} {% endcomment %}
 
