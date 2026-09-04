@@ -1,5 +1,5 @@
 main:
-- title: Faith
+  - title: Faith
     type: dropdown
     items:
       - title: Baptists
@@ -484,8 +484,6 @@ main:
       - title: Z
         url: /surnames/z/
 
-
-
   - title: Events
     type: dropdown
     items:
@@ -518,7 +516,6 @@ main:
             url: /events/maryland/st-mary/
           - title: St. Michaels
             url: /events/maryland/st-michaels/
-
       - title: Massachusetts
         url: /events/massachusetts/
       - title: Mississippi
@@ -547,10 +544,6 @@ main:
         url: /events/washington-dc/
       - title: West Virginia
         url: /events/west-virginia/
-
-
-
-
 
 # One-page navigation configuration
 onepage:
