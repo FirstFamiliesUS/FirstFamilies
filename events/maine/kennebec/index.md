@@ -65,10 +65,9 @@ chinalibraryacb@gmail.com 
 
 571 Lakeview Dr, China, ME 04358
 
-<img src="{{ '/events/maine/kennebec/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Haskell Cemetery">
+<img src="{{ '/events/maine/kennebec/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Haskell Cemetery">
 
-![](./media/media/image4.jpeg){width="4.25in"
-height="2.3854166666666665in"}
+
 
 [Haskell
 Cemetery](https://www.findagrave.com/cemetery/90027/haskell-cemetery)
