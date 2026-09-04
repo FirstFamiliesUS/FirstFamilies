@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Saints, 
-permalink: /events/saints/
+permalink: /faith/saints/
 ---
 
 <section class="wrapper bg-light">
