@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Saints, 
+title: Saints 
 permalink: /faith/saints/
 ---
 
@@ -21,8 +21,7 @@ Martin [Luther](https://www.firstfamilies.us/faith/lutheran)
 
 ![](./media/media/image1.png)
 
-[National Society of
-Saints](http://nationalsocietyofsaintsandsinners.org/wp-content/uploads/2018/07/Approved-List-of-Saints-07-15-15.pdf)
+[National Society of Saints](http://nationalsocietyofsaintsandsinners.org/wp-content/uploads/2018/07/Approved-List-of-Saints-07-15-15.pdf)
 
 Welcome to the National Society of Saints and Sinners website.  We are
 adding new information daily.  Please check back with us often, as we
@@ -50,8 +49,7 @@ Feast Day is 25 August
 
 ![](./media/media/image3.png)
 
-[King Edward of
-Wessex](https://catholicsaints.info/saint-edgar-the-peaceful/)
+[King Edward of Wessex](https://catholicsaints.info/saint-edgar-the-peaceful/)
 
 Born a prince, the son of King Edmund I and Saint Elgiva of Shaftesbury.
 King of the Mercians and Northumbrians in 957. King of the West Saxons
@@ -84,8 +82,7 @@ She is commemorated on 17 December.
 
 ![](./media/media/image5.png)
 
-Bishop [Arnulf
-Arnulfing](https://catholicsaints.info/saints-of-the-day-arnulf-arnoul-arnold-of-metz/)
+Bishop [Arnulf Arnulfing](https://catholicsaints.info/saints-of-the-day-arnulf-arnoul-arnold-of-metz/)
 
 Arnulf was a courtier of the Austrasian King Theodebert II, a valiant
 warrior, and a valued adviser. He married the noble Doda (the marriage
@@ -142,17 +139,20 @@ during the attempt. Dode then took refuge in her aunt\'s abbey. She
 succeeded Beuve as abbess. At the end of her life, she obtained from
 Pepin of Landen, an act designed to protect her community.
 
-
-
-* [Joseph]({{ '/faith/saints/joseph/' | relative_url }})
-* [George]({{ '/faith/saints/george/' | relative_url }})
-* [Baptist]({{ '/faith/saints/baptist/' | relative_url }})
-* [Margaret]({{ '/faith/saints/margaret/' | relative_url }})
+* [Saint Andrew]({{ '/faith/saints/andrew/' | relative_url }})
+* [Saint Ansgar]({{ '/faith/saints/ansgar/' | relative_url }})
+* [Saint John the Baptist]({{ '/faith/saints/baptist/' | relative_url }})
+* [Saint Boniface]({{ '/faith/saints/boniface/' | relative_url }})
+* [Blessed Charlemagne]({{ '/faith/saints/charlemagne/' | relative_url }})
+* [Saint David]({{ '/faith/saints/david/' | relative_url }})
+* [Saint Dennis]({{ '/faith/saints/dennis/' | relative_url }})
+* [Saint George]({{ '/faith/saints/george/' | relative_url }})
+* [Saint Joseph]({{ '/faith/saints/joseph/' | relative_url }})
+* [Saint Margaret]({{ '/faith/saints/margaret/' | relative_url }})
+* [Saint Martin]({{ '/faith/saints/martin/' | relative_url }})
 * [Saint Nicholas]({{ '/faith/saints/nicholas/' | relative_url }})
 * [Saint Patrick]({{ '/faith/saints/patrick/' | relative_url }})
 * [Saint Valentine]({{ '/faith/saints/valentine/' | relative_url }})
-* [Saint Martin]({{ '/faith/saints/martin/' | relative_url }})
-* [Saint Dennis]({{ '/faith/saints/dennis/' | relative_url }})
-* [Saint Boniface]({{ '/faith/saints/boniface/' | relative_url }})
+* [Saint Wenceslas]({{ '/faith/saints/wenceslas/' | relative_url }})
 * [Saint Willibrord]({{ '/faith/saints/willibrord/' | relative_url }})
-* [Saint Ansgar]({{ '/faith/saints/ansgar/' | relative_url }})
+
