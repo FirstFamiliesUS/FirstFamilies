@@ -4,108 +4,92 @@ title: Piedmont Triad, North Carolina
 permalink: /events/north-carolina/piedmont-triad/
 ---
 
-![](./media/media/image1.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-[New Garden Friends Meeting](https://ngfm.org/about/)
+# Piedmont Triad, North Carolina
 
-Friends first gathered here in the mid-1700s to worship outdoors on
-First Day (Sunday) while seated on fallen trees. In 1754, New Garden
-Friends Meeting was established as a Monthly Meeting (the Quaker term
-for a regular congregation).
+The Piedmont Triad region—spanning Guilford, Forsyth, and Randolph counties—serves as the historical heart of Quakerism in North Carolina. Beginning in the mid-18th century, Friends migrated to the backcountry from Pennsylvania, Nantucket, and South Carolina. They established enduring monthly meetings, educational institutions like Guilford College, and agricultural communities that significantly shaped North Carolina's social and cultural landscape.
 
-801 New Garden Road Greensboro, N.C. 27410     336-292-5487
+---
 
-![](./media/media/image2.jpeg){width="7.5in"
-height="4.215277777777778in"}
+## Historic Quaker Meetings
 
-[Deep River Friends Meeting](https://www.deepriverfriends.com/visit/)
+### New Garden Friends Meeting
 
-Deep River Friends Meeting, established in 1754, is a Quaker church in
-High Point, N.C. We gather for worship on Sundays at 11 a.m. In a world
-of greed, endless hurry and violence, we believe there is a better way
-of life. This is made possible by Jesus Christ who shows us the infinite
-love and mercy of God, and who accompanies us day-by-day, helping us
-find goodness among the difficult choices that constantly confront us.
+<img src="{{ '/events/north-carolina/piedmont-triad/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="New Garden Friends Meetinghouse in Greensboro, North Carolina">
 
-5300 West Wendover Avenue, High Point, NC 27265
+Friends first gathered at New Garden in the mid-1700s, holding outdoor First Day (Sunday) worship seated on fallen trees. Established as a Monthly Meeting in 1754, New Garden became a pivotal center for North Carolina Quakers and later played an essential role in the founding of New Garden Boarding School (now Guilford College).
 
-P: 336-454-1928 \| E: <office@deepriverfriends.com>
+* **Address:** [801 New Garden Road, Greensboro, NC 27410](https://maps.app.goo.gl/NewGardenFriends)
+* **Phone:** [(336) 292-5487](tel:+13362925487)
+* **Website:** [New Garden Friends Meeting](https://ngfm.org/about/)
 
-![](./media/media/image3.jpeg){width="4.09375in"
-height="2.3020833333333335in"}
+---
 
-[Springfield Friends
-Meeting](https://en.wikipedia.org/wiki/Springfield_Friends_Meeting)
+### Deep River Friends Meeting
 
-Friends were slower to settle in the Piedmont. Cane Creek Meeting was
-started in 1751, and New Garden followed in 1754. In the mid-1700's,
-Quakers began settling in South Carolina. However, the economy there was
-deeply involved with slavery. Quakers started leaving South Carolina in
-the 1770's, moving up to North Carolina. Many members of Bush River
-Friends (near Camden, SC) helped to start a new meeting at Springfield.
-Early Friends from South Carolina who helped to start Springfield
-include members of the English, Kersey, Mendenhall, Piggins, Ricks and
-Tomlinson families.
+<img src="{{ '/events/north-carolina/piedmont-triad/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Deep River Friends Meetinghouse in High Point, North Carolina">
 
-Another early group of settlers came from the island of Nantucket off
-the coast of Massachusetts. Many Quakers there had made a living from
-whaling, but the island was overcrowded and whales were becoming scarce
-near the coast. Many Quaker families moved to New Garden before coming
-down to Springfield. Prominent family names from Nantucket are Coffin,
-Macy and Petty.
+Established in 1754 in High Point, Deep River Friends Meeting has served as a center for Quaker faith, testimony, and community worship for over two centuries.
 
-A third stream of early settlers came here from the Philadelphia area,
-which was founded in 1681 by William Penn as a refuge for Friends and
-others who were suffering from religious persecution back in the Old
-World. They came to Pennsylvania and prospered, but again, the colony
-was getting crowded. So, many Friends headed down to North Carolina,
-where they found other Quakers, often with family connections. Land here
-was inexpensive and there was plenty of room for families to buy large
-farms. By the time of the American Revolution, there were almost 15,000
-Quakers in North Carolina. Family names of Springfield settlers from
-Pennsylvania include Anderson, Beals, Blair, Carter, Clark, Frazier,
-Haworth, Hiatt, Hoggatt, Hunt, Millikan and Piggott (often spelled in
-later years as Pickett).
+* **Address:** [5300 West Wendover Avenue, High Point, NC 27265](https://maps.app.goo.gl/DeepRiverFriends)
+* **Phone:** [(336) 454-1928](tel:+13364541928)
+* **Email:** [office@deepriverfriends.com](mailto:office@deepriverfriends.com)
+* **Website:** [Deep River Friends Meeting](https://www.deepriverfriends.com/visit/)
 
-![](./media/media/image4.jpeg){width="2.6979166666666665in"
-height="1.5208333333333333in"}
+---
 
-[High Point Museum](https://www.highpointnc.gov/874/Historical-Park)
+### Springfield Friends Meeting
 
-The Hoggatt House is a rare example of houses built by the early
-settlers of the Piedmont back-country. Originally a single room log
-cabin with a large stone fireplace, the house was built around 1801 and
-enlarged with a second room around 1824. It was moved to the Historical
-Park in 1973 from its original location at the corner of Phillips Avenue
-and Rotary Drive in High Point.  The Hoggatt House was restored after a
-fire caused by a lightning strike in December 2004. Visit the Park Staff
-here to learn about the everyday lives and activities of settlers in the
-early 1800s. To learn more about the Hoggatt House's history,
-architecture and restoration, [see a
-presentation](http://www.slideshare.net/tfloflin/hoggatt-house?ref=http://highpointmuseum.org/historical-park/) by
-Salem College student Victoria Chaffers.
+<img src="{{ '/events/north-carolina/piedmont-triad/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Springfield Friends Meetinghouse">
 
-1859 East Lexington Avenue High Point, NC 27262
+Springfield Friends Meeting was established as Quakers migrated into the Piedmont from three distinct migration streams during the 18th century:
 
-Phone: 336-885-1859
+1. **South Carolina Migration:** Quakers leaving Bush River (near Camden, SC) in the 1770s to escape the expanding slave economy. Early family names include *English, Kersey, Mendenhall, Piggins, Ricks,* and *Tomlinson*.
+2. **Nantucket Migration:** Families leaving Nantucket, Massachusetts, due to overcrowding and declining coastal whaling. Prominent family names include *Coffin, Macy,* and *Petty*.
+3. **Pennsylvania Migration:** Friends seeking affordable farmland moving south down the Great Wagon Road from Pennsylvania. Surnames include *Anderson, Beals, Blair, Carter, Clark, Frazier, Haworth, Hiatt, Hoggatt, Hunt, Millikan,* and *Piggott (Pickett)*.
 
-![](./media/media/image5.jpeg){width="4.552083333333333in"
-height="2.5625in"}
+* **History & Information:** [Springfield Friends Meeting History](https://en.wikipedia.org/wiki/Springfield_Friends_Meeting)
 
-[Guilford College](https://en.wikipedia.org/wiki/Guilford_College)
+---
 
-Guilford College is a private liberal arts college in Greensboro, North
-Carolina. Guilford has both traditional students and students who attend
-its Center for Continuing Education (CCE). Founded in 1837 by members of
-the Religious Society of Friends (Quakers), Guilford\'s program
-offerings include such majors as Peace and Conflict Studies and
-Community and Justice Studies, both rooted in the college\'s history as
-a Quaker institution. Its campus has been considered a National Historic
-District by the United States Department of the Interior since 1990
+## Educational & Cultural Institutions
 
-5800 West Friendly Avenue Greensboro NC 27410
+### Guilford College
 
-336.316.2000
+<img src="{{ '/events/north-carolina/piedmont-triad/media/media/image5.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Guilford College Campus in Greensboro, North Carolina">
 
-admission@guilford.edu
+Founded in 1837 by the Religious Society of Friends as New Garden Boarding School, Guilford College is a private liberal arts institution rooted in Quaker principles. Designated a National Historic District in 1990, the campus retains deep ties to peace, justice, and regional history.
+
+* **Address:** [5800 West Friendly Avenue, Greensboro, NC 27410](https://maps.app.goo.gl/GuilfordCollege)
+* **Phone:** [(336) 316-2000](tel:+13363162000)
+* **Email:** [admission@guilford.edu](mailto:admission@guilford.edu)
+* **Website:** [Guilford College History](https://en.wikipedia.org/wiki/Guilford_College)
+
+---
+
+### High Point Museum: Historical Park & Hoggatt House
+
+<img src="{{ '/events/north-carolina/piedmont-triad/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Hoggatt House at High Point Museum Historical Park">
+
+The Hoggatt House is a rare surviving example of early backcountry architecture. Built around 1801 as a single-room log cabin with a large stone fireplace and expanded in 1824, the house was relocated to the High Point Museum Historical Park in 1973. Following a restoration after a 2004 lightning strike, it stands as an educational site demonstrating daily pioneer life in the early 19th century.
+
+* **Address:** [1859 East Lexington Avenue, High Point, NC 27262](https://maps.app.goo.gl/HighPointMuseum)
+* **Phone:** [(336) 885-1859](tel:+13368851859)
+* **Website:** [High Point Historical Park](https://www.highpointnc.gov/874/Historical-Park) | [Hoggatt House Architectural Presentation](http://www.slideshare.net/tfloflin/hoggatt-house?ref=http://highpointmuseum.org/historical-park/)
+
+---
+
+*Last updated: September 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>
