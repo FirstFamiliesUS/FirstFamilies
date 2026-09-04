@@ -4,6 +4,13 @@ title: New Castle, Delaware
 permalink: /events/delaware/new-castle/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+ 
 # New Castle, Delaware
 
 ## Overview
@@ -16,9 +23,12 @@ New Castle, Delaware, situated along the Delaware River, boasts a rich colonial 
 ### Grubb-Worth Mansion (Ledgeworth)
 The Grubb-Worth Mansion stands on historic land first settled by early English pioneer John Grubb, whose descendants played a significant role in Delaware's early leather tanning and iron manufacturing industries.
 
-![Grubb-Worth Mansion](./media/media/image1.png)
 
-![Grubb Historical Marker](./media/media/image2.png)
+<img src="{{ '/events/delaware/new-castle/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Haskell Cemetery">
+
+
+<img src="{{ '/events/delaware/new-castle/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Haskell Cemetery">
+
 
 * **Settlement & Ownership History:**
   * **1680:** John Grubb, an early English settler in Delaware, acquired a one-third interest in a 600-acre tract at this location.
@@ -31,3 +41,10 @@ The Grubb-Worth Mansion stands on historic land first settled by early English p
 ---
 
 *Last updated: September 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>
