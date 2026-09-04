@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Quaker
-permalink: /faith/quaker/
+permalink: /faith/quakers/
 ---
 
 <section class="wrapper bg-light">
