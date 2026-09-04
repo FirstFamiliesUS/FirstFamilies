@@ -4,6 +4,13 @@ title: Kent Island, Maryland
 permalink: /events/maryland/kentisland/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
 # Kent Island, Maryland
 
 ## Overview
@@ -11,7 +18,9 @@ Every Father's Day, Christ Church (Episcopal) carries on a wonderful tradition w
 
 It all dates back to August 1631, when William Claiborne's party founded Kent Island—the very first settlement in what would eventually become the state of Maryland. Such a beautiful legacy to reflect on today!
 
-![Kent Island Historical Map](https://firstfamiliesus.github.io/FirstFamilies/assets/images/kentisland/map.png)
+
+
+
 
 ## Early Settlers & Genealogy
 * **Kent Island Surnames**: [Surname Index PDF](https://kentislandheritagesociety.org/wp-content/uploads/2018/05/Surname-List-update.pdf)
@@ -22,7 +31,8 @@ It all dates back to August 1631, when William Claiborne's party founded Kent Is
 ### Christ Episcopal Church of Kent Island
 Recognized as Maryland's oldest Christian congregation, founded in 1632 by the Reverend Richard James—one year after Kent Island was settled by William Claiborne and two years before settlers arrived at St. Clement's Island.
 
-![Christ Church](./media/media/image1.jpeg)
+<img src="{{ '/events/maryland/kentisland/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Christ Church">
+
 
 * **Address:** 830 Romancoke Road, Stevensville, MD 21666
 * **NRHP Reference No.** [79003268](https://npgallery.nps.gov/AssetDetail/NRIS/79003268)
@@ -34,7 +44,7 @@ Recognized as Maryland's oldest Christian congregation, founded in 1632 by the R
 ### Veterans Point Memorial
 A memorial honoring local service members located in Grasonville.
 
-![Veterans Point Memorial](./media/media/image3.jpeg)
+
 
 * **Address:** 321 Wells Cove Rd, Grasonville, MD 21638
 * **Details:** [Historical Marker Database](https://www.hmdb.org/copyright.asp)
@@ -42,7 +52,8 @@ A memorial honoring local service members located in Grasonville.
 ### Kent Island Heritage Society
 Founded in 1975 to discover, identify, restore, and preserve the rich history of Kent Island, helping residents and visitors appreciate its role in Maryland and national history.
 
-![Kent Island Heritage Society](./media/media/image6.png)
+<img src="{{ '/events/maryland/kentisland/media/media/image6.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kent Island Heritage Society">
+
 
 ---
 
@@ -51,7 +62,8 @@ Founded in 1975 to discover, identify, restore, and preserve the rich history of
 ### Historic Kent Island Resort
 Country house charm and modern sophistication on the shores of Chesapeake Bay. Enjoy 220 acres of serene parklands, hiking and cycling trails, nearly 2 miles of waterfront for kayaking, an in-ground swimming pool, and seasonal dining at 18TWENTY.
 
-![Kent Island Resort](./media/media/image2.png)
+<img src="{{ '/events/maryland/kentisland/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kent Island Resort">
+
 
 * **Address:** 500 Kent Manor Drive, Stevensville, MD 21666
 * **Contact:** (410) 643-5757 | `events@kentislandresort.com`
@@ -60,7 +72,8 @@ Country house charm and modern sophistication on the shores of Chesapeake Bay. E
 ### Camp Wright
 A ministry of the Episcopal Diocese of Easton offering day and resident summer camps across 140 rustic, waterfront acres on Kent Island.
 
-![Camp Wright](./media/media/image7.jpeg)
+<img src="{{ '/events/maryland/kentisland/media/media/image7.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Camp Wright">
+
 
 * **Address:** 400 Camp Wright Ln, Stevensville, MD 21666
 * **Contact:** Phone: (410) 643-4171 | Fax: (410) 643-8421
@@ -69,7 +82,8 @@ A ministry of the Episcopal Diocese of Easton offering day and resident summer c
 ### Romancoke Pier
 A popular local county park location for fishing, crabbing, and enjoying water views.
 
-![Romancoke Pier](./media/media/image5.jpeg)
+<img src="{{ '/events/maryland/kentisland/media/media/image5.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Romancoke Pier">
+
 
 * **Address:** 9700 Romancoke Rd, Stevensville, MD 21666
 * **Website:** [Romancoke Pier Facility Details](https://www.qac.org/Facilities/Facility/Details/Romancoke-Pier-128)
@@ -77,7 +91,8 @@ A popular local county park location for fishing, crabbing, and enjoying water v
 ### Matapeake Clubhouse & Beach
 Features a winding wooded trail leading to a dedicated Dog Beach on the sandy banks of Chesapeake Bay.
 
-![Matapeake Beach](./media/media/image13.jpeg)
+<img src="{{ '/events/maryland/kentisland/media/media/image13.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Matapeake Beach">
+
 
 * **Address:** [1112 Romancoke Rd, Stevensville, MD 21666](https://maps.google.com/?q=1112+Romancoke+Rd,+Stevensville,+MD+21666)
 * **Pet Policy:** Pets are allowed strictly on the wooded trail and Dog Beach; they are prohibited on the main clubhouse lawn and public beach.
@@ -86,7 +101,8 @@ Features a winding wooded trail leading to a dedicated Dog Beach on the sandy ba
 ### Waterfront Rental Property
 Private 3-bedroom, 3-bath house rental with private beach access.
 
-![House for Rent](./media/media/image12.jpeg)
+<img src="{{ '/events/maryland/kentisland/media/media/image12.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="House for Rent">
+
 
 * **Property Listing:** [#1215566 on VRBO](https://t.vrbo.io/tCQ94aCgeUb)
 
@@ -102,19 +118,24 @@ Private 3-bedroom, 3-bath house rental with private beach access.
 | **[Kent Point Marina](https://www.majorcrabs.com/)** | Full-service marina and fresh local seafood hub. | 107 Short Rd, Stevensville, MD<br>(410) 753-2330<br>`kentpointmarina@gmail.com` |
 | **[Kent Island Boat Charters](https://www.kentislandboatcharters.com/book-online)** | Private cruises for up to 6 passengers on a 38' Statement Marine boat. Features comfortable seating, sound system, and enclosed restroom. | Pre-booked cruises<br>Smoke-free & pet-free vessel |
 
-![Bridges Restaurant](./media/media/image4.jpeg)
+<img src="{{ '/events/maryland/kentisland/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Bridges Restaurant">
+
 *Bridges Restaurant on Wells Cove*
 
-![Love Point Winery](./media/media/image10.jpeg)
+<img src="{{ '/events/maryland/kentisland/media/media/image10.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Love Point Winery">
+
 *Love Point Vineyard & Winery*
 
-![Kent Point Marina](./media/media/image11.jpeg)
+<img src="{{ '/events/maryland/kentisland/media/media/image11.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kent Point Marina">
+
 *Kent Point Marina*
 
-![Kent Island Boat Charters](./media/media/image8.jpeg)
+<img src="{{ '/events/maryland/kentisland/media/media/image8.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kent Island Boat Charters">
+
 *Kent Island Boat Charters*
 
-![Kentmorr Restaurant](./media/media/image9.jpeg)
+<img src="{{ '/events/maryland/kentisland/media/media/image9.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kentmorr Restaurant">
+
 *Kentmorr Restaurant & Crab House*
 
 ---
