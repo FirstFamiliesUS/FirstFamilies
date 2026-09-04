@@ -4,106 +4,132 @@ title: Arlington, Virginia
 permalink: /events/virginia/arlington/
 ---
 
-As the hometown of George Washington, Alexandria and its surrounding
-areas is no stranger to history. Washington, D.C., beautiful Mount
-Vernon, Arlington Cemetery and the National Masonic Temple are all just
-minutes away.   Before or after their visit, guests have easy access to
-famous Old Town sites such as Robert E. Lee\'s boyhood home, George
-Washington\'s Townhouse and Market Square, one of the oldest market
-places in the whole country.
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-![](./media/media/image1.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+# Arlington, Virginia
 
-Reagan National Airport
+Located directly across the Potomac River from Washington, D.C., Arlington County is home to iconic national landmarks, historic military memorials, and convenient travel hubs connecting visitors to Alexandria, Mount Vernon, and the nation's capital.
 
-From here you can go just about anywhere in the greater Washington DC
-area
+---
 
-![](./media/media/image2.jpeg){width="4.9375in"
-height="2.7708333333333335in"}
+## Transportation & Travel Hubs
 
-Pentagon Visitor Center
+### Reagan National Airport
 
-![](./media/media/image3.jpeg){width="7.333333333333333in"
-height="4.125in"}
+<img src="{{ '/events/virginia/arlington/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Reagan National Airport">
 
-George Washington Memorial Parkway
+Convenient airport hub providing fast transit access to Washington, D.C., Arlington, and Northern Virginia.
 
-![](./media/media/image4.jpeg){width="7.5in"
-height="4.213888888888889in"}
+---
 
-Arlington National Cemetery
+### Water Taxi Services
 
-![](./media/media/image5.jpeg){width="6.770833333333333in"
-height="3.8020833333333335in"}
+<img src="{{ '/events/virginia/arlington/media/media/image8.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Potomac River Water Taxi">
 
-Arlington House
+Scenic water transit along the Potomac River connecting Northern Virginia, Georgetown, The Wharf, and National Harbor.
 
-![](./media/media/image6.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+* **Pricing:** Starting at $22 per person / hour
+* **Booking:** [Book Potomac Water Taxi Tickets](https://www.cityexperiences.com/washington-dc/city-cruises/water-taxi/washington-dc-water-taxi/)
 
-Marine Corps War Memorial
+---
 
-The **United States Marine Corps War Memorial** (**Iwo Jima Memorial**)
-is a national memorial located in [Arlington
-County](https://en.wikipedia.org/wiki/Arlington_County,_Virginia), [Virginia](https://en.wikipedia.org/wiki/Virginia).
-The memorial was dedicated in 1954 to
-all [Marines](https://en.wikipedia.org/wiki/United_States_Marine_Corps) who
-have given their lives in defense of the [United
-States](https://en.wikipedia.org/wiki/United_States) since 1775. It is
-located in [Arlington Ridge
-Park](https://en.wikipedia.org/wiki/Arlington_Ridge_Park) within
-the [George Washington Memorial
-Parkway](https://en.wikipedia.org/wiki/George_Washington_Memorial_Parkway) 
+### Monuments Sightseeing Tour From Alexandria
 
-![](./media/media/image7.jpeg){width="7.5in"
-height="4.215277777777778in"}
+<img src="{{ '/events/virginia/arlington/media/media/image11.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Monuments Sightseeing Tour">
 
-Merchant Marine Memorial
+Narrated sightseeing cruises along the Potomac River with views of the Thomas Jefferson Memorial, John F. Kennedy Center for the Performing Arts, Washington Monument, and Arlington Memorial Bridge.
 
-![](./media/media/image8.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+* **Excursions:** [Mount Vernon Cruise Options](https://www.cityexperiences.com/washington-dc/city-cruises/mount-vernon-excursion-cruise/)
 
-Water Taxi
+---
 
-Starting at \$22 hour per person. [To
-book](https://www.cityexperiences.com/washington-dc/city-cruises/water-taxi/washington-dc-water-taxi/). 
+## Memorials & Historic Sites
 
-![](./media/media/image9.jpeg)
+### Arlington National Cemetery & Arlington House
 
-The View of DC
+<div class="row">
+<div class="col-md-6 text-center mb-4">
+<img src="{{ '/events/virginia/arlington/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm mb-2" alt="Arlington National Cemetery">
+<p class="fw-bold">Arlington National Cemetery</p>
+</div>
+<div class="col-md-6 text-center mb-4">
+<img src="{{ '/events/virginia/arlington/media/media/image5.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm mb-2" alt="Arlington House">
+<p class="fw-bold">Arlington House (The Robert E. Lee Memorial)</p>
+</div>
+</div>
 
-The[ View of DC](https://theviewofdc.com/visitors/) is pleased to
-welcome the general public with free admission to experience the
-Observation Deck for yourself. Please note: Each visitor to the
-Observatory will need to present a valid form of identification for
-admission.
+---
 
-1201 Wilson Blvd., Suite 115, Arlington, VA 22209 (Entrance: 1731 N.
-Moore Street
+### Marine Corps War Memorial (Iwo Jima Memorial)
 
-![](./media/media/image10.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+<img src="{{ '/events/virginia/arlington/media/media/image6.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Marine Corps War Memorial">
 
-Lady Bird Johnson Park
+Dedicated in 1954 to all [U.S. Marines](https://en.wikipedia.org/wiki/United_States_Marine_Corps) who have given their lives in defense of the United States since 1775. Located in [Arlington Ridge Park](https://en.wikipedia.org/wiki/Arlington_Ridge_Park) along the [George Washington Memorial Parkway](https://en.wikipedia.org/wiki/George_Washington_Memorial_Parkway).
 
-![](./media/media/image11.jpeg)
+---
 
-Monuments Sightseeing Tour From Alexandria
+### Pentagon Visitor Center & Merchant Marine Memorial
 
-See the famous monuments of Washington, D.C. from an entirely new
-perspective on this narrated sightseeing cruise. Travel along the
-Potomac River to see the plethora of famous monuments and landmarks,
-with stunning reflective views of the Thomas Jefferson Memorial, the
-John F. Kennedy Center for the Performing Arts, the Washington Monument,
-the Arlington Memorial Bridge, and more. The docks for this tour are not
-ADA Compliant. Please visit our Potomac Water Taxi page which offers
-cruise options to the Wharf and National Harbor. [We also offer an
-option to Mount Vernon From
-DC.](https://www.cityexperiences.com/washington-dc/city-cruises/mount-vernon-excursion-cruise/)  
+<div class="row">
+<div class="col-md-6 text-center mb-4">
+<img src="{{ '/events/virginia/arlington/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm mb-2" alt="Pentagon Visitor Center">
+<p class="fw-bold">Pentagon Visitor Center</p>
+</div>
+<div class="col-md-6 text-center mb-4">
+<img src="{{ '/events/virginia/arlington/media/media/image7.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm mb-2" alt="Merchant Marine Memorial">
+<p class="fw-bold">Merchant Marine Memorial</p>
+</div>
+</div>
 
-![](./media/media/image12.jpeg){width="2.90625in"
-height="1.6354166666666667in"}
+---
 
-Theodore Roosevelt Island
+## Observatories & Attractions
+
+### The View of DC
+
+<img src="{{ '/events/virginia/arlington/media/media/image9.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="The View of DC">
+
+Enjoy panoramic views of the Washington, D.C. skyline and Northern Virginia landmarks from the Observation Deck.
+
+* **Admission:** **FREE** to the general public *(Valid ID required for entrance)*
+* **Address:** 1201 Wilson Blvd., Suite 115, Arlington, VA 22209 *(Entrance at 1731 N. Moore Street)*
+* **Website:** [theviewofdc.com](https://theviewofdc.com/visitors/)
+
+---
+
+## Parks & Scenic Drives
+
+### [George Washington Memorial Parkway](https://en.wikipedia.org/wiki/George_Washington_Memorial_Parkway)
+
+<img src="{{ '/events/virginia/arlington/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="George Washington Memorial Parkway">
+
+---
+
+### Lady Bird Johnson Park & Theodore Roosevelt Island
+
+<div class="row">
+<div class="col-md-6 text-center mb-4">
+<img src="{{ '/events/virginia/arlington/media/media/image10.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm mb-2" alt="Lady Bird Johnson Park">
+<p class="fw-bold">Lady Bird Johnson Park</p>
+</div>
+<div class="col-md-6 text-center mb-4">
+<img src="{{ '/events/virginia/arlington/media/media/image12.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm mb-2" alt="Theodore Roosevelt Island">
+<p class="fw-bold">Theodore Roosevelt Island</p>
+</div>
+</div>
+
+---
+
+*Last updated: September 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>
