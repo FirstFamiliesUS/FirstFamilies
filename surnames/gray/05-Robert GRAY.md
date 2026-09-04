@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Gray"
-permalink: /ancestors/gray/robert2/
+permalink: /surnames/gray/robert2/
 gallery:
 
 <section class="wrapper bg-light">
