@@ -4,6 +4,13 @@ title: Hartford, Connecticut
 permalink: /events/connecticut/hartford/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
 # Hartford, Connecticut
 
 ## Overview
@@ -16,7 +23,10 @@ Hartford, the state capital of Connecticut, was founded in 1635 by English settl
 ### Descendants of the Founders of Hartford
 The Society of the Descendants of the Founders of Hartford is a charitable and educational organization established in 1931 dedicated to preserving and promoting the early history and lineage of Hartford's original settlers.
 
-![Descendants of the Founders of Hartford Banner](./media/media/image1.png)
+<img src="{{ '/events/connecticut/hartford/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Descendants of the Founders of Hartford Banner">
+
+
+
 
 * **Mission:** Fosters literary, cultural, and historical research to strengthen public understanding of Hartford's origins; erects local memorials; and supports educational grants related to city history.
 * **Membership & Events:** Consists of over 300 members worldwide who gather annually in Hartford for the Court and Dinner event featuring keynote speakers and historical presentations.
@@ -25,3 +35,11 @@ The Society of the Descendants of the Founders of Hartford is a charitable and e
 ---
 
 *Last updated: September 2026*
+
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>
