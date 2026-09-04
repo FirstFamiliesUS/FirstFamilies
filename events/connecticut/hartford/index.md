@@ -4,21 +4,24 @@ title: Hartford, Connecticut
 permalink: /events/connecticut/hartford/
 ---
 
-![](./media/media/image1.png){width="7.5in"
-height="1.6284722222222223in"}
+# Hartford, Connecticut
 
-[Descendants of the Founders of
-Hartford](https://www.foundersofhartford.org/the-founders/)
+## Overview
+Hartford, the state capital of Connecticut, was founded in 1635 by English settlers led by Thomas Hooker and Samuel Stone. As one of the oldest cities in the United States, Hartford played a pivotal role in early colonial history, including the authoring of the Fundamental Orders of Connecticut in 1639—often recognized as one of the world's first written constitutions.
 
-The Society of the Descendants of the Founders of Hartford is a
-charitable and educational society organized in 1931. Among its purposes
-are: To foster literary, cultural, historical and other research aimed
-at strengthening the public understanding of the history and traditions
-of the City of Hartford; To celebrate appropriate anniversaries in the
-history of the City; To erect appropriate memorials in public places to
-commemorate the founding of the City; To promote the widest possible
-public interest in the history of Hartford; And to make grants to other
-organizations in support of the above. There are more than 300 living
-members, in almost every state and in several foreign countries. We meet
-once a year in Hartford for the annual Court and Dinner, which features
-a guest speaker and the introduction of new members. 
+---
+
+## Genealogy & Heritage Organizations
+
+### Descendants of the Founders of Hartford
+The Society of the Descendants of the Founders of Hartford is a charitable and educational organization established in 1931 dedicated to preserving and promoting the early history and lineage of Hartford's original settlers.
+
+![Descendants of the Founders of Hartford Banner](./media/media/image1.png)
+
+* **Mission:** Fosters literary, cultural, and historical research to strengthen public understanding of Hartford's origins; erects local memorials; and supports educational grants related to city history.
+* **Membership & Events:** Consists of over 300 members worldwide who gather annually in Hartford for the Court and Dinner event featuring keynote speakers and historical presentations.
+* **Official Website:** [Descendants of the Founders of Hartford - Original Founders List](https://www.foundersofhartford.org/the-founders/)
+
+---
+
+*Last updated: September 2026*
