@@ -4,6 +4,14 @@ title: "Joseph Swindell"
 permalink: /ancestors/swindell/joseph/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
 Joseph Swindell
 
 Joseph Swindle was born in the Fort Germanna community in central Virginia. His parents were both from the Germman community. The Germanna people were immigrants in 1714-1717 to central VA. The were all Germans, and spoke German, and their church was Hebron Lutheran Church, in Madison, VA which still exists. All service4s and records were in German. Joseph's parents migrated from central VA through Rockingham Co NC, to their eventual permanent settlement at Boone Co, KY where they both died and are buried. Joseph Swindle's name was spelled as SWINDELL, probably chosen by his children as a prefered form. His wife was Mary BROWN, who was also of a German family line. Died at age 71 years old. Joseph Swindle raised his own large family in Monroe Co Missouri, but also raised my ancestor, Nancy Weaver Swindle, who was sent to him to be raised when she was a teenager. Her father was John Swindle, Jr the brother of Joseph. She came from Ashe Co NC.

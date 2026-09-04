@@ -4,6 +4,14 @@ title: "PVT Marshall Lincoln Pratt"
 permalink: /ancestors/pratt/marshall
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
 Marshall L Pratt
 
 Before moving to Nebraska he served in Captain Murrays Company Second Regiment Pennsylvania Volunteers. In 1860 he moved his large family to Nebraska City in Otoe County in Nebraska. He was known as farming and vegetables. He died and was buried in Nebraska

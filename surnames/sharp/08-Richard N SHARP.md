@@ -4,6 +4,14 @@ title: "Rev. Richard N. Sharp"
 permalink: /ancestors/sharp/richard/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
 Circuit Rider Rev. Richard N Sharp
 
 Born Albemarle County VA, May 1, 1787. Joined Methodist Church Nov. 8, 1805. Licensed to preach, ordained deacon Feb. 23, 1812. Ordained elder, fall of 1818. Both times he was ordained by Bishop Francis Ashbury, the first Methodist bishop. In the fall of 1831,  Rev. Sharp moved to Missouri. He was awarded multiple landgrants in Missouri. On this land he built Sharpsburg, Missouri. The first post office was in the home of Richard Sharp and he served as post master until his death in 1850. He built Sharpsburg Methodist Church. It was part of a church circuit with Rev. Sharp preaching at Sharpsburg the 1st Sunday of the month, Deer Creek, 2nd, Black Creek 3rd, and James Sharp’s home, 4th. Rev. Sharp died in 1850 and is buried at Sharpsburg Cemetery. 

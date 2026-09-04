@@ -4,6 +4,14 @@ title: "James Ansen Sharp"
 permalink: /ancestors/sharp/emily/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
 - Father: [Rev. Richard N Sharp]({{ '/ancestors/sharp/richard' | relative_url }})
 - Mother: [Nancy Rowe]({{ '/ancestors/rowe/nancy' | relative_url }})
 - Spouse: [Elizabeth Swindell]({{ '/ancestors/swindell/elizabeth' | relative_url }})

@@ -4,6 +4,14 @@ title: "PVT George Wolfe"
 permalink: /ancestors/wolfe/george/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
 
 - Father: [Forefathers Johann Wolfe]({{ '/ancestors/wolfe/johann' | relative_url }})
 - Mother: [Maria Reijinders]({{ '/ancestors/reijinders/maroa' | relative_url }})

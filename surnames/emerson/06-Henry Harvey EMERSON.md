@@ -4,6 +4,14 @@ title: "Deacon Henry H. Emerson"
 permalink: /ancestors/emerson/henry/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
 Henry Harvey EMERSON
 
 - Born: 12 Jun 1820  `#1, #3, #5, #6, #7`

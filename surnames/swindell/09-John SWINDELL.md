@@ -4,6 +4,14 @@ title: "PVT John Swindell"
 permalink: /ancestors/swindell/john/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
 - Father: [Timothy Swindell]({{ '/ancestors/swindell/timothy' | relative_url }})
 - Mother: [Rebecca Crees]({{ '/ancestors/crees/rebecca' | relative_url }}) 
 - Spouse: [Hannah Weaver]({{ '/ancestors/weaver/hannah' | relative_url }})   

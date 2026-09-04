@@ -4,6 +4,14 @@ title: "Susannah Emerson"
 permalink: /ancestors/emerson/susannah/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
 Susannah Emerson
 
 - Born: 31 Oct 1850  `#1, #2, #4, #5`

@@ -4,6 +4,14 @@ title: "My Wilson Family"
 permalink: /surnames/wilson/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
 - [Aulsy Wilson]({{ '/ancestors/wilson/aulsy' | relative_url }})
 - [George Wilson]({{ '/ancestors/wilson/georgew' | relative_url }})
 - [PVT William Wilson]({{ '/ancestors/wilson/william2' | relative_url }}) 

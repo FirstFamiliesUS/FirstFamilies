@@ -4,6 +4,14 @@ title: "Isaac Chase I"
 permalink: /ancestors/chase/isaac1/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
 - Born:   
 - Birth Place: [Plymouth County](https://www.familysearch.org/en/wiki/Plymouth_County,_Massachusetts_Genealogy), [MA](https://www.familysearch.org/en/wiki/Massachusetts,_United_States_Genealogy).
 - Died:   
