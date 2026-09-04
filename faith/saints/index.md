@@ -1,8 +1,15 @@
 ---
 layout: default
 title: Saints, 
-permalink: /events//saints/
+permalink: /events/saints/
 ---
+
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
 The Saints 
 
@@ -12,8 +19,7 @@ Emperor may follow the example of David in making war to drive away the
 Turk from his country. *\"  Dr.
 Martin [Luther](https://www.firstfamilies.us/faith/lutheran)
 
-![](./media/media/image1.png){width="7.416666666666667in"
-height="4.166666666666667in"}
+![](./media/media/image1.png)
 
 [National Society of
 Saints](http://nationalsocietyofsaintsandsinners.org/wp-content/uploads/2018/07/Approved-List-of-Saints-07-15-15.pdf)
@@ -26,8 +32,7 @@ members were discussed and resolved. We extend a heartfelt thank you to
 our members for helping us make the Society an even greater pleasure to
 join.
 
-![](./media/media/image2.png){width="3.1145833333333335in"
-height="5.208333333333333in"}
+![](./media/media/image2.png)
 
 [Louis Capet](http://catholicsaints.info/saint-louis-ix/)
 
@@ -43,8 +48,7 @@ of Germany. Trinitarian tertiary. Led two Crusades and died on one.
 
 Feast Day is 25 August
 
-![](./media/media/image3.png){width="7.445800524934383in"
-height="9.34375in"}
+![](./media/media/image3.png)
 
 [King Edward of
 Wessex](https://catholicsaints.info/saint-edgar-the-peaceful/)
@@ -62,8 +66,7 @@ Martyr.
 
 Feast Day 8 July
 
-![](./media/media/image4.png){width="6.135416666666667in"
-height="9.791666666666666in"}
+![](./media/media/image4.png)
 
 [Begga](https://en.wikipedia.org/wiki/Begga)
 
@@ -79,8 +82,7 @@ the witness and ministry of the Beguines flourished.
 
 She is commemorated on 17 December.
 
-![](./media/media/image5.png){width="4.333333333333333in"
-height="5.625in"}
+![](./media/media/image5.png)
 
 Bishop [Arnulf
 Arnulfing](https://catholicsaints.info/saints-of-the-day-arnulf-arnoul-arnold-of-metz/)
@@ -140,11 +142,8 @@ during the attempt. Dode then took refuge in her aunt\'s abbey. She
 succeeded Beuve as abbess. At the end of her life, she obtained from
 Pepin of Landen, an act designed to protect her community.
 
- Feast Day is 24 April
-* []({{ '/faith/saints//' | relative_url }})
-* []({{ '/faith/saints//' | relative_url }})
-* []({{ '/faith/saints//' | relative_url }})
-* []({{ '/faith/saints//' | relative_url }})
+
+
 * [Joseph]({{ '/faith/saints/joseph/' | relative_url }})
 * [George]({{ '/faith/saints/george/' | relative_url }})
 * [Baptist]({{ '/faith/saints/baptist/' | relative_url }})
