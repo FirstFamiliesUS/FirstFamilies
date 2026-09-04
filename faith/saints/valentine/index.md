@@ -4,8 +4,15 @@ title: Saint Valentine Feast Day
 permalink: /faith/saints/valentine/
 ---
 
-![](./media/media/image1.jpeg){width="2.7604166666666665in"
-height="4.270833333333333in"}
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
+![](./media/media/image1.jpeg)
 
 [Valentine](https://catholicsaintmedals.com/saints/st-valentine/)
 
