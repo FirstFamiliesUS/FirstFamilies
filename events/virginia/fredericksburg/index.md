@@ -4,110 +4,115 @@ title: Fredericksburg, Virginia
 permalink: /events/virginia/fredericksburg/
 ---
 
-Resources
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-<https://www.familysearch.org/en/wiki/Overwharton_Parish,_Virginia>
+# Fredericksburg, Virginia
 
-<https://www.familysearch.org/en/wiki/Stafford_County,_Virginia>
+Rich in colonial and Civil War history, Fredericksburg features historic 18th-century churches, local genealogical resources, historic markers, and premier dining along the Rappahannock River.
 
-![](./media/media/image1.png){width="5.0in"
-height="6.666666666666667in"}
+---
 
-[St George
-Parish](https://en.wikipedia.org/wiki/St._George%27s_Episcopal_Church_%28Fredericksburg,_Virginia%29)
+## Visitor & Historical Resources
 
-St. George\'s Episcopal Church is a church in Fredericksburg, Virginia.
-The church, built in the 18th century and re-built in 1815 and 1849, is
-a part of the Episcopal Diocese of Virginia. The building was listed on
-the National Register of Historic Places in 2019.
+### Fredericksburg Visitor Center
 
- 905 Princess Anne Street, Fredericksburg
+<img src="{{ '/events/virginia/fredericksburg/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Fredericksburg Visitor Center">
 
-[Events - St. George\'s Episcopal Church
-(stgeorgesepiscopal.net)](https://www.stgeorgesepiscopal.net/events/) 
+* **Address:** [706 Caroline Street, Fredericksburg, VA 22401](https://www.google.com/maps/search/?api=1&query=706+Caroline+Street+Fredericksburg+VA+22401)
+* **Phone:** [(540) 373-1776](tel:+15403731776)
+* **Website:** [Fredericksburg Visitor Center](https://www.virginia.org/listing/fredericksburg-visitor-center/15742/)
 
-- **7:45 am:** Quiet and traditional, this spoken Eucharist service
-  begins the day with prayers ancient and modern from our Book of Common
-  Prayer Rite I.
+---
 
-- **9:00 am: ** A welcoming, multi-generational Eucharist using
-  supplemental worship texts and led by our Jazz Ensemble and choir.
-  Children and youth are encouraged to participate as lectors or
-  acolytes. ASL Interpreting is available upon request. This service is
-  also [livestreamed on YouTube
-  Live](https://www.youtube.com/channel/UCmQDif5IE6Mhl3qX4KmCXLg).
-  Contact the church office for more information.
+### Genealogical Research Wiki
 
-- 1**1:15 am:** A Book of Common Prayer Eucharist rich in Anglican
-  tradition, this service is led by the Choir of St. George's with organ
-  and the Chamber Ensemble. As at 9 am, children and youth are
-  encouraged to participate as leaders.
+* **Stafford County:** [Stafford County FamilySearch Wiki](https://www.familysearch.org/en/wiki/Stafford_County,_Virginia)
+* **Overwharton Parish:** [Overwharton Parish FamilySearch Wiki](https://www.familysearch.org/en/wiki/Overwharton_Parish,_Virginia)
 
-- **5:30 pm**:  Candlelight, silence, quiet reflection and prayer, and
-  music from the Celtic tradition are all part of our Celtic Evensong +
-  Communion service.
+---
 
-- **8:00 pm:** The Compline choir chants the this service for the end of
-  the day. This service is livestreamed on [Facebook
-  Live.](https://www.facebook.com/compline)
+## Historic Churches & Landmarks
 
-![](./media/media/image2.png){width="7.155941601049869in"
-height="4.019625984251968in"}
+### St. George's Episcopal Church
 
-[Foode](https://www.foodefredericksburg.com/)
+<img src="{{ '/events/virginia/fredericksburg/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="St. George's Episcopal Church">
 
-900 Princess Anne St Fredericksburg VA
+Built in the 18th century and rebuilt in 1815 and 1849, St. George's is part of the Episcopal Diocese of Virginia and was listed on the National Register of Historic Places in 2019.
 
-Tel: 540-479-1370
+* **Address:** [905 Princess Anne Street, Fredericksburg, VA 22401](https://www.google.com/maps/search/?api=1&query=905+Princess+Anne+Street+Fredericksburg+VA+22401)
+* **Website:** [St. George's Episcopal Church Events](https://www.stgeorgesepiscopal.net/events/)
 
-![](./media/media/image3.png){width="7.333333333333333in"
-height="4.125in"}
+#### Sunday Worship Schedule
+* **7:45 AM:** Quiet and traditional spoken Eucharist service (Rite I).
+* **9:00 AM:** Multi-generational Eucharist featuring Jazz Ensemble and choir *(ASL interpreted upon request; livestreamed on [YouTube Live](https://www.youtube.com/channel/UCmQDif5IE6Mhl3qX4KmCXLg))*.
+* **11:15 AM:** Book of Common Prayer Eucharist led by the Choir of St. George's, organ, and Chamber Ensemble.
+* **5:30 PM:** Candlelight Celtic Evensong + Communion service with Celtic music and reflection.
+* **8:00 PM:** Compline choir service *(Livestreamed on [Facebook Live](https://www.facebook.com/compline))*.
 
-[Visitor
-Center](https://www.virginia.org/listing/fredericksburg-visitor-center/15742/)
+---
 
-706 Caroline Street Fredericksburg, VA 22401
+### Aquia Episcopal Church
 
-5403731776
+<img src="{{ '/events/virginia/fredericksburg/media/media/image5.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Aquia Episcopal Church">
 
-![](./media/media/image4.png){width="7.347222222222222in"
-height="5.510416666666667in"}
+Historic colonial parish serving Stafford County since the 18th century.
 
-[Eskridge Marker](https://www.hmdb.org/m.asp?m=9197)
+* **Address:** [2938 Richmond Highway, Stafford, VA 22554](https://www.google.com/maps/search/?api=1&query=2938+Richmond+Highway+Stafford+VA+22554)
+* **Phone:** [(540) 659-4007](tel:+15406594007)
+* **Email:** [office@aquiachurch.org](mailto:office@aquiachurch.org)
+* **History:** [Aquia Parish History](https://aquiachurch.org/about/history/early-parish-history/)
 
-Location. 38° 18.356′ N, 77° 28.144′ W. Marker is in Fredericksburg,
-Virginia. Marker can be reached from the intersection of Washington
-Avenue and Pitt Street. [Touch for
-map](https://www.hmdb.org/map.asp?markers=9197,9194,217565,148050,148049,1078,148051,217566,95315).
-Marker is in this post office area: Fredericksburg VA 22401, United
-States of America. [Touch for
-directions.](https://www.google.com/maps/dir/?api=1&destination=38.305926,-77.469063) 
+#### Annual Heritage & Special Services
+* **Heritage Day (May) & Homecoming (September):** Annual services utilizing the **1662 Book of Common Prayer** with period-appropriate colonial music and attendance in period attire. Features a display of the **1738 communion silver** gifted by The Reverend Alexander Scott (1686–1738), with participation from **The Peyton Society of Virginia**.
 
-![](./media/media/image5.png){width="7.179962817147857in"
-height="4.03125in"}
+---
 
-[Aquia Episcopal
-Church](https://aquiachurch.org/about/history/early-parish-history/)
+### Eskridge Historic Marker
 
-2938 Richmond Highway Stafford, VA 22554
+<img src="{{ '/events/virginia/fredericksburg/media/media/image4.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Eskridge Historical Marker">
 
- (540) 659-4007   <office@aquiachurch.org>
+* **Coordinates:** 38° 18.356′ N, 77° 28.144′ W
+* **Location:** Intersection of Washington Avenue and Pitt Street, Fredericksburg, VA 22401
+* **Links:** [Marker Database Entry](https://www.hmdb.org/m.asp?m=9197) | [Interactive Map](https://www.hmdb.org/map.asp?markers=9197,9194,217565,148050,148049,1078,148051,217566,95315) | [Directions](https://www.google.com/maps/dir/?api=1&destination=38.305926,-77.469063)
 
-Heritage Day and Homecoming are special services celebrated once a year,
-Heritage Day in May and Homecoming in September. Both services use the
-1662 Book of Common Prayer, the BCP used when the church was founded and
-built in the Colonial era and include music that is appropriate to the
-time. The service also is an opportunity for the congregation to see the
-1738 communion set given to the church by The Reverend Alexander Scott
-(1686-1738). We welcome anyone interested in attending the services in
-period attire. We also welcome The Peyton Society of Virginia, who
-visits Aquia Church on Heritage day.
+---
 
-![](./media/media/image6.png){width="6.666666666666667in"
-height="3.75in"}
+## Local Dining
 
-[Brock\'s Riverside Grill](https://brocksgrill.com/menus/menu-copy/)
+### FOODE
 
-Location: 503 Sophia Street, Fredericksburg VA 22401
+<img src="{{ '/events/virginia/fredericksburg/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="FOODE Restaurant">
 
-Phone Number: 540-370-1820
+Farm-to-table dining located in historic downtown Fredericksburg.
+
+* **Address:** [900 Princess Anne Street, Fredericksburg, VA 22401](https://www.google.com/maps/search/?api=1&query=900+Princess+Anne+St+Fredericksburg+VA+22401)
+* **Phone:** [(540) 479-1370](tel:+15404791370)
+* **Website:** [foodefredericksburg.com](https://www.foodefredericksburg.com/)
+
+---
+
+### Brock's Riverside Grill
+
+<img src="{{ '/events/virginia/fredericksburg/media/media/image6.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Brock's Riverside Grill">
+
+Waterfront dining along the Rappahannock River in historic Old Town.
+
+* **Address:** [503 Sophia Street, Fredericksburg, VA 22401](https://www.google.com/maps/search/?api=1&query=503+Sophia+Street+Fredericksburg+VA+22401)
+* **Phone:** [(540) 370-1820](tel:+15403701820)
+* **Website:** [brocksgrill.com](https://brocksgrill.com/menus/menu-copy/)
+
+---
+
+*Last updated: September 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>
