@@ -4,189 +4,211 @@ title: Annapolis, Maryland
 permalink: /events/maryland/annapolis/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-Resources
+# Annapolis, Maryland
 
-[Annapolis, Maryland -
-Wikipedia](https://en.wikipedia.org/wiki/Annapolis,_Maryland) 
+Serving as Maryland's state capital and briefly as the capital of the United States in 1783–1784, Annapolis is renowned for its well-preserved 18th-century architecture, rich maritime heritage, and deep colonial history. Home to the United States Naval Academy, historic harbors, and vital colonial archives, Annapolis offers a wealth of historic landmarks, cultural events, and waterfront destinations.
 
-[Annapolis, Maryland •
-FamilySearch](https://www.familysearch.org/en/wiki/Annapolis,_Maryland) 
+---
 
-![](./media/media/image1.png){width="6.371239063867017in"
-height="3.576388888888889in"}
+## Historic Landmarks & Naval Academy Sites
 
-[Premium Parking](https://www.premiumparking.com/P4902)
+### United States Naval Academy Chapel & Crypt
 
-150 Gorman St, Annapolis, MD 21401
+<img src="{{ '/events/maryland/annapolis/media/media/image6.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="United States Naval Academy Chapel">
 
-+14102165620
+Designated a National Historic Landmark in 1961, the Naval Academy Chapel is an iconic architectural landmark in Annapolis. Beneath the main sanctuary lies the marble crypt containing the sarcophagus of Revolutionary War naval hero [John Paul Jones](https://en.wikipedia.org/wiki/John_Paul_Jones#Exhumation_and_reburial).
 
-Can make online reservations
+* **Address:** [121 Blake Road, Annapolis, MD 21402](https://maps.app.goo.gl/uDMZyrgX3JHX3wfe7)
+* **Phone:** [(410) 293-1100](tel:+14102931100)
+* **Worship Services:** Traditional Protestant Worship is held in the Main Chapel on Sundays at 11:00 a.m.
+* **Information:** [Naval Academy Chaplains Program](https://usna.edu/Chaplains/FaithCommunity/index.php#panel2Protestant)
 
-![](./media/media/image2.png){width="7.210048118985127in"
-height="4.048611111111111in"}
+---
 
-[Iron
-Rooster](https://www.iron-rooster.com/uploads/b/6668a660-fbf1-11e9-bcb2-df8b067fb297/Annapolis%20Menu%20Spring%202025%20copy.pdf)
+### Armel-Leftwich Visitor Center & Academy Tours
 
-8:00 am - 9:00 pm
+<img src="{{ '/events/maryland/annapolis/media/media/image7.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Leftwich Visitor Center at the US Naval Academy">
 
-12 Market Space Annapolis, Maryland 21401
+The primary entrance gateway for visitors exploring the grounds of the United States Naval Academy ("The Yard"). Guided walking tours and electric car tours explore midshipman life, historic campus architecture, and naval military history.
 
-\(410\) 990-1600
+* **Address:** [52 King George St, Annapolis, MD 21402](https://maps.app.goo.gl/LeftwichVisitorCenter)
+* **Phone:** [(410) 293-8687](tel:+14102938687)
+* **Website:** [USNA Visitor Center & Guided Tours](https://www.usna.edu/Visit/index.php)
 
-![](./media/media/image3.png){width="7.042666229221347in"
-height="3.9583333333333335in"}
+---
 
-[Cruise & Tours
-Annapolis](https://watermarkjourney.com/events/annapolis-harbor-usna-cruise/) 
+### Navy-Marine Corps Memorial Stadium
 
-Susan Campbell Park, Annapolis, MD 21401
+<img src="{{ '/events/maryland/annapolis/media/media/image12.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Navy-Marine Corps Memorial Stadium">
 
-410-268-7601 x 100
+Home to the Navy Midshipmen football and lacrosse teams, this state-of-the-art stadium hosts local, national, and international sporting events and military pageantry.
 
-\$25/Adult \$10/Child
+* **Key Events:** Fall home football games feature pregame and postgame military ceremonies, flyovers, and traditional pageantry.
+* **Website:** [Navy-Marine Corps Memorial Stadium](https://navysports.com/)
 
-![](./media/media/image4.png){width="7.131944444444445in"
-height="4.004668635170604in"}
+---
 
-[The
-Choptank](https://www.opentable.com/r/the-choptank-annapolis?ref=1068)
+## Waterfront Parks & Maritime Cruises
 
-[https://thechoptankrestaurant.com/annapolis/\
-\
-](https://thechoptankrestaurant.com/annapolis/)
+### Susan Campbell Park & City Dock
 
-110 Compromise St, Annapolis, MD 21401
+<img src="{{ '/events/maryland/annapolis/media/media/image9.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Susan Campbell Park at Annapolis City Dock">
 
-+14438081992
+Located at the foot of City Dock along Annapolis Harbor, Susan Campbell Park offers panoramic views of Spa Creek, visiting sailboats, and historic harbor traffic.
 
-![](./media/media/image5.png){width="6.291666666666667in"
-height="3.53125in"}
+* **Address:** [Dock St, Annapolis, MD 21401](https://maps.app.goo.gl/SusanCampbellPark)
+* **Park Information:** [Susan Campbell Park Venue Info](http://www.annapolis.com/venue/susan-campbell-park/)
 
-[1845 Coffee & Tea](https://www.navalacademyclub.com/1845-coffee)
+---
 
-2 Truxtun Road, Annapolis, Maryland 21402 
+### Annapolis Harbor & USNA Cruises (Watermark)
 
-Phone: 410-293-2611   
+<img src="{{ '/events/maryland/annapolis/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Watermark Annapolis Harbor Cruise">
 
-![](./media/media/image6.png){width="4.9375in"
-height="2.7708333333333335in"}
+Narrated historical cruises departing from City Dock that explore the Annapolis waterfront, Spa Creek, and the shoreline of the United States Naval Academy.
 
-[Naval Academy
-Chapel](https://usna.edu/Chaplains/FaithCommunity/index.php#panel2Protestant)
+* **Departure Location:** [Susan Campbell Park, Annapolis, MD 21401](https://maps.app.goo.gl/SusanCampbellPark)
+* **Phone:** [(410) 268-7601 ext. 100](tel:+14102687601)
+* **Fares:** $25 Adults | $10 Children
+* **Website:** [Watermark Cruises & Tours](https://watermarkjourney.com/events/annapolis-harbor-usna-cruise/)
 
- 
+---
 
-The United States Naval Academy Chapel is one of nine designated chapel
-spaces on the grounds of the United States Navy\'s service academy.
-Protestant and Catholic services are held there. The Brigade Chapel is a
-focal point of the Academy and the city of Annapolis. The chapel is an
-important feature which led to the Academy being designated a National
-Historic Landmark in 1961. The remains of [John Paul
-Jones](https://en.wikipedia.org/wiki/John_Paul_Jones#Exhumation_and_reburial) were
-interred in the crypt beneath 
+### Annapolis Water Taxi
 
-[121 Blake Road, Annapolis,
-MARYLAND.](https://maps.app.goo.gl/uDMZyrgX3JHX3wfe7)   (410) 293-1100
+<img src="{{ '/events/maryland/annapolis/media/media/image10.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Annapolis Water Taxi on Spa Creek">
 
-Sun. at 1100  Traditional Protestant Worship Main Chapel
+Continuous water harbor transit service connecting City Dock, Spa Creek, Back Creek, and waterfront dining destinations.
 
-![](./media/media/image7.png){width="7.3071216097987755in"
-height="4.104166666666667in"}
+* **Phone:** [(410) 263-0033](tel:+14102630033)
+* **Fares:** $4.00 to $9.00 per person (one-way, depending on destination). No advance reservations required for public transit.
+* **Website:** [Annapolis Water Taxi Service](https://watermarkjourney.com/public-cruises-water-taxi/water-taxi/)
 
-[Leftwich Visitor Center](https://www.usna.edu/Visit/index.php)
+---
 
-Naval Academy tours are a must-do! Wander the Yard's scenic walkways by
-foot or cover more ground quickly by electric car. Either way, you'll
-enjoy a behind-the-scenes look at the life of a midshipman and the rich
-and tumultuous history of one of the greatest fighting forces on Earth!
+### Chesapeake Bay Sightseeing Cruises
 
-52 King George St, Annapolis, MD 21402    (410) 293-8687
+<img src="{{ '/events/maryland/annapolis/media/media/image14.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Chesapeake Bay Cruise Boat">
 
-![](./media/media/image8.png){width="7.5in"
-height="4.208333333333333in"}
+Scenic boat tours traveling out into the Chesapeake Bay, passing under the iconic Chesapeake Bay Bridge and offering views of historic regional lighthouses.
 
-[Latitude 38° Waterfront Dining](http://www.latitude38waterfront.com/)
+---
 
-+16672042282
+## Regional Festivals & Annual Events
 
-12 Dock St, Annapolis, MD 21401
+### Maryland Renaissance Festival
 
-[Opentable](https://www.opentable.com/r/latitude-38-annapolis)
+<img src="{{ '/events/maryland/annapolis/media/media/image13.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Maryland Renaissance Festival Revel Grove Village">
 
-[Storm Bros. Ice Cream Factory](http://www.stormbros.com/great-flavors/)
+Running annually from late August through October in nearby Crownsville, Revel Grove is a 27-acre recreated 16th-century English village featuring jousting, artisan shops, theatrical performances, and period reenactments set during the reign of King Henry VIII.
 
-130 Dock St, Annapolis, MD 21401
+* **Website:** [Maryland Renaissance Festival](https://rennfest.com/)
 
-+14102633376
+---
 
-![](./media/media/image9.png){width="2.65625in"
-height="1.4895833333333333in"}
+## Downtown Dining & Amenities
 
-[Susan Campbell
-Park](http://www.annapolis.com/venue/susan-campbell-park/)
+### Iron Rooster
 
-Dock St, Annapolis, MD 21401
+<img src="{{ '/events/maryland/annapolis/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Iron Rooster Annapolis">
 
-![](./media/media/image10.png){width="6.3938167104111985in"
-height="3.5902777777777777in"}
+Famous for all-day comfort food and homemade pop-tarts located in Market Space.
 
-[Water
-Taxi](https://watermarkjourney.com/public-cruises-water-taxi/water-taxi/)
+* **Address:** [12 Market Space, Annapolis, MD 21401](https://maps.app.goo.gl/12MarketSpace)
+* **Phone:** [(410) 990-1600](tel:+14109901600)
+* **Hours:** Open Daily, 8:00 a.m. – 9:00 p.m.
+* **Menu:** [Iron Rooster Menu (PDF)](https://www.iron-rooster.com/uploads/b/6668a660-fbf1-11e9-bcb2-df8b067fb297/Annapolis%20Menu%20Spring%202025%20copy.pdf)
 
-Watermark operates Annapolis Water Taxi service throughout the Annapolis
-Harbor including Spa Creek & Back Creek. Service operates continually,
-advanced reservations not required for public use. \$4.00 to \$9.00 per
-person, depending on destination. Minimums apply in Back Creek and upper
-Spa Creek. Rates are for one-way transit.
+---
 
-410-263-0033
+### The Choptank
 
-![](./media/media/image11.png){width="7.133363954505687in"
-height="4.006944444444445in"}
+<img src="{{ '/events/maryland/annapolis/media/media/image4.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="The Choptank Annapolis Waterfront Restaurant">
 
-[Chart
-House](https://www.charthouseprime.com/location/chart-house-prime/)
+Classic Maryland seafood restaurant and crab house positioned directly on the harbor at Egregious Slip.
 
-300 Second St, Annapolis, MD 21403 (410) 268-7166
+* **Address:** [110 Compromise St, Annapolis, MD 21401](https://maps.app.goo.gl/110CompromiseSt)
+* **Phone:** [(443) 808-1992](tel:+14438081992)
+* **Reservations:** [The Choptank OpenTable](https://www.opentable.com/r/the-choptank-annapolis?ref=1068) | [Website](https://thechoptankrestaurant.com/annapolis/)
 
-SUN: 10:00 AM - 9:00 PM
+---
 
-MON - THU: 4:30 PM - 10:00 PM
+### 1845 Coffee & Tea
 
-FRI - SAT: 4:30 PM - 11:00 PM
+<img src="{{ '/events/maryland/annapolis/media/media/image5.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="1845 Coffee & Tea at USNA">
 
-![](./media/media/image12.png){width="7.215845363079615in"
-height="4.055555555555555in"}
+Specialty coffee house located on the Naval Academy grounds inside the Naval Academy Club building.
 
-Navy-Marine Corps Stadium
+* **Address:** [2 Truxtun Road, Annapolis, MD 21402](https://maps.app.goo.gl/2TruxtunRd)
+* **Phone:** [(410) 293-2611](tel:+14102932611)
+* **Website:** [1845 Coffee & Tea Naval Academy Club](https://www.navalacademyclub.com/1845-coffee)
 
-The Navy-Marine Corps Memorial Stadium is home to the Navy football and
-lacrosse teams as well as local, regional and state sports tournaments.
-The stadium also hosts a multitude of local, regional, national, and
-international events. Within the past few years, the stadium has been
-completely renovated into a state-of-the-art complex that provides an
-amazing sporting event experience for both players and spectators.  Four
-home contests on the schedule for October and November\--most notably,
-the contest against Navy archrival Air Force (Oct. 5) \-- offer an equal
-number of opportunities to take in the pregame (and postgame) pageantry
-unfolding outside the gates of the stadium proper.
+---
 
-![](./media/media/image13.png){width="6.927083333333333in"
-height="3.8958333333333335in"}
+### Latitude 38° Waterfront Dining
 
-Maryland Renaissance Festival
+<img src="{{ '/events/maryland/annapolis/media/media/image8.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Latitude 38 Waterfront Dining">
 
-Hear ye! Hear ye! Leave your modern woes behind and step into
-16th-century Revel Grove--- the 27-acre village overseen by King Henry
-VIII. Beginning in August and lasting through the end of October, Lords,
-and Ladies from faraway lands gather to experience one of Maryland\'s
-most extravagant events: [**The Maryland Renaissance
-Festival**](https://rennfest.com/)! 
+Waterfront restaurant specializing in coastal cuisine and local seafood along Dock Street.
 
-![](./media/media/image14.png){width="7.111111111111111in"
-height="3.996227034120735in"}
+* **Address:** [12 Dock St, Annapolis, MD 21401](https://maps.app.goo.gl/12DockSt)
+* **Phone:** [(667) 204-2282](tel:+16672042282)
+* **Reservations:** [Latitude 38 OpenTable](https://www.opentable.com/r/latitude-38-annapolis) | [Website](http://www.latitude38waterfront.com/)
 
-Bay Cruises
+---
+
+### Chart House Prime
+
+<img src="{{ '/events/maryland/annapolis/media/media/image11.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Chart House Restaurant Annapolis">
+
+Historic waterfront dining in Eastport overlooking the Annapolis harbor and skyline.
+
+* **Address:** [300 Second St, Annapolis, MD 21403](https://maps.app.goo.gl/300SecondSt)
+* **Phone:** [(410) 268-7166](tel:+14102687166)
+* **Hours:** Sun: 10:00 a.m. – 9:00 p.m. | Mon–Thu: 4:30 p.m. – 10:00 p.m. | Fri–Sat: 4:30 p.m. – 11:00 p.m.
+* **Website:** [Chart House Annapolis Prime](https://www.charthouseprime.com/location/chart-house-prime/)
+
+---
+
+### Storm Bros. Ice Cream Factory
+
+Historic ice cream parlor serving classic handcrafted ice cream along City Dock since 1972.
+
+* **Address:** [130 Dock St, Annapolis, MD 21401](https://maps.app.goo.gl/130DockSt)
+* **Phone:** [(410) 263-3376](tel:+14102633376)
+* **Website:** [Storm Bros. Ice Cream Flavors](http://www.stormbros.com/great-flavors/)
+
+---
+
+### Parking & Transportation: Premium Parking Garage
+
+Central downtown parking structure located steps from Main Street and City Dock.
+
+* **Address:** [150 Gorman St, Annapolis, MD 21401](https://maps.app.goo.gl/150GormanSt)
+* **Phone:** [(410) 216-5620](tel:+14102165620)
+* **Reservations:** [Premium Parking Lot P4902 Reservations](https://www.premiumparking.com/P4902)
+
+---
+
+## Historical & Research Resources
+
+* [Annapolis, Maryland (Wikipedia)](https://en.wikipedia.org/wiki/Annapolis,_Maryland)
+* [Annapolis, Maryland Genealogy & Records (FamilySearch Wiki)](https://www.familysearch.org/en/wiki/Annapolis,_Maryland)
+
+---
+
+*Last updated: September 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>
