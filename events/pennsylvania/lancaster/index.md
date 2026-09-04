@@ -4,272 +4,199 @@ title: Lancaster, Pennsylvania
 permalink: /events/pennsylvania/lancaster/
 ---
 
-Resources
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-[Discover Lancaster \| Pennsylvania Dutch Country \| Amish Attractions,
-Shopping, Dining](https://www.discoverlancaster.com/) 
+# Lancaster County, Pennsylvania
 
-[Lancaster County, Pennsylvania -
-Wikipedia](https://en.wikipedia.org/wiki/Lancaster_County%2C_Pennsylvania) 
+Known as Pennsylvania Dutch Country, Lancaster County is rich in agricultural heritage, early American history, religious freedom, and vibrant culture. From historic colonial sites and early Lutheran congregations to traditional Amish farms and regional entertainment, Lancaster remains a landmark destination for cultural and genealogical exploration.
 
-[Lancaster County, Pennsylvania Genealogy •
-FamilySearch](https://www.familysearch.org/en/wiki/Lancaster_County,_Pennsylvania_Genealogy) 
+---
 
-[Lancaster County -- Genealogical Society of
-Pennsylvania](https://genpa.org/public-collections/pennsylvania-county-pages/lancaster-county/) 
+## County Resources & Archives
 
-[Visiting the Archives \| Lancaster County, PA - Official
-Website](https://www.co.lancaster.pa.us/1196/Visiting-the-Archives) 
+* **Tourism & Visitors:** [Discover Lancaster](https://www.discoverlancaster.com/)
+* **History Overview:** [Lancaster County, Pennsylvania (Wikipedia)](https://en.wikipedia.org/wiki/Lancaster_County%2C_Pennsylvania)
+* **Genealogy Research:** [FamilySearch Lancaster County Wiki](https://www.familysearch.org/en/wiki/Lancaster_County,_Pennsylvania_Genealogy) | [Genealogical Society of Pennsylvania](https://genpa.org/public-collections/pennsylvania-county-pages/lancaster-county/) | [Lancaster County PAGenWeb](http://www.pagenweb.org/~lancaster/resources.html)
+* **County Records:** [Visiting the Archives (Lancaster County Official Site)](https://www.co.lancaster.pa.us/1196/Visiting-the-Archives)
+* **Local Historical Events:** [LancasterHistory Events Archive](https://www.lancasterhistory.org/events/)
 
-[Lancaster County PAGenWeb -
-Resources](http://www.pagenweb.org/~lancaster/resources.html) 
+---
 
-[Events Archive -
-LancasterHistory](https://www.lancasterhistory.org/events/) 
+## Historic & Religious Sites
 
-Map
+### Holy Trinity Lutheran Church
 
-![](./media/media/image1.jpeg){width="7.5in"
-height="2.9270833333333335in"}
+<img src="{{ '/events/pennsylvania/lancaster/media/media/image11.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Holy Trinity Lutheran Church in Lancaster, Pennsylvania">
 
-[Renaissance Faire](http://www.parenfaire.com/faire.html)
+One of the oldest Lutheran congregations in the United States, Holy Trinity Lutheran Church features significant early American architecture. The historic cemetery holds the remains of early Pennsylvania state leaders including Thomas Mifflin and Thomas Wharton.
 
-Gates Open at 11AM Each Public Faire Date • Faire site closes at 8PM.
-Merchants, food and beverages begin closing at 7PM. Ticket Pricing for
-August 19 till last weekend in October.  General Admission: \$32.95
-Children (5-11): \$16.95 Children 4 and Under Free, No Ticket Required
+* **Address:** [31 South Duke Street, Lancaster, PA 17602](https://maps.app.goo.gl/31SDukeSt)
+* **Phone:** [(717) 397-2734](tel:+17173972734)
+* **Worship Services:** Sunday Breakfast Fellowship starting at 7:00 AM | Worship Service at 9:30 AM | Learning for All Ages at 10:45 AM
+* **Details:** [Holy Trinity Lutheran Church Wikipedia](https://en.wikipedia.org/wiki/Holy_Trinity_Lutheran_Church_%28Lancaster,_Pennsylvania%29)
 
-After 4PM Sunset Ticket Pricing for August 19 - till last weekend in
-October. Tickets go on sale the day of at 3 PM. General Admission:
-\$19.95 Children (5-11): \$7.95 Children 4 and Under Free, No Ticket
-Required
+---
 
- Location: 2775 Lebanon Rd. Manheim, PA 17545
+### Philip & Leah Ferree Stone House
 
-![](./media/media/image2.png){width="6.552203630796151in"
-height="3.6770833333333335in"}
+<img src="{{ '/events/pennsylvania/lancaster/media/media/image12.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Philip Ferree Stone House">
 
-[Mount Hope](https://mounthope.estate/?v=7516fd43adaa)
+A preserved historic landmark associated with early Huguenot settlement in Lancaster County. The rear structure houses Ferree House Antiques.
 
-PA's original winery, brewery, cidery and distillery is the premiere
-destination for all who appreciate hand-crafted beverages, food and
-historic properties. Craft Memories at Mount Hope.
+* **Address:** [290 Old Leacock Road, Paradise, PA 17562](https://maps.app.goo.gl/290OldLeacockRd)
 
-WED-SUN: 11AM-6PM \*Plus Extended Hours During Events\*
+---
 
-2775 Lebanon Road Manheim, PA 17545
+### Huguenot Society of Pennsylvania
 
-717.665.7021
+<img src="{{ '/events/pennsylvania/lancaster/media/media/image13.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Huguenot Society of Pennsylvania Logo">
 
-![](./media/media/image3.png){width="6.934583333333333in"
-height="3.8958333333333335in"}
+Founded in 1918 on the 320th anniversary of the Edict of Nantes, the society perpetuates the history, principles, and spirit of the French Huguenot settlers who sought religious freedom in colonial Pennsylvania.
 
-[Lancaster Mennonite Historical
-Society](https://mennonitelife.org/events/)
+* **Publications & Proceedings:** [1918 Inaugural Proceedings (PDF)](https://cdn.website-editor.net/020d9c979f77483189db333592c7de7f/files/uploaded/huguenotsocietyo00norr.pdf)
+* **Website:** [Huguenot Society of Pennsylvania](https://pahuguenotsociety.wixsite.com/website)
 
-Our friendly team will help you find experiences that meet your
-curiosity about Mennonites. The Visitors Center also hosts our Biblical
-Tabernacle experience. Your visit to what was formerly known as
-Lancaster Mennonite Historical Society and the Mennonite Information
-Center starts here.
+---
 
-215 Millstream Road, Lancaster, PA 17602-1499 United States
-T:717-393-9745
+### Conestoga Area Historical Society
 
-![](./media/media/image4.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+<img src="{{ '/events/pennsylvania/lancaster/media/media/image14.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Conestoga Area Historical Society">
 
-[Mennonite Guest
-Homes](https://mennonitelife.org/visit/visitors-center/)
+Dedicated to preserving the rich history of the Penn Manor area and southern Lancaster County, hosting annual heritage events like the Fall Harvest Fest.
 
-Take your Lancaster County Mennonite experience to the next level by
-staying with Mennonites eager to host you and make your stay all you'd
-hoped it would be.
+* **Address:** [51 Kendig Road, Conestoga, PA 17516](https://maps.app.goo.gl/51KendigRd)
+* **Phone:** [(717) 872-1699](tel:+17178721699)
+* **Website:** [Conestoga Area Historical Society Sites](http://www.pennmanorhistory.org/historic-sites/)
 
-**Contact guest homes directly to arrange a stay.**
+---
 
-This list is for your convenience; Mennonite Life appreciates these
-small business Mennonite hosts but makes no specific endorsements
-regarding their services.
+## Mennonite Heritage & Culture
 
-![](./media/media/image5.png){width="6.916666666666667in"
-height="3.8854166666666665in"}
+### Mennonite Life (Formerly Lancaster Mennonite Historical Society)
 
-[Verdant View Farm](https://verdantview.com/farm-tours/)
+<img src="{{ '/events/pennsylvania/lancaster/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Mennonite Life Visitors Center">
 
-Operated by 4th generation farmers at Verdant View Farm, the educational
-tours are suitable for adults and children. Join a guided tour and/or
-learn a new skill in a farm workshop. TOURS OFFERED MON-SAT DURING THE
-SUMMER MONTHS. 
+The primary gateway for exploring Mennonite faith, culture, and history in Lancaster County. Features a dedicated Visitors Center and an immersive full-scale Biblical Tabernacle presentation.
 
-429 Strasburg Rd. Paradise, PA 17562
+* **Address:** [215 Millstream Road, Lancaster, PA 17602](https://maps.app.goo.gl/215MillstreamRd)
+* **Phone:** [(717) 393-9745](tel:+17173939745)
+* **Website:** [Mennonite Life Events](https://mennonitelife.org/events/)
 
-717-687-7353 reservations@verdantview.com
+---
 
-![](./media/media/image6.png){width="7.195845363079615in"
-height="4.041666666666667in"}
+### Mennonite Guest Homes
 
-[Sight & Sound
-Theatre](https://www.sight-sound.com/ticketing/shows/title?location=STRASBURG_PA)
+<img src="{{ '/events/pennsylvania/lancaster/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Mennonite Guest Homes">
 
-Growing up on a dairy farm in rural Lancaster County, our founder Glenn
-Eshelman was so inspired by the beauty of the world around him that he
-began painting landscapes as a boy. As he grew up, Glenn continued to
-pursue his artistic interests, eventually buying a camera to take
-reference photos for his paintings. Photography quickly became his
-passion. After marrying his wife, Shirley, Glenn sold his artwork out of
-the trunk of his car to make ends meet. But in 1964, his side show
-became the main act. After presenting his scenic photography at a local
-church using a slide projector, a turntable for musical underscore and a
-microphone for narration, the audience response was overwhelming. This
-first unofficial "Sight & Sound" show became a humble success.
+Experience authentic Lancaster County hospitality by arranging stays directly with local Mennonite hosts and small-business owners throughout the region.
 
-300 Hartman Bridge Road Ronks, PA 17572
+* **Directory:** [Mennonite Life Visitor Center Accommodations](https://mennonitelife.org/visit/visitors-center/)
 
-![](./media/media/image7.png){width="7.154943132108486in"
-height="4.020833333333333in"}
+---
 
-[Sunset Dinner
-Tours](https://www.amishfarmandhouse.com/event/sunset-dinner-tour-on-an-amish-farm-12/)
+## Attractions, Tours & Farm Experiences
 
-The experience starts with a visit to see the animals on our 15-acre
-farm and a house tour through our historic 1805 farmhouse. Then you'll
-board our small bus at 5:00pm and meander the back roads of Amish
-country. Along the way, you'll pass beautiful Amish homes, farms, and
-schools. We'll stop at our Amish friend's house where you'll enjoy a
-traditional Amish dinner in their home which is surrounded by miles of
-countryside. As the evening winds down, enjoy traditional desserts and
-engaging conversation with the Amish family.
+### Pennsylvania Renaissance Faire & Mount Hope Estate
 
-Please Note: If you would like to take the house tour, please arrive by
-3:45pm.
+<img src="{{ '/events/pennsylvania/lancaster/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Pennsylvania Renaissance Faire">
 
-Due to the unique nature of this tour, pets are not permitted on the
-Sunset Dinner Tour. Pets are welcome on all of our other tour options.
+<img src="{{ '/events/pennsylvania/lancaster/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Mount Hope Estate">
 
-Unfortunately, this tour is not handicap accessible. We apologize for
-any inconvenience.
+Set on the historic grounds of Mount Hope Estate—Pennsylvania's original winery, brewery, cidery, and distillery—the estate hosts the famous annual Pennsylvania Renaissance Faire from late August through October, featuring theatrical performances, artisans, and period dining.
 
-To learn more, visit our [Sunset Dinner Tour
-Page](https://www.amishfarmandhouse.com/sunset-dinner-on-an-amish-farm/).
+* **Address:** [2775 Lebanon Road, Manheim, PA 17545](https://maps.app.goo.gl/2775LebanonRd)
+* **Estate Hours:** Wednesday – Sunday, 11:00 AM – 6:00 PM (Extended event hours)
+* **Phone:** [(717) 665-7021](tel:+17176657021)
+* **Faire Hours:** Open 11:00 AM – 8:00 PM on event dates (Sunset admissions available after 4:00 PM)
+* **Websites:** [Pennsylvania Renaissance Faire](http://www.parenfaire.com/faire.html) | [Mount Hope Estate](https://mounthope.estate/)
 
-![](./media/media/image8.png){width="7.2195745844269466in"
-height="5.416666666666667in"}
+---
 
-[AAA Buggy Rides​](https://aaabuggyrides.com/buggy-rides/)
+### Sight & Sound Theatres
 
-Monday -- Saturday 9:00AM -- 5:00PM
+<img src="{{ '/events/pennsylvania/lancaster/media/media/image6.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Sight & Sound Theatre">
 
-3461 Old Philadelphia Pike Ronks, PA 17572\
-([Directions](https://aaabuggyrides.com/directions-contact/))
+Founded by local artist and photographer Glenn Eshelman, Sight & Sound Theatres produces massive, immersive epic theatrical Bible stories featuring live animals, elaborate sets, and world-class performances.
 
-Phone: [(717) 989-2829\]{.underline}
-Email: [info@aaabuggyrides.com]{.underline}
+* **Address:** [300 Hartman Bridge Road, Ronks, PA 17572](https://maps.app.goo.gl/300HartmanBridgeRd)
+* **Website:** [Sight & Sound Theatre Shows](https://www.sight-sound.com/ticketing/shows/title?location=STRASBURG_PA)
 
-![](./media/media/image9.png){width="3.8020833333333335in"
-height="3.5in"}
+---
 
-[Bird-in-Hand](https://bird-in-hand.com/restaurant-smorgasbord/)
+### The Amish Farm & House: Sunset Dinner Tour
 
-If you crave Amish fare, home cooking, [Dutch comfort
-food](https://bird-in-hand.com/blog/post_categories/pa-dutch-food/),
-farm-fresh goodness, and friendly service, the **Bird-in-Hand Family
-Restaurant & Smorgasbord in Lancaster County, Pennsylvania**, will
-satisfy your appetite. Sample your favorite scratch-made dishes and
-classic recipes from our all-you-can-eat **family buffet**. Visit our
-sumptuous **soup-and-salad bar** -- and be sure to save room for our
-dessert buffet. Prefer menu dining and table service instead of the
-Amish-style buffet? Select made-to-order dishes from our varied menu. It
-offers[ something for
-everyone](https://bird-in-hand.com/restaurant-smorgasbord/modified-lunch-dinner-menu/). 
+<img src="{{ '/events/pennsylvania/lancaster/media/media/image7.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Amish Farm Sunset Dinner Tour">
 
-- 2760 Old Philadelphia Pike Bird-in-Hand, PA 17505
+An authentic countryside experience beginning with a tour of an 1805 historic farmhouse and farm, followed by a scenic bus ride through Amish farmland and an authentic home-cooked dinner inside a local Amish family's home.
 
-- \(717\) 768-1500   SmuckerFamily@Bird-in-Hand.com
+* **Tour Hours:** Departs at 5:00 PM (Farmhouse tour recommended by 3:45 PM)
+* **Details & Booking:** [Sunset Dinner Tour Information](https://www.amishfarmandhouse.com/sunset-dinner-on-an-amish-farm/)
 
-![](./media/media/image10.png){width="6.541666666666667in"
-height="3.6715102799650046in"}
+---
 
-[Miniature horse Farm](https://www.lancasterminihorses.com/activities)
+### Verdant View Farm
 
-Free Admission
+<img src="{{ '/events/pennsylvania/lancaster/media/media/image5.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Verdant View Farm">
 
- Monday thru Saturday from 9:00am till 5:00pm
+Operated by 4th-generation farmers, offering hands-on guided agricultural tours, farm workshops, and educational activities suitable for all ages during summer months.
 
-264 Paradise Ln. Ronks PA 17572
+* **Address:** [429 Strasburg Rd, Paradise, PA 17562](https://maps.app.goo.gl/429StrasburgRd)
+* **Phone:** [(717) 687-7353](tel:+17176877353)
+* **Email:** `reservations@verdantview.com`
+* **Schedule:** Tours available Monday – Saturday (Summer months)
+* **Website:** [Verdant View Farm Tours](https://verdantview.com/farm-tours/)
 
-![](./media/media/image11.jpeg){width="7.498611111111111in"
-height="10.0in"}
+---
 
-[Holy Trinity Lutheran
-Church](https://en.wikipedia.org/wiki/Holy_Trinity_Lutheran_Church_%28Lancaster,_Pennsylvania%29)
+### AAA Buggy Rides
 
-Holy Trinity Lutheran Church is an historic, American Lutheran church
-that is located at 31 South Duke Street in Lancaster, Pennsylvania. It
-is one of the oldest churches in the commonwealth. The remains of both
-Thomas Mifflin and Thomas Wharton were interred at the Holy Trinity
-Lutheran Church cemetery.
+<img src="{{ '/events/pennsylvania/lancaster/media/media/image8.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="AAA Buggy Rides">
 
-The Sunday Morning Breakfast Fellowship begins with coffee and
-conversation at 7:00 a.m in The Fondersmith Auditorium.  At 7:45am we
-serve a hot breakfast and at 8:15am, an informal worship service is
-offered with communion once per month. This weekly ministry wraps up by
-8:45. All are invited.
+Offers traditional horse-drawn carriage tours through quiet Amish country roads and active farmlands.
 
-9:30am Worship \| 10:30am Fellowship \| 10:45am Learning for All Ages
+* **Address:** [3461 Old Philadelphia Pike, Ronks, PA 17572](https://maps.app.goo.gl/3461OldPhiladelphiaPike)
+* **Hours:** Monday – Saturday, 9:00 AM – 5:00 PM
+* **Phone:** [(717) 989-2829](tel:+17179892829)
+* **Email:** `info@aaabuggyrides.com`
+* **Website:** [AAA Buggy Rides Directions & Info](https://aaabuggyrides.com/buggy-rides/)
 
-Communion is celebrated on 1st Sundays of the Month and Festivals
+---
 
-31 South Duke Street Lancaster, PA 17602
+### Bird-in-Hand Family Restaurant & Smorgasbord
 
-717-397-2734
+<img src="{{ '/events/pennsylvania/lancaster/media/media/image9.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Bird-in-Hand Family Restaurant">
 
-![](./media/media/image12.jpeg){width="7.5in"
-height="4.214583333333334in"}
+A classic regional dining institution serving traditional Pennsylvania Dutch comfort food, scratch-made buffets, soups, salads, and homemade desserts alongside menu dining options.
 
-Philip Ferree Stone House
+* **Address:** [2760 Old Philadelphia Pike, Bird-in-Hand, PA 17505](https://maps.app.goo.gl/2760OldPhiladelphiaPike)
+* **Phone:** [(717) 768-1500](tel:+17177681500)
+* **Email:** `SmuckerFamily@Bird-in-Hand.com`
+* **Website:** [Bird-in-Hand Restaurant & Buffet](https://bird-in-hand.com/restaurant-smorgasbord/)
 
-Philip and Leah Ferree Stone House,; in the back of the house is Ferree
-House Antiques
+---
 
-290 Old Leacock Road, Paradise, Lancaster County, Pennsylvania
+### Miniature Horse Farm
 
-![](./media/media/image13.png){width="1.3020833333333333in"
-height="1.65625in"}
+<img src="{{ '/events/pennsylvania/lancaster/media/media/image10.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Miniature Horse Farm in Ronks, PA">
 
-[Huguenot Society of
-Pennsylvania](https://pahuguenotsociety.wixsite.com/website)
+A family-friendly attraction offering free admission to view and interact with miniature horses.
 
-In 1918 in Reading, Pennsylvania, approximately ten men and women of
-known Huguenot descent founded The Huguenot Society of Pennsylvania, one
-of the first societies for the descendants of Huguenots established in
-the United States. They settled on April 13, 1918 (the 320th anniversary
-of the Edict of Nantes) for their first official meeting, and set out to
-write a charter, find interested members, and decide upon the
-organization\'s structure. At this meeting, they developed a set of
-objectives for the organization, which included perpetuating and
-maintaining the history, principles, and beliefs of the Huguenots;
-\"publicly commemorating at stated times the principal events in the
-history of the Huguenot;\" maintaining a library and museum of materials
-pertaining to Huguenots in America and specifically in Pennsylvania;
-promoting scholarly study of their history; and above all, celebrating
-and preserving the spirit of a people who withstood persecution and
-intolerance \"because of their adherence to the basic tenets of the
-Protestant faith and their devotion to liberty.\" This is a list of the
-original Huguenot Society of Pennsylvania members in 1918.  To read the
-original proceedings of the 1918 meeting,
-click [here](https://cdn.website-editor.net/020d9c979f77483189db333592c7de7f/files/uploaded/huguenotsocietyo00norr.pdf).
+* **Address:** [264 Paradise Ln, Ronks, PA 17572](https://maps.app.goo.gl/264ParadiseLn)
+* **Hours:** Monday – Saturday, 9:00 AM – 5:00 PM
+* **Website:** [Lancaster Mini Horses Activities](https://www.lancasterminihorses.com/activities)
 
-![](./media/media/image14.png){width="6.25in"
-height="3.5104166666666665in"}
+---
 
-[ Conestoga Area Historical
-Society](http://www.pennmanorhistory.org/historic-sites/)
+*Last updated: September 2026*
 
-Fall Harvest Fest
-
-Saturday, September 28, 2023, from 10 am to 4 pm
-
-Sunday, September 29, 2023, from noon to 4 pm
-
-51 Kendig Road, Conestoga, PA 17516     **(717) 872-1699** 
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>
