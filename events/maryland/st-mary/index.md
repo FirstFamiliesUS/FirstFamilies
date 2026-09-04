@@ -1,40 +1,46 @@
 ---
 layout: default
-title: St-mary, Maryland
+title: St. Mary's City, Maryland
 permalink: /events/maryland/st-mary/
 ---
 
-![](./media/media/image1.png){width="7.104166666666667in"
-height="3.9905435258092736in"}
+# Historic St. Mary's City, Maryland
 
-Beer Fest
+## Overview
+Historic St. Mary's City (HSMC) is a living history museum and historic landmark located at Maryland's first colonial capital. Settled in 1634, St. Mary's City serves as the birthplace of religious freedom in North America and offers visitors an immersive look at early colonial history, architecture, and living history demonstrations.
 
-Join HSMC Saturday, June 24, 2023, from noon to 6 p.m. for live music,
-food samples from local cuisine, and various regional craft brews. This
-is a fun, family-friendly event. Enjoy a beer while supporting further
-education and research at Historic St. Mary's City. The festivities and
-live music begin at noon with local food and BEER!
+---
 
-![](./media/media/image2.png){width="7.333333333333333in"
-height="4.119270559930008in"}
+## Annual Events & Living History
 
-Militia Muster
+### St. Mary's City Beer Fest
+A family-friendly community gathering supporting education and research at Historic St. Mary's City. Features live music, local food vendors, and regional craft breweries on the museum grounds.
 
-The St. Maries Citty Militia, our host militia, is a volunteer group of
-men, women, and children who re-create a colonial Maryland "armed band"
-at Maryland's first capital.  This living history encampment features
-17th-century re-enactment units from nearby and far away.  Enjoy the
-camp activities of cooking, gossiping, trades, games, etc. Free
-admission includes grounds and
-activities. [Info](https://www.hsmcdigshistory.org/events/militia-muster/)
+![St. Mary's City Beer Fest](./media/media/image1.png)
 
-47414 Old State House Road
+* **Location:** Historic St. Mary's City Grounds
+* **Highlights:** Local cuisine samples, craft brews, live music, and educational support for HSMC research.
 
-St. Mary\'s City , 20686
+### Militia Muster Living History Encampment
+Hosted by the St. Maries Citty Militia, this annual event brings together 17th-century reenactment groups from across the region to recreate a colonial Maryland "armed band."
 
-![](./media/media/image3.png){width="7.260416666666667in"
-height="4.074909230096238in"}
+![Militia Muster Encampment](./media/media/image2.png)
 
-Maryland First Capital
+* **Address:** 47414 Old State House Road, St. Mary's City, MD 20686
+* **Activities:** Living history camp life, 17th-century cooking, traditional trades, historical games, and military drills.
+* **Admission:** Free admission includes access to museum grounds and muster activities.
+* **More Details:** [HSMC Militia Muster Event Page](https://www.hsmcdigshistory.org/events/militia-muster/)
 
-Former Inn Elizabeth Hewitt Lee
+---
+
+## Historic Landmarks & Architecture
+
+### Maryland's First Capital & Historical Sites
+St. Mary's City was established in 1634 as the original capital of the Province of Maryland. Notable reconstructed structures and ongoing archaeological sites showcase the everyday life of Maryland's earliest colonial settlers.
+
+![Maryland's First Capital - Historic Inn](./media/media/image3.png)
+*Reconstructed historic site near the former Inn of Elizabeth Hewitt Lee.*
+
+---
+
+*Last updated: August 2026*

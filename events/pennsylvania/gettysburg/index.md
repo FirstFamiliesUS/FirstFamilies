@@ -4,199 +4,155 @@ title: Gettysburg, Pennsylvania
 permalink: /events/pennsylvania/gettysburg/
 ---
 
-![](./media/media/image1.jpeg)
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-[Lincoln Fellowship of
-Pennsylvania](https://lincolnfellowship.wildapricot.org/)
+# Gettysburg, Pennsylvania
 
-[GETTYSBURG COLLEGE'S MAJESTIC
-THEATER](https://www.gettysburgmajestic.org/), 25 Carlisle Street,
-Gettysburg, PA.
+As the site of the pivotal 1863 Civil War battle and President Abraham Lincoln's timeless Gettysburg Address, Gettysburg, Pennsylvania is one of the nation's premier historic destinations. Home to vast battlefields, presidential estates, historical museums, and vibrant annual commemorative events, Gettysburg offers visitors a deep connection to American history.
 
-Susan Eisenhower, J'Nai Bridges, Graham Sibley, Harold Holzer, and Doris
-Kearns Goodwin to appear at Dedication Day Events in Gettysburg
-Sunday, **Nov 19**. (Gettysburg, PA)
+---
 
-The[ Lincoln Fellowship of
-Pennsylvania](http://www.lincolnfellowship.org/) is honored to invite
-the public to the Majestic Theater on November 19th, 2023 for a special
-Dedication Day ceremony commemorating the 60th anniversary of the
-historic 1963 ceremony that marked the centennial of Lincoln's
-Gettysburg Address. The venue change is due to a potential U. S.
-government shutdown. The Majestic Theater is located at 25 Carlisle St.,
-Gettysburg; doors will open to the public at **9:30 a.m**. The ceremony
-is free, however seats are limited, no tickets required. NO FIREARMS OR
-WEAPONS OF ANY KIND, REPLICA OR NOT, WILL BE ALLOWED IN THE THEATER.
+## Historic Parks & Battlefields
 
-Parking for the event can be found in Race Horse Alley Parking Garage
-immediately behind the theater, and limited street parking at parking
-meters on surrounding streets. Please be prepared to wait outdoors prior
-to entrance to the theater. For more information, visit
-[www.lincolnfellowship.org](http://www.lincolnfellowship.org). 
+### Gettysburg National Military Park
 
-![](./media/media/image2.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+<img src="{{ '/events/pennsylvania/gettysburg/media/media/image7.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Gettysburg National Military Park">
 
-[Mansion House 1757](https://www.mansionhouse1757.com/events)
+Covering nearly 6,000 acres five miles north of the Mason-Dixon line, Gettysburg National Military Park preserves the site of one of the most consequential battles and influential speeches in American history.
 
-Oldest Pub in Pennsylvania,  Served General Robert E. Lee after the
-Battle of Gettysburg
+* **Website:** [Gettysburg National Military Park (NPS)](https://www.nps.gov/gett/index.htm)
 
-[Address](https://www.google.com/search?sxsrf=AB5stBhWxTZvKduzm89CIuM7OqLJp-pMzQ:1690138784112&q=fairfield+inn+fairfield,+pennsylvania+address&ludocid=11534650582077608237&sa=X&sqi=2&ved=2ahUKEwi4guTOwaWAAxW8FlkFHe2LBrUQ6BN6BAhOEAI):
-15 W Main St, Fairfield, PA 17320
+---
 
-[Phone](https://www.google.com/search?sxsrf=AB5stBhWxTZvKduzm89CIuM7OqLJp-pMzQ:1690138784112&q=fairfield+inn+fairfield,+pennsylvania+phone&ludocid=11534650582077608237&sa=X&sqi=2&ved=2ahUKEwi4guTOwaWAAxW8FlkFHe2LBrUQ6BN6BAhKEAI): [(717)
-642-5410](https://www.google.com/search?q=mansion+house+1757&oq=Mansion+House+1757&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyEAgBEC4YrwEYxwEYgAQYmAUyCggCEAAYhgMYigUyCggDEAAYhgMYigUyCggEEAAYhgMYigUyBggFEEUYPNIBBzQ4OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
+### Gettysburg National Military Park Museum & Visitor Center
 
-![](./media/media/image3.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+<img src="{{ '/events/pennsylvania/gettysburg/media/media/image10.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Gettysburg Visitor Center">
 
-[Seminary Ridge Museum](https://www.seminaryridgemuseum.org/events)
+The primary starting point for visiting Gettysburg, providing museum exhibits, film presentations, the historic Cyclorama painting, and customized touring itineraries.
 
-Gettysburg Address 160th Anniversary on the Ridge - Indoor
-Presentation **3:30 PM  4:30 PM**
+* **Address:** [1195 Baltimore Pike, Gettysburg, PA 17325](https://maps.app.goo.gl/1195BaltimorePike)
+* **Phone:** [(717) 334-2436](tel:+17173342436) | Toll-Free: [(877) 874-2478](tel:+18778742478)
+* **Suggested Itineraries:** [Quick Raid (Half Day)](https://www.gettysburgfoundation.org/plan-your-visit/sample-itineraries?itineraryid=1) | [First-Time 1-Day](https://www.gettysburgfoundation.org/plan-your-visit/sample-itineraries?itineraryid=5) | [First-Time 2-Day](https://www.gettysburgfoundation.org/plan-your-visit/sample-itineraries?itineraryid=2) | [Returning Visitor 1-Day](https://www.gettysburgfoundation.org/plan-your-visit/sample-itineraries?itineraryid=6) | [Returning Visitor 2-Day](https://www.gettysburgfoundation.org/plan-your-visit/sample-itineraries?itineraryid=7) | [Paths of Presidents](https://www.gettysburgfoundation.org/plan-your-visit/sample-itineraries?itineraryid=9) | [Full Campaign](https://www.gettysburgfoundation.org/plan-your-visit/sample-itineraries?itineraryid=10)
+* **Website:** [Gettysburg Foundation Shop & Dine](https://www.gettysburgfoundation.org/about-us/shop-dine)
 
-717-339-1300
+---
 
-info@seminaryridgemuseum.org
+### Eisenhower National Historic Site
 
-111 Seminary Ridge Gettysburg, PA 17325
+<img src="{{ '/events/pennsylvania/gettysburg/media/media/image11.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Eisenhower National Historic Site">
 
-![](./media/media/image4.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+The home and farm of 34th President Dwight D. Eisenhower and First Lady Mamie Eisenhower. Serving as a weekend retreat during his presidency and a gathering spot for world leaders, the farm was gifted to the federal government in 1967 and designated a National Historic Site in 1969.
 
-[Gettysburg Heritage
-Center](https://gettysburgmuseumstore.com/collections/tours)
+* **Website:** [Eisenhower National Historic Site (Gettysburg Foundation)](https://www.gettysburgfoundation.org/exhibits-tours-events/historic-sites/eisenhower-national-historic-site)
 
-297 Steinwehr Ave. Gettysburg, PA 17325
+---
 
-Sunday - Thursday, 9am - 5pm
+## Museums, Educational & Historic Institutions
 
-Friday & Saturday, 9am - 5pm
+### Seminary Ridge Museum & Education Center
 
-717-334-6245
+<img src="{{ '/events/pennsylvania/gettysburg/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Seminary Ridge Museum">
 
-<info@GettysburgMuseum.com>
+Located in Schmucker Hall on Seminary Ridge, this museum focuses on the First Day's battle, Civil War medicine, and church history. Hosts special events including the Gettysburg Address Anniversary presentations.
 
-![](./media/media/image5.jpeg){width="3.0729166666666665in"
-height="1.7291666666666667in"}
+* **Address:** [111 Seminary Ridge, Gettysburg, PA 17325](https://maps.app.goo.gl/111SeminaryRidge)
+* **Phone:** [(717) 339-1300](tel:+17173391300)
+* **Email:** `info@seminaryridgemuseum.org`
+* **Website:** [Seminary Ridge Museum Events](https://www.seminaryridgemuseum.org/events)
 
-[Remembrance Day
-Parade](https://www.visitcumberlandvalley.com/event/remembrance-day-parade/51357/)
+---
 
-Third Saturday in November at 1 PM
+### United Lutheran Seminary (Church of the Abiding Presence)
 
-Join in honoring the soldiers and civilians of the American Civil War in
-this special annual parade. The parade lines up on Middle Street,
-proceeds to Baltimore Street and then turns onto Steinwehr Avenue. The
-annual event is sponsored by the Sons of Veterans Reserve, the Military
-Department of the [Sons of the Union Veterans of the Civil
-War](https://suvcw.org/2023-parade-flyer). Check out [Facebook
-Page](https://www.facebook.com/profile.php?id=100067011077855).  For
-further information contact Major David Hann, [Provost Marshal
-SVR](https://sites.google.com/site/remembrancedayparade/gettysburg-remembrance-day-parade).
-Cell 609-816-2012 or <majorsvrprovost@gmail.com>.  Also see [Gettysburg
-Community](https://www.gettysburgpa.gov/community-events/events/112156) page; [destination
-Gettysburg](https://destinationgettysburg.com/event/details/remembrance-day-parade-and-ceremonies/); 
+<img src="{{ '/events/pennsylvania/gettysburg/media/media/image8.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="United Lutheran Seminary Chapel">
 
-![](./media/media/image6.jpeg){width="6.666666666666667in"
-height="3.75in"}
+The oldest continuing Lutheran seminary in the United States, offering Sunday Divine Service at the Church of the Abiding Presence on its historic Gettysburg campus.
 
-National Civil War Ball
+* **Map & Directions:** [Gettysburg Campus Map](https://goo.gl/maps/xK3Yaj61g39AAbZL8)
+* **Website:** [United Lutheran Seminary Gettysburg Campus](https://www.unitedlutheranseminary.edu/about/campuses/gettysburg)
 
-Cap off a day of ceremonies by attending the original and official ball
-of Remembrance Day. Members of Civil War hereditary groups, both Union
-and Confederate, all military and civilian re-enactors, and supporters
-of Civil War preservation are welcome to join in the festivities. Period
-dress is encouraged by not required. However, proper attire is
-requested. Authentic Civil War music is played by the Philadelphia
-Brigade Band. Dancing is led by the Victorian Dance Ensemble. No dance
-experience is required. All dances are demonstrated and friendly
-instructors are on the floor to assist dancers. Make check payable to "
-SVR Ball" and mail  in advance to: Col. Steve Michaels, SVR, 6623 S.
-North Cape Rd., Franklin, WI 53132. Call 414-712-4655 or email
-lt.col.sm@gmail.com. Include your email and self-addressed stamped
-envelope with your check.
+---
 
-![](./media/media/image7.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+### Gettysburg Heritage Center
 
-[Gettysburg National Park](https://www.nps.gov/gett/index.htm)
+<img src="{{ '/events/pennsylvania/gettysburg/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Gettysburg Heritage Center">
 
-Nearly a million visitors a year come to Gettysburg National Military
-Park, where battlefields and memorials cover some 6,000 acres of rolling
-land just five miles north of the Mason-Dixon line. The site of one of
-the most consequential battles and most influential speeches in American
-history, Gettysburg shaped the country as we see it today.
+Offers interactive educational displays, civilian stories during the battle, guided tours, and historical gifts.
 
-![](./media/media/image8.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+* **Address:** [297 Steinwehr Ave, Gettysburg, PA 17325](https://maps.app.goo.gl/297SteinwehrAve)
+* **Phone:** [(717) 334-6245](tel:+17173346245)
+* **Email:** `info@GettysburgMuseum.com`
+* **Hours:** Sunday – Thursday, 9:00 AM – 5:00 PM | Friday & Saturday, 9:00 AM – 5:00 PM
+* **Website:** [Gettysburg Museum Store & Tours](https://gettysburgmuseumstore.com/collections/tours)
 
-[Lutheran Seminary &
-Church](https://www.unitedlutheranseminary.edu/about/campuses/gettysburg)
+---
 
-Church of the Abiding Presence, Gettysburg campus
+### Mansion House 1757
 
-Divine Service Sunday Morning
+<img src="{{ '/events/pennsylvania/gettysburg/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Mansion House 1757">
 
-<https://goo.gl/maps/xK3Yaj61g39AAbZL8>
+Recognized as the oldest operating pub in Pennsylvania, the historic inn famously served General Robert E. Lee following the Battle of Gettysburg.
 
-The seminary was the oldest continuing Lutheran seminary in the United
-States!
+* **Address:** [15 W Main St, Fairfield, PA 17320](https://maps.app.goo.gl/15WMainStFairfield)
+* **Phone:** [(717) 642-5410](tel:+17176425410)
+* **Website:** [Mansion House 1757 Events](https://www.mansionhouse1757.com/events)
 
-![](./media/media/image9.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+---
 
-Eisenhower Hotel & Conference Center
+## Annual Events & Commemorations
 
-EISENHOWER HOTEL & CONFERENCE CENTER
+### Dedication Day & Lincoln Fellowship of Pennsylvania
 
-2634 EMMITSBURG ROAD, GETTYSBURG, PENNSYLVANIA 17325, UNITED STATES
+<img src="{{ '/events/pennsylvania/gettysburg/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Lincoln Fellowship Dedication Day at Majestic Theater">
 
-PHONE #717-334-8121 \| <SALES@EISENHOWERCOMPLEX.COM>
+Annual Dedication Day ceremonies honor Abraham Lincoln's Gettysburg Address. Hosted by the Lincoln Fellowship of Pennsylvania at historic venues such as Gettysburg College's Majestic Theater, keynotes and guests have included notable historians and figures like Susan Eisenhower, Harold Holzer, and Doris Kearns Goodwin.
 
-![](./media/media/image10.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+* **Location:** [Gettysburg College's Majestic Theater, 25 Carlisle St, Gettysburg, PA 17325](https://maps.app.goo.gl/25CarlisleSt)
+* **Organization:** [Lincoln Fellowship of Pennsylvania](https://lincolnfellowship.wildapricot.org/)
+* **Venue:** [Gettysburg College's Majestic Theater](https://www.gettysburgmajestic.org/)
 
-[Visitor
-Center](https://www.gettysburgfoundation.org/about-us/shop-dine)
+---
 
-1195 Baltimore Pike Gettysburg, PA 17325 717-334-2436 877-874-2478
+### Remembrance Day Parade & National Civil War Ball
 
-Gettysburg offers a lot to do for everyone. Check out our suggested
-itineraries, tailored for different interests and time allotted:
+<img src="{{ '/events/pennsylvania/gettysburg/media/media/image5.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Remembrance Day Parade">
 
-[Quick Raid (Half Day)\
-](https://www.gettysburgfoundation.org/plan-your-visit/sample-itineraries?itineraryid=1)[First-Time
-Visitor - 2 Day\
-](https://www.gettysburgfoundation.org/plan-your-visit/sample-itineraries?itineraryid=2)[First-Time
-Visitor - 1 Day\
-](https://www.gettysburgfoundation.org/plan-your-visit/sample-itineraries?itineraryid=5)[Returning
-Visitor - 1 Day\
-](https://www.gettysburgfoundation.org/plan-your-visit/sample-itineraries?itineraryid=6)[Returning
-Visitor - 2 Day\
-](https://www.gettysburgfoundation.org/plan-your-visit/sample-itineraries?itineraryid=7)[Paths
-of Presidents\
-](https://www.gettysburgfoundation.org/plan-your-visit/sample-itineraries?itineraryid=9)[Full
-Campaign](https://www.gettysburgfoundation.org/plan-your-visit/sample-itineraries?itineraryid=10)
+Held annually on the **third Saturday in November at 1:00 PM**, Remembrance Day honors Civil War soldiers and civilians. Sponsored by the Sons of Veterans Reserve (Military Department of the Sons of Union Veterans of the Civil War), the parade lines up on Middle Street, steps off down Baltimore Street, and finishes along Steinwehr Avenue.
 
-![](./media/media/image11.jpeg){width="7.5in"
-height="4.215277777777778in"}
+<img src="{{ '/events/pennsylvania/gettysburg/media/media/image6.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="National Civil War Ball">
 
-[Eisenhower National Historic
-Site](https://www.gettysburgfoundation.org/exhibits-tours-events/historic-sites/eisenhower-national-historic-site)
+The evening features the official **National Civil War Ball**, hosted by the SVR with authentic 19th-century music by the Philadelphia Brigade Band and dancing led by the Victorian Dance Ensemble.
 
-The home and farm of our 34th President, the Eisenhower National
-Historic Site provides a warm and personal look at the home life of
-Dwight and Mamie Eisenhower.
+* **Parade Details:** [Cumberland Valley Remembrance Day Guide](https://www.visitcumberlandvalley.com/event/remembrance-day-parade/51357/) | [SUVCW Parade Information](https://suvcw.org/2023-parade-flyer) | [Provost Marshal Site](https://sites.google.com/site/remembrancedayparade/gettysburg-remembrance-day-parade)
+* **Ball Contact:** Col. Steve Michaels, SVR | Email: `lt.col.sm@gmail.com` | Phone: (414) 712-4655
+* **Local Visitor Info:** [Destination Gettysburg Event Page](https://destinationgettysburg.com/event/details/remembrance-day-parade-and-ceremonies/) | [Borough of Gettysburg Events](https://www.gettysburgpa.gov/community-events/events/112156)
 
-Renovated in the early 1950s, the home served as a weekend getaway for
-the President and a meeting place for world leaders. Retiring to the
-farm in 1961, the Eisenhowers gifted the property to the federal
-government in 1967. The farm was designated as a National Historic Site
-in 1969.
+---
 
-Today, the site offers hospitality to guests through Ranger talks and
-self-guided tours of the home (when open seasonally) and property
-including its gardens, teahouse, skeet range, putting green and Angus
-cattle barns.
+## Accommodations & Venue Facilities
+
+### Eisenhower Hotel & Conference Center
+
+<img src="{{ '/events/pennsylvania/gettysburg/media/media/image9.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Eisenhower Hotel & Conference Center">
+
+Large complex offering lodging and event space for conferences, reenactor groups, and visitors.
+
+* **Address:** [2634 Emmitsburg Road, Gettysburg, PA 17325](https://maps.app.goo.gl/2634EmmitsburgRd)
+* **Phone:** [(717) 334-8121](tel:+17173348121)
+* **Email:** `sales@eisenhowercomplex.com`
+
+---
+
+*Last updated: September 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>

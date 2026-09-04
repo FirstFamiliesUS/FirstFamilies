@@ -4,132 +4,141 @@ title: Winchester, Virginia
 permalink: /events/virginia/winchester/
 ---
 
-Research Resources
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-<https://www.familysearch.org/en/wiki/Frederick_County,_Virginia_Genealogy>
+# Winchester, Virginia
 
-![](./media/media/image1.png){width="6.826666666666667in"
-height="3.8333333333333335in"}
+As the oldest city in Virginia west of the Blue Ridge Mountains, Winchester and surrounding Frederick County blend deep Colonial and Civil War history with vibrant cultural destinations. Known for its historic architecture, Quaker heritage, and agricultural roots, the region serves as a gateway to the Shenandoah Valley.
 
-[Hopewell Friends Meeting
-House](https://winchesterquakers.org/visit-us-1)
+---
 
-Hopewell Friends Meeting House is an 18th-century Quaker meeting house
-located the northern Frederick County, Virginia one mile west of the
-community of Clear Brook at 604 Hopewell Road (formerly State Route
-672). Clear Brook, VA 22624.  The Hopewell Meeting House was listed on
-the Virginia Landmarks Register in 1977. It was listed on the National
-Register of Historic Places by the National Park Service in 1980. In
-1995 it was designated as a Frederick County Historic Site. 
+## Historic Sites & Museums
 
-Sunday Services 10 AM
+### Old Town Winchester & Loudoun Street Mall
 
-540-667-9114
+<img src="{{ '/events/virginia/winchester/media/media/image6.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Old Town Winchester">
 
-![](./media/media/image2.png)
+A vital marketplace for over 250 years, Old Town Winchester is located within a 45-block National Register Historic District. The Loudoun Street Pedestrian Mall offers outdoor cafes, specialty shops, historical attractions, and seasonal family activities.
 
-[Opequon Quaker Camp](https://bymcamps.org/our-camps/opequon/)
+* **Information:** [Old Town Winchester Attractions](https://visitwinchesterva.com/location/attractions/historic-downtown/)
 
-2710 Brucetown Rd, Clear Brook, VA 22624
+---
 
-+15406784900
+### George Washington's Office Museum
 
-![](./media/media/image3.png){width="4.25in"
-height="2.3854166666666665in"}
+<img src="{{ '/events/virginia/winchester/media/media/image7.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="George Washington Office Museum">
 
-[Frederick County Fair](https://www.frederickcountyfair.com/)
+Military headquarters used by George Washington during the French and Indian War while constructing Fort Loudoun.
 
-Frederick County Fair
+* **Address:** [32 West Cork St, Winchester, VA 22601](https://maps.app.goo.gl/32WCorkSt)
+* **Details:** [Shenandoah at War - Washington's Office](https://www.shenandoahatwar.org/washingtons-office)
 
-​250 Fairgrounds Rd Clear Brook, VA 22624
+---
 
-\(540\) 313-4911
+### Hopewell Friends Meeting House & Historical Marker
 
-![](./media/media/image4.png){width="4.15625in"
-height="2.3333333333333335in"}
+<img src="{{ '/events/virginia/winchester/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Hopewell Friends Meeting House">
 
-[Hopewell Friends Marker](https://www.hmdb.org/m.asp?m=2282)
+An 18th-century Quaker meeting house located in northern Frederick County. Listed on the Virginia Landmarks Register (1977), National Register of Historic Places (1980), and designated a Frederick County Historic Site (1995).
 
-39° 15.379′ N, 78° 5.794′ W. Marker is in Clear Brook, Virginia, in
-Frederick County. Marker is at the intersection of Martinsburg Turnpike
-(U.S. 11) and Hopewell Road (County Route 672), on the right when
-traveling south on Martinsburg Turnpike. [Touch for
-map](https://www.hmdb.org/map.asp?markers=2282,168405,2329,41659,204192,204193,193320,167182,2358).
-Marker is in this post office area: Clear Brook VA 22624, United States
-of America. [Touch for
-directions.](https://www.google.com/maps/dir/?api=1&destination=39.25631603,-78.09657097) 
+* **Address:** [604 Hopewell Rd, Clear Brook, VA 22624](https://maps.app.goo.gl/604HopewellRd)
+* **Phone:** [(540) 667-9114](tel:+15406679114)
+* **Services:** Sunday Services at 10:00 AM
+* **Website:** [Hopewell Friends Meeting](https://winchesterquakers.org/visit-us-1)
+* **Historical Marker:** [Hopewell Friends HMDB Marker](https://www.hmdb.org/m.asp?m=2282) | [Marker Map](https://www.hmdb.org/map.asp?markers=2282,168405,2329,41659,204192,204193,193320,167182,2358) | [Directions](https://www.google.com/maps/dir/?api=1&destination=39.25631603,-78.09657097)
 
-![](./media/media/image5.png){width="7.046875546806649in"
-height="2.5625in"}
+---
 
-[Winchester-Frederick County Visitors
-Cente](https://visitwinchesterva.com/location/annual-events/)r 
+## Research & Visitor Resources
 
-Winchester-Frederick County Convention & Visitors Bureau   \|
+### Handley Regional Library (Archives & Genealogy)
 
-1400 S. Pleasant Valley Road, Winchester, VA 22601
+<img src="{{ '/events/virginia/winchester/media/media/image10.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Handley Library">
 
-\(540\) 542-1326   \|   Toll Free (877) 871-1326   
+Houses extensive local history collections, genealogical family files, and historic archives for Winchester and Frederick County.
 
-info@visitwinchesterva.com   \|   GPS coordinates: 39.1689, -78.1615
+* **Address:** [100 West Piccadilly St, Winchester, VA 22601](https://maps.app.goo.gl/100WPiccadillySt)
+* **Phone:** [(540) 662-9041](tel:+15406629041)
+* **Website:** [Handley Regional Library Events](https://www.handleyregional.org/events/month)
 
-![](./media/media/image6.png){width="6.802083333333333in"
-height="3.8218602362204726in"}
+---
 
-[Old Town
-Winchester](https://visitwinchesterva.com/location/attractions/historic-downtown/)
+### Winchester-Frederick County Visitors Center
 
-A vital marketplace for more than 250 years, Old Town Winchester
-cherishes its heritage. Visitors are welcomed here with the grace and
-style typical of Virginia hospitality. Old Town Winchester is located
-within the heart of a 45-block National Register Historic District and
-features a quaint pedestrian walking mall bursting with outdoor cafes,
-fun & specialty retail shops, historic attractions and family-oriented
-activities throughout the year. The Loudoun Street Pedestrian Mall has
-earned a listing on the National Register of Historic Places Travel
-Itinerary. A 7 million dollar renovation of the Mall was completed in
-2013.
+<img src="{{ '/events/virginia/winchester/media/media/image5.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Winchester Visitors Center">
 
-![](./media/media/image7.png){width="7.343532370953631in"
-height="4.125in"}
+Primary tourism and resource bureau for the Winchester and Frederick County region.
 
-[George Washington Office
-Museum](https://www.shenandoahatwar.org/washingtons-office)
+* **Address:** [1400 S. Pleasant Valley Road, Winchester, VA 22601](https://maps.app.goo.gl/1400SPleasantValley)
+* **Phone:** [(540) 542-1326](tel:+15405421326) | Toll-Free: [(877) 871-1326](tel:+18778711326)
+* **Email:** `info@visitwinchesterva.com`
+* **Website:** [Visit Winchester Annual Events](https://visitwinchesterva.com/location/annual-events/)
 
-32 West Cork St. Winchester, Virginia
+---
 
-![](./media/media/image8.png){width="7.447916666666667in"
-height="4.183246937882765in"}
+### Clear Brook Welcome Center
 
-[Clear Brook Welcome
-Center](https://visitshenandoah.org/events-listings/)
+<img src="{{ '/events/virginia/winchester/media/media/image8.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Clear Brook Welcome Center">
 
-I-81, Mile Marker 320 Clearbrook, VA 22624
+Regional visitor center providing maps, guides, and event listings for travelers entering the Shenandoah Valley.
 
-![](./media/media/image9.jpeg)
+* **Location:** I-81 South, Mile Marker 320, Clear Brook, VA 22624
+* **Website:** [Visit Shenandoah Event Listings](https://visitshenandoah.org/events-listings/)
 
-[Shawnee
-Springs](https://www.winchesterva.gov/Parks-Recreation/Facilities/Trails-and-Natural-Areas/Shawnee-Springs-Preserve)
+---
 
-Located between downtown Winchester and Jim Barnett Park, the 14-acre
-Shawnee Preserve protects natural springs, wetlands, and rocky upland
-forested areas. It also contains the site of an old Civil War hospital,
-Sheridan\'s Field Hospital. The Shawnee Springs Trail is a 0.26-mile
-long trail provides a more natural trail option in the form of a gravel
-trail meandering through the wooded heart of the Springs where trail
-users can see remnants of the City's old waterworks settlement basins.
-The trail is a spur off of the Green Circle Trail and the two trails
-connect up again at mile marker 1.0 on the north end so there is no need
-to double-back. The main trail and the spur trail are almost the same
-distance.
+## Parks, Recreation & Community Events
 
-![](./media/media/image10.png){width="6.948674540682415in"
-height="6.416666666666667in"}
+### Shawnee Springs Preserve
 
-[Handley Library](https://www.handleyregional.org/events/month)
+<img src="{{ '/events/virginia/winchester/media/media/image9.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Shawnee Springs Preserve">
 
-Family Files
+Located between downtown Winchester and Jim Barnett Park, this 14-acre preserve protects natural springs, wetlands, and forested areas. It includes the site of Sheridan's Field Hospital from the Civil War and a 0.26-mile gravel spur connecting to the Green Circle Trail.
 
-100 West Piccadilly St. Winchester, VA 22601 
+* **Website:** [Shawnee Springs Preserve](https://www.winchesterva.gov/Parks-Recreation/Facilities/Trails-and-Natural-Areas/Shawnee-Springs-Preserve)
 
-Phone: 540-662-9041
+---
+
+### Opequon Quaker Camp
+
+<img src="{{ '/events/virginia/winchester/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Opequon Quaker Camp">
+
+A Baltimore Yearly Meeting youth summer camp set on historic acreage along Opequon Creek.
+
+* **Address:** [2710 Brucetown Rd, Clear Brook, VA 22624](https://maps.app.goo.gl/2710BrucetownRd)
+* **Phone:** [(540) 678-4900](tel:+15406784900)
+* **Website:** [Opequon Quaker Camp](https://bymcamps.org/our-camps/opequon/)
+
+---
+
+### Frederick County Fair
+
+<img src="{{ '/events/virginia/winchester/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Frederick County Fair">
+
+Annual agricultural fair featuring livestock shows, entertainment, track events, and community exhibits.
+
+* **Address:** [250 Fairgrounds Rd, Clear Brook, VA 22624](https://maps.app.goo.gl/250FairgroundsRd)
+* **Phone:** [(540) 313-4911](tel:+15403134911)
+* **Website:** [Frederick County Fair](https://www.frederickcountyfair.com/)
+
+---
+
+## External Research Resources
+
+* [FamilySearch - Frederick County, Virginia Genealogy Wiki](https://www.familysearch.org/en/wiki/Frederick_County,_Virginia_Genealogy)
+
+---
+
+*Last updated: September 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>

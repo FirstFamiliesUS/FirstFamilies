@@ -4,63 +4,54 @@ title: Kennebec, Maine
 permalink: /events/maine/kennebec/
 ---
 
-Resources
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-[Kennebec County, Maine -
-Wikipedia](https://en.wikipedia.org/wiki/Kennebec_County,_Maine) 
+# Kennebec, Maine
 
-[Kennebec County, Maine Genealogy •
-FamilySearch](https://www.familysearch.org/en/wiki/Kennebec_County,_Maine_Genealogy) 
+## Resources
 
-[National Register of Historic Places listings in Kennebec County,
-Maine -
-Wikipedia](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Kennebec_County,_Maine) 
+* [Kennebec County, Maine - Wikipedia](https://en.wikipedia.org/wiki/Kennebec_County,_Maine)
+* [Kennebec County, Maine Genealogy • FamilySearch](https://www.familysearch.org/en/wiki/Kennebec_County,_Maine_Genealogy)
+* [National Register of Historic Places listings in Kennebec County, Maine - Wikipedia](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Kennebec_County,_Maine)
+* [China, Maine - Wikipedia](https://en.wikipedia.org/wiki/China,_Maine)
+* [China Village Historic District](https://en.wikipedia.org/wiki/China_Village_Historic_District)
+* [China, Kennebec County, Maine Genealogy • FamilySearch](https://www.familysearch.org/en/wiki/China,_Kennebec_County,_Maine_Genealogy)
+* [Vassalboro, Maine - Wikipedia](https://en.wikipedia.org/wiki/Vassalboro,_Maine)
+* [Vassalboro Historical Society & Museum](http://www.vhsme.org/)
 
-[China, Maine - Wikipedia](https://en.wikipedia.org/wiki/China,_Maine) 
+## Points of Interest
 
-[China Village Historic
-District](https://en.wikipedia.org/wiki/China_Village_Historic_District)
+<img src="{{ '/events/maine/kennebec/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Majek Seafood and Grill">
 
-[China, Kennebec County, Maine Genealogy •
-FamilySearch](https://www.familysearch.org/en/wiki/China,_Kennebec_County,_Maine_Genealogy) 
+**[Majek Seafood & Grill](https://majekseafood.com/)**  
+239 Lakeview Dr, China, ME 04358  
++1 (207) 445-8043  
 
-[Vassalboro, Maine -
-Wikipedia](https://en.wikipedia.org/wiki/Vassalboro,_Maine) 
+<img src="{{ '/events/maine/kennebec/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Albert Church Brown Memorial">
 
-[Vassalboro Historical Society & Museum](http://www.vhsme.org/)
+**[Albert Church Brown Memorial Library](https://www.facebook.com/chinalibrary/)**  
+35 Main St, China, ME, United States  
+chinalibraryacb@gmail.com  
++1 (207) 968-2926  
 
-![](./media/media/image1.jpeg){width="2.0208333333333335in"
-height="1.1354166666666667in"}
+<img src="{{ '/events/maine/kennebec/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Lake view">
 
-[Majek Seafood & Grill](https://majekseafood.com/)
+**[China Lake](https://www.lakesofmaine.org/lake-overview.html?m=5448)**  
+571 Lakeview Dr, China, ME 04358  
 
-239 Lakeview Dr, China, ME 04358
+<img src="{{ '/events/maine/kennebec/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Haskell Cemetery">
 
-+12074458043
+**[Haskell Cemetery](https://www.findagrave.com/cemetery/90027/haskell-cemetery)**  
+CF92+96 China, Maine  
 
-![](./media/media/image2.jpeg){width="7.5in"
-height="4.211111111111111in"}
-
-[Albert Church Brown Memorial
-Library ](https://www.facebook.com/chinalibrary/)
-
-35 Main St, China, ME, United States, Maine
-
-chinalibraryacb@gmail.com 
-
-1 207-968-2926
-
-![](./media/media/image3.jpeg){width="7.5in"
-height="4.214583333333334in"}
-
-[China Lake](https://www.lakesofmaine.org/lake-overview.html?m=5448)
-
-571 Lakeview Dr, China, ME 04358
-
-![](./media/media/image4.jpeg){width="4.25in"
-height="2.3854166666666665in"}
-
-[Haskell
-Cemetery](https://www.findagrave.com/cemetery/90027/haskell-cemetery)
-
-CF92+96 China, Maine
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>

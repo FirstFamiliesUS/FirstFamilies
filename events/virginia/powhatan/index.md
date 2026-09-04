@@ -4,49 +4,51 @@ title: Powhatan, Virginia
 permalink: /events/virginia/powhatan/
 ---
 
-![](./media/media/image1.jpeg){width="7.5in"
-height="5.639583333333333in"}
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-[Huguenot Memorial Chapel and
-Monument](https://en.wikipedia.org/wiki/Huguenot_Memorial_Chapel_and_Monument)
+# Powhatan, Virginia
 
-Huguenot Memorial Chapel and Monument is a historic church located at
-Manakin, Powhatan County, Virginia. Built in 1700 by French Huguenots,
-Protestant refugees, it was moved to its current location in 1710. It
-burned down in the Revolutionary War and was later rebuilt with parts of
-the original building. It is in what is called the Carpenter Gothic
-style. A new church was built next to this in 1954, and is the one still
-currently used. It was added to the National Register of Historic Places
-in 1988
+Formed in 1777 from Cumberland County and named in honor of Chief Powhatan, Powhatan County lies directly west of Richmond along the James River. The region holds a rich early colonial history, most notably serving as the haven for French Huguenot refugees who established King William Parish in 1700.
 
-![](./media/media/image2.jpeg){width="7.5in"
-height="4.209722222222222in"}
+---
 
-[Manakin Episcopal Church](https://manakin.org/history/)
+## Historic Sites & Parishes
 
-Our church origins extend back over three hundred years to the year
-1701. The founding community of Huguenots was made up of French
-Protestants who followed the teachings of John Calvin. They had been
-forced to leave their homeland by the religious persecution that
-followed Louis XIV's revocation of the Edict of Nantes in 1685. Fleeing
-to England, they became ardent supporters of William of Orange and
-helped him defeat James II. In gratitude for their support, William made
-it possible, in 1700, for many of them to move to the American Colonies
-by providing them with both land and financial aid. On June 23, 1700,
-the first shipload of Huguenots arrived in Virginia, followed later that
-same year by two more shiploads of refugees. Further aided by William
-Byrd, they settled on land along the James River about twenty miles west
-of Richmond. Formerly a Monacan Indian settlement, the new community was
-known as Manakintowne. In December 1700, the Virginia House of Burgesses
-passed an act stating that the French settlers constituted a "distinct
-parish themselves" that would be called King William Parish.
-Additionally, they were exempted from having to pay any parish taxes and
-were allowed to determine the appropriate salary for their clergy. "The
-parish was duly organized and, by common consent or agreement, the
-liturgy of the Church of England was used in their services. There seems
-no reason to doubt that they might have retained a dissenting status and
-held services in their own language if they had so desired, as did the
-German Lutherans who came into the Shenandoah Valley forty years later.
-But certainly the Huguenots adopted the wiser course in holding their
-services in the language of the country in which they expected to make
-their future home." 
+### Huguenot Memorial Chapel and Monument
+
+<img src="{{ '/events/virginia/powhatan/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Huguenot Memorial Chapel and Monument">
+
+A historic landmark located at Manakin in Powhatan County. Originally established in 1700 by French Huguenot refugees, the chapel was relocated to its current site in 1710. Rebuilt after being burned during the Revolutionary War, it features classic Carpenter Gothic architecture using elements of the original structure.
+
+* **History:** Rebuilt in its current form following the Revolutionary War; a modern church sanctuary was erected adjacent to it in 1954 and continues in active use.
+* **Designation:** Added to the National Register of Historic Places in 1988.
+* **Reference:** [Huguenot Memorial Chapel Wikipedia Entry](https://en.wikipedia.org/wiki/Huguenot_Memorial_Chapel_and_Monument)
+
+---
+
+### Manakin Episcopal Church
+
+<img src="{{ '/events/virginia/powhatan/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Manakin Episcopal Church">
+
+Extending back over three centuries to 1701, Manakin Episcopal Church traces its origin to French Protestant refugees fleeing religious persecution following King Louis XIV's revocation of the Edict of Nantes in 1685.
+
+* **Colonial Foundations:** Supported by King William III and assisted locally by William Byrd, three shiploads of Huguenots arrived in Virginia in 1700 to settle on former Monacan Indian land along the James River, known as *Manakintowne*.
+* **King William Parish:** In December 1700, the Virginia House of Burgesses designated the settlement as a distinct parish named King William Parish, granting tax exemptions and ecclesiastical independence.
+* **Anglican Integration:** The parish adopted the liturgy and language of the Church of England to fully integrate into their new home while maintaining their strong French Protestant heritage.
+* **History & Ministry:** [Manakin Episcopal Church History](https://manakin.org/history/)
+
+---
+
+*Last updated: September 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>

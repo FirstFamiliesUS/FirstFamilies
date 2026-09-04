@@ -4,493 +4,257 @@ title: Frederick, Maryland
 permalink: /events/maryland/frederick/
 ---
 
-Resources
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-[Frederick County, Maryland Genealogy •
-FamilySearch](https://www.familysearch.org/en/wiki/Frederick_County,_Maryland_Genealogy) 
+# Frederick County, Maryland
 
-[Frederick County, Maryland -
-Wikipedia](https://en.wikipedia.org/w/index.php?title=Frederick_County,_Maryland&oldid=1222604196) 
+Established in 1748, Frederick County serves as a vital crossroad of American history, spanning pivotal events from the French and Indian War and the Revolutionary Era to key Civil War battlefields. Situated between the Catoctin Mountains and the Potomac River, Frederick features rich religious diversity, historic architecture, state and national parks, and extensive genealogical archives.
 
-[Frederick County Genealogical Society - Surname
-Research](https://frecogs.org/surname.php) 
+---
 
-Map
+## Historic & Cultural Landmarks
 
-![](./media/media/image1.png){width="7.618055555555555in"
-height="4.279204943132108in"}
+### Frederick Visitor Center
 
-[Candlelight Tour of Historic Houses of
-Worship](https://www.visitfrederick.org/events/annual-events/historic-houses-of-worship-tour/)
+<img src="{{ '/events/maryland/frederick/media/media/image7.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Frederick Visitor Center Entrance">
 
-4:00 PM
+Housed in a restored 1899 industrial warehouse, the center features 2,200 square feet of interactive exhibits, an introductory orientation film, and regional travel guides.
 
-❖ Organ, Piano, and Harp (4--4:30PM)   All Saints' Episcopal Church
+* **Address:** [151 S East St, Frederick, MD 21701](https://maps.app.goo.gl/FrederickVisitorCenter)
+* **Phone:** [(301) 600-4047](tel:+13016004047)
+* **Website:** [Visit Frederick Visitor Center](https://www.visitfrederick.org/plan-your-visit/visitor-center/)
 
-❖ Nancy Beith, Piano with Gail Slezak, Piano (4--4:30PM) Frederick
-Presbyterian Church
+---
 
-❖ Terry Sparks studio recital; Concordia a capella choir (4--5PM) Grace
-United Church of Christ
+### Francis Scott Key Monument at Mount Olivet Cemetery
 
-❖ Evangelical Bells (4--5PM) Evangelical Lutheran Church
+<img src="{{ '/events/maryland/frederick/media/media/image13.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Francis Scott Key Monument at Mount Olivet Cemetery">
 
-❖ Tri State Harp Ensemble led by Sally Lay (4--6PM) Calvary United
-Methodist Church
+Dedicated in 1898 and sculpted by Pompeo Coppini, this monument marks the final resting place of Francis Scott Key, Frederick native and author of "The Star-Spangled Banner."
 
- 
+* **Address:** [515 S Market St, Frederick, MD 21701](https://maps.app.goo.gl/MtOlivetCemetery)
+* **Website:** [Francis Scott Key Monument Listing](https://www.visitfrederick.org/listing/francis-scott-key-monument-in-mt-olivet-cemetery/3295/)
 
-4:30 PM
+---
 
-❖ David Duree, Clarinet and Paulela Burchill, Flute (4:30--5PM)
-Frederick Presbyterian Church
+### Hyattstown Mill Arts & History Center
 
-❖ Carol Sing-Along (4:30--5PM) All Saints' Episcopal Church
+<img src="{{ '/events/maryland/frederick/media/media/image4.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Historic Hyattstown Mill">
 
- 
+Built in 1798 along Little Bennett Creek, this historic grist mill operated through the 19th century and stands today as the sole surviving mill structure in the Little Bennett Valley.
 
-5:00 PM
+* **Address:** [14920 Hyattstown Mill Rd, Hyattstown, MD 20871](https://maps.app.goo.gl/HyattstownMill)
+* **Phone:** [(301) 830-1142](tel:+13018301142)
+* **Hours:** Mill Gallery open Weekends 10:00 a.m. – 4:00 p.m., or by appointment.
+* **Website:** [Hyattstown Mill Arts & History](https://www.hyattstownmill.org/events/)
 
-❖ Maryland Talent Education String Program (5--5:30PM) All Saints'
-Episcopal Church
+---
 
-❖ Janice Jackson, Soprano (5--5:30PM) Frederick Presbyterian Church
+## Historic Churches & Cemeteries
 
-❖ One God \~ One Voice Choir (5--6PM) Grace United Church of Christ
+### Evangelical Reformed Church (UCC)
 
-❖ The Praise Ensemble (5--6PM) Evangelical Lutheran Church
+<img src="{{ '/events/maryland/frederick/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Evangelical Reformed Church in Downtown Frederick">
 
- 
+An iconic landmark in Downtown Frederick, this church hosts religious, community, and musical events throughout the year, including the annual Candlelight Tour of Historic Houses of Worship.
 
-5:30 PM
+* **Address:** [15 W Church St, Frederick, MD 21701](https://maps.app.goo.gl/ERUCCFrederick)
+* **Phone:** [(301) 662-2762](tel:+13016622762)
+* **Services:** Sundays, 10:30 a.m. – 11:30 a.m. (Junior Church offered for ages 5 through 5th grade).
+* **Website:** [Evangelical Reformed Church UCC](https://erucc.org/visit-us/advent-and-christmastide/)
 
-❖ Jonathan Kurtz, Jazz Piano (5:30--6PM) Frederick Presbyterian Church
+---
 
-❖ All Saints Handbell Choir (5:30--6PM) All Saints' Episcopal Church
+### Evangelical Reformed Cemetery (Memorial Grounds Park)
 
- 
+<img src="{{ '/events/maryland/frederick/media/media/image12.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Evangelical Reformed Cemetery Memorial Park">
 
-6:00 PM
+Established at the site of early 18th-century burials for Frederick's original German and European settlers. The original churchyard and cemetery were closed in 1924; bronze memorial plaques today commemorate over 390 recorded burials.
 
-❖ All Saints Adult Choir (6--6:30PM) All Saints' Episcopal Church
+* **Address:** [210 North Bentz St, Frederick, MD 21701](https://maps.app.goo.gl/MemorialGroundsPark)
+* **Information:** [FindAGrave - Evangelical Reformed Cemetery](https://www.findagrave.com/cemetery/80973/frederick-evangelical-reformed-cemetery)
 
-❖ Spires Brass Quintet (6--6:30PM) Frederick Presbyterian Church
+---
 
-❖ Peal Bells Ringing and Demonstration led by Quilla Roth (6--7PM)
-Calvary United Methodist Church
+### Graceham Moravian Church & Parsonage
 
-❖ Choir of Evangelical Lutheran (6--7PM) Evangelical Lutheran Church
+<img src="{{ '/events/maryland/frederick/media/media/image19.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Graceham Moravian Church and Parsonage">
 
-❖ Nathan Strite, Organ (6--7PM) Grace United Church of Christ
+Built in 1822 adjacent to a 1797 parsonage, this historic Flemish-bond brick church and its traditional "God's Acre" cemetery represent Maryland's only remaining 18th-century Moravian settlement.
 
- 
+* **Address:** [8231 Rocky Ridge Road, Graceham, MD 21788](https://maps.app.goo.gl/GracehamMoravian)
+* **Schedule:** Sunday School at 9:15 a.m. and Worship at 10:30 a.m. (School year); Summer Worship at 9:15 a.m.
+* **Website:** [Graceham Moravian Church](https://www.gracehammoravian.org/new/index.php/about-us/your-template)
 
-6:30 PM
+---
 
-❖ Cambria Van de Vaarst, Harp (6:30--7PM) All Saints' Episcopal Church
+## Annual Events & Community Traditions
 
-❖ Nancy Beith, Piano (6:30--7PM) Frederick Presbyterian Church
+### Candlelight Tour of Historic Houses of Worship
 
-❖ One God One Voice Choir (6:30--7:15PM) Centennial Memorial United
-Methodist Church
+<img src="{{ '/events/maryland/frederick/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Candlelight Tour of Historic Houses of Worship Schedule Map">
 
- 
+Held annually during the holiday season in Downtown Frederick (traditionally December 26, 4:00 p.m. – 9:00 p.m.), this open house celebrates Frederick's heritage of religious tolerance with special musical performances across participating downtown churches:
 
-7:00 PM
+* **All Saints' Episcopal Church:** Organ, piano, and harp performances; Carol Sing-Alongs; Handbell Choir; and Adult Choir.
+* **Frederick Presbyterian Church:** Piano, flute, clarinet, vocal solos, jazz piano, French horn, and the Spires Brass Quintet.
+* **Grace United Church of Christ:** Concordia Choir, One God ~ One Voice Choir, organ recitals, and carol singing.
+* **Evangelical Lutheran Church:** Evangelical Bells, Praise Ensemble, Church Choir, Frederick Flute Choir, and pipe organ recitals.
+* **Calvary United Methodist Church:** Tri-State Harp Ensemble, Peal Bells ringing demonstrations, Trinity Brass Ensemble, and organ music.
+* **Centennial Memorial UMC:** One God One Voice Choir, Christmas instrumental selections, and Catoctones barbershop chorus.
+* **Event Details:** [Visit Frederick - Candlelight Tour](https://www.visitfrederick.org/events/annual-events/historic-houses-of-worship-tour/)
 
-❖ Janice Jackson, Soprano (7--7:30PM) Frederick Presbyterian Church
+---
 
-❖ All Saints Handbell Choir (7--7:30PM) All Saints' Episcopal Church
+### Sailing Through the Winter Solstice
 
-❖ Trinity Brass Ensemble (7--8PM) Calvary United Methodist Church
+<img src="{{ '/events/maryland/frederick/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Sailing Through The Winter Solstice Lighted Boats on Carroll Creek">
 
-❖ Justin Furnia, Piano (7--8PM) Grace United Church of Christ
+An annual winter installation along Carroll Creek Park in Downtown Frederick featuring illuminated, custom-built boats floating on the creek from November through March.
 
-❖ Frederick Flute Choir (7--8PM) Evangelical Lutheran Church
+* **Website:** [Sailing Through the Winter Solstice](https://www.visitfrederick.org/sailing-into-the-winter-solstice/)
 
- 
+---
 
-7:15 PM
+## Battlefields, Parks & Recreation
 
-❖ Christmas Music (7:15--7:45PM) Centennial Memorial United Methodist
-Church
+### Monocacy National Battlefield
 
- 
+<img src="{{ '/events/maryland/frederick/media/media/image11.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Monocacy National Battlefield Visitor Center">
 
-7:30 PM
+Site of the Civil War "Battle That Saved Washington" on July 9, 1864. The park features walking trails, historic structures, interactive exhibits, and Junior Ranger educational programs.
 
-❖ All Saints Adult Choir (7:30--8PM) All Saints' Episcopal Church
+* **Address:** [5201 Urbana Pike, Frederick, MD 21704](https://maps.app.goo.gl/MonocacyBattlefield)
+* **Phone:** [(301) 662-3515](tel:+13016623515)
+* **Hours:** Visitor Center open daily, 9:00 a.m. – 5:00 p.m. (Free entry).
+* **Website:** [Monocacy National Battlefield Junior Ranger](https://www.nps.gov/mono/learn/kidsyouth/beajuniorranger.htm)
 
-❖ Spires Brass Quintet (7:30--8PM) Frederick Presbyterian Church
+---
 
- 
+### Catoctin Mountain Park & Camp Misty Mount
 
-7:45 PM
+<img src="{{ '/events/maryland/frederick/media/media/image16.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Catoctin Mountain National Park">
 
-❖ Catoctones, seasonal Christmas repertoire followed by Christmas Carol
-Sing-a-Long (7:45--8:30PM) Centennial Memorial United Methodist Church
+Located in northern Frederick County in the Blue Ridge Mountains, offering scenic vistas, hiking trails, and historic stone-and-timber cabins at Camp Misty Mount.
 
- 
+* **Address:** [14707 Park Central Road, Thurmont, MD 21788](https://maps.app.goo.gl/CatoctinMountain)
+* **Cabins & Lodging:** [Camp Misty Mount Reservations](https://www.nps.gov/cato/planyourvisit/lodging.htm)
+* **Website:** [Catoctin Mountain Park (NPS)](https://www.nps.gov/cato/index.htm)
 
-8:00 PM
+---
 
-❖ Lisa Jarosinski, Soprano (8--8:30PM) Frederick Presbyterian Church
+### Cunningham Falls State Park
 
-❖ Organ, Piano, and Harp (8--8:30PM) All Saints' Episcopal Church
+<img src="{{ '/events/maryland/frederick/media/media/image15.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Cunningham Falls State Park Waterfall">
 
-❖ Seasonal Organ and Piano music played by Dr. Adela Peeva (8--9PM)
-Calvary United Methodist Church
+Home to William's / McAfee Falls, a 78-foot cascading waterfall that is the largest in Maryland. Features camping, swimming, canoeing, and hiking trails.
 
-❖ Singing Christmas Carols (8--9PM) Grace United Church of Christ
+* **Address:** [14039 Catoctin Hollow Road, Thurmont, MD 21788](https://maps.app.goo.gl/CunninghamFalls)
+* **Phone:** [(301) 271-7574](tel:+13012717574)
+* **Reservations:** [Maryland State Park Camping Reservations](https://parkreservations.maryland.gov/)
+* **Website:** [Cunningham Falls State Park](https://dnr.maryland.gov/publiclands/Pages/western/cunningham.aspx)
 
-❖ Daniel Catalano, Pipe Organ Carol Sing-Along (8--9PM) Evangelical
-Lutheran Church
+---
 
- 
+### Washington Monument State Park & South Mountain Battlefield
 
- 
+<img src="{{ '/events/maryland/frederick/media/media/image14.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Washington Monument Stone Tower on South Mountain">
 
-8:30 PM
+Features the first completed monument dedicated to George Washington—a stone tower built by Boonsboro citizens in 1827. Serves as a major hawk-watching site during autumn bird migrations and holds the main office for South Mountain State Battlefield.
 
-❖ Bobby Staples, Organ with Dr. Avery Pettigrew, French Horn (8:30--9PM)
-Frederick Presbyterian Church
+* **Address:** [6620 Zittlestown Road, Middletown, MD 21769](https://maps.app.goo.gl/WashingtonMonumentMD)
+* **Phone:** [(301) 791-4767](tel:+13017914767)
+* **Website:** [Washington Monument State Park](https://dnr.maryland.gov/publiclands/Pages/western/washington.aspx)
 
-❖ Carol Sing-Along (8:30--9PM) All Saints' Episcopal Church
+---
 
-![](./media/media/image2.png){width="7.659722222222222in"
-height="4.302609361329834in"}
+### Fort Frederick State Park
 
-[Sailing Through The Winter
-Solstice](https://www.visitfrederick.org/sailing-into-the-winter-solstice/)
+<img src="{{ '/events/maryland/frederick/media/media/image18.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Fort Frederick State Park Stone Fortification">
 
-Sailing Through the Winter Solstice display will take place from
-November  to March. 
+A 585-acre park along the Potomac River featuring a massive stone fort built in 1756 during the French and Indian War. Offers living history demonstrations, campsites, boat launches, and access to the C&O Canal Towpath.
 
-You can view the boats anytime day or night. In fact, you may want to
-take a look while it\'s light out and again after it gets dark and the
-lights come on. Lights typically turn on at sunset, so this is a great
-time to see them both ways. 
+* **Address:** [11100 Fort Frederick Road, Big Pool, MD 21711](https://maps.app.goo.gl/FortFrederick)
+* **Website:** [Fort Frederick State Park](https://dnr.maryland.gov/publiclands/Pages/western/fortfrederick.aspx)
 
-![](./media/media/image3.png){width="2.8645833333333335in"
-height="1.6041666666666667in"}
+---
 
-[Evangelical Reformed
-UCC](https://erucc.org/visit-us/advent-and-christmastide/)
+### Little Bennett Regional Park
 
-The beloved Candlelight Tour of Historic Houses of Worship returns this
-holiday season in Downtown Frederick. This special open house celebrates
-Frederick's tradition of religious diversity, local history, and the
-holiday season on Tuesday, December 26, 2023 from 4PM-9PM. This is
-Frederick\'s most popular church tour and is a great opportunity to step
-inside some of its most beautiful buildings.
+<img src="{{ '/events/maryland/frederick/media/media/image9.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Little Bennett Regional Park Trail and Woodlands">
 
-15 W. Church St. Frederick, MD 21701 301-662-2762
+Spanning 3,700 acres along the Frederick-Montgomery line, this park preserves historic agricultural valley sites, former 18th-century mill grounds, and the historic Kingsley One-Room Schoolhouse.
 
-Sundays, 10:30 -- 11:30 a.m.
+* **Website:** [Little Bennett Regional Park](https://montgomeryparks.org/parks-and-trails/little-bennett-regional-park/)
 
-On all Sundays except the first Sunday of each month when all are
-invited to participate in the Sacrament of Communion, children aged 5 --
-5th grade may go to Junior Church after the Thought for the Day during
-the worship service. Junior Church, a space to join in creative
-spiritual formation activities.
+---
 
-![](./media/media/image4.png){width="3.6458333333333335in"
-height="2.0520833333333335in"}
+## Local Dining & Parking Amenities
 
-[Hyattstown Mill](https://www.hyattstownmill.org/events/)
+### Brewer's Alley Brewpub
 
-The mill at Hyattstown was built in 1798. At the time of the town\'s
-founding,the miller was George Wolfe, Sr., who had taken over the mill
-when William Richards died, Mr. Wolfe purchased the mill site in 1807
-and sold the property to Benjamin Waters and Frederick Baker for
-\$5,000. In 1814, Baker operated the mill until 1872 when he sold it to
-Ortho Norris and wife, Sarah. They sold the property to William Farrer,
-who made substantial improvements to the mill over the next five years.
-It was a two-run flour mill and sawmill, with one employee and an output
-of 6,000 bushels of meal and 35,000 feet of lumber annually, valued at
-\$4,125.00
+<img src="{{ '/events/maryland/frederick/media/media/image5.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Brewer's Alley Restaurant Exterior">
 
-14920 Hyattstown Mill Rd, Hyattstown, MD 20871 · (301) 830-1142
+Frederick's original brewpub serving house-brewed craft beers, regional cuisine, and wood-fired pizzas. Located on the historic site of Frederick's 1765 Town Hall and Market House.
 
-The Mill Gallery is normally open weekends from 10:00 to 4:00 and other
-times by appointment.
+* **Address:** [124 N Market St, Frederick, MD 21701](https://maps.app.goo.gl/BrewersAlley)
+* **Website:** [Brewer's Alley Reservations & Calendar](https://brewers-alley.com/calendar/)
 
-![](./media/media/image5.png){width="6.729166666666667in"
-height="3.7767443132108487in"}
+---
 
-[Brewer\'s Alley Restaurant](https://brewers-alley.com/calendar/)
+### Gladchuk Bros. Restaurant
 
-Frederick County\'s original brewpub. Contemporary American regional
-cuisine and wood-fired pizza oven complement fresh beer brewed on
-premises along with other craft beer. Brewer's Alley's location at **124
-North Market Stree**t is steeped in Frederick history. The first
-residents of Frederick held a lottery to raise money to build a town
-hall and market house on this location in 1765, which was completed in
-1769. This structure served its purpose for over 100 years and was
-witness to the birth of Frederick as a city. The Market House spanned
-the Civil War, including the ransoming of the city by Confederate
-General Jubal Early. Also, remembered as the old Frederick Opera House,
-this building hosted speeches by presidents and presidential
-candidates. [Reservations](https://brewers-alley.com/reservations/). 
+<img src="{{ '/events/maryland/frederick/media/media/image8.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Gladchuk Brothers Restaurant Entrance">
 
-![](./media/media/image6.png){width="6.895833333333333in"
-height="3.875in"}
+Fine dining venue offering fresh seasonal menus, scratch-made soups, sauces, and house-baked goods.
 
-[Church Street Garage](http://www.cityoffrederick.com/FAQ.aspx?QID=60)
+* **Address:** [489 W Patrick St, Frederick, MD 21701](https://maps.app.goo.gl/Gladchuks)
+* **Phone:** [(301) 662-7750](tel:+13016627750)
+* **Hours:** Open Tuesday – Saturday for Lunch & Dinner.
+* **Website:** [Gladchuk Bros. Press & Info](https://gladchuks.com/press.html)
 
-17 E Church St, Frederick, MD 21701
+---
 
-![](./media/media/image7.png){width="7.465277777777778in"
-height="4.193386920384952in"}
+### Bushwaller's Irish Pub
 
-[Visitor
-Center](https://www.visitfrederick.org/plan-your-visit/visitor-center/)
+<img src="{{ '/events/maryland/frederick/media/media/image10.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Bushwaller's Irish Pub in Downtown Frederick">
 
-151 S East St. Frederick, MD I 301-600-4047
+Traditional Irish pub in Downtown Frederick offering classic pub fare, draft beers, live music, and Sunday brunch.
 
-The Visitor Center is the perfect place to begin your trip to Frederick!
-Housed in a [beautifully
-renovated](https://www.visitfrederick.org/plan-your-visit/visitor-center/history/) circa-1899
-industrial warehouse, the visitor center holds 2,200-square-feet of
-interpretive exhibits. A state-of-the-art theater features an
-introductory film about Frederick. A wide variety of maps, guides and
-information on regional attractions and events are available.
+* **Address:** [209 N Market St, Frederick, MD 21701](https://maps.app.goo.gl/Bushwallers)
+* **Hours:** Mon–Thu 11:30 a.m. – 2:00 a.m. | Fri–Sun 11:00 a.m. – 2:00 a.m. (Brunch until 3:00 p.m.)
+* **Policy:** First-come, first-served seating for parties under 6.
+* **Website:** [Bushwaller's Menu & Info](https://bushwallers.com/bushwallers-full-menu/)
 
-![](./media/media/image8.png){width="7.090277777777778in"
-height="3.9834470691163606in"}
+---
 
-[Gladchuk Brothers](https://gladchuks.com/press.html)
+### Church Street Parking Garage
 
-Open Tuesday - Saturday only for lunch and dinner
+Central public parking deck conveniently located near Church Street historic sites and Market Street dining.
 
-Our ingredients are the freshest and seasonal. Menus change so check
-back with us often. We bake daily, and all of our meals are prepared to
-order. Soups, sauces, and desserts are all in house made. 
+* **Address:** [17 E Church St, Frederick, MD 21701](https://maps.app.goo.gl/ChurchStreetGarage)
+* **Information:** [City of Frederick Parking FAQ](http://www.cityoffrederick.com/FAQ.aspx?QID=60)
 
-(301)662-7750.
+---
 
-489 West Patrick St., Frederick, Maryland  21701
+## Historical & Genealogical Research Resources
 
-![](./media/media/image9.png){width="7.3125in"
-height="4.107568897637795in"}
+* [Frederick County Genealogy Wiki (FamilySearch)](https://www.familysearch.org/en/wiki/Frederick_County,_Maryland_Genealogy)
+* [Frederick County History (Wikipedia)](https://en.wikipedia.org/w/index.php?title=Frederick_County,_Maryland&oldid=1222604196)
+* [Frederick County Genealogical Society Surname Index](https://frecogs.org/surname.php)
 
-[Little Bennett Regional
-Park](https://montgomeryparks.org/parks-and-trails/little-bennett-regional-park/)
+---
 
-The 3700 acres that is Little Bennett Regional Park used to be
-agricultural and mercantile land. The park landscape contains natural
-and built features and clues to former communities of people and
-occupations whose histories tell a story. As early as the 18th century,
-the Little Bennett Valley was the scene of agriculture and small-scale
-industries capitalizing on the region's abundant resources of timber,
-water, vegetation and vast acreage for farming. Like all of Montgomery
-County, Little Bennett land included plantations and industries that
-used forced chattel slave labor as the economic engine of their success.
-Several grist mills, a sumac mill, a sawmill, a saw and bone mill, and a
-whisky manufactory were established at various times along the Little
-Bennett Creek. Only the Hyattstown Mill remains as testimony to those
-early enterprises. The valley's steep and rocky slopes were not
-particularly encouraging as a soil type for farming, but tobacco was
-cultivated in this area much later than other areas of the county, even
-into the 20th century, when most of the county had shifted to grains.
-Around the close of the 19th century, a small rural community was
-established in the valley. It was named Kingsley after the King Family,
-who were prominent in the area, and was colloquially known as Froggy
-Hollow. The last remaining vestige of that settlement is a one-room
-schoolhouse now open to the public on a limited basis.
+*Last updated: September 2026*
 
-![](./media/media/image10.png){width="2.6354166666666665in"
-height="1.4791666666666667in"}
-
-[Bushwaller\'s Irish
-Pub](https://bushwallers.com/bushwallers-full-menu/)
-
-Monday- Thursday 11:30 am - 2:00 am
-
-Friday - Sunday 11:00 am - 2:00 am
-
-Sunday Brunch until 3pm
-
-Due to our limited dining room seating we are a First Come First Serve
-Restaurant, we do not take reservations for parties under 6. 
-
-![](./media/media/image11.png){width="6.770833333333333in"
-height="10.46875in"}
-
-[Monocacy National
-Battlefield](https://www.nps.gov/mono/learn/kidsyouth/beajuniorranger.htm)
-
-5201 Urbana Pike Frederick, MD 21704
-
-The Visitor Center hours are 9:00 a.m. - 5:00 p.m., seven days a week.
-The Visitor Center is closed on Thanksgiving Day, Christmas Day, and New
-Year\'s Day. 
-
-For additional information, the Visitor Center staff can be reached at
-301-662-3515. 
-
-This site is fee-free year-round. No entrance fee or pass is required.
-
-![](./media/media/image12.png){width="7.291666666666667in"
-height="4.09375in"}
-
-[Evangelical Reformed
-Cemetery](https://www.findagrave.com/cemetery/80973/frederick-evangelical-reformed-cemetery)
-
-The Evangelical Reformed Church and Cemetery were (abandoned) in 1924. A
-bronze plaque was erected to establish the burials of the earliest
-settlers in Frederick. No stones exist today and many of these
-internments were originally at the Trinity Chapel (abandoned). The
-plaque in Memorial Grounds Park has been able to add 366 inscriptions
-from the two cemeteries. There are 30 more names recorded on a plaque at
-the Trinity Chapel cemetery. Now the present site of the Memorial
-Grounds Park, 
-
-210 North Bentz St. Frederick, Frederick County, MD.
-
-![](./media/media/image13.png)
-
-[Francis Scott Key
-Monument](https://www.visitfrederick.org/listing/francis-scott-key-monument-in-mt-olivet-cemetery/3295/)
-
-Inside the entrance to Mt. Olivet Cemetery is the Francis Scott Key
-monument. The author of "The Star-Spangled Banner" in 1814 which became
-our national anthem in 1931, Key was born in 1779 in Frederick County.
-In 1800 he established his first law office in Frederick. Key died in
-Baltimore at age 63 in 1843. After the Civil War, his body was
-reinterred here to Mt. Olivet Cemetery. In the 1890s, money was raised
-to build a monument to Key and in 1898 this monument and statue,
-sculpted by Italian artist Pompeo Copini, was dedicated. Key, his wife,
-and one of their children are buried under this monument and grave. A
-brochure near the cemetery's restrooms is available to guide you through
-the rest of the cemetery. 
-
-515 S. Market St. Frederick, MD 21701
-
-![](./media/media/image14.png){width="4.166666666666667in"
-height="3.125in"}
-
-[Washington Monument State
-Park](https://dnr.maryland.gov/publiclands/Pages/western/washington.aspx)
-
-Contact: 301-791-4767
-
-6620 Zittlestown Road Middletown MD 21769
-
-Hours: 8 a.m. to Sunset (April to October) & 10 a.m. to Sunset (November
-to March)
-
-Located atop South Mountain, Washington Monument State Park is named for
-the first completed monument dedicated to the memory of George
-Washington. The Washington Monument is a rugged stone tower that was
-initially erected by the citizens of Boonsboro in 1827. The monument
-makes it an ideal site for spotting migratory birds such as hawks,
-eagles and falcons, especially in mid-September. The main office
-for [South Mountain State
-Battlefield](https://dnr.maryland.gov/publiclands/Pages/western/southmountainbattlefield.aspx) is
-located in Washington Monument State Park. Stop by the park office or
-museum to learn more about the first major Civil War battle fought in
-Maryland. The main parking area, picnic pavilion and museum are
-accessible to the mobility impaired. The comfort station, however, is
-not. 
-
-![](./media/media/image15.png){width="2.2604166666666665in"
-height="3.03125in"}
-
-[Cunningham Falls State
-Park](https://dnr.maryland.gov/publiclands/Pages/western/cunningham.aspx)
-
-The Cunningham Falls State Park is renowned for McAfee Falls, a 78-foot
-cascading waterfall that is considered the largest in the State of
-Maryland. Visitors are allowed to set up camp in the pre-approved
-campgrounds that oversee the beautiful waterfalls at a distance. Fall
-asleep to the sound of rushing water and the great nature ambiance
-surrounding you. [Reservations](https://parkreservations.maryland.gov/)​
-
-Contact: 301-271-7574​\
-[Email Cunningham Falls]{.underline}\
-14039 Catoctin Hollow Road Thurmont, MD 21788
-
-Hours: ​8 a.m. to Sunset, April-October\
-10 a.m. to Sunset, November-March​
-
-![](./media/media/image16.png){width="3.75in"
-height="2.1041666666666665in"}
-
-[Catoctine Mountain National Park](https://www.nps.gov/cato/index.htm)
-
-Nestled within the mountains of Western Maryland, Catoctin Mountain Park
-is one of more than 420 national park units in the nation. Whether you
-are a first-time visitor or come often, below is information you will
-need to know.. Adventure awaits at Catoctin Mountain Park! Nestled in
-the Blue Ridge Mountains, this park is the perfect getaway. Hike a
-trail, enjoy an epic view, and sleep under the stars. This site is
-fee-free year-round. No entrance fee or pass is required.
-
-14707 Park Central Road Thurmont, MD 21788
-
-![](./media/media/image17.png){width="6.951388888888889in"
-height="3.907412510936133in"}
-
-[Camp Misty Mount](https://www.nps.gov/cato/planyourvisit/lodging.htm)
-
-The cabins at Camp Misty Mount sleep 4-6 people, with a few larger
-lodges for families and small groups. 
-
-Cabin 16, Loop: Middle CABIN ELECTRIC 6 people max, 2 vehicles max,
-Overnight. \$140 per night
-
-![](./media/media/image18.png){width="4.166666666666667in"
-height="2.34375in"}
-
-[Fort Frederick State
-Park](https://dnr.maryland.gov/publiclands/Pages/western/fortfrederick.aspx)
-
-Open Thursday to Monday from Memorial Day to Labor Day and on the
-weekends in the spring and fall, when staff and volunteers dressed in
-period clothing occupy the fort, demonstrating daily life during
-the **French and Indian War**.
-
-The 585-acre park borders the Potomac River and the Chesapeake and Ohio
-Canal National Historical Park passes through the park. The park also
-features a boat launch, flat water
-canoeing, [campsites](https://dnr.maryland.gov/publiclands/Pages/western/FortFrederick/Camping.aspx), [camp
-store](https://dnr.maryland.gov/publiclands/Pages/western/FortFrederick/Sutler-Shop.aspx), [hiking
-trails](https://dnr.maryland.gov/publiclands/Pages/western/FortFrederick/Hiking-FFSP.aspx),
-a [picnic
-area](https://dnr.maryland.gov/publiclands/Pages/western/FortFrederick/Picnicking.aspx) with
-large pavilion and a playground. 
-
-11100 Fort Frederick Road Big Pool MD 21711​ 
-
-![](./media/media/image19.png){width="9.375in"
-height="5.270833333333333in"}
-
-[Graceham Moravian
-Church](https://www.gracehammoravian.org/new/index.php/about-us/your-template)
-
-[39°36′59″N
-77°22′43″W](https://geohack.toolforge.org/geohack.php?pagename=Graceham_Moravian_Church_and_Parsonage&params=39_36_59_N_77_22_43_W_type:landmark_region:US-MD) 
-
-8231 Rocky Ridge
-Road, [Graceham](https://en.wikipedia.org/wiki/Graceham,_Maryland) [Frederick
-County,
-Maryland](https://en.wikipedia.org/wiki/Frederick_County,_Maryland) 
-
-On Sunday mornings during the school year we offer Sunday school for all
-ages beginning at 9:15am and our worship service is from 10:30am -
-11:30am.
-
-Our Sunday School is suspended during the summer months and our worship
-service takes an hour earlier beginning at 9:15am.
-
-**Graceham Moravian Church and Parsonage** is a historic church building
-and [parsonage](https://en.wikipedia.org/wiki/Parsonage). It is a
-two-story [Flemish
-bond](https://en.wikipedia.org/wiki/Flemish_bond) brick church built in
-1822, and covered with white stucco because of deteriorated masonry. The
-church was built as an addition to the adjacent meeting house and
-parsonage built in 1797. This building and the church\'s cemetery having
-uniform flat gravestones (called God\'s Acre by the Moravians)
-represents Maryland\'s only remaining 18th
-century [Moravian](https://en.wikipedia.org/wiki/Moravian_Church) settlement.   
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>

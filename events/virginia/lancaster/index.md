@@ -4,214 +4,195 @@ title: Lancaster, Virginia
 permalink: /events/virginia/lancaster/
 ---
 
-![](./media/media/image1.png)
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-Mary Ball Washington Museum
+# Lancaster, Virginia
 
-[Mary Ball Washington Museum & Library](https://lancastervahistory.org/)
+Situated in the lower Northern Neck peninsula bounded by the Rappahannock River and Chesapeake Bay, Lancaster County is rich in colonial heritage, historic 18th-century churches, steamboat history, and waterfront recreation.
 
-Hours: Wednesdays, Thursdays, Fridays 10:00-4:00
+---
 
-Address: [8346 Mary Ball Road Lancaster, VA
-22503](https://goo.gl/maps/m1WdYTsa3MmqE3wR9)[ ]{.underline}· 
+## Visitor Centers, Museums & Historical Libraries
 
-Contact Info (804) 462-7280.
+### Mary Ball Washington Museum & Library
 
-![](./media/media/image2.jpeg){width="5.208333333333333in"
-height="2.9270833333333335in"}
+<img src="{{ '/events/virginia/lancaster/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Mary Ball Washington Museum and Library">
 
-[KVFD Summer Carnival](https://www.facebook.com/kilmarnockcarnival)
+Dedicated to researching and preserving the history of Lancaster County and the heritage of Mary Ball Washington, mother of George Washington.
 
-Catch a ride on the vintage ferris wheel or merry-go-round and play tons
-of carnival games starting last week of July. Run by Kilmarnock
-Volunteer Fire Department.
+* **Address:** [8346 Mary Ball Road, Lancaster, VA 22503](https://goo.gl/maps/m1WdYTsa3MmqE3wR9)
+* **Phone:** [(804) 462-7280](tel:+18044627280)
+* **Hours:** Wednesday – Friday: 10:00 AM – 4:00 PM
+* **Website:** [lancastervahistory.org](https://lancastervahistory.org/)
 
-839-945 Waverly Avenue Kilmarnock, Virginia 22482
+---
 
-\(804\) 436-2002
+### Steamboat Era Museum
 
-![](./media/media/image3.png){width="7.333333333333333in"
-height="4.119270559930008in"}
+<img src="{{ '/events/virginia/lancaster/media/media/image11.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Steamboat Era Museum">
 
-Historic Christ Church
+Exhibits chronicling the steamboat line era that linked Northern Neck communities with Baltimore and Norfolk.
 
-[Historic Christ Church](https://www.christchurch1735.org/)
+* **Address:** [156 King Carter Dr, Irvington, VA 22480](https://www.google.com/maps/search/?api=1&query=156+King+Carter+Dr+Irvington+VA+22480)
+* **Phone:** [(804) 438-6888](tel:+18044386888)
+* **Website:** [steamboateramuseum.org](https://steamboateramuseum.org/)
 
-Holy Eucharist Rite I Sunday 8 AM (only during summer months - check
-website)
+---
 
-Address:  [420 Christ Church Road, Weems, VA
-22576](https://goo.gl/maps/7rDZEY5YC3jEHVm8A)
+## Historic Parishes, Museums & Landmarks
 
-Contact Info (804) 438-6855 or info@christchurch1735.org
+### Historic Christ Church & Carter Museum
 
-Virginia Historical Marker[ J-86](https://www.hmdb.org/m.asp?m=24280)
+<div class="row">
+<div class="col-md-6 text-center mb-4">
+<img src="{{ '/events/virginia/lancaster/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm mb-2" alt="Historic Christ Church">
+<p class="fw-bold">Historic Christ Church (1735)</p>
+</div>
+<div class="col-md-6 text-center mb-4">
+<img src="{{ '/events/virginia/lancaster/media/media/image4.png' | relative_url }}" class="img-fluid rounded shadow-sm mb-2" alt="Carter Museum">
+<p class="fw-bold">Carter Museum</p>
+</div>
+</div>
 
-National Register of Historic Places: 66000841
+Completed in 1735, Historic Christ Church is one of the best-preserved colonial Anglican parish buildings in America and a designated National Historic Landmark.
 
-![](./media/media/image4.png){width="3.0729166666666665in"
-height="1.7291666666666667in"}
+* **Address:** [420 Christ Church Road, Weems, VA 22576](https://goo.gl/maps/7rDZEY5YC3jEHVm8A)
+* **Church Contact:** [(804) 438-6855](tel:+18044386855) | [info@christchurch1735.org](mailto:info@christchurch1735.org)
+* **Museum Contact:** [(804) 438-2441](tel:+18044382441)
+* **Worship:** Holy Eucharist Rite I Sundays at 8:00 AM *(Summer months only; verify schedule online)*
+* **Museum Hours:** Monday, Thursday, Friday, Saturday: 10:00 AM – 4:00 PM | Sunday: 1:00 PM – 4:00 PM
+* **Website:** [christchurch1735.org](https://www.christchurch1735.org/)
+* **Designations:** Virginia Historical Markers [J-86](https://www.hmdb.org/m.asp?m=24280) and O-73 | NRHP #66000841
 
-Carter Museum
+#### "Raise the Roof" Craft Beer & BBQ Festival
+An annual preservation fundraiser featuring local craft beers, BBQ and vegetarian fare, homemade ice cream, and live music on the church grounds.
 
-Carter Museum
+* **Tickets & Info:** [Raise the Roof Registration](https://host.nxt.blackbaud.com/registration-form/?formId=5f6a1b5d-fdc0-4120-8015-466724fae232&envId=p-6xkVcRwaz0eY-1TeDEKA2A&zone=usa)
 
-Monday, Thursday, Friday & Saturday 10:00 a.m. -- 4:00 p.m.
+---
 
-Sunday 1:00 p.m. -- 4:00 p.m
+### St. Mary's White Chapel
 
-Contact Info (804) 438-2441
+<img src="{{ '/events/virginia/lancaster/media/media/image6.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="St. Mary's White Chapel">
 
-Virginia Historical Marker  O-73
+Historic colonial church founded in 1669, with the present building dating to 1740.
 
-Address:  [420 Christ Church Road, Weems, VA
-22576](https://goo.gl/maps/7rDZEY5YC3jEHVm8A)
+* **Address:** [5940 White Chapel Road, Lancaster, VA 22503](https://goo.gl/maps/omKFMdyVL6D3nsAq7)
+* **Phone:** [(804) 462-5908](tel:+18044625908)
+* **Email:** [stmarys.whitechapel@gmail.com](mailto:stmarys.whitechapel@gmail.com)
+* **Services:** Sunday Holy Eucharist at 11:15 AM
+* **Website:** [stmaryswhitechapel.org](http://www.stmaryswhitechapel.org/)
+* **Designation:** NRHP #69000254
 
-Contact Info (804) 438-6855 or [info@christchurch1735.org]{.underline}
+---
 
-Virginia Historical Marker  O-73
+### Verville Plantation (Barford)
 
-![](./media/media/image5.png){width="7.020833333333333in"
-height="3.943733595800525in"}
+<img src="{{ '/events/virginia/lancaster/media/media/image10.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Verville Plantation">
 
-Tides Inn Brunch
+Historic 18th-century plantation house near Merry Point.
 
-Dinner at [Chesapeake Restaurant and
-Terrace](https://www.tidesinn.com/restaurant-in-irvington-va/) Tides Inn
-Resort Hotel
+* **Address:** [3709 Merry Point Rd, Lancaster, VA 22503](https://goo.gl/maps/y4rS3ijt8BToRMNh8)
+* **Designations:** Virginia Historical Marker [J-90](https://www.hmdb.org/m.asp?m=130231) | NRHP #87000609
+* **Reference:** [Verville Wikipedia Entry](https://en.wikipedia.org/wiki/Verville_%28Merry_Point,_Virginia%29)
 
-Breakfast: Everyday 7am -- 11am  
+---
 
-Brunch: Saturday and Sunday 11am -- 2pm
+## State Parks, Marinas & Recreation
 
-Lunch: Monday -- Friday 11am -- 2pm  
+### Belle Isle State Park
 
-Dinner: Everyday 5pm -- 10pm
+<img src="{{ '/events/virginia/lancaster/media/media/image13.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Belle Isle State Park">
 
-Address:[ 480 King Carter Drive Irvington, VA.
-22480](https://goo.gl/maps/4wvoXVRqgy8eooNf6)
+Featuring seven miles of shoreline along the Rappahannock River, Mulberry Creek, and Deep Creek. Offers tidal wetland trails, camping, boat launches, bicycle/canoe/kayak rentals, fishing pier, and event venues at historic Bel Air and Bel Air Guest House.
 
-Contact Info (804) 438--4457[ Opentable
-Reservations](https://www.opentable.com/r/chesapeake-restaurant-irvington) 
+* **Address:** [1632 Belle Isle Rd., Lancaster, VA 22503](https://www.google.com/maps/search/?api=1&query=1632+Belle+Isle+Rd+Lancaster+VA+22503) *(Lat: 37.774414, Long: -76.599364)*
+* **Park Info:** [Belle Isle State Park Details](https://www.dcr.virginia.gov/state-parks/belle-isle#nearby_attractions)
+* **Weddings & Venue:** [Bel Air Historic Area Weddings](https://www.dcr.virginia.gov/state-parks/weddings#wedbi)
+* **Driving Tour:** [Northern Neck Driving Tour Map](https://maps.app.goo.gl/zmP5rDtczJEAy3w16)
 
-![](./media/media/image6.png){width="5.1875in"
-height="2.9166666666666665in"}
+---
 
-St. Mary\'s White Chapel
+### Yankee Point Marina
 
-[St. Mary\'s White Chapel](http://www.stmaryswhitechapel.org/) info:
+<div class="row">
+<div class="col-md-6 text-center mb-4">
+<img src="{{ '/events/virginia/lancaster/media/media/image8.png' | relative_url }}" class="img-fluid rounded shadow-sm mb-2" alt="Boat Rentals at Yankee Point Marina">
+<p class="fw-bold">Boat Rentals</p>
+</div>
+<div class="col-md-6 text-center mb-4">
+<img src="{{ '/events/virginia/lancaster/media/media/image9.png' | relative_url }}" class="img-fluid rounded shadow-sm mb-2" alt="Yankee Point Marina Airbnb House">
+<p class="fw-bold">Marina Airbnb Lodging</p>
+</div>
+</div>
 
-Holy Eucharist: Sunday 11:15 AM
+Full-service waterfront marina offering boat rentals and overnight lodging on the Northern Neck.
 
-Address: [ 5940 White Chapel Road, Lancaster, Virginia
-22503](https://goo.gl/maps/omKFMdyVL6D3nsAq7) 
+* **Address:** [1303 Oak Hill Rd, Lancaster, VA 22503](https://goo.gl/maps/8y9tqJBwzcASkwGM7)
+* **Phone:** [(804) 462-7635](tel:+18044627635)
+* **Email:** [info@yankeepointmarina.com](mailto:info@yankeepointmarina.com)
+* **Services:** [Boat Rentals](https://www.yankeepointmarina.com/all-rentals) | [Airbnb House Listing](https://www.airbnb.com/rooms/903086560529762088) *(2-night minimum stay required)*
+* **Designation:** Virginia Historical Marker [J-106](https://www.hmdb.org/m.asp?m=97204)
 
-Contact Info (804) 462-5908
-or [stmarys.whitechapel@gmail.com](http://stmarys.whitechapel@gmail.com/)
+---
 
-National Register of Historic Places: 69000254
+## Dining & Local Events
 
-![](./media/media/image7.png){width="6.302083333333333in"
-height="3.5375699912510936in"}
+### Chesapeake Restaurant and Terrace at The Tides Inn
 
-Captain Lounge
+<img src="{{ '/events/virginia/lancaster/media/media/image5.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Chesapeake Restaurant at The Tides Inn">
 
-[Dinner](https://static1.squarespace.com/static/5e73bf6812840d475bc5ea0c/t/649c468e997edf0abd760b39/1687963282722/230628+Lunch+%26+Dinner.pdf) at
-the[ Captains
-Lounge](https://www.yankeepointmarina.com/captains-lounge) Yankee Point
-Marina. 
+Waterfront resort dining overlooking Carters Creek in Irvington.
 
-Hours: Thursday & Friday 5PM-9PM; Saturday 11 AM-9PM; Sunday 10AM-8PM
+* **Address:** [480 King Carter Drive, Irvington, VA 22480](https://goo.gl/maps/4wvoXVRqgy8eooNf6)
+* **Phone:** [(804) 438-4457](tel:+18044384457)
+* **Reservations:** [Book on OpenTable](https://www.opentable.com/r/chesapeake-restaurant-irvington)
+* **Hours:**
+  * **Breakfast:** Daily 7:00 AM – 11:00 AM
+  * **Lunch:** Monday – Friday 11:00 AM – 2:00 PM
+  * **Brunch:** Saturday & Sunday 11:00 AM – 2:00 PM
+  * **Dinner:** Daily 5:00 PM – 10:00 PM
 
-Address:[ 1303 Oak Hill Rd, Lancaster, VA
-22503](https://goo.gl/maps/8y9tqJBwzcASkwGM7)
+---
 
-Contact Info (804)
-462-7635  [info@yankeepointmarina.com](http://info@yankeepointmarina.com/)
+### Captain's Lounge at Yankee Point Marina
 
-![](./media/media/image8.png){width="5.822916666666667in"
-height="3.268596894138233in"}
+<img src="{{ '/events/virginia/lancaster/media/media/image7.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Captain's Lounge">
 
-Boat Rentals
+Waterfront lounge and restaurant serving lunch and dinner.
 
-Yankee Point Marina[ Boat
-Rentals](https://www.yankeepointmarina.com/all-rentals)
+* **Address:** [1303 Oak Hill Rd, Lancaster, VA 22503](https://goo.gl/maps/8y9tqJBwzcASkwGM7)
+* **Phone:** [(804) 462-7635](tel:+18044627635)
+* **Hours:**
+  * **Thursday & Friday:** 5:00 PM – 9:00 PM
+  * **Saturday:** 11:00 AM – 9:00 PM
+  * **Sunday:** 10:00 AM – 8:00 PM
+* **Details:** [Captain's Lounge Menu & Info](https://www.yankeepointmarina.com/captains-lounge)
 
-Address:[ 1303 Oak Hill Rd, Lancaster, VA
-22503](https://goo.gl/maps/8y9tqJBwzcASkwGM7)
+---
 
-Contact Info (804)
-462-7635  [info@yankeepointmarina.com](http://info@yankeepointmarina.com/)
+### Kilmarnock Volunteer Fire Department Summer Carnival
 
-![](./media/media/image9.png){width="7.322916666666667in"
-height="4.113419728783902in"}
+<img src="{{ '/events/virginia/lancaster/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kilmarnock Volunteer Fire Department Summer Carnival">
 
-Yankee Point Marina
+An annual community tradition running since 1935, featuring a vintage Ferris wheel, merry-go-round, and carnival games starting the last week of July.
 
-Yankee Point
-Marina [Airbnb](https://www.airbnb.com/rooms/903086560529762088) House.  
+* **Address:** 839-945 Waverly Avenue, Kilmarnock, VA 22482
+* **Phone:** [(804) 436-2002](tel:+18044362002)
+* **Social:** [KVFD Carnival Facebook Page](https://www.facebook.com/kilmarnockcarnival)
 
-Virginia Historical Marker[ J-106](https://www.hmdb.org/m.asp?m=97204)
+---
 
-Currently 2 day minimum stay required
+*Last updated: September 2026*
 
-![](./media/media/image10.png){width="5.208333333333333in"
-height="2.9270833333333335in"}
-
-[Barford
-Plantation](https://en.wikipedia.org/wiki/Verville_%28Merry_Point,_Virginia%29)
-
-[Verville](https://en.wikipedia.org/wiki/Verville_%28Merry_Point,_Virginia%29) Plantation
-(Barford)
-
-Address:  [3709 Merry Point Rd, Lancaster VA
-22503](https://goo.gl/maps/y4rS3ijt8BToRMNh8)
-
-Virginia Historical Marker[ J-90](https://www.hmdb.org/m.asp?m=130231)
-
-National Register of Historic Places: 87000609
-
-![](./media/media/image11.png)
-
-Steamboat Era Museum
-
-156 King Carter Dr, Irvington, VA 22480
-
-\(804\) 438-6888
-
-steamboateramuseum.org
-
-![](./media/media/image12.png){width="6.739583333333333in"
-height="3.7857502187226597in"}
-
-[Raise the Roof](https://christchurch1735.org/programs)
-
-\"Raise the Roof\" at Historic Christ Church & Museum in Weems,
-Virginia. Enjoy an array of craft beers, delicious BBQ or vegetarian
-fare, homemade ice cream, and live music, all at one of Virginia's most
-historic sites.  Funds benefit preservation of Historic Christ Church
-(1735), a National Historic
-Landmark.  [Tickets](https://host.nxt.blackbaud.com/registration-form/?formId=5f6a1b5d-fdc0-4120-8015-466724fae232&envId=p-6xkVcRwaz0eY-1TeDEKA2A&zone=usa)  
-
-![](./media/media/image13.png){width="6.489583333333333in"
-height="3.6458333333333335in"}
-
-[Belle Isle State
-Park](https://www.dcr.virginia.gov/state-parks/belle-isle#nearby_attractions)
-
-Belle Isle has seven miles of shoreline on the Northern Neck\'s
-Rappahannock River and provides access to Mulberry and Deep creeks. The
-park lets visitors explore a wide variety of tidal wetlands interspersed
-with farmland and upland forests. It has a campground, three picnic
-shelters, hiking, biking and bridle trails, and motor boat and car-top
-launches. Belle Isle also offers overnight lodging at Bel Air and the
-Bel Air Guest House. Bicycle, canoe and kayak rentals are available.
-Guests also enjoy the park\'s universal access playground, boardwalk and
-fishing pier, and educational programs. [**The Bel Air historic area is
-ideal for
-weddings**](https://www.dcr.virginia.gov/state-parks/weddings#wedbi). 
-
-Its address is 1632 Belle Isle Rd., Lancaster, VA  22503; Latitude,
-37.774414. Longitude: -76.599364. 
-
-[Northern Neck Driving Tour](https://maps.app.goo.gl/zmP5rDtczJEAy3w16)
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>

@@ -4,92 +4,94 @@ title: Jefferson, West Virginia
 permalink: /events/west-virginia/jefferson/
 ---
 
-Research
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-[JCHS: Preserving Jefferson County\'s History Since 1927
-(jeffersonhistoricalwv.org)](https://www.jeffersonhistoricalwv.org/) 
+# Jefferson, West Virginia
 
-[Jefferson County, West Virginia Genealogy •
-FamilySearch](https://www.familysearch.org/en/wiki/Jefferson_County,_West_Virginia_Genealogy) 
+Welcome to the Jefferson County section of West Virginia First Families. Explore local history, key historical sites, regional landmarks, and family lineage resources below.
 
-[Jefferson County, West Virginia -
-Wikipedia](https://en.wikipedia.org/wiki/Jefferson_County%2C_West_Virginia) 
+---
 
-Map
+## Research Resources
 
-![](./media/media/image1.png){width="6.958333333333333in"
-height="3.907267060367454in"}
+* **JCHS:** [Preserving Jefferson County's History Since 1927](https://www.jeffersonhistoricalwv.org/)
+* **Genealogy:** [Jefferson County, West Virginia Genealogy • FamilySearch](https://www.familysearch.org/en/wiki/Jefferson_County,_West_Virginia_Genealogy)
+* **Overview:** [Jefferson County, West Virginia - Wikipedia](https://en.wikipedia.org/wiki/Jefferson_County%2C_West_Virginia)
 
-[Shepherdstown](https://shepherdstown.info/calendar-of-events/)
+---
 
-Shepherdstown is a town in Jefferson County, West Virginia, United
-States, located in the lower Shenandoah Valley along the Potomac River.
-Home to Shepherd University, the town\'s population was 1,531 at the
-time of the 2020 census. The town was established in 1762 along with
-Romney; they are the oldest towns in West Virginia.
+## County Map
 
-![](./media/media/image2.png){width="3.90625in"
-height="2.1979166666666665in"}
+<img src="{{ '/events/west-virginia/jefferson/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Jefferson County Map">
 
-[Morgan\'s
-Spring](https://en.wikipedia.org/wiki/Falling_Spring-Morgan%27s_Grove)
+---
 
-Falling Spring was completed by 1837 as a large, house and farm complex.
-The property was first settled by Richard Morgan, who noted several
-springs on the property, including \"Bubbling Spring\" and \"Morgan\'s
-Spring\", the starting point of the 1775 Bee-Line March. The house was
-built by Jacob Morgan, Richard\'s grandson
+## Key Destinations & Landmarks
 
-![](./media/media/image3.png){width="7.291666666666667in"
-height="4.09375in"}
+### [Shepherdstown](https://shepherdstown.info/calendar-of-events/)
 
-[Bavarian Inn](https://www.bavarianinnwv.com/events.php)
+Shepherdstown is a town in Jefferson County, West Virginia, United States, located in the lower Shenandoah Valley along the Potomac River. Home to Shepherd University, the town's population was 1,531 at the time of the 2020 census. Established in 1762 alongside Romney, they are the oldest towns in West Virginia.
 
-For over 45 years, the Asam family has been hosting friends and
-neighbors for relaxing getaways, gourmet meals, special occasions, and
-the finest in guest comforts. Perched on a spectacular bluff overlooking
-the Potomac River, our 11-acre European Inspired Boutique Resort offers
-comfort, elegance, and world-class food and service. The Bavarian Inn
-has proudly won many awards, including the AAA Four Diamond and Wine
-Spectator\'s Best of Award of Excellence . We invite you to experience
-our hospitality and enjoy this place we live and love.
+<img src="{{ '/events/west-virginia/jefferson/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Shepherdstown">
 
-![](./media/media/image4.png)
+---
 
-[Shepherdstown Museum](https://historicshepherdstown.com/home-2/museum/)
+### [Morgan's Spring](https://en.wikipedia.org/wiki/Falling_Spring-Morgan%27s_Grove)
 
-[surname
-research](https://historicshepherdstown.com/research/surname-files/)
+Falling Spring was completed by 1837 as a large house and farm complex. The property was first settled by Richard Morgan, who noted several springs on the land, including "Bubbling Spring" and "Morgan's Spring"—the starting point of the 1775 Bee-Line March. The house was built by Jacob Morgan, Richard's grandson.
 
-**The Museum is open!  Hours through October will be Saturdays 11 -- 5 
-and Sunday 1-4.**
+<img src="{{ '/events/west-virginia/jefferson/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Morgan's Spring">
 
-**Special tours are possible if a volunteer docent is available. Call
-304-876-0910 on Tuesday, Wednesday or Friday to inquire. **
+---
 
-Suggested donation: \$5.00 per person. FREE admission to Historic
-Shepherdstown members, children, students and military.
+### [Bavarian Inn](https://www.bavarianinnwv.com/events.php)
 
-129 E. German Street\
-(corner of German and Princess Streets)\
-Shepherdstown, WV
+For over 45 years, the Asam family has been hosting friends and neighbors for relaxing getaways, gourmet meals, special occasions, and the finest in guest comforts. Perched on a spectacular bluff overlooking the Potomac River, our 11-acre European-inspired boutique resort offers comfort, elegance, and world-class food and service. 
 
-[Google
-Maps](https://www.google.com/maps/@39.4303644,-77.8044621,3a,75y,26.72h,86.86t/data=!3m9!1e1!3m7!1sTQaG-qIYPWi3hM6WFaUC7A!2e0!7i16384!8i8192!9m2!1b1!2i41)
+The Bavarian Inn has proudly won many awards, including the AAA Four Diamond and *Wine Spectator*'s Best of Award of Excellence.
 
-![](./media/media/image5.png){width="4.25in"
-height="2.3854166666666665in"}
+<img src="{{ '/events/west-virginia/jefferson/media/media/image4.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Bavarian Inn">
 
-National Conservation Training Center
+---
 
-698 Conservation Way, Shepherdstown, WV 25443
+### [Shepherdstown Museum](https://historicshepherdstown.com/home-2/museum/)
 
-+13048761600
+* **Surname Research:** [Historic Shepherdstown Surname Files](https://historicshepherdstown.com/research/surname-files/)
+* **Hours (Through October):** Saturdays 11:00 AM – 5:00 PM | Sundays 1:00 PM – 4:00 PM
+* **Special Tours:** Available upon request if a volunteer docent is available. Call `304-876-0910` on Tuesday, Wednesday, or Friday to inquire.
+* **Admission:** Suggested donation of $5.00 per person. **FREE** for Historic Shepherdstown members, children, students, and military personnel.
+* **Location:** 129 E. German Street (corner of German and Princess Streets), Shepherdstown, WV
+* **Map:** [View on Google Maps](https://www.google.com/maps/@39.4303644,-77.8044621,3a,75y,26.72h,86.86t/data=!3m9!1e1!3m7!1sTQaG-qIYPWi3hM6WFaUC7A!2e0!7i16384!8i8192!9m2!1b1!2i41)
 
-Near Terrapin Neck
+<img src="{{ '/events/west-virginia/jefferson/media/media/image5.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Shepherdstown Museum">
 
-Families
+---
 
-[Tingle](https://www.firstfamilies.us/ancestors/england/tingle)
+### National Conservation Training Center
 
-[York](https://www.firstfamilies.us/ancestors/england/york)
+* **Address:** 698 Conservation Way, Shepherdstown, WV 25443
+* **Phone:** [+1 (304) 876-1600](tel:+13048761600)
+* **Area:** Near Terrapin Neck
+
+---
+
+## Early Families
+
+* [Tingle](https://www.firstfamilies.us/ancestors/england/tingle)
+* [York](https://www.firstfamilies.us/ancestors/england/york)
+
+---
+
+*Last updated: August 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>

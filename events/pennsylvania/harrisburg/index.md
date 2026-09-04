@@ -4,15 +4,37 @@ title: Harrisburg, Pennsylvania
 permalink: /events/pennsylvania/harrisburg/
 ---
 
-![](./media/media/image1.jpeg){width="7.416666666666667in"
-height="4.166666666666667in"}
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-National Civil War Museum
+# Harrisburg, Pennsylvania
 
-The National Civil War Museum is one of the largest museums in the world
-dedicated solely to the American Civil war. The Museum seeks to tell the
-whole story of this most troubled chapter in American history while
-focusing on the issues, the people and the lives that were affected. The
-causes and ramifications of this conflict that divide a Nation are
-investigated; both Northern and Southern viewpoints are presented;
-military as well as civilian perspectives are highlighted.
+As the capital of Pennsylvania and a major historical hub along the Susquehanna River, Harrisburg played a central role during the American Civil War as a critical railroad junction, training ground (Camp Curtin), and strategic defense point for the Union. Today, the city is home to prominent national cultural and historical institutions.
+
+---
+
+## Museums & Cultural Institutions
+
+### The National Civil War Museum
+
+<img src="{{ '/events/pennsylvania/harrisburg/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="National Civil War Museum in Harrisburg, Pennsylvania">
+
+The National Civil War Museum is one of the largest museums in the world dedicated solely to the American Civil War. Located in Reservoir Park, the museum seeks to portray the complete narrative of this pivotal era by presenting both Northern and Southern viewpoints equally, while highlighting both military campaigns and civilian experiences.
+
+* **Address:** [1 Lincoln Circle at Reservoir Park, Harrisburg, PA 17103](https://maps.app.goo.gl/1LincolnCircle)
+* **Website:** [National Civil War Museum](https://www.nationalcivilwarmuseum.org/)
+
+---
+
+*Last updated: September 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>

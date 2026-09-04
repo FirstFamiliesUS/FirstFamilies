@@ -1,77 +1,94 @@
 ---
 layout: default
-title: Anne-arundel, Maryland
+title: Anne Arundel, Maryland
 permalink: /events/maryland/anne-arundel/
 ---
 
-Research Resources
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-<https://www.familysearch.org/en/wiki/Anne_Arundel_County,_Maryland_Genealogy>
+# Anne Arundel County, Maryland
 
-<https://en.wikipedia.org/wiki/Anne_Arundel_County%2C_Maryland>
+Formed in 1650 and named after Lady Anne Arundel, Anne Arundel County lies at the heart of Maryland along the western shore of the Chesapeake Bay. Rich in colonial, naval, and ecclesiastical heritage, the county boasts deep roots in American colonial history, offering extensive genealogical research centers, historic churches, and vibrant waterfront towns.
 
-[Anne Arundel Genealogical Society ](https://aagensoc.org/surname.php)
+---
 
-![](./media/media/image1.png){width="5.333333333333333in"
-height="3.0in"}
+## Historical & Genealogical Research Facilities
 
-[Kuethe Library](https://aagensoc.org/cpage.php?pt=9)
+### Kuethe Library Historical & Genealogical Research Center
 
-5 Crain Hwy S Glen Burnie, MD 21061
+<img src="{{ '/events/maryland/anne-arundel/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kuethe Library Historical & Genealogical Research Center">
 
-410-769-9679
+Maintained by the Anne Arundel Genealogical Society (AAGS), the Kuethe Library serves as a central repository for county family histories, historic maps, local cemetery inventories, and regional research resources.
 
-Winter Hours (Labor Day-Memorial Day): Thursday, Friday, and Saturday 10
-am - 4 pm.  
+* **Address:** [5 Crain Hwy S, Glen Burnie, MD 21061](https://maps.app.goo.gl/KuetheLibrary)
+* **Phone:** [(410) 769-9679](tel:+14107699679)
+* **Winter Hours (Labor Day – Memorial Day):** Thursday – Saturday, 10:00 a.m. – 4:00 p.m.
+* **Summer Hours (Memorial Day – Labor Day):** Thursday – Saturday, 10:00 a.m. – 2:00 p.m.
+* **Website:** [Kuethe Library & AAGS](https://aagensoc.org/cpage.php?pt=9)
 
-Summer Hours (Memorial Day-Labor Day): Thursday, Friday, and Saturday 10
-am - 2 pm.
+---
 
-![](./media/media/image2.png){width="6.733912948381453in"
-height="3.78125in"}
+## Historic Churches & Colonial Heritage
 
-[All Hallows Parish](https://allhallowsparish.org/calendar/)
+### All Hallows' Parish (South River Parish)
 
-All Hallows\' Church was listed on the National Register of Historic
-Places
+<img src="{{ '/events/maryland/anne-arundel/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="All Hallows Historic Brick Church in Edgewater, MD">
 
-Services:
+Established as one of Maryland's original 30 Anglican parishes under the Establishment Act of 1692, All Hallows' Church is listed on the National Register of Historic Places. The historic Brick Church building dates back to the early 18th century and remains an active parish.
 
-5:00 pm Saturdays, "come-as-you-are" Holy Eucharist at the Chapel.
+* **Address:** [3600 Solomons Island Road, Edgewater, MD 21037](https://maps.app.goo.gl/AllHallowsParish)
+* **Services Schedule:**
+  * **Saturdays (5:00 p.m.):** "Come-as-you-are" Holy Eucharist at the Chapel
+  * **Sundays (8:30 a.m.):** Rite I Holy Eucharist at the Chapel (Quiet contemplative service)
+  * **Sundays (10:30 a.m.):** Rite II Holy Eucharist at the Brick Church (Broadcast live online)
+* **Website:** [All Hallows' Parish Calendar](https://allhallowsparish.org/calendar/)
 
-8:30 am Sundays, Rite I Holy Eucharist at the Chapel --- a quiet
-contemplative service.
+---
 
-10:30 am Sundays, Rite II Holy Eucharist at the Brick Church
----broadcast via Facebook Live.
+## Waterfront Dining & Local Attractions
 
-3600 Solomons Island Road Edgewater, Maryland 21037
+### Pirates Cove Restaurant & Dock Bar
 
-![](./media/media/image3.png){width="6.552083333333333in"
-height="3.6800863954505685in"}
+<img src="{{ '/events/maryland/anne-arundel/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Pirates Cove Restaurant Galesville">
 
-[Pirates Cove
-Restaurant](https://piratescovemd.com/entertainment/entertainment-calendar)
+Located in historic Galesville along the West River, Pirates Cove offers waterfront dining, local seafood, drink specials, and live music from local acoustic artists and cover bands throughout the year.
 
-At Pirates Cove we provide a lively and interesting selection of musical
-entertainers on Wednesday, Thursday, Friday and Saturday evenings, as
-well as Sunday afternoons, all year round.  During the summer months
-while the weather is warm and our Dock Bar is open, music moves
-outdoors.   You can hear great local singer/songwriters and all around
-entertainers who can keep you singing along with covers of rock and folk
-favorites. We\'ve got specials in food and drink, and, as always, a
-great waterfront dining and entertainment experience.
+* **Address:** [4817 Riverside Dr, Galesville, MD 20765](https://maps.app.goo.gl/PiratesCoveGalesville)
+* **Phone:** [(410) 867-2300](tel:+14108672300)
+* **Website:** [Pirates Cove Entertainment Calendar](https://piratescovemd.com/entertainment/entertainment-calendar)
 
-4817 Riverside Dr. Galesville, MD 20765         
+---
 
-\(410\) 867-2300
+### Harper's Waterfront Restaurant
 
-![](./media/media/image4.png){width="7.1875in"
-height="4.036979440069992in"}
+<img src="{{ '/events/maryland/anne-arundel/media/media/image4.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Harper's Waterfront Restaurant Edgewater">
 
-[Harper\'s Waterfront
-Restaurant](https://www.harperswaterfront.com/menus)
+Waterfront dining venue situated on Turkey Point in Edgewater overlooking Selby Bay and the South River.
 
-+14107988338
+* **Address:** [1107 Turkey Point Rd, Edgewater, MD 21037](https://maps.app.goo.gl/HarpersWaterfront)
+* **Phone:** [(410) 798-8338](tel:+14107988338)
+* **Website:** [Harper's Waterfront Menus](https://www.harperswaterfront.com/menus)
 
-1107 Turkey Point Rd, Edgewater, MD 21037
+---
+
+## Historical & Research Resources
+
+* [Anne Arundel County Genealogy Wiki (FamilySearch)](https://www.familysearch.org/en/wiki/Anne_Arundel_County,_Maryland_Genealogy)
+* [Anne Arundel County, Maryland (Wikipedia)](https://en.wikipedia.org/wiki/Anne_Arundel_County%2C_Maryland)
+* [Anne Arundel Genealogical Society Surname Index](https://aagensoc.org/surname.php)
+
+---
+
+*Last updated: September 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>

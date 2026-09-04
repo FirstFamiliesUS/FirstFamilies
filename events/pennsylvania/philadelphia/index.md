@@ -4,72 +4,79 @@ title: Philadelphia, Pennsylvania
 permalink: /events/pennsylvania/philadelphia/
 ---
 
-![](./media/media/image1.png){width="5.729166666666667in"
-height="3.21875in"}
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-Union League
+# Philadelphia, Pennsylvania
 
-When making plans to visit Philadelphia, consider using the [Union
-League of Philadelphia](https://www.unionleague.org/be-our-guest) as
-your home away from home. Our newly renovated Four-Diamond hotel, The
-Inn at the League, located at 1450 Sansom, between Broad and 15th
-Streets, is centrally located on Philadelphia's Avenue of the Arts. The
-Inn at the League has 84 guest rooms and suites, each with its own
-charm. Truly in a class by itself, The Inn offers an incomparable mix of
-distinctive history and old world hospitality. Many of our first time
-guests have referred to us as the "best-kept secret in Center City
-Philadelphia."
+As the birthplace of American independence and Pennsylvania's historic metropolis, Philadelphia is rich in cultural heritage, genealogical archives, and community traditions. From national historical societies and centuries-old cultural organizations to landmark hospitality, Philadelphia offers deep connections to American and ethnic heritage.
 
-![](./media/media/image2.png){width="6.604166666666667in"
-height="3.7083333333333335in"}
+---
 
-[ST. MARTINS PARADE](https://www.germansociety.org/st-martins-parade/)
+## Historic & Archival Resources
 
-The feast of [St. Martin of
-Tours](https://www.firstfamilies.us/faith/saints/martin) is celebrated
-on **November 11th**, and in Germany this day is traditionally
-celebrated with a parade, where children sing songs about St. Martin and
-walk with decorative lanterns. The German Society\'s parade is held on
-the Sunday closest to St. Martin\'s Day. Children gather at the Society
-to read stories and have snacks, then march with their lanterns through
-Northern Liberties neighborhood to Liberty Land Park while singing
-traditional songs.
+### Historical Society of Pennsylvania
 
-![](./media/media/image3.png)
+<img src="{{ '/events/pennsylvania/philadelphia/media/media/image4.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Historical Society of Pennsylvania">
 
-[The Welsh Society of
-Philadelphia](https://www.facebook.com/PhiladelphiaWelsh?__tn__=-UC*F)
+Home to millions of manuscripts, primary sources, and family history records, the Historical Society of Pennsylvania is one of the nation's premier independent research libraries.
 
-The Welsh Society of Philadelphia has members that have a wide range of
-ages and interests. Everyone who shares our interest in keeping current
-with local Welsh American events is most welcome. Membership of the
-Welsh Society of Philadelphia provides the following opportunities:
+* **Address:** [1300 Locust Street, Philadelphia, PA 19107](https://maps.app.goo.gl/1300LocustSt)
+* **Phone:** [(215) 732-6200](tel:+12157326200)
+* **Access:** Library research is available **by appointment only**.
+* **Research Appointments:** [Schedule an Appointment](https://www.portal.hsp.org/researchappointments) | [Address & Directions](https://www.portal.hsp.org/address-and-directions)
+* **Website:** [Historical Society of Pennsylvania Portal](https://www.portal.hsp.org/past-made-personal)
 
-A chance to participate in the historic and vibrant Welsh American
-community
+---
 
-Enjoy a variety of social and heritage events
+## Heritage & Cultural Organizations
 
-Singing and community spirit at the Gymanfa Ganu
+### German Society of Pennsylvania: St. Martin's Parade
 
-Receive notifications of upcoming events
+<img src="{{ '/events/pennsylvania/philadelphia/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="St. Martin's Parade with German Society of Pennsylvania">
 
-Recognize outstanding Welsh Americans through the Robert Morris Award 
+Celebrating the feast of [St. Martin of Tours](https://www.firstfamilies.us/faith/saints/martin) (**November 11th**), the German Society of Pennsylvania hosts an annual lantern parade on the Sunday closest to St. Martin's Day. Children gather for stories and snacks before parading through the Northern Liberties neighborhood to Liberty Lands Park while singing traditional songs.
 
-![](./media/media/image4.png){width="6.65376312335958in"
-height="3.7395833333333335in"}
+* **Event Details:** [German Society St. Martin's Parade](https://www.germansociety.org/st-martins-parade/)
 
-[Historical Society of
-Pennsylvania](https://www.portal.hsp.org/past-made-personal)
+---
 
-Address 1300 Locust Street Philadelphia, PA
-19107  ([map](https://www.portal.hsp.org/address-and-directions)) 
+### The Welsh Society of Philadelphia
 
-T: (215) 732-6200
+<img src="{{ '/events/pennsylvania/philadelphia/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="The Welsh Society of Philadelphia Logo">
 
-**The library is open for research by appointment only.y.**
+Dedicated to preserving and promoting Welsh-American heritage and community spirit across Greater Philadelphia.
 
-**​**
+* **Activities & Benefits:** 
+  * Participation in vibrant local Welsh-American social and heritage events
+  * Singing and fellowship at the traditional *Gymanfa Ganu*
+  * Recognition of outstanding leaders through the prestigious Robert Morris Award
+* **Social Media & Events:** [Welsh Society of Philadelphia Facebook](https://www.facebook.com/PhiladelphiaWelsh?__tn__=-UC*F)
 
-[**Click HERE to schedule an
-appointment**](https://www.portal.hsp.org/researchappointments)
+---
+
+## Historic Accommodations
+
+### Union League of Philadelphia & The Inn at the League
+
+<img src="{{ '/events/pennsylvania/philadelphia/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="The Union League of Philadelphia">
+
+Located along Center City's Avenue of the Arts, The Inn at the League offers 84 guest rooms and suites combining historical significance with Four-Diamond hospitality.
+
+* **Address:** [1450 Sansom Street, Philadelphia, PA 19102](https://maps.app.goo.gl/1450SansomSt) (Between Broad and 15th Streets)
+* **Guest Information:** [The Union League Guest Information](https://www.unionleague.org/be-our-guest)
+
+---
+
+*Last updated: September 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>

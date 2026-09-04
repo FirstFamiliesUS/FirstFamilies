@@ -1,108 +1,75 @@
 ---
 layout: default
-title: St Michaels, Maryland
+title: St. Michaels, Maryland
 permalink: /events/maryland/st-michaels/
 ---
 
-Resources
+# St. Michaels, Maryland
 
-[Saint Michaels, Maryland -
-Wikipedia](https://en.wikipedia.org/wiki/Saint_Michaels%2C_Maryland) 
+## Overview
+St. Michaels is a historic coastal town located on Maryland's Eastern Shore in Talbot County. Known as "the town that fooled the British" during the War of 1812, St. Michaels features rich maritime heritage, historic 19th-century architecture, premier crabbing and dining, and scenic Chesapeake Bay access.
 
-[The Best 10 Restaurants Near Saint Michaels Historic District \|
-OpenTable](https://www.opentable.com/landmark/restaurants-near-saint-michaels-historic-district) 
+---
 
-[St. Michaels MD Visitor Information - St. Michaels Tourism,
-MD](https://www.stmichaelsmd.com/) 
+## Genealogy & Historical Resources
+* **Town History & Tourism:** [St. Michaels Tourism Information](https://www.stmichaelsmd.com/)
+* **Wikipedia Page:** [Saint Michaels, Maryland - Wikipedia](https://en.wikipedia.org/wiki/Saint_Michaels%2C_Maryland)
+* **Local History Museum:** [St. Michaels Museum](https://www.stmichaelsmuseum.org/)
+* **County Genealogy:** [FamilySearch - Talbot County, Maryland Genealogy](https://www.familysearch.org/en/wiki/Talbot_County,_Maryland_Genealogy)
+* **Dining Directory:** [OpenTable - Best Restaurants Near St. Michaels Historic District](https://www.opentable.com/landmark/restaurants-near-saint-michaels-historic-district)
 
-[Talbot County, Maryland Genealogy •
-FamilySearch](https://www.familysearch.org/en/wiki/Talbot_County,_Maryland_Genealogy) 
+---
 
-<https://www.stmichaelsmuseum.org/>
+## Maritime Museums & Historic Sites
 
-![](./media/media/image1.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+### Chesapeake Bay Maritime Museum (CBMM)
+A 18-acre waterfront museum dedicated to preserving and exploring the history, environment, and culture of the Chesapeake Bay region.
 
-[Day
-Cruise](https://watermarkjourney.com/events/day-on-the-bay-to-st-michaels/)
+![Chesapeake Bay Maritime Museum](./media/media/image5.jpeg)
 
-Cruise across the Chesapeake Bay to St. Michaels on the Eastern Shore,
-and enjoy one complimentary non-alcoholic beverage on the way there!
-This quaint historic village offers fresh seafood, boutique shopping,
-and historic sites all within walking distance during your approximately
-3 hours ashore, followed by the return cruise to Annapolis. Admission to
-the Chesapeake Bay Maritime Museum is included.
+* **Address:** 213 North Talbot Street, St. Michaels, MD 21663
+* **Phone:** (410) 745-2916
+* **Email:** `havefun@cbmm.org`
+* **Website:** [Chesapeake Bay Maritime Museum](https://cbmm.org/)
 
-Price: \$118/Adult \$45/Child
+### 1879 Hooper Strait Lighthouse
+Located on the grounds of the Chesapeake Bay Maritime Museum, this iconic screw-pile lighthouse originally guided vessels through Hooper Strait before being relocated to St. Michaels for preservation.
 
-10 AM - 5:30 PM
+![1879 Hooper Strait Lighthouse](./media/media/image4.jpeg)
 
-![](./media/media/image2.jpeg){width="4.3125in"
-height="2.4270833333333335in"}
+* **Address:** 213 N. Talbot St (CBMM Grounds), St. Michaels, MD 21663
+* **Phone:** (410) 745-2916
 
-H[arbour Inn, Marina &
-Spa](https://www.harbourinn.com/harrisons-harbour-lights)
+### Third Haven Friends Meeting
+Founded following a visit by George Fox, founder of the Religious Society of Friends (Quakers), in 1673. Fox sent books from England to establish the Meeting's library, widely considered the earliest public library in Talbot County and the Province of Maryland.
 
-Call [(410) 745-9001]{.underline} Ext 3 for more info. 
+![Third Haven Friends Meeting](./media/media/image6.jpeg)
 
-[101 N Harbor Rd St. Michaels, MD
-21663 ](https://maps.app.goo.gl/QG24pfzEosueN1rG8) rooms@harbourinn.com  
+* **Address:** 405 S. Washington St., Easton, MD 21601
+* **Phone:** (410) 822-0293
+* **Email:** `3rdhaven@gmail.com`
+* **Website:** [Third Haven Calendar & Info](https://thirdhaven.org/calendar.php)
 
-![](./media/media/image3.jpeg)
+---
 
-[Talbot
-Tavern](https://www.opentable.com/r/talbot-st-tavern-saint-michaels?originId=c130eee2-fa5e-4499-8940-1c9b12d42923&corrid=c130eee2-fa5e-4499-8940-1c9b12d42923&avt=eyJ2IjoyLCJtIjoxLCJwIjowLCJzIjowLCJuIjowfQ)
+## Tours, Cruises & Lodging
 
-Address: 209 S. Talbot St, Saint Michaels, MD 21663
+| Destination / Service | Description & Highlights | Contact & Location |
+| :--- | :--- | :--- |
+| **[Watermark Day Cruise to St. Michaels](https://watermarkjourney.com/events/day-on-the-bay-to-st-michaels/)** | Cruise across Chesapeake Bay from Annapolis to St. Michaels. Includes 3 hours ashore for seafood, shopping, and historical sights, plus admission to the Chesapeake Bay Maritime Museum. | **Hours:** 10:00 AM – 5:30 PM<br>**Rates:** $118 Adult / $45 Child |
+| **[St. Michaels Harbour Inn, Marina & Spa](https://www.harbourinn.com/harrisons-harbour-lights)** | Waterfront lodging, full-service marina, spa treatments, and harbor views. | 101 N. Harbor Rd, St. Michaels, MD 21663<br>Phone: (410) 745-9001 Ext. 3<br>Email: `rooms@harbourinn.com`<br>Map: [Google Maps](https://maps.app.goo.gl/QG24pfzEosueN1rG8) |
+| **[Talbot Street Tavern](https://www.opentable.com/r/talbot-st-tavern-saint-michaels)** | Popular local tavern serving regional fare, seafood, and cocktails in the heart of the historic district. | 209 S. Talbot St, St. Michaels, MD 21663<br>Phone: (410) 745-8005<br>Email: `info@talbotsttavern.com`<br>**Hours:** Mon–Wed 12pm–11pm, Thu 12pm–12am, Fri–Sat 12pm–1am, Sun 12pm–12am |
+| **[St. Michaels Water Taxi](https://www.smharborshuttle.com/watertaxi)** | Local harbor shuttle service providing water transportation around St. Michaels harbor and nearby waterways. | Phone: (410) 819-9606 |
 
-Email: info@talbotsttavern.com
+![Watermark Day Cruise](./media/media/image1.jpeg)
+*Watermark Day Cruise across the Chesapeake Bay*
 
-Phone: (410) 745-8005
+![Harbour Inn Marina & Spa](./media/media/image2.jpeg)
+*St. Michaels Harbour Inn, Marina & Spa*
 
-Monday - Wednesday: 12pm - 11pm
+![Talbot Street Tavern](./media/media/image3.jpeg)
+*Talbot Street Tavern*
 
-Thursday: 12pm - 12am 
+---
 
-​​Friday - Saturday: 12pm - 1am
-
-Sunday: 12pm - 12am
-
-![](./media/media/image4.jpeg){width="7.5in"
-height="4.209722222222222in"}
-
-1879 Hooper Strait Lighthouse
-
-213 N Talbot St Chesapeake Bay Maritime Museum, St Michaels, MD 21663
-
-\(410\) 745-2916
-
-![](./media/media/image5.jpeg){width="7.5in"
-height="4.2131944444444445in"}
-
-[Chesapeake Bay Maritime Museum](https://cbmm.org/)
-
-213 North Talbot Street St. Michaels, Maryland, 21663
-
-410-745-2916
-
-havefun@cbmm.org
-
-[Water Taxi](https://www.smharborshuttle.com/watertaxi)
-
-410-819-9606
-
-![](./media/media/image6.jpeg){width="7.5in"
-height="4.2131944444444445in"}
-
-[Third Haven Friends Meeting](https://thirdhaven.org/calendar.php) 
-
-405 S. Washington St., Easton, MD 21601; (410)
-822-0293; <3rdhaven@gmail.com>
-
-George Fox, the founder of the Religious Society of Friends (Quakers),
-visited this vicinity in 1673 and upon his return to England sent a
-number of books to this Meeting. This was the beginning of the
-Meeting\'s library, often said to be the earliest public library in
-Talbot County and probably in the province (being established long
-before the Bishop of London, through Commissary Bray, introduced
-parochial libraries in this province).
+*Last updated: August 2026*

@@ -4,258 +4,229 @@ title: Alexandria, Virginia
 permalink: /events/virginia/alexandria/
 ---
 
-As the hometown of George Washington, Alexandria and its surrounding
-areas is no stranger to history. Washington, D.C., beautiful Mount
-Vernon, Arlington Cemetery and the National Masonic Temple are all just
-minutes away.   Before or after their visit, guests have easy access to
-famous Old Town sites such as Robert E. Lee\'s boyhood home, George
-Washington\'s Townhouse and Market Square, one of the oldest market
-places in the whole country.
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-![](./media/media/image1.jpeg)
+# Alexandria, Virginia
 
-Reagan National Airport
+As the hometown of George Washington, Alexandria and its surrounding areas are rich in American history. Washington, D.C., beautiful Mount Vernon, Arlington Cemetery, and the George Washington Masonic National Memorial are all just minutes away. Before or after their visit, guests have easy access to famous Old Town sites such as Robert E. Lee's boyhood home, George Washington's Townhouse, and Market Square—one of the oldest operating market places in the country.
 
-From here you can go just about anywhere in the greater Washington DC
-area
+---
 
-![](./media/media/image2.jpeg)
+## Getting Around & Travel Hubs
 
-Gadsby's Tavern
+### Reagan National Airport
 
-[138 N. Royal Street Alexandria, Virginia
-22314](https://goo.gl/maps/ZXD1M1ZSfj3id4X88)   <info@gadsbystavernrestaurant.com> (703)
-548-1288
+<img src="{{ '/events/virginia/alexandria/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Reagan National Airport">
 
-Nearly all of the founders of American Independence enjoyed the warm
-tavern hospitality of Gadsby's Tavern. No public building in America is
-more intimately associated with the struggle for independence and
-establishment of national sovereignty. For nearly a century, it was a
-center of political, social and cultural life in this important colonial
-seaport
-community.  [OpenTable](https://www.opentable.com/gadsbys-tavern). 
+Convenient access point offering travel routes throughout the greater Washington D.C. area.
 
-[Sunday Brunch](https://www.opentable.com/gadsbys-tavern#menu) 11:30am
-to 2:30pm
+---
 
-Wednesday through Saturday Lunch 11:30am to 2:30pm
+### King Street Trolley
 
-Wednesday through Sunday Dinner from 5:30pm
+<img src="{{ '/events/virginia/alexandria/media/media/image5.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="King Street Trolley">
 
-![](./media/media/image3.jpeg)
+For navigating historic King Street in the heart of Old Town, take the **FREE** King Street Trolley. With stops every two to three blocks from the waterfront to the King St – Old Town Metrorail station, trolleys provide easy access to over 200 shops, restaurants, and attractions.
 
-[Gadsby's Tavern Museum](https://www.alexandriava.gov/GadsbysTavern)
+* **Map:** [Download King Street Trolley Map](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:f57be505-0683-4bbe-b09c-8a60982a3290)
 
-Regular admission can only be purchased in-person at the Museum at the
-time of your visit.
+---
 
-Adults: \$5    Children (ages 5 -12): \$3   Children four and under are
-free with a paying adult. 
+### Alexandria Visitor Center
 
-Sunday [Family Day with Young
-Historians](https://apps.alexandriava.gov/Calendar/Detail.aspx?si=52194) 2:00
-PM - 5:00 PM
+<img src="{{ '/events/virginia/alexandria/media/media/image8.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Alexandria Visitor Center">
 
-A \$1 discounts on regular admission is available to AAA Members and
-visitors who have dined at Gadsby\'s Tavern Restaurant.
+* **Address:** [221 King St, Alexandria, VA 22314](https://goo.gl/maps/vQcfLdcxyz7JmRhB9)
+* **Phone:** [(703) 746-3301](tel:+17037463301)
+* **Hours:** Closes daily at 6:00 PM
+* **Website:** [visitalexandria.com](https://visitalexandria.com/)
 
-[Gadsby\'s Tavern Museum, 134 N. Royal
-St](https://apps.alexandriava.gov/Calendar/?sl=4) 
+---
 
-![](./media/media/image4.jpeg)
+### Water Taxi & Cruises
 
-Tavern Square Parking
+<img src="{{ '/events/virginia/alexandria/media/media/image12.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Potomac Water Taxi">
 
-418 CAMERON STREET ALEXANDRIA, VIRGINIA.
+Water taxi routes connecting Alexandria with Washington D.C., Georgetown, The Wharf, and National Harbor starting at $22/hour per person.
 
-[Parking
-Map](https://www.alexandriava.gov/sites/default/files/2022-08/OldTownParkingMap2022Update.pdf). 
+* **Booking:** [Book Water Taxi Tickets](https://www.cityexperiences.com/washington-dc/city-cruises/water-taxi/washington-dc-water-taxi/)
 
-![](./media/media/image5.jpeg){width="7.5in"
-height="4.213888888888889in"}
+---
 
-King Street Trolley
+### Monuments Sightseeing Tour From Alexandria
 
-For making your way along historic King Street in the heart of , there's
-no easier, quicker way than the FREE  King Street Trolley. With stops
-every two to three blocks from  to the King St -- Old Town Metrorail
-station, trolleys provide easy on-off access to the more than 200 , 
-and  found in Old Town Alexandria.  [Download the
-map](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:f57be505-0683-4bbe-b09c-8a60982a3290). 
+<img src="{{ '/events/virginia/alexandria/media/media/image14.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Monuments Sightseeing Tour">
 
-![](./media/media/image6.jpeg)
+Narrated sightseeing cruises along the Potomac River offering panoramic views of the Thomas Jefferson Memorial, the John F. Kennedy Center for the Performing Arts, the Washington Monument, and the Arlington Memorial Bridge.
 
-Chart House
+* **Excursions:** [Mount Vernon Excursion Cruise Options](https://www.cityexperiences.com/washington-dc/city-cruises/mount-vernon-excursion-cruise/)
 
-Chart House Alexandria is still the sight to see. Hands down, Chart
-House is the best river view restaurant in the city. Whether dining
-outside on the patio or indoors, our seafood restaurant gives gorgeous
-panoramic views of the waterfront and the sparkling
-city.  [Brunch](https://www.chart-house.com/location/chart-house-alexandria-va/#brunch-menu-chal) is
-EVERY SUNDAY \| 11 AM - 2 PM. Kids meals are currently \$12. Discounts
-for AARP.  Parking next door at Thomason Alley currently \$5 for Sunday
+---
 
-![](./media/media/image7.jpeg)
+## Historic Sites & Museums
 
-Thompson's Alley Parking
+### [Gadsby's Tavern Museum](https://www.alexandriava.gov/GadsbysTavern)
 
-[10 THOMPSON'S ALLEY ALEXANDRIA,
-VIRGINIA](https://goo.gl/maps/TmuTge2DgYz1wiyD6)
+<img src="{{ '/events/virginia/alexandria/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Gadsby's Tavern Museum">
 
-Weekend and Holidays: one hour \$2.50; max \$5
+A center of political, social, and cultural life in colonial Alexandria frequented by the Founders of American Independence.
 
-[More
-Info](https://visitalexandria.com/listings/thompsons-alley-parking-garage/).
+* **Location:** [134 N. Royal St, Alexandria, VA 22314](https://apps.alexandriava.gov/Calendar/?sl=4)
+* **Admission:** Adults: $5 | Children (ages 5–12): $3 | Children under 4: Free. ($1 discount available for AAA Members and Gadsby's Tavern Restaurant diners).
+* **Family Day:** [Family Day with Young Historians](https://apps.alexandriava.gov/Calendar/Detail.aspx?si=52194) Sundays 2:00 PM – 5:00 PM.
 
-![](./media/media/image8.jpeg)
+---
 
-Visitor Center
+### George Washington Masonic National Memorial
 
-Alexandria Visitor Center (703) 746-3301
+<img src="{{ '/events/virginia/alexandria/media/media/image9.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="George Washington Masonic National Memorial">
 
-[visitalexandria.com](https://visitalexandria.com/)
+* **Hours:** Open Monday, Thursday, Friday, Saturday, and Sunday (closed major holidays).
+* **Tours:** 1-hour guided tours run daily at 9:30 AM, 11:00 AM, 1:30 PM, & 3:30 PM.
+* **Admission:** $20 per adult | **FREE** for Children 12 and under.
+* **Reservations:** [Reserve Tour Tickets Online](http://113905.blackbaudhosting.com/113905/tickets?tab=3&txobjid=b4fb59d8-d5f0-482e-9183-ad79bb84f414)
 
-[221 King St, Alexandria, VA
-22314](https://goo.gl/maps/vQcfLdcxyz7JmRhB9)
+---
 
-Closes 6 PM
+### Alexandria Archaeology Museum
 
-![](./media/media/image9.jpeg)
+<img src="{{ '/events/virginia/alexandria/media/media/image17.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Alexandria Archaeology Museum">
 
-George Washington Masonic Temple
+Observe archaeologists processing and preserving local historical artifacts inside a working public laboratory.
 
-The [Memorial](https://gwmemorial.org/) is now open on Monday, Thursday,
-Friday, Saturday, and Sunday (closed on major holidays). Four tours run
-daily at 9:30 a.m., 11:00 a.m., 1:30 p.m., & 3:30 p.m. The guided tour
-is one hour in length. Currently the price is \$20 per adult and **FREE
-for Children 12 and under**. [Advance reservations are
-required](http://113905.blackbaudhosting.com/113905/tickets?tab=3&txobjid=b4fb59d8-d5f0-482e-9183-ad79bb84f414). 
+* **Location:** 105 N. Union Street, Torpedo Factory Art Center 3rd Floor (#327), Alexandria, VA
+* **Hours:** Friday – Saturday: 11:00 AM – 4:00 PM | Sunday: 1:00 PM – 4:00 PM
 
-![](./media/media/image10.jpeg)
+---
 
-Pentagon Visitor Center
+### National Inventors Hall of Fame
 
-![](./media/media/image11.jpeg)
+<img src="{{ '/events/virginia/alexandria/media/media/image18.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="National Inventors Hall of Fame">
 
-George Washington Memorial Parkway
+Interactive exhibits honoring over 600 inductees celebrating American innovation and technological progress.
 
-![](./media/media/image12.jpeg)
+* **Location:** 600 Dulany Street, Alexandria, VA
+* **Admission:** **FREE**
+* **Hours:** Monday – Friday: 10:00 AM – 4:00 PM | First Saturday of each month: 11:00 AM – 3:00 PM | Closed Sundays & Federal Holidays.
 
-Water Taxi
+---
 
-Starting at \$22 hour per person. [To
-book](https://www.cityexperiences.com/washington-dc/city-cruises/water-taxi/washington-dc-water-taxi/). 
+### George Washington's Mount Vernon
 
-![](./media/media/image13.jpeg)
+<img src="{{ '/events/virginia/alexandria/media/media/image15.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Mount Vernon Estate">
 
-Lady Bird Johnson Park
+* **[Scout Days Program](https://www.mountvernon.org/plan-your-visit/group-reservations/student-groups/boys-girls-scouts/):** Boy Scouts, Girl Scouts, and Camp Fire members in uniform/pin receive **FREE** estate admission through February 17. Two leaders per group receive discounted admission.
+* **Activities:** Mansion tours, wreath laying at the General's Tomb (advance reservation via 703-799-8688 or `groups@mountvernon.org`), and Donald W. Reynolds Museum & Education Center galleries.
 
-![](./media/media/image14.jpeg)
+---
 
-Monuments Sightseeing Tour From Alexandria
+## Dining & Historic Taverns
 
-See the famous monuments of Washington, D.C. from an entirely new
-perspective on this narrated sightseeing cruise. Travel along the
-Potomac River to see the plethora of famous monuments and landmarks,
-with stunning reflective views of the Thomas Jefferson Memorial, the
-John F. Kennedy Center for the Performing Arts, the Washington Monument,
-the Arlington Memorial Bridge, and more. The docks for this tour are not
-ADA Compliant. Please visit our Potomac Water Taxi page which offers
-cruise options to the Wharf and National Harbor. [We also offer an
-option to Mount Vernon From
-DC.](https://www.cityexperiences.com/washington-dc/city-cruises/mount-vernon-excursion-cruise/)  
+### Gadsby's Tavern Restaurant
 
-![](./media/media/image15.jpeg)
+<img src="{{ '/events/virginia/alexandria/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Gadsby's Tavern Restaurant">
 
-Mount Vernon
+Historic 18th-century tavern dining offering traditional cuisine enjoyed by American founding figures.
 
-[Scout
-Days](https://www.mountvernon.org/plan-your-visit/group-reservations/student-groups/boys-girls-scouts/) start
-on November 1
+* **Location:** [138 N. Royal Street, Alexandria, VA 22314](https://goo.gl/maps/ZXD1M1ZSfj3id4X88)
+* **Contact:** [(703) 548-1288](tel:+17035481288) | [info@gadsbystavernrestaurant.com](mailto:info@gadsbystavernrestaurant.com)
+* **Hours:**
+  * **Lunch:** Wednesday – Saturday: 11:30 AM – 2:30 PM
+  * **Sunday Brunch:** 11:30 AM – 2:30 PM
+  * **Dinner:** Wednesday – Sunday starting at 5:30 PM
+* **Reservations:** [Book on OpenTable](https://www.opentable.com/gadsbys-tavern)
 
-All children that are Boy Scouts, Girl Scouts, and Camp Fire Club
-members, in uniform or wearing an official pin, are admitted FREE to the
-estate through Feb. 17. The Mansion tour is limited and subject to
-availability. Two leaders from each group will receive discounted
-admission. During this time period the Farm will not be staffed,
-however, we invite your troops to:
+---
 
-Tour the Mansion.
+### Chart House Alexandria
 
-Lay a wreath at the General\'s Tomb (must be reserved in advance by
-contacting our Reservations Office at 703-799-8688 or
-groups@mountvernon.org).
+<img src="{{ '/events/virginia/alexandria/media/media/image6.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Chart House Alexandria">
 
-Explore our state-of-the-art galleries and theaters in the Donald W.
-Reynolds Museum and Education Center.
+Waterfront seafood dining offering panoramic views of the Potomac River and the D.C. skyline.
 
-![](./media/media/image16.jpeg)
+* **Sunday Brunch:** 11:00 AM – 2:00 PM
+* **Details:** Kids meals $12 | AARP discounts available.
+* **Menu:** [View Chart House Brunch Menu](https://www.chart-house.com/location/chart-house-alexandria-va/#brunch-menu-chal)
 
-Mount Vernon Inn
+---
 
-[3200 Mount Vernon Memorial Highway, Mount Vernon, VA 22121\
-](https://maps.google.com/?cid=5534207261373258301)[703.799.5296]{.underline}
+### Mount Vernon Inn Restaurant
 
-**Sunday: **10 a.m. to 5 p.m.\
-**Monday: **11 a.m. to 5 p.m.\
-**Tuesday - Friday: **11 a.m. to 8 p.m.\
-**Saturday: **10 a.m. to 8 p.m.
+<img src="{{ '/events/virginia/alexandria/media/media/image16.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Mount Vernon Inn">
 
-![](./media/media/image17.jpeg)
+* **Address:** [3200 Mount Vernon Memorial Highway, Mount Vernon, VA 22121](https://maps.google.com/?cid=5534207261373258301)
+* **Phone:** [(703) 799-5296](tel:+17037995296)
+* **Hours:**
+  * **Sunday:** 10:00 AM – 5:00 PM
+  * **Monday:** 11:00 AM – 5:00 PM
+  * **Tuesday – Friday:** 11:00 AM – 8:00 PM
+  * **Saturday:** 10:00 AM – 8:00 PM
 
-Archaeology Museum
+---
 
-105 N. UNION STREET, TORPEDO FACTORY ART CENTER THIRD FLOOR, #327
-ALEXANDRIA, VIRGINIA
+## Parking Facilities
 
-Step right into the museum's laboratory where archaeologists reconstruct
-Alexandria's history, fragment by fragment. The museum's exhibits
-highlight the process of archaeology and the latest Alexandria finds. A
-Community Digs its Past: The Lee Street Site, the museum's main exhibit,
-weaves the story of the wharves, taverns, bakery and Civil War privy
-excavated at the corner of Lee and Queen Streets together with the story
-of archaeologists at work, from excavation and historical research to
-artifact processing and archaeological conservation. In the Museum's
-Public Laboratory, you may find volunteers washing, marking and
-cataloging artifacts from the latest dig. Participate in hands-on
-activities, and explore small temporary exhibits highlighting
-archaeological research. The museum is open Fridays and Saturdays 11
-a.m.-4 p.m., and Sundays 1-4 p.m.
+### Tavern Square Parking
 
-![](./media/media/image18.jpeg)
+<img src="{{ '/events/virginia/alexandria/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Tavern Square Parking">
 
-National Inventors Hall of Fame
+* **Address:** 418 Cameron Street, Alexandria, VA
+* **Map:** [Download Old Town Parking Map PDF](https://www.alexandriava.gov/sites/default/files/2022-08/OldTownParkingMap2022Update.pdf)
 
-600 DULANY STREET ALEXANDRIA, VIRGINIA.  
+---
 
-Experience the past, present and future of American ingenuity as you are
-introduced to more than 600 world-changing Inductees and immersed in
-stories of passion, perseverance and progress.  Admission to the museum
-is always **FREE** --- the perfect way to add a fun, kid-friendly
-learning experience to your trip to the Washington, D.C., area.  
-Monday - Friday, 10 a.m. to 4 p.m.
+### Thompson's Alley Parking Garage
 
-The first Saturday of every month, 11 a.m. to 3 p.m.\*
+<img src="{{ '/events/virginia/alexandria/media/media/image7.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Thompson's Alley Parking Garage">
 
-Sundays and federal holidays, CLOSED
+* **Address:** [10 Thompson's Alley, Alexandria, VA](https://goo.gl/maps/TmuTge2DgYz1wiyD6)
+* **Rates (Weekends & Holidays):** $2.50/hour (Max $5.00 daily)
+* **Details:** [Parking Information](https://visitalexandria.com/listings/thompsons-alley-parking-garage/)
 
-![](./media/media/image19.png)
+---
 
-[St. Andrew & St.
-Margaret](https://www.standrewandstmargaret.org/events)
+## Regional Parks & Churches
 
-The Church of St. Andrew and St. Margaret of Scotland is a vibrant,
-growing parish within the Anglican Catholic Church located just outside
-our nation's capitol in the heart of Northern Virginia.  We are Anglican
-because our tradition of prayer and worship is rooted in the Church of
-England and the Book of Common Prayer. We are Catholic because we
-believe and practice the universal or catholic faith of the church. We
-are your friendly neighborhood Traditional Anglican/Episcopal Parish.
+### [St. Andrew & St. Margaret of Scotland](https://www.standrewandstmargaret.org/events)
 
-402 E. Monroe Ave Alexandria, VA 22301
+<img src="{{ '/events/virginia/alexandria/media/media/image19.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="St. Andrew & St. Margaret of Scotland">
 
-Phone: (703) 683-3343
+A traditional Anglican parish practicing within the Book of Common Prayer tradition in Northern Virginia.
 
-Fax: (703) 683-2645
+* **Address:** 402 E. Monroe Ave, Alexandria, VA 22301
+* **Phone:** [(703) 683-3343](tel:+17036833343)
+* **Email:** [sta_stm@comcast.net](mailto:sta_stm@comcast.net)
 
-Email: sta_stm@comcast.net
+---
+
+### Regional Parks & Scenic Drives
+
+<div class="row">
+<div class="col-md-6 text-center mb-4">
+<img src="{{ '/events/virginia/alexandria/media/media/image10.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm mb-2" alt="Pentagon Visitor Center">
+<p class="fw-bold">Pentagon Visitor Center</p>
+</div>
+<div class="col-md-6 text-center mb-4">
+<img src="{{ '/events/virginia/alexandria/media/media/image11.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm mb-2" alt="George Washington Memorial Parkway">
+<p class="fw-bold">George Washington Memorial Parkway</p>
+</div>
+</div>
+
+<img src="{{ '/events/virginia/alexandria/media/media/image13.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Lady Bird Johnson Park">
+<p class="text-center fw-bold">Lady Bird Johnson Park</p>
+
+---
+
+*Last updated: September 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>
