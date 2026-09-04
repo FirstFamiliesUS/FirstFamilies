@@ -4,8 +4,15 @@ title: The  Family
 permalink: /faith/saints/david/
 ---
 
-![](./media/media/image1.png){width="3.3125in"
-height="4.166666666666667in"}
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
+![](./media/media/image1.png)
 
 [St. David](https://catholicsaintmedals.com/saints/st-david/)
 
@@ -31,13 +38,11 @@ St. Davids Day
 
 1 March
 
-[The Welsh Society of
-Philadelphia](https://www.firstfamilies.us/events/pennsylvania/philadelphia)
+[The Welsh Society of Philadelphia](https://www.firstfamilies.us/events/pennsylvania/philadelphia)
 
 ![](./media/media/image3.jpeg)
 
-[The Welsh Society of
-Philadelphia](https://www.facebook.com/PhiladelphiaWelsh?__tn__=-UC*F)
+[The Welsh Society of Philadelphia](https://www.facebook.com/PhiladelphiaWelsh?__tn__=-UC*F)
 
 The Welsh Society of Philadelphia has members that have a wide range of
 ages and interests. Everyone who shares our interest in keeping current
