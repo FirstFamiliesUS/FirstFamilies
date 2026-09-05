@@ -56,3 +56,5 @@ shamrock. It is said that he used the shamrock as a teaching aid when
 preaching on the Trinity.
 
 Feast day on March 17 is celebrated with singing, parades, and dancing
+
+- [St. Patrick](https://irishparade.net/the-parade/partners-and-friends/?utm_source=copilot.com) , [Friendly Daughters of St. Patrick](https://www.friendlydaughters.org/events-1) [Emerald Isle Club](https://emeraldisleclub.com/events/)
