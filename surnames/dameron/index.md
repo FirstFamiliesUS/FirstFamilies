@@ -12,10 +12,9 @@ permalink: /surnames/dameron/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.png){width="2.5729166666666665in"
-height="4.083333333333333in"}
+![](./media/media/image1.png)
 
-[Dameron History](https://www.houseofnames.com/Dameron-family-crest)
+
 
 The surname Dameron was first found in Belgium, where the name became
 noted for its many branches in the region, each house acquiring a status
@@ -30,4 +29,6 @@ family. The name was first recorded in Flanders about the 14th century.
 In the United States, the name Dameron is the 7,419th most popular
 surname with an estimated 4,974 people with that name
 
-[Dameron Family Association](https://ddfa.org/membership)
+- [Dameron Family Association](https://ddfa.org/membership)
+- [Lawrence Dameron](https://ddfa.org/articles/lawrence-dameron)
+- [Dameron History](https://www.houseofnames.com/Dameron-family-crest)
