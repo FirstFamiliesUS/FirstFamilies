@@ -11,6 +11,11 @@ permalink: /faith/saints/martin/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
+# Feast day is on November 11
+
+
+- [Saint Martin (Germany)](https://www.germansociety.org/annual-events#StMartinsParadeLaternenumzug)
+
 
 ![](./media/media/image1.jpeg)
 
@@ -26,4 +31,4 @@ become bishop, which is why he hid in a stable filled with geese. The
 noise made by the geese betrayed his location to the people who were
 looking for him.
 
-Feast day is on November 11
+
