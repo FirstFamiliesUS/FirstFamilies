@@ -122,6 +122,9 @@ main:
             url: /signup2/
           - title: Terms
             url: /terms/
+      - title: Resources
+        url: /resources/
+
 
 
   - title: Surnames
@@ -432,8 +435,7 @@ main:
               - title: Typography
                 url: /docs/elements/typography/
 
-      - title: Resources
-        url: /resources/
+
 
   - title: Projects
     type: dropdown-columns
