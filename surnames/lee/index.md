@@ -14,3 +14,5 @@ permalink: /surnames/lee/
 
 - [Elizabeth Lee]({{ '/ancestors/lee/elizabeth' | relative_url }})
 - [Richard Lee]({{ '/ancestors/lee/richard1' | relative_url }})
+
+- [Society of Lees](http://www.thesocietyoftheleesofva.org/index.php)
