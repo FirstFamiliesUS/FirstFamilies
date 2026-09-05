@@ -11,13 +11,15 @@ permalink: /faith/saints/george/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
+# Feast Day 23 April
+
 ![](./media/media/image1.png)
 
 [St. George](https://catholicsaintmedals.com/saints/st-george/)
 
 The patron saint of soldiers and boy scouts, St. George generally is
 depicted slaying a dragon while rescuing a damsel. Patron saint of
-England and Catalonia, his feast day is April 23. A soldier under Roman
+England and Catalonia, his feast day is `April 23`. A soldier under Roman
 Emperor Diocletian, George found favor for his bravery even though
 Diocletian was a pagan bitterly opposed to Christianity.
 
@@ -32,12 +34,11 @@ Even dying, George declared his love for God. Those declarations of
 faith became legendary and he soon became an honored as one of the key
 martyrs in Christian history.
 
-Feast Day 23 April
+
 
 ![](./media/media/image2.png)
 
-[St. George\'s Society of
-Baltimore](https://www.stgeorgesbalt.org/events)
+[St. George's Society of Baltimore](https://www.stgeorgesbalt.org/events)
 
 The St. George\'s Society of Baltimore is a philanthropic and social
 organization founded in 1867 to afford relief and advice to the indigent
@@ -51,3 +52,5 @@ company of visiting Royal Navy ships. The Society also sponsors several
 events celebrating British culture and history annually to promote
 fellowship amongst its members and hospitality for their families,
 friends and guests.
+
+- [St. George’s Society Membership](https://www.stgeorgesbalt.org/become-member)
