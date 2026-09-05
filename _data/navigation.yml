@@ -1,38 +1,4 @@
 main:
-  - title: Faith
-    type: dropdown
-    items:
-      - title: Baptists
-        url: /faith/baptists/
-      - title: Congregationalists
-        url: /faith/congregationalists/
-      - title: Dutch Reformed
-        url: /faith/dutch-reformed/
-      - title: Episcopalian
-        url: /faith/episcopalian/
-      - title: Freemasonry
-        url: /faith/freemasonry/
-      - title: Huguenot
-        url: /faith/huguenot/
-      - title: Judaism
-        url: /faith/judaism/
-      - title: Lutheran
-        url: /faith/lutheran/
-      - title: Mennonites
-        url: /faith/mennonites/
-      - title: Methodists
-        url: /faith/methodists/
-      - title: Moravians
-        url: /faith/moravians/
-      - title: Old Catholics
-        url: /faith/old-catholics/
-      - title: Presbyterians
-        url: /faith/presbyterians/
-      - title: Saints
-        url: /faith/saints/
-      - title: Quakers
-        url: /faith/quakers/
-
   - title: Events
     type: dropdown
     items:
@@ -76,6 +42,142 @@ main:
         url: /events/washington-dc/
       - title: West Virginia
         url: /events/west-virginia/
+
+  - title: Faith
+    type: dropdown
+    items:
+      - title: Baptists
+        url: /faith/baptists/
+      - title: Congregationalists
+        url: /faith/congregationalists/
+      - title: Dutch Reformed
+        url: /faith/dutch-reformed/
+      - title: Episcopalian
+        url: /faith/episcopalian/
+      - title: Freemasonry
+        url: /faith/freemasonry/
+      - title: Huguenot
+        url: /faith/huguenot/
+      - title: Judaism
+        url: /faith/judaism/
+      - title: Lutheran
+        url: /faith/lutheran/
+      - title: Mennonites
+        url: /faith/mennonites/
+      - title: Methodists
+        url: /faith/methodists/
+      - title: Moravians
+        url: /faith/moravians/
+      - title: Old Catholics
+        url: /faith/old-catholics/
+      - title: Presbyterians
+        url: /faith/presbyterians/
+      - title: Saints
+        url: /faith/saints/
+      - title: Quakers
+        url: /faith/quakers/
+
+  - title: Pages
+    type: dropdown
+    items:
+      - title: Services
+        submenu:
+          - title: Services I
+            url: /services/
+          - title: Services II
+            url: /services2/
+      - title: About
+        submenu:
+          - title: About I
+            url: /about/
+          - title: About II
+            url: /about2/
+      - title: Contact
+        submenu:
+          - title: Contact I
+            url: /contact/
+          - title: Contact II
+            url: /contact2/
+          - title: Contact III
+            url: /contact3/
+      - title: Career
+        submenu:
+          - title: Job Listing I
+            url: /career/
+          - title: Job Listing II
+            url: /career2/
+          - title: Job Description
+            url: /career-job/
+      - title: Utility
+        submenu:
+          - title: 404 Not Found
+            url: /404/
+          - title: Sign In I
+            url: /signin/
+          - title: Sign In II
+            url: /signin2/
+          - title: Sign Up I
+            url: /signup/
+          - title: Sign Up II
+            url: /signup2/
+          - title: Terms
+            url: /terms/
+
+
+  - title: Surnames
+    type: dropdown
+    items:
+      - title: A
+        url: /surnames/a/
+      - title: B
+        url: /surnames/b/
+      - title: C
+        url: /surnames/c/
+      - title: D
+        url: /surnames/d/
+      - title: E
+        url: /surnames/e/
+      - title: F
+        url: /surnames/f/
+      - title: G
+        url: /surnames/g/
+      - title: H
+        url: /surnames/h/
+      - title: I
+        url: /surnames/i/
+      - title: J
+        url: /surnames/j/
+      - title: K
+        url: /surnames/k/
+      - title: L
+        url: /surnames/l/
+      - title: M
+        url: /surnames/m/
+      - title: N
+        url: /surnames/n/
+      - title: O
+        url: /surnames/o/
+      - title: P
+        url: /surnames/p/
+      - title: Q
+        url: /surnames/q/
+      - title: R
+        url: /surnames/r/
+      - title: S
+        url: /surnames/s/
+      - title: T
+        url: /surnames/t/
+      - title: V
+        url: /surnames/v/
+      - title: W
+        url: /surnames/w/
+      - title: X
+        url: /surnames/x/
+      - title: Y
+        url: /surnames/y/
+      - title: Z
+        url: /surnames/z/
+
 
 
   - title: Demos
@@ -218,51 +320,6 @@ main:
         image: /assets/img/demos/mi34.webp
         image2x: /assets/img/demos/mi34@2x.webp
 
-  - title: Pages
-    type: dropdown
-    items:
-      - title: Services
-        submenu:
-          - title: Services I
-            url: /services/
-          - title: Services II
-            url: /services2/
-      - title: About
-        submenu:
-          - title: About I
-            url: /about/
-          - title: About II
-            url: /about2/
-      - title: Contact
-        submenu:
-          - title: Contact I
-            url: /contact/
-          - title: Contact II
-            url: /contact2/
-          - title: Contact III
-            url: /contact3/
-      - title: Career
-        submenu:
-          - title: Job Listing I
-            url: /career/
-          - title: Job Listing II
-            url: /career2/
-          - title: Job Description
-            url: /career-job/
-      - title: Utility
-        submenu:
-          - title: 404 Not Found
-            url: /404/
-          - title: Sign In I
-            url: /signin/
-          - title: Sign In II
-            url: /signin2/
-          - title: Sign Up I
-            url: /signup/
-          - title: Sign Up II
-            url: /signup2/
-          - title: Terms
-            url: /terms/
 
       # Documentation moved here (as regular dropdown)
       - title: Documentation
@@ -474,60 +531,6 @@ main:
       - title: Testimonials
         url: /docs/blocks/testimonials/
         icon: /assets/img/demos/block16.svg
-
-  - title: Surnames
-    type: dropdown
-    items:
-      - title: A
-        url: /surnames/a/
-      - title: B
-        url: /surnames/b/
-      - title: C
-        url: /surnames/c/
-      - title: D
-        url: /surnames/d/
-      - title: E
-        url: /surnames/e/
-      - title: F
-        url: /surnames/f/
-      - title: G
-        url: /surnames/g/
-      - title: H
-        url: /surnames/h/
-      - title: I
-        url: /surnames/i/
-      - title: J
-        url: /surnames/j/
-      - title: K
-        url: /surnames/k/
-      - title: L
-        url: /surnames/l/
-      - title: M
-        url: /surnames/m/
-      - title: N
-        url: /surnames/n/
-      - title: O
-        url: /surnames/o/
-      - title: P
-        url: /surnames/p/
-      - title: Q
-        url: /surnames/q/
-      - title: R
-        url: /surnames/r/
-      - title: S
-        url: /surnames/s/
-      - title: T
-        url: /surnames/t/
-      - title: V
-        url: /surnames/v/
-      - title: W
-        url: /surnames/w/
-      - title: X
-        url: /surnames/x/
-      - title: Y
-        url: /surnames/y/
-      - title: Z
-        url: /surnames/z/
 
 # One-page navigation configuration
 onepage:
