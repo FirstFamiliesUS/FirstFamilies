@@ -11,6 +11,9 @@ permalink: /faith/congregationalists/
         <article class="card shadow-lg">
           <div class="card-body p-6 p-md-8" markdown="1">
 
+
+- [Congregationalists](https://www.congregationallibrary.org/for-researchers/search-obituaries)
+
 Ecumenical
 
 This National Council of Churches members  include
