@@ -25,7 +25,6 @@ Royality
 - [Baronial Order of Magna Charta & Military Order of the Crusades](https://www.magnacharta.com/gateway-ancestors/)
 - [National Society Americans of Royal Descent](https://royalancestry.org/index.php/ancestors)
 
-Saints & Blessed:
 
 
 
@@ -34,8 +33,8 @@ Saints & Blessed:
 
 
 
-- [Saint Martin (Germany)](https://www.germansociety.org/annual-events#StMartinsParadeLaternenumzug)
-- [The Order of the Crown of Charlemagne](https://www.charlemagne.org/Gateway.html)
+
+
 
 Religions:
 - [Descendants of Colonial Clergy](https://www.colonialclergy.com/research/references/)
