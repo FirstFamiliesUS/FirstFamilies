@@ -37,8 +37,7 @@ Royality
 
 
 Religions:
-- [Descendants of Colonial Clergy](https://www.colonialclergy.com/research/references/)
-- [National Society Founders of Places of Worship in America](https://www.nsfpwa.org/ancestors)
+
 - [Swiss Anabaptist](https://saga-omii.org/index.html)
 - [Congregationalists](https://www.congregationallibrary.org/for-researchers/search-obituaries)
 - [Huguenot Society of America](https://www.huguenotsocietyofamerica.org/history/ancestors/)
