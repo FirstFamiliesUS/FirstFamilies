@@ -12,11 +12,9 @@ permalink: /surnames/leftwich/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.png){width="2.5729166666666665in"
-height="4.083333333333333in"}
+![](./media/media/image1.png)
 
-[Family Crest & Coats of
-Arms](https://www.houseofnames.com/leftwich-family-crest)
+[Family Crest & Coats of Arms](https://www.houseofnames.com/leftwich-family-crest)
 
 The surname Leftwich was first found in Cheshire where they held a
 family seat as Lords of the Manor. After the Battle of Hastings in 1066,
@@ -54,24 +52,20 @@ newsletter dealing with new genealogical finds and family interests. An
 annual family reunion for all members is also sponsored by the Leftwich
 Historical Association.
 
-![](./media/media/image3.png){width="5.760416666666667in"
-height="7.5in"}
+![](./media/media/image3.png)
 
-[Ralph
-Leftwich](https://www.colonialdames17c.org/i4a/pages/index.cfm?pageid=3301)
+[Ralph Leftwich](https://www.colonialdames17c.org/i4a/pages/index.cfm?pageid=3301)
 
 Ancestor Lineages of Members Texas Society/National Society Colonial
 Dames Seventeenth Century
 
-![](./media/media/image4.png){width="2.9895833333333335in"
-height="1.6770833333333333in"}
+![](./media/media/image4.png)
 
 [Thomas Leftwich](http://www.virginiafoundingfathers.org/ancestors.html)
 
 Leftwich, Sr. Thomas VA, 1660s
 
-![](./media/media/image5.png){width="2.875in"
-height="1.2395833333333333in"}
+![](./media/media/image5.png)
 
 [Augustine Leftwich S](https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A068950)r.
 
