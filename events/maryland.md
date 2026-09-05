@@ -18,13 +18,13 @@ permalink: /events/maryland/
 | Date | Event |
 | :--- | :--- |
 | March 25 | Maryland Day |
-| Third Sunday in June | [Fathers Day](/events/maryland/kentisland/) |
-| First Sunday in September | [Camp Wright](/events/maryland/kentisland/) |
-| September 12 | [Defenders Day Parade](/events/maryland/baltimore/) |
-| 4th Saturday in September | [Militia Muster](/events/maryland/st-mary/) |
-| Third Saturday in October | [Maryland Renaissance Festival](/events/maryland/annapolis/) |
-| Third Sunday | [Methodist Christmas Conference Anniversary](/events/maryland/baltimore/) |
-| December 26 | [Candlelight Tour of Historic Houses of Worship](/events/maryland/frederick/) |
+| Third Sunday in June | [Fathers Day](/FirstFamilies/events/maryland/kentisland/) |
+| First Sunday in September | [Camp Wright](/FirstFamilies/events/maryland/kentisland/) |
+| September 12 | [Defenders Day Parade](/FirstFamilies/events/maryland/baltimore/) |
+| 4th Saturday in September | [Militia Muster](/FirstFamilies/events/maryland/st-mary/) |
+| Third Saturday in October | [Maryland Renaissance Festival](/FirstFamilies/events/maryland/annapolis/) |
+| Third Sunday | [Methodist Christmas Conference Anniversary](/FirstFamilies/events/maryland/baltimore/) |
+| December 26 | [Candlelight Tour of Historic Houses of Worship](/FirstFamilies/events/maryland/frederick/) |
 
 ----------------------------------------------------------------
 
