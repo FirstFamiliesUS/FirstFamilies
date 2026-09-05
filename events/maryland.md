@@ -17,7 +17,9 @@ permalink: /events/maryland/
 
 | Date | Event |
 | :--- | :--- |
-| March 25 | Maryland Day |
+| March 17 | [Saint Patrick's Day](/FirstFamilies/events/maryland/baltimore/) |
+| March 25 | [Maryland Day](/FirstFamilies/events/maryland/kentisland/) |
+| April 23 | [Saint George's Day](/FirstFamilies/events/maryland/baltimore/) |
 | Third Sunday in June | [Fathers Day](/FirstFamilies/events/maryland/kentisland/) |
 | First Sunday in September | [Camp Wright](/FirstFamilies/events/maryland/kentisland/) |
 | September 12 | [Defenders Day Parade](/FirstFamilies/events/maryland/baltimore/) |
