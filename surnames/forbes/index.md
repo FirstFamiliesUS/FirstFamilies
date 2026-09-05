@@ -22,3 +22,5 @@ from the Scottish House of Forbes to connect with their Scottish roots
 by assisting with genealogical and historical research, promoting
 education of Scottish culture, and creating of a sense of community
 among the descendants of the Scottish Clan Forbes and its adherents.
+
+- [Clan Forbes Genealogy](https://www.clan-forbes.org/genealogy):
