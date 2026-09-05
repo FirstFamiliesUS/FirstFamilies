@@ -11,6 +11,13 @@ permalink: /faith/huguenot/
         <article class="card shadow-lg">
           <div class="card-body p-6 p-md-8" markdown="1">
 
+
+- [Huguenot Society of America](https://www.huguenotsocietyofamerica.org/history/ancestors/)
+- [Virginia Huguenot Society](https://www.frenchhuguenots-virginiasociety.org/)
+- [Huguenot Society of Pennsylvania](https://pahuguenotsociety.wixsite.com/website)
+- [Huguenot Society of the Founders of Manakin](https://www.huguenotmanakin.org/copy-of-old-registered-lineages)
+
+
 List of Historical Churches
 
 [Huguenot Memorial Chapel and
