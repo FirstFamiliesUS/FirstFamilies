@@ -498,7 +498,7 @@ main:
       - title: Maine
         url: /events/maine/
       - title: Maryland
-        url: /events/maryland/
+        url: /events/maryland/maryland.md
         submenu:
           - title: Annapolis
             url: /events/maryland/annapolis/
