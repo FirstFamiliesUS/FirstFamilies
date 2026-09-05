@@ -498,24 +498,7 @@ main:
       - title: Maine
         url: /events/maine/
       - title: Maryland
-        url: /events/maryland/maryland.md
-        submenu:
-          - title: Annapolis
-            url: /events/maryland/annapolis/
-          - title: Anne Arundel
-            url: /events/maryland/anne-arundel/
-          - title: Baltimore
-            url: /events/maryland/baltimore/
-          - title: Carroll
-            url: /events/maryland/carroll/
-          - title: Frederick
-            url: /events/maryland/frederick/
-          - title: Kent Island
-            url: /events/maryland/kentisland/
-          - title: St. Mary
-            url: /events/maryland/st-mary/
-          - title: St. Michaels
-            url: /events/maryland/st-michaels/
+        url: /events/maryland/
       - title: Massachusetts
         url: /events/massachusetts/
       - title: Mississippi
