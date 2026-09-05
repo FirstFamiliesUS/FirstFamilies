@@ -11,18 +11,22 @@ permalink: /events/maryland/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
+----------------------------------------------------------------
+
 **Maryland Annual Event Calendar**
 
 | Date | Event |
 | :--- | :--- |
 | March 25 | Maryland Day |
-| Third Sunday in June | Fathers Day |
-| First Sunday in September | Camp Wright |
-| September 12 | Defenders Day Parade |
-| 4th Saturday in September | Militia Muster |
-| Third Saturday in October | Maryland Renaissance Festival |
-| Third Sunday | Methodist Christmas Conference Anniversary |
-| December 26 | Candlelight Tour of Historic Houses of Worship |
+| Third Sunday in June | [Fathers Day](/events/maryland/kentisland/) |
+| First Sunday in September | [Camp Wright](/events/maryland/kentisland/) |
+| September 12 | [Defenders Day Parade](/events/maryland/baltimore/) |
+| 4th Saturday in September | [Militia Muster](/events/maryland/st-mary/) |
+| Third Saturday in October | [Maryland Renaissance Festival](/events/maryland/annapolis/) |
+| Third Sunday | [Methodist Christmas Conference Anniversary](/events/maryland/baltimore/) |
+| December 26 | [Candlelight Tour of Historic Houses of Worship](/events/maryland/frederick/) |
+
+----------------------------------------------------------------
 
 ## Society of The Ark and The Dove
 
