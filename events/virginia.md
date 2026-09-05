@@ -18,7 +18,7 @@ permalink: /events/virginia/
 
 ### [Jamestowne Society](https://www.jamestowne.org/qualifying-ancestors.html)
 
-<img src="{{ '/events/maine/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Jamestowne Society">
+<img src="{{ '/events/virginia/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Jamestowne Society">
 
 
 * **10 April 1606:** Stock was sold in the London Company (Virginia Company).
@@ -29,7 +29,8 @@ permalink: /events/virginia/
 
 ### [Sons and Daughters of Virginia Founding Fathers](http://www.virginiafoundingfathers.org/ancestors.html)
 
-![Sons and Daughters of Virginia Founding Fathers](./media/image2.jpeg)
+<img src="{{ '/events/virginia/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Sons and Daughters of Virginia Founding Fathers">
+
 
 The Sons and Daughters of Virginia Founding Fathers (SDVAFF) is a non-profit lineage organization dedicated to honoring early ancestors who contributed to the growth and development of the Colony of Virginia.
 
@@ -39,7 +40,7 @@ The Sons and Daughters of Virginia Founding Fathers (SDVAFF) is a non-profit lin
 
 ### [Virginia Huguenot Society](https://www.frenchhuguenots-virginiasociety.org/)
 
-<img src="{{ '/events/maine/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Virginia Huguenot Society">
+<img src="{{ '/events/virginia/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Virginia Huguenot Society">
 
 
 * **Historical Context:** The Edict of Nantes, signed by Henry IV in April 1598, granted Huguenots limited religious freedoms in designated French towns. Its revocation by Louis XIV in October 1685 initiated widespread persecution, leading hundreds of thousands of Huguenots to flee France for other regions, including Virginia.
