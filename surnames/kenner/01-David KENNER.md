@@ -2,6 +2,10 @@
 layout: default
 title: "David Kenner"
 permalink: /ancestors/kenner/david/
+custom_color:
+custom_font: 
+scroll_top_btn:
+  enable: true
 ---
 
 <section class="wrapper bg-light">
