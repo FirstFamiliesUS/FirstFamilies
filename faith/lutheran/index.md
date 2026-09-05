@@ -5,11 +5,14 @@ permalink: /faith/lutheran/
 ---
 
 <section class="wrapper bg-light">
-  <div class="container py-12 py-md-14">
-    <div class="row justify-content-center">
-      <div class="col-lg-9">
-        <article class="card shadow-lg">
-          <div class="card-body p-6 p-md-8" markdown="1">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
+- [Germmanna](http://germannafamily.org/index.php):
 
 Ecumenical
 
@@ -37,8 +40,7 @@ List of Historical Lutheran Churches
 Churc](https://www.firstfamilies.us/events/maryland/baltimore/german-christmas)h
 Baltimore Maryland
 
-![](./media/image1.jpeg){width="3.8333333333333335in"
-height="5.208333333333333in"}
+![](./media/image1.jpeg)
 
 Dr. Martin Luther
 
@@ -55,14 +57,12 @@ Luther\'s Small Catechism
 
 Lutheran Scouting Association
 
-[National Lutheran Association on
-Scouting](https://nlas.org/certreq/) provide resources for Lutheran
+[National Lutheran Association on Scouting](https://nlas.org/certreq/) provide resources for Lutheran
 youth who are involved in the BSA, GSUSA or AHG organizations.
 
 ![](./media/image3.jpeg)
 
-[Lay Schools for
-Ministry](https://www.elca.org/Our-Work/Leadership/Lay-Schools-for-Ministry)
+[Lay Schools for Ministry](https://www.elca.org/Our-Work/Leadership/Lay-Schools-for-Ministry)
 
 The Lay Schools for Ministry program creates a communal and virtual
 meeting place where life-long learning intentionally happens. Our task
@@ -81,8 +81,7 @@ and share current and future resources.  
 
 ![](./media/image4.png)
 
-[Lay Ministry
-Associates](https://mid-southlcms.org/church-worker/deacon-program/)
+[Lay Ministry Associates](https://mid-southlcms.org/church-worker/deacon-program/)
 
 There is a recognized need to provide pastoral services to congregations
 whose circumstances make it impossible for them to support the ministry
