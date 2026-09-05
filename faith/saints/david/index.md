@@ -59,3 +59,5 @@ Singing and community spirit at the Gymanfa Ganu
 Receive notifications of upcoming events
 
 Recognize outstanding Welsh Americans through the Robert Morris Award 
+
+- [St. David](https://www.philadelphiawelsh.org/membership?utm_source=copilot.com)
