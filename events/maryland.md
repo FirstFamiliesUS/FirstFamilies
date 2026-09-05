@@ -30,11 +30,23 @@ permalink: /events/maryland/
 
 ----------------------------------------------------------------
 
-## Society of The Ark and The Dove
 
-The Society of The Ark and The Dove was founded in 1910 to perpetuate the memory of the first families of Maryland and to provide opportunities for fellowship for all those who trace their descent from Lord Baltimore and from those who came on the Ark and the Dove in 1634 to settle the proprietary province of Maryland.
+## Maryland Cities and Counties
 
-<img src="{{ '/assets/images/ArkDove.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="The Ark and The Dove">
+More detailed family histories, migration stories, and research resources will be added to this page over time.
+
+* [Annapolis]({{ '/events/maryland/annapolis/' | relative_url }})
+* [Anne Arundel]({{ '/events/maryland/anne-arundel/' | relative_url }})
+* [Baltimore]({{ '/events/maryland/baltimore/' | relative_url }})
+* [Carroll]({{ '/events/maryland/carroll/' | relative_url }})
+* [Frederick]({{ '/events/maryland/frederick/' | relative_url }})
+* [Kent Island]({{ '/events/maryland/kentisland/' | relative_url }})
+* [St Mary]({{ '/events/maryland/st-mary/' | relative_url }})
+* [St Michaels]({{ '/events/maryland/st-michaels/' | relative_url }})
+
+
+----------------------------------------------------------------
+
 
 ## Resources
 
@@ -44,11 +56,16 @@ The Society of The Ark and The Dove was founded in 1910 to perpetuate the memory
 * [Maryland Genealogical Society Surnames](https://www.mdgensoc.org/surname.php): [Frederick County](https://frecogs.org/surname.php), [Allegany County](https://gsacmd.org/surnames/), [Carroll County](https://ccgsmd.org/cpage.php?pt=15), [Harford County](https://www.harfordhistory.org/research/research-by-mail/), [Montgomery County](https://mocogensoc.org/surname.php), [Odenton Genealogical](https://odentongg.org/surname.php), [Prince George](https://www.pgcgs.org/cpage.php?pt=7), [St. Mary](https://smcgsi.org/surname-research), [Upper Shore](http://usgsmd.org/pdfs/USGSMD-Surname-Index-of-Family-Research-Volumes.pdf), [Maryland Early Settlers](https://earlysettlers.msa.maryland.gov/), [Kent Island Surnames](https://kentislandheritagesociety.org/wp-content/uploads/2018/05/Surname-List-update.pdf)
 * [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/)
 
-## Maryland Day
+----------------------------------------------------------------
 
-* **Date**: 25 March
+## Society of The Ark and The Dove
 
-<img src="{{ '/assets/images/MarylandDay.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Maryland Day Celebration">
+The Society of The Ark and The Dove was founded in 1910 to perpetuate the memory of the first families of Maryland and to provide opportunities for fellowship for all those who trace their descent from Lord Baltimore and from those who came on the Ark and the Dove in 1634 to settle the proprietary province of Maryland.
+
+<img src="{{ '/assets/images/ArkDove.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="The Ark and The Dove">
+
+
+
 
 ## Maryland Junior Ranger
 
@@ -62,22 +79,16 @@ This program is built around the people and places that make Maryland so special
 
 <img src="{{ '/assets/images/mdJrRanger.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Maryland Junior Ranger">
 
-## Coming Soon
+## Maryland Day
 
-More detailed family histories, migration stories, and research resources will be added to this page over time.
+* **Date**: 25 March
 
-* [Annapolis]({{ '/events/maryland/annapolis/' | relative_url }})
-* [Anne Arundel]({{ '/events/maryland/anne-arundel/' | relative_url }})
-* [Baltimore]({{ '/events/maryland/baltimore/' | relative_url }})
-* [Carroll]({{ '/events/maryland/carroll/' | relative_url }})
-* [Frederick]({{ '/events/maryland/frederick/' | relative_url }})
-* [Kent Island]({{ '/events/maryland/kentisland/' | relative_url }})
-* [St Mary]({{ '/events/maryland/st-mary/' | relative_url }})
-* [St Michaels]({{ '/events/maryland/st-michaels/' | relative_url }})
+<img src="{{ '/assets/images/MarylandDay.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Maryland Day Celebration">
+
 
 ---
 
-*Last updated: August 2026*
+*Last updated: September 2026*
 
 </div>
 </article>
