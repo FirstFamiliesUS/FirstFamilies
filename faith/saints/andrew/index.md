@@ -11,8 +11,16 @@ permalink: /faith/saints/andrew/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
+<img src="{{ '/faith/saits/andrew/media/media/SASBLOGO.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="St. Andrew">
 
-![](./media/media/image1.png)
+Many St. Andrew’s Societies exist in this country and throughout the world, but such was not the case as the eighteenth century ended in America.  The histories of the pioneer St. Andrew’s Societies instituted during the colonial and revolutionary periods tell the story of cornerstones of benevolence and worthy causes laid by Scots as they played a prominent role in the shaping of the nation. Immediately following the Revolutionary War, among European colonists in the original thirteen states, approximately 30 percent were Scots.  Beginning with the St. Andrew’s Society of Charleston, SC in 1729, benevolent societies formed to assist those in need.  Soon thereafter, St. Andrew’s Societies in Philadelphia, New York, Alexandria, VA (later established as the St. Andrew’s Society of Washington, DC), and others followed.
+
+https://standrewsbaltimore.com/events
+
+St. Andrew's Society of Baltimore 2345 York Road, Ste. B12 Timonium, MD 21093
+
+
+<img src="{{ '/faith/saits/andrew/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="St. Andrew">
 
 [St. Andrew\'s Day](https://catholicsaintmedals.com/saints/st-andrew/)
 
@@ -35,10 +43,10 @@ is considered the patron saint of social networking as well.
 
 Feast Day is 30 November
 
-![](./media/media/image2.png)
+<img src="{{ '/faith/saits/andrew/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="St. Andrew">
 
-[St Andrews
-Cathedral](https://en.wikipedia.org/wiki/St_Andrews_Cathedral)
+
+[St Andrews Cathedral](https://en.wikipedia.org/wiki/St_Andrews_Cathedral)
 
 The Cathedral of St Andrew is a ruined cathedral in St Andrews, Fife,
 Scotland.  
