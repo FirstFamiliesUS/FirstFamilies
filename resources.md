@@ -26,14 +26,14 @@ Royality
 - [National Society Americans of Royal Descent](https://royalancestry.org/index.php/ancestors)
 
 Saints & Blessed:
-- [St. George’s Society](https://www.stgeorgesbalt.org/become-member)
-- [St. Andrew’s Society](https://standrewsociety.org/about-the-program/), [St. Andrew's Society of Baltimore](https://standrewsbaltimore.com/events/), [St Andrews Mid-Maryland](https://sasmm.com/upcoming-events/),  
-- [St. Patrick](https://irishparade.net/the-parade/partners-and-friends/?utm_source=copilot.com) , [Friendly Daughters of St. Patrick](https://www.friendlydaughters.org/events-1) [Emerald Isle Club](https://emeraldisleclub.com/events/)
-- [St. David](https://www.philadelphiawelsh.org/membership?utm_source=copilot.com)
-- [National Guild of St. Margaret of Scotland](https://www.guildofstmargaret.com/gateway-ancestors.html)
-- [National Society of Saints](http://nationalsocietyofsaintsandsinners.org/wp-content/uploads/2018/07/Approved-List-of-Saints-07-15-15.pdf)
-- [Saint Nicholas Society of the City of New York](https://saintnicholassociety.org/welcome/membership/)
-- [Saint Bridget of Sweden](https://colonialswedes.net/list-of-qualifying-forefathers-static/)
+
+
+
+
+
+
+
+
 - [Saint Martin (Germany)](https://www.germansociety.org/annual-events#StMartinsParadeLaternenumzug)
 - [The Order of the Crown of Charlemagne](https://www.charlemagne.org/Gateway.html)
 
