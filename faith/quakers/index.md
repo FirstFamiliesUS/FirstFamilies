@@ -11,6 +11,9 @@ permalink: /faith/quakers/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
+- [Early Quaker Descendents](http://www.earlyquakers.org/qualifyingancestors.html), [Welcome Society](https://www.welcomesociety.org/ancestors.html), 
+
+
 Ecumenical
 
 This National Council of Churches members  include
@@ -77,16 +80,14 @@ Faith and Practice
 
 Friends Committee on Scouting
 
-[Friends Committee on
-Scouting](https://quakerscouting.org/join-fcs/) serves to encourage and
+[Friends Committee on Scouting](https://quakerscouting.org/join-fcs/) serves to encourage and
 promote the faith, history, and testimonies of the Religious Society of
 Friends (Quakers) through religious education programs for Quaker
 Scouts/Guides. 
 
 ![](./media/image3.png)
 
-[Early Quaker
-Descendants](http://www.earlyquakers.org/qualifyingancestors.html)
+[Early Quaker Descendants](http://www.earlyquakers.org/qualifyingancestors.html)
 
 Men, Women and children who establish descent, either lineal or
 collateral, from an early member of the Society of Friends (1835 or
