@@ -19,8 +19,7 @@ General William Campbell
 
 **CAMPBELL, General William (1745-1781) VA**
 
-![](./media/media/image2.png){width="1.3541666666666667in"
-height="2.1041666666666665in"}
+![](./media/media/image2.png)
 
 [Clan Campbell Society](https://www.ccsna.org/)
 
@@ -33,3 +32,5 @@ culture, *and* who acknowledge *Mac Cailein Mòr* as their Clan Chief, as
 he is the [Chief of Clan
 Campbell](https://www.ccsna.org/chief-of-clan-campbell), the greatest
 family in all of Scotland! (We\'re a \"*wee bit*\" biased.) 
+
+- [Clan Campbell Society](https://www.ccsna.org/clan-campbell-genealogy):
