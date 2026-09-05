@@ -4,13 +4,22 @@ title: Virginia
 permalink: /events/virginia/
 ---
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+
 # First Families in the United States: Virginia
 
 ## Lineage Societies
 
 ### [Jamestowne Society](https://www.jamestowne.org/qualifying-ancestors.html)
 
-![Jamestowne Society](./media/image1.jpeg)
+<img src="{{ '/events/maine/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Jamestowne Society">
+
 
 * **10 April 1606:** Stock was sold in the London Company (Virginia Company).
 * **Resident Qualifications:** Must have been resident in Virginia at the time of the 1624/25 Muster or earlier.
@@ -30,7 +39,8 @@ The Sons and Daughters of Virginia Founding Fathers (SDVAFF) is a non-profit lin
 
 ### [Virginia Huguenot Society](https://www.frenchhuguenots-virginiasociety.org/)
 
-![Virginia Huguenot Society](./media/image3.jpeg)
+<img src="{{ '/events/maine/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Virginia Huguenot Society">
+
 
 * **Historical Context:** The Edict of Nantes, signed by Henry IV in April 1598, granted Huguenots limited religious freedoms in designated French towns. Its revocation by Louis XIV in October 1685 initiated widespread persecution, leading hundreds of thousands of Huguenots to flee France for other regions, including Virginia.
 
