@@ -18,3 +18,5 @@ permalink: /surnames/fuqua/
 - [Ralph Fuqua]({{ '/ancestors/fuqua/ralph ' | relative_url }})
 - [Forefather Guillaume Fuqua]({{ '/ancestors/fuqua/skipwith' | relative_url }})
 
+
+- [Fuqua Database](https://homepages.rootsweb.com/~fuqua/Main%20Database/index.htm)
