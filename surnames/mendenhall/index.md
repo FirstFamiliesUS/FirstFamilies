@@ -12,8 +12,7 @@ permalink: /surnames/mendenhall/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+![](./media/media/image1.jpeg)
 
 [Mendenhall Family Association](https://www.mendenhall.org/mfa/tng/)
 
