@@ -12,8 +12,7 @@ permalink: /surnames/soule/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.png){width="5.947916666666667in"
-height="1.6354166666666667in"}
+![](./media/media/image1.png)
 
 [Soule Kindred in America](https://soulekindred.org/)
 
