@@ -12,6 +12,9 @@ permalink: /faith/saints/nicholas/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
+- [Saint Nicholas Society of the City of New York](https://saintnicholassociety.org/welcome/membership/)
+
+
 ![](./media/media/image1.jpeg)
 
 St. Nicholas Day
