@@ -11,6 +11,8 @@ permalink: /faith/saints/andrew/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
+# Feast Day is 30 November
+
 <img src="{{ '/faith/saits/andrew/media/media/SASBLOGO.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="St. Andrew">
 
 Many St. Andrew’s Societies exist in this country and throughout the world, but such was not the case as the eighteenth century ended in America.  The histories of the pioneer St. Andrew’s Societies instituted during the colonial and revolutionary periods tell the story of cornerstones of benevolence and worthy causes laid by Scots as they played a prominent role in the shaping of the nation. Immediately following the Revolutionary War, among European colonists in the original thirteen states, approximately 30 percent were Scots.  Beginning with the St. Andrew’s Society of Charleston, SC in 1729, benevolent societies formed to assist those in need.  Soon thereafter, St. Andrew’s Societies in Philadelphia, New York, Alexandria, VA (later established as the St. Andrew’s Society of Washington, DC), and others followed.
@@ -41,7 +43,7 @@ several European countries, St. Andrew is also the patron saint of
 fishermen and unmarried women. Because of his social skills, St. Andrew
 is considered the patron saint of social networking as well.
 
-Feast Day is 30 November
+
 
 <img src="{{ '/faith/saits/andrew/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="St. Andrew">
 
@@ -55,3 +57,6 @@ The [Kenner](https://www.firstfamilies.us/ancestors/scotland/kenner) family
 gave a carucate of land of Cathelai to the church of St. Andrews.  King
 Malcolm IV, and King William confirmed the grant of Chathelach, with
 common pasture for twenty-four beasts, and eighty sheep.
+
+
+- [St. Andrew’s Society](https://standrewsociety.org/about-the-program/), [St. Andrew's Society of Baltimore](https://standrewsbaltimore.com/events/), [St Andrews Mid-Maryland](https://sasmm.com/upcoming-events/),  
