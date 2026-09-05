@@ -4,42 +4,34 @@ title: Faith,
 permalink: /events//faith/
 ---
 
-[National Council of
-Churches ](https://en.wikipedia.org/wiki/List_of_National_Council_of_Churches_members)
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-All NCC member organizations subscribe to the NCC\'s statement of faith,
-which forms the preamble to the NCC\'s charter:
+[National Council of Churches ](https://en.wikipedia.org/wiki/List_of_National_Council_of_Churches_members)
 
-*\"The National Council of Churches is a community of Christian
-communions, which, in response to the gospel as revealed in the
-Scriptures, confess **Jesus Christ**, the incarnate Word of God, as
-Savior and Lord. These communions covenant with one another to manifest
-ever more fully the unity of the Church. Relying upon the transforming
-power of the **Holy Spirit**, the communions come together as the
-Council in common mission, serving in all creation to the glory
-of **God**.\"*
+All NCC member organizations subscribe to the NCC\'s statement of faith, which forms the preamble to the NCC\'s charter:
+
+*\"The National Council of Churches is a community of Christian communions, which, in response to the gospel as revealed in the Scriptures, confess **Jesus Christ**, the incarnate Word of God, as Savior and Lord. These communions covenant with one another to manifest ever more fully the unity of the Church. Relying upon the transforming power of the **Holy Spirit**, the communions come together as the Council in common mission, serving in all creation to the glory of **God**.\"*
 
 List of National Council of Churches members: 
-American [Baptist](https://www.firstfamilies.us/faith/baptist) Churches
-USA;  [Episcopal](https://www.firstfamilies.us/faith/episcopalian) Church
-in the United States of America;
-Evangelical [Lutheran](https://www.firstfamilies.us/faith/lutheran) Church
-in
-America; [Moravian](https://www.firstfamilies.us/faith/moravians) Church
-in
-America;  [Presbyterian](https://www.firstfamilies.us/faith/presbyterians) Church
-(USA);  [Reformed Church in
-America](https://www.firstfamilies.us/faith/dutch-reformed);  [Friends](https://www.firstfamilies.us/faith/quakers) United
-Meeting;  [Philadelphia Yearly
-Meeting](https://www.firstfamilies.us/faith/quakers); [United Church of
-Christ](https://www.firstfamilies.us/faith/congregationalists); 
-United [Methodist](https://www.firstfamilies.us/faith/methodist) Church
+- American [Baptist](https://www.firstfamilies.us/faith/baptist) Churches USA
+- [Episcopal](https://www.firstfamilies.us/faith/episcopalian) Church in the United States of America
+- Evangelical [Lutheran](https://www.firstfamilies.us/faith/lutheran) Church in America
+- [Moravian](https://www.firstfamilies.us/faith/moravians) Church in America
+- [Presbyterian](https://www.firstfamilies.us/faith/presbyterians) Church (USA)
+- [Reformed Church in America](https://www.firstfamilies.us/faith/dutch-reformed);
+- [Friends](https://www.firstfamilies.us/faith/quakers) United Meeting;
+- [Philadelphia Yearly Meeting](https://www.firstfamilies.us/faith/quakers);
+- [United Church of Christ](https://www.firstfamilies.us/faith/congregationalists); 
+- United [Methodist](https://www.firstfamilies.us/faith/methodist) Church
 
-![](./media/media/image1.png){width="2.2604166666666665in"
-height="2.25in"}
+![](./media/media/image1.png)
 
-[National Society Founders of Places of Worship in
-America ](https://www.nsfpwa.org/ancestors)
+[National Society Founders of Places of Worship in America](https://www.nsfpwa.org/ancestors)
 
 Membership is open to males and females of good moral character and
 reputation, at least eighteen years of age, who can prove lineal descent
@@ -63,15 +55,16 @@ of holding worship.
 Circuit Rider and mobile Ministries, in which clergy traveled to more
 than one location to hold service.
 
+- [Descendants of Colonial Clergy](https://www.colonialclergy.com/research/references/)
+- [National Society Founders of Places of Worship in America](https://www.nsfpwa.org/ancestors)
+
 ![](./media/media/image2.png)
 
 [Baptists](https://www.firstfamilies.us/faith/baptist)
 
-    [ Baptist
-Catechism](https://www.firstfamilies.us/faith/baptist)     
+    [ Baptist Catechism](https://www.firstfamilies.us/faith/baptist)     
 
-![](./media/media/image3.png){width="7.324987970253718in"
-height="4.114583333333333in"}
+![](./media/media/image3.png)
 
 [Congregationalism](https://www.firstfamilies.us/faith/congregationalists)
 
@@ -79,16 +72,14 @@ height="4.114583333333333in"}
 Catechism](https://www.firstfamilies.us/faith/congregationalists)  
   [Geneva Bible](https://www.firstfamilies.us/faith/congregationalists)
 
-![](./media/media/image4.png){width="7.520833333333333in"
-height="4.224593175853018in"}
+![](./media/media/image4.png) 
 
 [Dutch Reformed](https://www.firstfamilies.us/faith/dutch-reformed)
 
    [  Heildelberg Catechism 
   ](https://www.firstfamilies.us/faith/dutch-reformed) 
 
-![](./media/media/image5.png){width="6.6663965441819775in"
-height="3.744640201224847in"}
+![](./media/media/image5.png)
 
 [Episcopalian](https://www.firstfamilies.us/faith/episcopalian)
 
@@ -107,8 +98,7 @@ height="3.9270833333333335in"}
 
 [Liturgy](https://quod.lib.umich.edu/cgi/t/text/text-idx?c=moa;idno=AJK3532). 
 
-![](./media/media/image7.png){width="7.528975284339458in"
-height="4.229166666666667in"}
+![](./media/media/image7.png)
 
 [Lutheran](https://www.firstfamilies.us/faith/lutheran)
 
@@ -116,8 +106,7 @@ height="4.229166666666667in"}
 Catechism](https://www.firstfamilies.us/faith/lutheran)     [Book of
 Concord](https://www.firstfamilies.us/faith/lutheran)
 
-![](./media/media/image8.png){width="7.417709973753281in"
-height="4.166666666666667in"}
+![](./media/media/image8.png)
 
 [Methodist](https://www.firstfamilies.us/faith/methodist)
 
@@ -125,16 +114,14 @@ height="4.166666666666667in"}
 Catechism](https://www.firstfamilies.us/faith/methodist)     [Book of
 Discipline](https://www.firstfamilies.us/faith/methodist)
 
-![](./media/media/image9.png){width="5.1875in"
-height="2.9166666666666665in"}
+![](./media/media/image9.png)
 
 [Mennonites](https://www.firstfamilies.us/faith/mennonites)
 
      [Elbing
 Catechism](https://www.firstfamilies.us/faith/mennonites)     
 
-![](./media/media/image10.png){width="6.666666666666667in"
-height="3.75in"}
+![](./media/media/image10.png)
 
 Moravian Church
 
@@ -149,8 +136,7 @@ Catechism](https://www.firstfamilies.us/faith/dutch-reformed)     
 
 [Old Catholics](https://www.firstfamilies.us/faith/old-catholics)
 
-![](./media/media/image12.png){width="7.3125in"
-height="4.107568897637795in"}
+![](./media/media/image12.png)
 
 [Presbyterians](https://www.firstfamilies.us/faith/presbyterians)
 
@@ -158,8 +144,7 @@ height="4.107568897637795in"}
 Catechism](https://www.firstfamilies.us/faith/presbyterians)     [Book
 of Confessions](https://www.firstfamilies.us/faith/presbyterians)
 
-![](./media/media/image13.png){width="6.971666666666667in"
-height="3.9166666666666665in"}
+![](./media/media/image13.png)
 
 [National Society of
 Saints](http://nationalsocietyofsaintsandsinners.org/wp-content/uploads/2018/07/Approved-List-of-Saints-07-15-15.pdf)
