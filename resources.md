@@ -31,44 +31,10 @@ Royality
 
 
 
-
-
-
-
-
-Religions:
-
-- [Swiss Anabaptist](https://saga-omii.org/index.html)
-- [Congregationalists](https://www.congregationallibrary.org/for-researchers/search-obituaries)
-- [Huguenot Society of America](https://www.huguenotsocietyofamerica.org/history/ancestors/)
-- [Virginia Huguenot Society](https://www.frenchhuguenots-virginiasociety.org/)
-- [Huguenot Society of Pennsylvania](https://pahuguenotsociety.wixsite.com/website)
-- [Huguenot Society of the Founders of Manakin](https://www.huguenotmanakin.org/copy-of-old-registered-lineages)
-- [Germmanna](http://germannafamily.org/index.php):
-- [Early Quaker Descendents](http://www.earlyquakers.org/qualifyingancestors.html), [Welcome Society](https://www.welcomesociety.org/ancestors.html), 
-
-
 [ForeFathers:](https://www.hereditary.us/family-associations) 
-- [Council of Scottish Clans](https://www.cosca.scot/surname)
-- [Allred Family Association](https://www.broughfamily.org/families/allreds_of_eccles_1500s_to_1700/):
-- [Austin Family Association](https://www.afaoa.org/cpage.php?pt=7):
-- Boone Society
-- [Clan MacBean](https://clanmacbean.org/):
-- [Clan Campbell Society](https://www.ccsna.org/clan-campbell-genealogy):
-- [Carter Society](https://cartersociety.org/index.php/membership#applications):
-- [Dameron Family Association](https://ddfa.org/articles/lawrence-dameron):
-- [Eskridge Family Assocation](https://eskridgefamilyassociation.com/files/first4-pdf.pdf):
-- [Clan Forbes Society](https://www.clan-forbes.org/genealogy):
-- [Fuqua Database](https://homepages.rootsweb.com/~fuqua/Main%20Database/index.htm): 
-- [Clan Gunn](https://cgsna.org/project/chesapeake/):
-- [Haskell Family Association](http://hfa.haskells.net/pdf/members_only.html):
-- [Kenner Family Assocation](https://www.facebook.com/p/Kenner-Family-Association-100063314974122/)
-- [Society of Lees](http://www.thesocietyoftheleesofva.org/index.php)
-- [Leftwich Historical Association](https://www.leftwich.org/?page_id=56):
-- [Mendenhall Family Association](https://www.mendenhall.org/): 
-- Monticello Association
-- [Soule Kindred](https://tng.soulekindred.org/):
-- National Society of the Washington Family Descendants
+
+
+
 
 Government & Founders:
 - [Hereditary Order of Descendants of Colonial Governors](http://www.hereditary.us/contact.htm)
@@ -121,7 +87,7 @@ MISC:
 - [Society of the Cincinnati](https://www.americanrevolutioninstitute.org/soldiers-and-sailors-of-the-revolutionary-war/officers-represented-in-the-society-of-the-cincinnati/)
 - [Continental Society Daughters of Indian Wars](https://csdiw.org/qualifying-ancestors/)
 - [Flagon and Trencher](http://www.flagonandtrencher.org/Ancestors.htm)
-- Society of the First Families of New York
+
 
 
 --------------------------------------------------------
