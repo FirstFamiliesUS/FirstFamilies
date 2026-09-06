@@ -6,10 +6,6 @@ custom_color: navy
 scroll_top_btn:
   enable: true 
 
-
-<iframe src="https://calendar.google.com/calendar/embed?src=firstfamiliesusa%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-
 # Hero Section
 hero:
   subtitle: Welcome to First Families in the United States.
@@ -182,6 +178,12 @@ cta:
     <div class="container">
       <div class="card shadow-none my-n13 my-md-n15 my-lg-n17">
         <div class="card-body py-12 py-lg-14 px-lg-11 py-xl-16 px-xl-13">
+          
+          <!-- GOOGLE CALENDAR EMBED -->
+          <div class="text-center mb-10">
+            <iframe src="https://calendar.google.com/calendar/embed?src=firstfamiliesusa%40gmail.com&ctz=America%2FNew_York" style="border: 0; max-width: 100%;" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+          </div>
+
           {% include components/sections/demo17/services.html %}
           {% include components/sections/demo17/strategy.html %}
           {% include components/sections/demo17/facts.html %}
