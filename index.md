@@ -10,8 +10,8 @@ scroll_top_btn:
 
 # Hero Section
 hero:
-  subtitle: Hello! This is Sandbox
-  title: We bring rapid solutions for your business.
+  subtitle: Welcome to First Families in the United States.
+  title: Promoting the Posterity!
   buttons:
     - label: Explore Now
       url: "#"
