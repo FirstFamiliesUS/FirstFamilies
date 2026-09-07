@@ -2,7 +2,7 @@
 layout: default
 title: Illinois
 custom_color: navy
-permalink: /events/illinois.md
+permalink: /events/illinois/
 ---
 
 <header class="wrapper bg-light">
