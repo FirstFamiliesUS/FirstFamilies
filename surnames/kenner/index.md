@@ -4,6 +4,10 @@ title: "The Kenner Family"
 permalink: /surnames/kenner/
 sidebar:
   nav: "ancestors_sidebar"
+header:
+  image: /assets/images/KFA.jpg
+  og_image: /assets/images/KFA.jpg
+---
 
 <header class="wrapper bg-light">
   {% include components/navbar/navbar.html
@@ -14,10 +18,6 @@ sidebar:
   %}
 </header>
 
-header:
-  image: /assets/images/KFA.jpg
-  og_image: /assets/images/KFA.jpg
----
 
 <section class="wrapper bg-light">
 <div class="container py-12 py-md-14">
