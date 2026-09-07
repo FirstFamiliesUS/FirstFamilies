@@ -15,15 +15,6 @@ permalink: /events/maine/
 </header>
 
 
-<header class="wrapper bg-light">
-  {% include components/navbar/navbar.html
-    classList="center-nav transparent navbar-light"
-    centerNav=true
-    logoAlt=true
-    otherClassList="w-100 d-flex ms-auto"
-  %}
-</header>
-
 <section class="wrapper bg-light">
 <div class="container py-12 py-md-14">
 <div class="row justify-content-center">
@@ -50,7 +41,7 @@ More detailed family histories, migration stories, and research resources will b
 
 ---
 
-*Last updated: August 2026*
+*Last updated: September 2026*
 
 </div>
 </article>
