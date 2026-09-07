@@ -54,6 +54,10 @@ ACCOLADES:
 - Wisconsin First Families: Pioneer Family Certificate
 - Land Grants: [MI1250__.479](https://glorecords.blm.gov/details/patent/default.aspx?accession=MI1250__.479&docClass=STA&sid=y4vhw4bs.eqv) (160 acres) ; [MW-0984-417](https://glorecords.blm.gov/details/patent/default.aspx?accession=0984-417&docClass=MW&sid=ivydenqu.xf4) (160 acres); 
 
+DOCUMENTS:
+<img src="{{ '/surnames/pratt/media/MarshallLPratt.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Marshall L Pratt Tombstone">
+
+<img src="{{ '/surnames/pratt/media/MW_Patent_0984-417.PDF' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Marshall L Pratt Land Grant">
 
 ## Descendants of Marshall Pratt
 
