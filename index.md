@@ -187,10 +187,11 @@ cta:
 
 <!-- POSTERITY IMAGE -->
 <div class="text-center mb-10">
-  <img src="/assets/images/xtELN-cropped.jpg" 
+  <img src="{{ '/assets/images/xtELN-cropped.jpg' | relative_url }}" 
        alt="First Families image" 
        class="img-fluid rounded shadow">
 </div>
+
 
           {% include components/sections/demo17/services.html %}
           {% include components/sections/demo17/strategy.html %}
