@@ -20,17 +20,6 @@ hero:
   background_image: /assets/img/photos/bg11.webp
 
 
-
-
-
-
-# Call to Action Section
-cta:
-  title: We are trusted by over 5000+ clients. Join them now and grow your business.
-  button:
-    label: Get Started
-    url: "#"
-    class: btn btn-primary rounded-pill
 ---
 
 <div class="content-wrapper">
