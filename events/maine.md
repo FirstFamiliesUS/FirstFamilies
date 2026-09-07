@@ -1,8 +1,18 @@
 ---
 layout: default
 title: Maine
+custom_color: navy
 permalink: /events/maine/
 ---
+
+<header class="wrapper bg-light">
+  {% include components/navbar/navbar.html
+    classList="center-nav transparent navbar-light"
+    centerNav=true
+    logoAlt=true
+    otherClassList="w-100 d-flex ms-auto"
+  %}
+</header>
 
 <section class="wrapper bg-light">
 <div class="container py-12 py-md-14">
