@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Template
+title: Illinois
 custom_color: navy
-permalink: /
+permalink: /events/illinois.md
 ---
 
 <header class="wrapper bg-light">
@@ -21,6 +21,10 @@ permalink: /
 <div class="col-lg-9">
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
+
+
+- [Illinois Genealogical Society](https://ilgensoc.org/cstm_ILcmbDB.php). [Prairie Patriot Certificates DB](https://ilgensoc.org/cstm_ILcmbDB.php). 
+- [Johnson County](https://johnsonctyilgenhist.org/),   [Illinois](https://ilgensoc.org/cpage.php?pt=599).
 
 
 ---
