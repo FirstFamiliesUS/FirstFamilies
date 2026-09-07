@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Template
+title: Michigan
 custom_color: navy
-permalink: /
+permalink: /events/michigan
 ---
 
 <header class="wrapper bg-light">
