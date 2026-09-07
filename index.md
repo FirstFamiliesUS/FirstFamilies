@@ -8,8 +8,8 @@ scroll_top_btn:
 
 # Hero Section
 hero:
-  subtitle: Welcome to First Families in the United States.
-  title: Promoting the Posterity!
+  subtitle: Welcome to First Families in the United States
+  title: '<span class="display-4">Promoting the Posterity!</span>'
   buttons:
     - label: Explore Now
       url: "#"
