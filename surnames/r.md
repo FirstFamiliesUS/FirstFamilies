@@ -25,9 +25,5 @@ permalink: /surnames/r/
 # R
 
 * [Richardson](https://firstfamiliesus.github.io/FirstFamilies/surnames/richardson/)
-* [Paul](https://firstfamiliesus.github.io/FirstFamilies/surnames/paul/)
-* [Periehouse](https://firstfamiliesus.github.io/FirstFamilies/surnames/periehouse/)
-* [Philpott](https://firstfamiliesus.github.io/FirstFamilies/surnames/philpott/)
-* [Pratt](https://firstfamiliesus.github.io/FirstFamilies/surnames/pratt/)
 * [Russell]({{ '/surnames/russell/' | relative_url }})
 * [Rutledge]({{ '/surnames/rutledge/' | relative_url }})
