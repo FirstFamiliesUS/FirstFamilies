@@ -505,61 +505,7 @@ main:
           - title: Post with Left Sidebar
             url: /blog/sidebar-post-layout-example/
 
-  - title: Blocks
-    type: mega-menu-icon
-    items:
-      - title: About
-        url: /docs/blocks/about/
-        icon: /assets/img/demos/block1.svg
-      - title: Blog
-        url: /docs/blocks/blog/
-        icon: /assets/img/demos/block2.svg
-      - title: Call to Action
-        url: /docs/blocks/call-to-action/
-        icon: /assets/img/demos/block3.svg
-      - title: Clients
-        url: /docs/blocks/clients/
-        icon: /assets/img/demos/block4.svg
-      - title: Contact
-        url: /docs/blocks/contact/
-        icon: /assets/img/demos/block5.svg
-      - title: Facts
-        url: /docs/blocks/facts/
-        icon: /assets/img/demos/block6.svg
-      - title: FAQ
-        url: /docs/blocks/faq/
-        icon: /assets/img/demos/block7.svg
-      - title: Features
-        url: /docs/blocks/features/
-        icon: /assets/img/demos/block8.svg
-      - title: Footer
-        url: /docs/blocks/footer/
-        icon: /assets/img/demos/block9.svg
-      - title: Hero
-        url: /docs/blocks/hero/
-        icon: /assets/img/demos/block10.svg
-      - title: Misc
-        url: /docs/blocks/misc/
-        icon: /assets/img/demos/block17.svg
-      - title: Navbar
-        url: /docs/blocks/navbar/
-        icon: /assets/img/demos/block11.svg
-      - title: Portfolio
-        url: /docs/blocks/portfolio/
-        icon: /assets/img/demos/block12.svg
-      - title: Pricing
-        url: /docs/blocks/pricing/
-        icon: /assets/img/demos/block13.svg
-      - title: Process
-        url: /docs/blocks/process/
-        icon: /assets/img/demos/block14.svg
-      - title: Team
-        url: /docs/blocks/team/
-        icon: /assets/img/demos/block15.svg
-      - title: Testimonials
-        url: /docs/blocks/testimonials/
-        icon: /assets/img/demos/block16.svg
-
+ 
 # One-page navigation configuration
 onepage:
   links:
