@@ -28,12 +28,18 @@ main:
         url: /events/delaware/
       - title: Georgia
         url: /events/georgia/
+      - title: Illinois
+        url: /events/illinois/
+      - title: Indiana
+        url: /events/indiana/
       - title: Maine
         url: /events/maine/
       - title: Maryland
         url: /events/maryland/
       - title: Massachusetts
         url: /events/massachusetts/
+      - title: Michigan
+        url: /events/michigan/
       - title: Mississippi
         url: /events/mississippi/
       - title: New Hampshire
@@ -60,6 +66,8 @@ main:
         url: /events/washington-dc/
       - title: West Virginia
         url: /events/west-virginia/
+      - title: Wisconsin
+        url: /events/wisconsin/
 
   - title: Faith
     type: dropdown
