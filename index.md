@@ -21,41 +21,18 @@ hero:
 
 
 
-# Strategy Section
-strategy:
-  title: 3 working steps to organize our business projects.
-  subtitle: Our Strategy
-  text: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod eget. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus.
-  text2: Nullam id dolor id nibh ultricies vehicula ut id elit. Vestibulum id ligula porta felis euismod semper. Aenean lacinia bibendum consectetur.
-  button:
-    label: Learn More
-    url: "#"
-    class: btn btn-primary rounded-pill mb-0
-  steps:
-    - number: "01"
-      title: Collect Ideas
-      text: Nulla vitae elit libero pharetra augue dapibus. Fusce dapibus, tellus ac cursus commodo.
-      color: purple
-    - number: "02"
-      title: Data Analysis
-      text: Vivamus sagittis lacus vel augue laoreet tortor mauris condimentum fermentum.
-      color: green
-    - number: "03"
-      title: Finalize Product
-      text: Cras mattis consectetur purus sit amet massa justo sit amet risus consectetur magna elit.
-      color: orange
 
 # Facts Section
 facts:
   subtitle: Company Facts
   title: We are proud of our works
   counters:
-    - count: 1000+
-      text: Completed Projects
-    - count: 500+
-      text: Happy Clients
-    - count: 150+
-      text: Awards Won
+    - count: 100+
+      text: Surnames
+    - count: 50+
+      text: Events
+    - count: 15+
+      text: Certificates awarded
 
 # Testimonials Section
 testimonials:
@@ -71,27 +48,7 @@ testimonials:
       name: Nikolas Brooten
       position: Sales Manager
 
-# Case Studies Section
-case_studies:
-  subtitle: Case Studies
-  title: Check out some of our awesome projects with creative ideas and great design.
-  projects:
-    - image: /assets/img/photos/b4.webp
-      title: Ligula tristique quis risus
-      date: 14 Apr 2022
-      category: Coding
-    - image: /assets/img/photos/b5.webp
-      title: Nullam id dolor elit id nibh
-      date: 29 Mar 2022
-      category: Workspace
-    - image: /assets/img/photos/b6.webp
-      title: Ultricies fusce porta elit
-      date: 26 Feb 2022
-      category: Meeting
-    - image: /assets/img/photos/b7.webp
-      title: Morbi leo risus porta eget
-      date: 7 Jan 2022
-      category: Business Tips
+
 
 # Team Section
 team:
@@ -106,28 +63,7 @@ team:
     - text: Etiam porta sem malesuada magna mollis euismod.
     - text: Fermentum massa vivamus faucibus amet euismod.
 
-# Why Choose Us Section
-why_choose:
-  subtitle: Why Choose Us?
-  title: A few reasons why our valued customers choose us.
-  image: /assets/img/photos/about25.webp
-  image2x: /assets/img/photos/about25@2x.webp
-  accordions:
-    - id: headingOne
-      collapse_id: collapseOne
-      title: Professional Design
-      text: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.
-      show: true
-    - id: headingTwo
-      collapse_id: collapseTwo
-      title: Top-Notch Support
-      text: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.
-      show: false
-    - id: headingThree
-      collapse_id: collapseThree
-      title: Header and Slider Options
-      text: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.
-      show: false
+
 
 # Call to Action Section
 cta:
