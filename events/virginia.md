@@ -55,6 +55,9 @@ The Sons and Daughters of Virginia Founding Fathers (SDVAFF) is a non-profit lin
 
 * **Historical Context:** The Edict of Nantes, signed by Henry IV in April 1598, granted Huguenots limited religious freedoms in designated French towns. Its revocation by Louis XIV in October 1685 initiated widespread persecution, leading hundreds of thousands of Huguenots to flee France for other regions, including Virginia.
 
+
+### [American Descendants of the House of Burgess](http://descendantsofthehouseofburgesses.org/)
+
 ---
 
 ## Resources
