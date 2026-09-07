@@ -9,7 +9,7 @@ scroll_top_btn:
 # Hero Section
 hero:
   subtitle: Welcome to First Families in the United States
-  title: '<span class="display-6">Promoting the Posterity!</span>'
+  title: Promoting the Posterity!
   buttons:
     - label: Explore Now
       url: "#"
@@ -33,35 +33,6 @@ facts:
       text: Events
     - count: 15+
       text: Certificates awarded
-
-# Testimonials Section
-testimonials:
-  image: /assets/img/photos/tm1.webp
-  testimonials_list:
-    - text: "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper."
-      name: Coriss Ambady
-      position: Financial Analyst
-    - text: "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper."
-      name: Cory Zamora
-      position: Marketing Specialist
-    - text: "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper."
-      name: Nikolas Brooten
-      position: Sales Manager
-
-
-
-# Team Section
-team:
-  subtitle: Our Team
-  title: Save your time by choosing our professional team.
-  text: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-  image: /assets/img/photos/about24.webp
-  image2x: /assets/img/photos/about24@2x.webp
-  features:
-    - text: Aenean eu leo quam ornare curabitur blandit tempus.
-    - text: Nullam quis risus eget urna mollis ornare donec elit.
-    - text: Etiam porta sem malesuada magna mollis euismod.
-    - text: Fermentum massa vivamus faucibus amet euismod.
 
 
 
