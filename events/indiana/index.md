@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Template
+title: Indiana
 custom_color: navy
-permalink: /
+permalink: /events/indiana
 ---
 
 <header class="wrapper bg-light">
