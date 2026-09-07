@@ -179,10 +179,18 @@ cta:
       <div class="card shadow-none my-n13 my-md-n15 my-lg-n17">
         <div class="card-body py-12 py-lg-14 px-lg-11 py-xl-16 px-xl-13">
           
-          <!-- GOOGLE CALENDAR EMBED -->
-          <div class="text-center mb-10">
-            <iframe src="https://calendar.google.com/calendar/embed?src=firstfamiliesusa%40gmail.com&ctz=America%2FNew_York" style="border: 0; max-width: 100%;" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-          </div>
+<!-- GOOGLE CALENDAR EMBED -->
+<div class="text-center mb-10">
+  <iframe src="https://calendar.google.com/calendar/embed?src=firstfamiliesusa%40gmail.com&ctz=America%2FNew_York" 
+          style="border: 0; max-width: 100%;" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+
+<!-- POSTERITY IMAGE -->
+<div class="text-center mb-10">
+  <img src="/assets/images/xtELN-cropped.jpg" 
+       alt="First Families image" 
+       class="img-fluid rounded shadow">
+</div>
 
           {% include components/sections/demo17/services.html %}
           {% include components/sections/demo17/strategy.html %}
