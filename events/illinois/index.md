@@ -23,8 +23,12 @@ permalink: /events/illinois/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Illinois Genealogical Society](https://ilgensoc.org/cstm_ILcmbDB.php). [Prairie Patriot Certificates DB](https://ilgensoc.org/cstm_ILcmbDB.php). 
+# Resources:
+- [Illinois Genealogical Society](https://ilgensoc.org/cstm_ILcmbDB.php). [Prairie Patriot Certificates DB](https://ilgensoc.org/cstm_ILcmbDB.php).
+- [Illinois](https://www.familysearch.org/en/wiki/Illinois,_United_States_Genealogy):  
 - [Johnson County](https://johnsonctyilgenhist.org/),   [Illinois](https://ilgensoc.org/cpage.php?pt=599).
+- [Lee County](https://www.familysearch.org/en/wiki/Lee_County,_Illinois_Genealogy):  [Dixon](https://en.wikipedia.org/wiki/Dixon,_Illinois)
+- [Massac County](https://www.familysearch.org/en/wiki/Massac_County,_Illinois_Genealogy): 
 
 
 ---
