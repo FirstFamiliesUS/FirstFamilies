@@ -22,18 +22,6 @@ hero:
 
 
 
-# Facts Section
-facts:
-  subtitle: Company Facts
-  title: We are proud of our works
-  counters:
-    - count: 100+
-      text: Surnames
-    - count: 50+
-      text: Events
-    - count: 15+
-      text: Certificates awarded
-
 
 
 # Call to Action Section
