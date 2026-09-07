@@ -4,6 +4,16 @@ I am a native Missourian, a Military Spouse and an active public servant in the 
 
 Typically, these flags are presented in order to honor a US Service Member, member of Law Enforcement or EMS, Teachers, Public Officials or others that have provided a service to the state or nation or in commemoration of a specific event. 
 
+
+<header class="wrapper bg-light">
+  {% include components/navbar/navbar.html
+    classList="center-nav transparent navbar-light"
+    centerNav=true
+    logoAlt=true
+    otherClassList="w-100 d-flex ms-auto"
+  %}
+</header>
+
 <section class="wrapper bg-light">
 <div class="container py-12 py-md-14">
 <div class="row justify-content-center">

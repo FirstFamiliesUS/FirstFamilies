@@ -4,6 +4,16 @@ title: "Gray"
 permalink: /surnames/gray/robert2/
 gallery:
   - url: /assets/images/PMC-sample.jpg
+
+<header class="wrapper bg-light">
+  {% include components/navbar/navbar.html
+    classList="center-nav transparent navbar-light"
+    centerNav=true
+    logoAlt=true
+    otherClassList="w-100 d-flex ms-auto"
+  %}
+</header>
+
     image_path: /assets/images/PMC-sample.jpg
     alt: "PMC Sample"
   - url: /assets/images/msga3.jpg

@@ -4,6 +4,16 @@ title: "David Kenner"
 permalink: /ancestors/kenner/david/
 custom_color:
 custom_font: 
+
+<header class="wrapper bg-light">
+  {% include components/navbar/navbar.html
+    classList="center-nav transparent navbar-light"
+    centerNav=true
+    logoAlt=true
+    otherClassList="w-100 d-flex ms-auto"
+  %}
+</header>
+
 scroll_top_btn:
   enable: true
 ---
