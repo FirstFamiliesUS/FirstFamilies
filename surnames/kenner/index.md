@@ -14,16 +14,6 @@ sidebar:
   %}
 </header>
 
-
-<header class="wrapper bg-light">
-  {% include components/navbar/navbar.html
-    classList="center-nav transparent navbar-light"
-    centerNav=true
-    logoAlt=true
-    otherClassList="w-100 d-flex ms-auto"
-  %}
-</header>
-
 header:
   image: /assets/images/KFA.jpg
   og_image: /assets/images/KFA.jpg
