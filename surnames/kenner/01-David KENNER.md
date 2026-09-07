@@ -4,6 +4,10 @@ title: "David Kenner"
 permalink: /ancestors/kenner/david/
 custom_color:
 custom_font: 
+scroll_top_btn:
+  enable: true
+---
+
 
 <header class="wrapper bg-light">
   {% include components/navbar/navbar.html
@@ -14,9 +18,6 @@ custom_font:
   %}
 </header>
 
-scroll_top_btn:
-  enable: true
----
 
 <section class="wrapper bg-light">
 <div class="container py-12 py-md-14">
