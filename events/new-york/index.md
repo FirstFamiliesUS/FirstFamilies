@@ -4,6 +4,16 @@
 
 Dutch native or Dutch resident of New Netherland or the American
 colonies (now a part of the United States) prior to or during the
+
+<header class="wrapper bg-light">
+  {% include components/navbar/navbar.html
+    classList="center-nav transparent navbar-light"
+    centerNav=true
+    logoAlt=true
+    otherClassList="w-100 d-flex ms-auto"
+  %}
+</header>
+
 year **1675** 
 
 ![](./media/media/image2.jpeg)

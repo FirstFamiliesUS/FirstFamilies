@@ -4,6 +4,16 @@
 Society](https://algensoc.org/main/ancestorindex.pdf)
 
 First Families of Alabama is a certificate program offered by the
+
+<header class="wrapper bg-light">
+  {% include components/navbar/navbar.html
+    classList="center-nav transparent navbar-light"
+    centerNav=true
+    logoAlt=true
+    otherClassList="w-100 d-flex ms-auto"
+  %}
+</header>
+
 Alabama Genealogical Society to its members and is designed to identify
 and honor the memory of early residents of the state of Alabama. Early
 residents are those settlers who resided within the present boundaries

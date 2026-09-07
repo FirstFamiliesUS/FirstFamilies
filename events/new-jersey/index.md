@@ -4,6 +4,16 @@ height="5.315277777777778in"}
 [Descendants of Founders of New
 Jersey](https://www.njfounders.org/founders)
 
+
+<header class="wrapper bg-light">
+  {% include components/navbar/navbar.html
+    classList="center-nav transparent navbar-light"
+    centerNav=true
+    logoAlt=true
+    otherClassList="w-100 d-flex ms-auto"
+  %}
+</header>
+
 Settlers came to East Jersey as early as 1618 when the Dutch from New
 Amsterdam settled at Bergen (now Jersey City), and in West Jersey as
 early as 1623 when Fort Nassau was established on the Delaware River. In

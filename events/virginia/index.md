@@ -4,6 +4,16 @@
 Society](https://www.jamestowne.org/qualifying-ancestors.html)
 
 **10 April 1606** stock was sold in London Company or the Virginia
+
+<header class="wrapper bg-light">
+  {% include components/navbar/navbar.html
+    classList="center-nav transparent navbar-light"
+    centerNav=true
+    logoAlt=true
+    otherClassList="w-100 d-flex ms-auto"
+  %}
+</header>
+
 Company
 
 Resident in Virginia at the time of the 1624/25 Muster or earlier

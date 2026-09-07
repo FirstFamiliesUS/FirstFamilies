@@ -4,6 +4,16 @@ title: Maine, Virginia
 permalink: /events/virginia/maine/
 ---
 
+
+<header class="wrapper bg-light">
+  {% include components/navbar/navbar.html
+    classList="center-nav transparent navbar-light"
+    centerNav=true
+    logoAlt=true
+    otherClassList="w-100 d-flex ms-auto"
+  %}
+</header>
+
 ![](./media/media/image1.jpeg)
 
 [Order of the First Families of Maine](https://newenglandsocieties.com/offme-eligibility/)

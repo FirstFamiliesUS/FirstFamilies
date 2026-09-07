@@ -4,6 +4,16 @@ title: Pennsylvania, Pennsylvania
 permalink: /events/pennsylvania/pennsylvania/
 ---
 
+
+<header class="wrapper bg-light">
+  {% include components/navbar/navbar.html
+    classList="center-nav transparent navbar-light"
+    centerNav=true
+    logoAlt=true
+    otherClassList="w-100 d-flex ms-auto"
+  %}
+</header>
+
 ![](./media/media/image1.jpeg)
 
 [Genealogical Society of

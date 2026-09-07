@@ -4,6 +4,16 @@ title: St. Mary's City, Maryland
 permalink: /events/maryland/st-mary/
 ---
 
+
+<header class="wrapper bg-light">
+  {% include components/navbar/navbar.html
+    classList="center-nav transparent navbar-light"
+    centerNav=true
+    logoAlt=true
+    otherClassList="w-100 d-flex ms-auto"
+  %}
+</header>
+
 # Historic St. Mary's City, Maryland
 
 ## Overview
