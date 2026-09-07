@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Template
+title: Wisconsin
 custom_color: navy
-permalink: /
+permalink: /events/wisconsin
 ---
 
 <header class="wrapper bg-light">
