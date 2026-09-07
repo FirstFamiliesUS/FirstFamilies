@@ -103,17 +103,11 @@ MISC:
 
 --------------------------------------------------------
 States:
-- [Illinois Genealogical Society](https://ilgensoc.org/cstm_ILcmbDB.php). [Prairie Patriot Certificates DB](https://ilgensoc.org/cstm_ILcmbDB.php). 
-- [Johnson County](https://johnsonctyilgenhist.org/),   [Illinois](https://ilgensoc.org/cpage.php?pt=599).
-- [Indiana Approved Ancestors](https://indianapioneers.org/ancestors/)
 - [Iowa Approved Ancestors](https://iowagenealogy.org/surname.php)  
-- [Michigan Database](http://data.mimgc.org/PioneerCertificates/FMPro?-db=PioneerCertificates&lay=web&-format=search.htm&-view). 
 - [Missouri Approved List](https://mosga.org/upload/files/First_Families_approved_through_March_31%2C_2026_r1.pdf). [Missouri Surname](https://mosga.org/cstm_journalIndexSurname.php). [Missouri Online Death Certificates](https://s1.sos.mo.gov/records/Archives/ArchivesMvc/DeathCertificates). [Missouri House of Representatives](https://house.mo.gov/listmembers.aspx?utm_source=copilot.com), [Missouri Senate](https://www.senate.mo.gov/15info/SenateRoster.htm?utm_source=copilot.com).
 - [Nebraska Surnames](https://nsgs.org/surname.php). [Nebraska Secretary of State](https://capitol.nebraska.gov/building/host-an-event/have-a-flag-flown/). 
     - [Otoe County Pioneers](https://ocgsne.org/index.php/research/pioneers)
 - [Oklahoma Surnames](https://okgensoc.org/surname.php?page=1&nr=50&scl=c0a)
-- Wisconsin Genealogical Society. [Reunion Certificate](https://wsgs.org/page-1075288) - issued by the WSGS to families holding reunions.
-- [American Descendants of the House of Burgess](http://descendantsofthehouseofburgesses.org/)
 - Geneanet. [Search French Ancestors](https://en.geneanet.org/explore/french-ancestors/).
 - Famous Kin: [Geneastar](https://en.geneastar.org/#categories).
 
