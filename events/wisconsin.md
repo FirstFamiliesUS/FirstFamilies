@@ -23,6 +23,8 @@ permalink: /events/wisconsin
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
+- Wisconsin Genealogical Society. [Reunion Certificate](https://wsgs.org/page-1075288) - issued by the WSGS to families holding reunions.
+
 ---
 
 *Last updated: September 2026*
