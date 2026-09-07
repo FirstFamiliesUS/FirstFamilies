@@ -103,6 +103,8 @@ States:
 - [Oklahoma Surnames](https://okgensoc.org/surname.php?page=1&nr=50&scl=c0a)
 - Wisconsin Genealogical Society. [Reunion Certificate](https://wsgs.org/page-1075288) - issued by the WSGS to families holding reunions.
 - [American Descendants of the House of Burgess](http://descendantsofthehouseofburgesses.org/)
+- Geneanet. [Search French Ancestors](https://en.geneanet.org/explore/french-ancestors/).
+- Famous Kin: [Geneastar](https://en.geneastar.org/#categories).
 
 
 
@@ -116,6 +118,7 @@ ________________________________________________________________________________
 - [V. A. Grave Marker](https://www.dmwv.org/honoring.php#marker)
 - PRESIDENTIAL MEMORIAL CERTIFICATES 
 - https://en.wikipedia.org/wiki/List_of_hereditary_and_lineage_organizations_in_the_United_States
+- 
 
 
 
