@@ -19,29 +19,7 @@ hero:
       class: btn btn-lg btn-outline-primary rounded-pill
   background_image: /assets/img/photos/bg11.webp
 
-# Services Section
-services:
-  title: The service we offer is specifically designed to meet your needs.
-  subtitle: What We Do?
-  service_items:
-    - icon: uil uil-phone-volume
-      title: 24/7 Support
-      text: Fusce dapibus tellus cursus porta tortor condimentum euismod massa justo vehicula sit amet et risus cras.
-      link: "#"
-      link_text: Learn More
-      color: purple
-    - icon: uil uil-shield-exclamation
-      title: Secure Payments
-      text: Fusce dapibus tellus cursus porta tortor condimentum euismod massa justo vehicula sit amet et risus cras.
-      link: "#"
-      link_text: Learn More
-      color: green
-    - icon: uil uil-laptop-cloud
-      title: Daily Updates
-      text: Fusce dapibus tellus cursus porta tortor condimentum euismod massa justo vehicula sit amet et risus cras.
-      link: "#"
-      link_text: Learn More
-      color: orange
+
 
 # Strategy Section
 strategy:
