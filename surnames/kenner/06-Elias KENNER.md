@@ -102,10 +102,6 @@ Elias Housen Kenner married Clarinda Loveworth Latham (abt 29 Dec 1825 - abt 28 
             * Mary Jane (Kenner) Braun (01 Sep 1930 - 03 Sep 1987)
             * Jerome Thomas Kenner (22 Apr 1933 - 21 Feb 2020) m. Annette Bower (08 Aug 1936 - 26 Nov 2022) on 1 Jun 1955.
                 * David J. Kenner ()
-                * [private third great-grandson (unknown - unknown)]
-                * [private third great-grandson (unknown - unknown)]
-                * [private third great-granddaughter (unknown - unknown)]
-                * [private third great-granddaughter (unknown - unknown)]
             * Paul Kenner (14 May 1937 - 15 Nov 1997)
 * Cavaster A Kenner (1855)
 * James T Kenner (08 Aug 1861)
@@ -116,10 +112,6 @@ Elias Housen Kenner married Clarinda Loveworth Latham (abt 29 Dec 1825 - abt 28 
         * Rena M. Kenner (unknown - unknown)
         * Sherman A. Kenner (unknown - unknown)
         * Manford James Kenner (1926 - Oct 1966)
-            * [private great-great-granddaughter (unknown - unknown)]
-            * [private great-great-grandson (unknown - unknown)]
-            * [private great-great-granddaughter (unknown - unknown)]
-            * [private great-great-grandson (unknown - unknown)]
         * Thomas E. Kenner (1930s - 2000s) m. [private spouse] m. [private spouse] m. [private spouse]
             * [private great-great-granddaughter (unknown - unknown)] m. [private spouse]
                 * J Morales (unknown - unknown)
