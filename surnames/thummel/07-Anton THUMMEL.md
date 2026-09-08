@@ -29,6 +29,8 @@ permalink: /ancestors/thummel/anton/
 - Child: [Frederica thummel]({{ '/ancestors/thummel/frederica' | relative_url }})
 
 
+[List of AncestryDNA Descendents](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/surnames/thummel/AnthonyThummel-DNA-Descendents.pdf)
+
 
 - [Year: 1850; Census Place: Palmyra, Lee, Illinois; Roll: 116; Page: 79A](https://www.ancestry.com/search/collections/8054/records/16366504?tid=168012819&pid=272180027485&ssrc=pt)
 - [Year: 1860; Census Place: Dixon, Lee, Illinois; Page: 350; Family History Library Film: 803198](https://www.ancestry.com/search/collections/7667/records/36868149?tid=168012819&pid=272180027485&ssrc=pt)
