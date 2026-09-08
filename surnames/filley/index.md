@@ -22,8 +22,7 @@ permalink: /surnames/filley/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.png){width="2.5729166666666665in"
-height="4.083333333333333in"}
+![](./media/media/image1.png)
 
 [Filley](https://houseofnames.com/Filley-family-crest)
 
@@ -36,8 +35,7 @@ of the Filley family name include Fillery, Filley, Fillary, Fildry,
 Filary, Filery, Filey, Fillie, Fildery, Filleigh, Fitzroy, Fitzroi and
 many more.
 
-![](./media/media/image2.png){width="1.6666666666666667in"
-height="0.9375in"}
+![](./media/media/image2.png)
 
 SGT Roger Filley
 

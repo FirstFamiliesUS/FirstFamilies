@@ -22,8 +22,7 @@ permalink: /surnames/cook/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.png){width="2.5729166666666665in"
-height="4.083333333333333in"}
+![](./media/media/image1.png)
 
 [Cook](https://houseofnames.com/cook-family-crest)
 
@@ -41,8 +40,7 @@ with an estimated 298,440 people with that name. 
 Mill ](https://www.firstfamilies.us/events/west-virginia/monroe-county)is
 located in Monroe County West Virginia
 
-![](./media/media/image2.jpeg){width="7.5in"
-height="2.696527777777778in"}
+![](./media/media/image2.jpeg)
 
 [Cook\'s Old
 Mill](https://www.firstfamilies.us/events/west-virginia/monroe-county)

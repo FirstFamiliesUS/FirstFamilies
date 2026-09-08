@@ -22,8 +22,7 @@ permalink: /surnames/austin/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.gif){width="7.333333333333333in"
-height="0.8854166666666666in"}
+![](./media/media/image1.gif)
 
 [Austin Family Association](https://www.afaoa.org/cpage.php?pt=7)
 

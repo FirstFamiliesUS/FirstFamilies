@@ -22,15 +22,13 @@ permalink: /surnames/yates/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.png){width="2.9895833333333335in"
-height="1.6770833333333333in"}
+![](./media/media/image1.png)
 
 Richard Yates
 
 Yates Richard Norfolk, VA 1638
 
-![](./media/media/image1.png){width="2.9895833333333335in"
-height="1.6770833333333333in"}
+![](./media/media/image1.png)
 
 Elizabeth Yates
 

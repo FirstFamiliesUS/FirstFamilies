@@ -22,8 +22,7 @@ permalink: /surnames/gwynn/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.jpeg){width="5.541666666666667in"
-height="3.1145833333333335in"}
+![](./media/media/image1.jpeg)
 
 Ware Episcopal Church
 
@@ -35,8 +34,7 @@ Opened: 1690
 
 NRHP Reference Number: 73002018
 
-![](./media/media/image2.jpeg){width="7.5in"
-height="2.359722222222222in"}
+![](./media/media/image2.jpeg)
 
 Hugh Gwynn
 

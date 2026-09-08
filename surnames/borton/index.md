@@ -22,8 +22,7 @@ permalink: /surnames/borton/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.png){width="2.5729166666666665in"
-height="4.083333333333333in"}
+![](./media/media/image1.png)
 
 [Borton](https://houseofnames.com/Borton-family-crest)
 

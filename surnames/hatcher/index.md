@@ -22,8 +22,7 @@ permalink: /surnames/hatcher/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.jpeg){width="4.760416666666667in"
-height="2.6770833333333335in"}
+![](./media/media/image1.jpeg)
 
 William Hatcher
 

@@ -22,8 +22,7 @@ permalink: /surnames/harris/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.jpeg){width="5.041666666666667in"
-height="2.8333333333333335in"}
+![](./media/media/image1.jpeg)
 
 Thomas Harris
 
@@ -31,24 +30,21 @@ Thomas Harris
 Planter); (Muster of 1624/5); Neck of Land, 1624, Henrico Co.: 1640,
 1647-48 (Burgess). 
 
-![](./media/media/image1.jpeg){width="5.041666666666667in"
-height="2.8333333333333335in"}
+![](./media/media/image1.jpeg)
 
 William Harris
 
 **Harris, William** - A3505; born 1629, died 1678, Henrico Co.: 1652,
 1653, 1656, 1658 (Burgess). 
 
-![](./media/media/image1.jpeg){width="5.041666666666667in"
-height="2.8333333333333335in"}
+![](./media/media/image1.jpeg)
 
 William Harris Sr.
 
 **Harris, William Sr **- A3506; died by 1658, Jamestowne Island: 1655
 (Landowner). 
 
-![](./media/media/image1.jpeg){width="5.041666666666667in"
-height="2.8333333333333335in"}
+![](./media/media/image1.jpeg)
 
 William Harris Jr.
 

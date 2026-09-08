@@ -22,16 +22,14 @@ permalink: /surnames/scarborough/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.jpeg){width="5.041666666666667in"
-height="2.8333333333333335in"}
+![](./media/media/image1.jpeg)
 
 Edmund Scarborough I
 
 **Scarborough/Scarbugh, Edmund I** - A6909; born 1584, died 1635,
 Accomack Co.: 1630, 1632-33 (Burgess).  
 
-![](./media/media/image1.jpeg){width="5.041666666666667in"
-height="2.8333333333333335in"}
+![](./media/media/image1.jpeg)
 
 Edmund Scarborough II
 
@@ -39,8 +37,7 @@ Edmund Scarborough II
 Accomack Co.: 1643-48, 1652, 1656, 1660, 1661-62, 1666-70 (Burgess),
 1645-46 (Speakeer of House of Burgesses), 1665-70 (Surveyor General).  
 
-![](./media/media/image1.jpeg){width="5.041666666666667in"
-height="2.8333333333333335in"}
+![](./media/media/image1.jpeg)
 
 Charles Scarborough
 

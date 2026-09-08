@@ -22,7 +22,6 @@ permalink: /surnames/denny/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.png){width="2.6041666666666665in"
-height="1.9270833333333333in"}
+![](./media/media/image1.png)
 
 Samuel Denny

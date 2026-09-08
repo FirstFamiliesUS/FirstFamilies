@@ -22,8 +22,7 @@ permalink: /surnames/york/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.png){width="1.6666666666666667in"
-height="0.9375in"}
+![](./media/media/image1.png)
 
 PVT Uriah York
 

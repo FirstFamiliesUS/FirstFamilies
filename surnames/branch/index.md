@@ -22,16 +22,14 @@ permalink: /surnames/branch/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.jpeg){width="5.041666666666667in"
-height="2.8333333333333335in"}
+![](./media/media/image1.jpeg)
 
 Thomas Branch
 
 **Branch, Thomas** - A9664; born May 1624, died 1694/5 Henrico Co.:
 (Muster of 1624/5). 
 
-![](./media/media/image1.jpeg){width="5.041666666666667in"
-height="2.8333333333333335in"}
+![](./media/media/image1.jpeg)
 
 John Branch
 

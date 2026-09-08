@@ -22,8 +22,7 @@ permalink: /surnames/brown/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.jpeg){width="3.8333333333333335in"
-height="2.15625in"}
+![](./media/media/image1.jpeg)
 
 Mary Ann Brown
 

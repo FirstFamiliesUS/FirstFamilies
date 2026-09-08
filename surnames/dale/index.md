@@ -22,8 +22,7 @@ permalink: /surnames/dale/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.jpeg){width="3.0208333333333335in"
-height="1.6979166666666667in"}
+![](./media/media/image1.jpeg)
 
 Major Edward Dale
 
@@ -31,8 +30,7 @@ Major Edward Dale
 
 National Society of The Colonial Dames of America 
 
-![](./media/media/image2.jpeg){width="2.03125in"
-height="1.1458333333333333in"}
+![](./media/media/image2.jpeg)
 
 Theodore Roosevelt
 
@@ -40,8 +38,7 @@ Theodore Roosevelt
 
 7th great-grandson
 
-![](./media/media/image3.jpeg){width="2.125in"
-height="1.1979166666666667in"}
+![](./media/media/image3.jpeg)
 
 Eleanor Roosevelt
 

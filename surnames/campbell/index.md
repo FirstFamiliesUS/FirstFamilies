@@ -22,8 +22,7 @@ permalink: /surnames/campbell/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.jpeg){width="3.90625in"
-height="1.3958333333333333in"}
+![](./media/media/image1.jpeg)
 
 General William Campbell
 

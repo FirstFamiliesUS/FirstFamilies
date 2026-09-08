@@ -27,8 +27,7 @@ Unitarian [Congregationalists](https://www.firstfamilies.us/faith/congregationa
 They lived
 in [Quincy](https://www.firstfamilies.us/events/massachusetts/quincy) MA. 
 
-![](./media/media/image1.png){width="2.5in"
-height="1.5833333333333333in"}
+![](./media/media/image1.png)
 
 [Junior
 Ranger](https://www.nps.gov/adam/learn/kidsyouth/beajuniorranger.htm)
@@ -39,8 +38,7 @@ Ranger](https://www.nps.gov/adam/learn/kidsyouth/beajuniorranger.htm)
 [Junior Ranger Booklet for Ages 9 and
 Up](https://www.nps.gov/adam/learn/kidsyouth/upload/Adams-Junior-Ranger-Booklet-ages-9.pdf)
 
-![](./media/media/image2.png){width="1.9270833333333333in"
-height="1.0833333333333333in"}
+![](./media/media/image2.png)
 
 [John Adams (1735 -
 1826)](https://www.nps.gov/adam/learn/historyculture/john-adams-1735-1826.htm)
@@ -52,8 +50,7 @@ given a grant of forty acres of land not far from where John and Susanna
 Boylston Adams brought up their three sons, including their eldest,
 John.
 
-![](./media/media/image3.png){width="3.0520833333333335in"
-height="1.71875in"}
+![](./media/media/image3.png)
 
 [Abigail Adams (1744 -
 1818)](https://www.nps.gov/adam/learn/historyculture/abigail-adams-1744-1818.htm)
@@ -71,8 +68,7 @@ and guiding her son, President John Quincy Adams. Throughout her
 seventy-four-year life, this American heroine was an invaluable
 contributor to the founding and strengthening of the United States. 
 
-![](./media/media/image4.png){width="1.9270833333333333in"
-height="1.0833333333333333in"}
+![](./media/media/image4.png)
 
 [John Quincy Adams (1767 -
 1848)](https://www.nps.gov/adam/learn/historyculture/john-quincy-adams-1767-1848.htm)

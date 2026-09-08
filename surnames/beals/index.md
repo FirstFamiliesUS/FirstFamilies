@@ -22,8 +22,7 @@ permalink: /surnames/beals/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.png){width="2.5729166666666665in"
-height="4.083333333333333in"}
+![](./media/media/image1.png)
 
 [Beals](https://houseofnames.com/Beals-family-crest)
 
@@ -38,8 +37,7 @@ Beele, Beales, Bealer and many more.
 In the United States, the name Beals is the 4,142nd most popular surname
 with an estimated 7,461 people with that name
 
-![](./media/media/image2.png){width="7.333333333333333in"
-height="1.4781255468066492in"}
+![](./media/media/image2.png)
 
 [Early Quakers](http://www.earlyquakers.org/qualifyingancestors.html)
 
@@ -55,8 +53,7 @@ Beals, Mary (Clayton) m John Beals, settled in PA
 
 Beals, Thomas m Sarah Antrim, settled in OH
 
-![](./media/media/image3.png){width="7.47334208223972in"
-height="4.197916666666667in"}
+![](./media/media/image3.png)
 
 [Beallsville Historic
 District](https://montgomeryparks.org/parks-and-trails/darby-store/)
@@ -69,8 +66,7 @@ Park Hours - Sunrise to Sunset
 
 <Info@MontgomeryParks.org>
 
-![](./media/media/image4.jpeg){width="7.5in"
-height="4.2131944444444445in"}
+![](./media/media/image4.jpeg)
 
 [Monocacy Chapel](https://monocacycemetery.com/about_mc/)
 

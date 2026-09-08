@@ -22,8 +22,7 @@ permalink: /surnames/jefferson/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.png){width="2.6041666666666665in"
-height="1.1666666666666667in"}
+![](./media/media/image1.png)
 
 [Monticello
 Association](http://www.monticello-assoc.org/eligibility-for-membership.html)

@@ -22,8 +22,7 @@ permalink: /surnames/boone/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-![](./media/media/image1.png){width="2.5729166666666665in"
-height="4.083333333333333in"}
+![](./media/media/image1.png)
 
 [Boone](https://www.houseofnames.com/boone-family-crest)
 
@@ -35,8 +34,7 @@ Bone, Boon, Boone, Bohan, Bound and many more. In the United States, the
 name Boone is the 480th most popular surname with an estimated 59,688
 people with that name
 
-![](./media/media/image2.jpeg){width="7.416666666666667in"
-height="1.625in"}
+![](./media/media/image2.jpeg)
 
 [Boone Society](https://boonesociety.org/)
 
