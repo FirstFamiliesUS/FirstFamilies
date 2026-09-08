@@ -103,8 +103,7 @@ who meets the following requirements:
 
 4.  
 
-![](./media/image7.jpeg){width="4.395833333333333in"
-height="1.1145833333333333in"}
+![](./media/image7.jpeg)
 
 Sons of the Revolution
 
@@ -127,8 +126,7 @@ Society. Both Senior and **Junior (the latter under the age of eighteen
 years**) [memberships](https://sr1776.org/membership-requirements/) are
 available.
 
-![](./media/image8.jpeg){width="3.0520833333333335in"
-height="1.71875in"}
+![](./media/image8.jpeg)
 
 [Congressional Seminar Essay Contest for High School Students](https://nscda.org/student-resources/congressional-essay-contest/)
 
