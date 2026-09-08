@@ -134,12 +134,134 @@ to help trace Huguenot histories. 
 
 
 
-# New England
+# Massachusetts
+
+![](./media/image36.png)
+
+[General Society of Mayflower Descendants](https://themayflowersociety.org/genealogy/patriots-to-passengers/)
+
+The General Society of Mayflower Descendants is committed to research on
+the lineal descent of the Mayflower Pilgrims and education about the
+Pilgrims who traveled aboard the Mayflower in **1620**. The Society provides
+education and understanding of why the Mayflower Pilgrims were
+important, how they shaped western civilization, and what their 1620
+voyage means today and its impact on the world.  
+
+![](./media/image35.jpeg)
+
+[The Winthrop Society](https://www.winthropsociety.com/doctext)
+
+The Winthrop Society currently consists of proven descendants of the
+first settlers of the Massachusetts Bay Colony. It is open to all men
+and women of good character and proven descent from one or more
+passengers of the Winthrop fleet, or of others who settled in the Bay
+Colony and Down East\* by the end of **1640**. 
+
+![](./media/image33.png)
+
+[Hereditary Order of the First Families of Massachusetts](https://newenglandsocieties.com/hoffma-eligibility/)
+
+Men and women over the age of 18 years, who are lineal descendants of
+men or women who settled within the bounds of the Massachusetts Bay
+Colony **before the year 1650** may be eligible for membership.  For
+purposes of this Order, the term "settler" refers to one who lived in
+the Colony for at least one year, although possibly in more than one
+town during that time. 
+
+
+![](./media/image34.jpeg)
+
+[Ancient and Honorable Artillery Company of Massachusetts](https://newenglandsocieties.com/odahac-eligibility/)
+
+Those individuals eligible for membership shall be at least eighteen
+years of age with legitimate descent from (1) a member of The Ancient
+and Honorable Artillery Company of Massachusetts who served between the
+years 1637-1774; (2) a minister who preached the Election Sermon during
+the years 1638-1774; (3) Governor John Winthrop, (4) Deputy Governor
+Thomas Dudley, (5) a member of the Council or a delegate to the General
+Court in 1638 when the Company Charter was granted, (6) members of the
+Ancient and Honorable Artillery Company of Massachusetts "by right of
+descent," or (7) members of the National Society of Women Descendants of
+The Ancient and Honorable Artillery Company. 
+
+# Maine
+
+![](./media/image31.jpeg)
+
+[Order of the First Families of Maine](https://newenglandsocieties.com/offme-eligibility/)
+
+Membership is open to individuals at least eighteen years of age, who
+are lineal descendants of an ancestor who was a resident of present-day
+Maine, by the year** 1652**. Membership is by invitation only and shall
+be extended by the President General. Membership inquiries are welcome. 
+
+
+# New Hampshire
+
+
+![](./media/image37.jpeg)
+
+[Order of the First Families of New Hampshire](http://www.firstfamiliesofnewhampshire.org/ancestors.html)
+
+Honor those hardy and enterprising early ancestors who concentrated
+their efforts, labor and skills in building the enduring greatness of
+the State of New Hampshire. Recognize and record those individuals who
+established residency, owned land or businesses within the boundaries of
+present day New Hampshire between 1622 - 1680. 
+
+# New Jersey
+
+![](./media/image38.png)
+
+[Descendants of Founders of New Jersey](https://www.njfounders.org/founders)
+
+Settlers came to East Jersey as early as 1618 when the Dutch from New
+Amsterdam settled at Bergen (now Jersey City), and in West Jersey as
+early as 1623 when Fort Nassau was established on the Delaware River. In
+March 1664, King Charles II formally granted the land to his brother,
+James, Duke of York. In June 1664, James divided the grant between Lord
+John Berkeley and Sir George Carteret. The two Jerseys were formally
+divided by the Quintipartite Deed of 1 July 1676 and governed as
+separate proprietary colonies until **17 April 1702**.  
+
+
+![](./media/image29.png)
+
+[Descendants of the Founders of Ancient
+Windsor](https://dfaw.org/founders-list/)
+
+The first Founders List was literally carved in stone when the Sons and
+Daughters of the Pilgrims, erected the impressive Founders Monument on
+the site of the first meeting house on Palisado Green on May 30, 1930,
+the three-hundredth anniversary of the arrival of the Mary and John in
+the waters off Nantasket. That congregation formed the nucleus of the
+collection of several groups who settled in Windsor before the end of
+1641. That day in 1930 marked the 300th Anniversary of the organization
+of the First Church in Windsor on the dock in Plymouth just before the
+Mary and John set sail. Many turned out for the church celebration that
+day 
+
+![](./media/image30.png)
+
+[Descendants of the Founders of
+Hartford](https://www.foundersofhartford.org/the-founders/)
+
+The Society of the Descendants of the Founders of Hartford is a
+charitable and educational society organized in 1931. Among its purposes
+are: To foster literary, cultural, historical and other research aimed
+at strengthening the public understanding of the history and traditions
+of the City of Hartford; To celebrate appropriate anniversaries in the
+history of the City; To erect appropriate memorials in public places to
+commemorate the founding of the City; To promote the widest possible
+public interest in the history of Hartford; And to make grants to other
+organizations in support of the above. There are more than 300 living
+members, in almost every state and in several foreign countries. We meet
+once a year in Hartford for the annual Court and Dinner, which features
+a guest speaker and the introduction of new members. 
 
 
 
-
-
+# Colonial Period
 
 ![](./media/image8.png)
 
@@ -250,8 +372,7 @@ qualifying clergy.
 
 
 
-[National Society of The Colonial Dames of
-America](https://nscda.org/historical-activities/ancestor-biographies/)
+[National Society of The Colonial Dames of America](https://nscda.org/historical-activities/ancestor-biographies/)
 
 The Corporate Societies shall be composed entirely of women who are
 lineal bloodline descendants from an ancestor of worthy life who,
@@ -378,49 +499,6 @@ colonial taverners. A record extraction project is underway. The
 objective is to eventually identify every colonial taverner for whom
 evidence survives.
 
-![](./media/image29.png)
-
-[Descendants of the Founders of Ancient
-Windsor](https://dfaw.org/founders-list/)
-
-The first Founders List was literally carved in stone when the Sons and
-Daughters of the Pilgrims, erected the impressive Founders Monument on
-the site of the first meeting house on Palisado Green on May 30, 1930,
-the three-hundredth anniversary of the arrival of the Mary and John in
-the waters off Nantasket. That congregation formed the nucleus of the
-collection of several groups who settled in Windsor before the end of
-1641. That day in 1930 marked the 300th Anniversary of the organization
-of the First Church in Windsor on the dock in Plymouth just before the
-Mary and John set sail. Many turned out for the church celebration that
-day 
-
-![](./media/image30.png)
-
-[Descendants of the Founders of
-Hartford](https://www.foundersofhartford.org/the-founders/)
-
-The Society of the Descendants of the Founders of Hartford is a
-charitable and educational society organized in 1931. Among its purposes
-are: To foster literary, cultural, historical and other research aimed
-at strengthening the public understanding of the history and traditions
-of the City of Hartford; To celebrate appropriate anniversaries in the
-history of the City; To erect appropriate memorials in public places to
-commemorate the founding of the City; To promote the widest possible
-public interest in the history of Hartford; And to make grants to other
-organizations in support of the above. There are more than 300 living
-members, in almost every state and in several foreign countries. We meet
-once a year in Hartford for the annual Court and Dinner, which features
-a guest speaker and the introduction of new members. 
-
-![](./media/image31.jpeg)
-
-[Order of the First Families of
-Maine](https://newenglandsocieties.com/offme-eligibility/)
-
-Membership is open to individuals at least eighteen years of age, who
-are lineal descendants of an ancestor who was a resident of present-day
-Maine, by the year** 1652**. Membership is by invitation only and shall
-be extended by the President General. Membership inquiries are welcome. 
 
 ![](./media/image32.png)
 
@@ -433,80 +511,6 @@ opportunities for fellowship for all those who trace their descent from
 Lord Baltimore and from those who came on the Ark and the Dove in 1634
 to settle the proprietary province of Maryland. 
 
-![](./media/image33.png)
-
-[Hereditary Order of the First Families of
-Massachusetts](https://newenglandsocieties.com/hoffma-eligibility/)
-
-Men and women over the age of 18 years, who are lineal descendants of
-men or women who settled within the bounds of the Massachusetts Bay
-Colony **before the year 1650** may be eligible for membership.  For
-purposes of this Order, the term "settler" refers to one who lived in
-the Colony for at least one year, although possibly in more than one
-town during that time. 
-
-![](./media/image34.jpeg)
-
-[Ancient and Honorable Artillery Company of
-Massachusetts](https://newenglandsocieties.com/odahac-eligibility/)
-
-Those individuals eligible for membership shall be at least eighteen
-years of age with legitimate descent from (1) a member of The Ancient
-and Honorable Artillery Company of Massachusetts who served between the
-years 1637-1774; (2) a minister who preached the Election Sermon during
-the years 1638-1774; (3) Governor John Winthrop, (4) Deputy Governor
-Thomas Dudley, (5) a member of the Council or a delegate to the General
-Court in 1638 when the Company Charter was granted, (6) members of the
-Ancient and Honorable Artillery Company of Massachusetts "by right of
-descent," or (7) members of the National Society of Women Descendants of
-The Ancient and Honorable Artillery Company. 
-
-![](./media/image35.jpeg)
-
-[The Winthrop Society](https://www.winthropsociety.com/doctext)
-
-The Winthrop Society currently consists of proven descendants of the
-first settlers of the Massachusetts Bay Colony. It is open to all men
-and women of good character and proven descent from one or more
-passengers of the Winthrop fleet, or of others who settled in the Bay
-Colony and Down East\* by the end of 1640. 
-
-![](./media/image36.png)
-
-[General Society of Mayflower
-Descendants](https://themayflowersociety.org/genealogy/patriots-to-passengers/)
-
-The General Society of Mayflower Descendants is committed to research on
-the lineal descent of the Mayflower Pilgrims and education about the
-Pilgrims who traveled aboard the Mayflower in 1620. The Society provides
-education and understanding of why the Mayflower Pilgrims were
-important, how they shaped western civilization, and what their 1620
-voyage means today and its impact on the world.  
-
-![](./media/image37.jpeg)
-
-[Order of the First Families of New
-Hampshire](http://www.firstfamiliesofnewhampshire.org/ancestors.html)
-
-Honor those hardy and enterprising early ancestors who concentrated
-their efforts, labor and skills in building the enduring greatness of
-the State of New Hampshire. Recognize and record those individuals who
-established residency, owned land or businesses within the boundaries of
-present day New Hampshire between 1622 - 1680. 
-
-![](./media/image38.png)
-
-[Descendants of Founders of New
-Jersey](https://www.njfounders.org/founders)
-
-Settlers came to East Jersey as early as 1618 when the Dutch from New
-Amsterdam settled at Bergen (now Jersey City), and in West Jersey as
-early as 1623 when Fort Nassau was established on the Delaware River. In
-March 1664, King Charles II formally granted the land to his brother,
-James, Duke of York. In June 1664, James divided the grant between Lord
-John Berkeley and Sir George Carteret. The two Jerseys were formally
-divided by the Quintipartite Deed of 1 July 1676 and governed as
-separate proprietary colonies until **17 April 1702**.  
 
 ![](./media/image39.png)
 
