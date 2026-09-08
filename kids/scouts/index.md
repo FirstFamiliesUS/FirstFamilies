@@ -87,8 +87,7 @@ at their grade level.
 [DOWNLOAD SCOUTING
 BOOKLET](https://mtv-main-assets.s3.amazonaws.com/files/resources/scavenger-hunt_spreads.pdf)
 
-![](./media/image6.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image6.png)
 
 [My Family Story
 (Brownie) ](https://www.dar.org/museum/education/girl-scout-badge-programs)
@@ -100,8 +99,7 @@ write about your day and life in a brand-new diary and create a family
 tree to tell your family story! This program results in earning the \"My
 Family Story\" badge, which is included in the registration price. 
 
-![](./media/image6.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image6.png)
 
 [Playing the Past
 (Junior) ](https://www.dar.org/museum/education/girl-scout-badge-programs)

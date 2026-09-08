@@ -21,8 +21,7 @@ permalink: /kids/contests/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
-![](./media/image1.jpeg){width="3.0520833333333335in"
-height="1.71875in"}
+![](./media/image1.jpeg)
 
 [Congressional Seminar Essay Contest for High School
 Students](https://nscda.org/student-resources/congressional-essay-contest/)

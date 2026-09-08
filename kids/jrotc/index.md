@@ -23,8 +23,7 @@ permalink: /kids/jrotc/
 
 Training the next generation of the **Prosterity** is a Top Priority!
 
-![](./media/image1.png){width="3.8645833333333335in"
-height="0.7083333333333334in"}
+![](./media/image1.png)
 
 Sea Cadets
 
@@ -39,8 +38,7 @@ The Navy League Cadet Corps (NLCC) is for middle school students** aged
 The Naval Sea Cadet Corps (NSCC) is for** ages 13 through the end of
 high school**.
 
-![](./media/image2.png){width="6.947916666666667in"
-height="1.0416666666666667in"}
+![](./media/image2.png)
 
 Navy Junior Officer Training
 
@@ -91,8 +89,7 @@ in [MCJROTC](https://www.mcjrotc.marines.mil/Students/Join-a-Unit/) are:
 
 3\. Physical fitness
 
-![](./media/image5.png){width="6.760416666666667in"
-height="1.883218503937008in"}
+![](./media/image5.png)
 
 Air Force ROTC
 
@@ -102,8 +99,7 @@ requirements, cadets accept a commission as second lieutenants in the
 Air Force or Space Force, appointed by the President of the United
 States.
 
-![](./media/image6.png){width="7.229166666666667in"
-height="7.229166666666667in"}
+![](./media/image6.png)
 
 Coast Guard JROTC
 
@@ -121,8 +117,7 @@ In light of this, the mission of Coast Guard JROTC is: Developing
 Service-Minded Citizens of Character. To accomplish the mission, the
 program develops cadets on the COAST:
 
-![](./media/image7.png){width="2.3958333333333335in"
-height="0.6666666666666666in"}
+![](./media/image7.png)
 
 Law Enforcement Cadet 
 

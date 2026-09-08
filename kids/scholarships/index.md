@@ -36,8 +36,7 @@ thoughtfully remembered the Society in her estate planning; guaranteeing
 The Macmillan Scholarship in perpetuity. It is now aptly renamed The
 Agnes and Margaret Macmillan-St. Andrew\'s Society Scholarship.
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Lillian and Arthur Dunn
 Scholarship](https://www.dar.org/national-society/scholarships/scholarships)
@@ -53,8 +52,7 @@ is a current-dues paying member, must be included with the application.
 **Questions? Contact the National Vice Chairman for the Lillian and
 Arthur Dunn Scholarship: LillianArthurDunnScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Dr. Aura-Lee A. and James Hobbs Pittenger  American
 History](https://www.dar.org/national-society/scholarships/history-etc)
@@ -76,8 +74,7 @@ annual transcript review by the National Chairman required for renewal.
 James Hobbs Pittenger
 Scholarship: PittengerAmerHistoryScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [DAR
 Centennial](https://www.dar.org/national-society/scholarships/history-etc)
@@ -92,8 +89,7 @@ of the Centennial Pin. This is a one-time award in the amount of
 **Questions? Contact the National Vice Chairman for the DAR Centennial
 Scholarship: DARCentennialScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Lucinda Beneventi Findley
 History](https://www.dar.org/national-society/scholarships/history-etc)
@@ -108,8 +104,7 @@ must have a GPA of 3.25. 
 Beneventi Findley History
 Scholarship: LBFindleyHistoryScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Dr. Francis Anthony Beneventi
 Medical](https://www.dar.org/national-society/scholarships/nursing-medical-scholarships)
@@ -127,8 +122,7 @@ annual transcript review indicating a minimum GPA of 3.25.
 Anthony Beneventi Medical
 Scholarship: DrFABeneventiScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Irene and Daisy MacGregor
 Memorial](https://www.dar.org/national-society/scholarships/nursing-medical-scholarships)
@@ -149,8 +143,7 @@ qualified.\"
 **Questions? Contact the National Vice Chairman for the Irene and Daisy
 MacGregor Memorial Scholarship: MacGregorScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Leslie Andree Hanna
 Medical](https://www.dar.org/national-society/scholarships/nursing-medical-scholarships)
@@ -165,8 +158,7 @@ but is not guaranteed the award.
 **Questions? Contact the National Vice Chairman for the Leslie Andee
 Hanna Medical Scholarship: LAHannaMedicalScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Alice W.
 Rooke](https://www.dar.org/national-society/scholarships/nursing-medical-scholarships)
@@ -181,8 +173,7 @@ four years.
 **Questions? Contact the National Vice Chairman for the Alice W. Rooke
 Medical Scholarship: AliceWRookeScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Caroline E. Holt
 Nursing](https://www.dar.org/national-society/scholarships/nursing-medical-scholarships)
@@ -196,8 +187,7 @@ must be included with the application. 
 **Questions? Contact the National Vice Chairman for the Caroline E. Holt
 Nursing Scholarship: CarolineEHoltScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [DAR--Lena
 Ferguson](https://www.dar.org/national-society/scholarships/nursing-medical-scholarships)
@@ -216,8 +206,7 @@ portal](https://www.udc.edu/enrollment-management/scholarships/)   
 **Questions? Contact the National Vice Chairman for the DAR--Lena
 Ferguson Scholarship: DCScholarship@NSDAR.org** 
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Occupational/Physical
 Therapy](https://www.dar.org/national-society/scholarships/nursing-medical-scholarships)
@@ -231,8 +220,7 @@ accepted or are attending an accredited school of occupational therapy
 Occupational/Physical Therapy
 Scholarship: OccupationalPhysicalTherapyScholarship@NSDAR.org** 
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Edward G. and Helen A. Borgens Elementary
 Teacher](https://www.dar.org/national-society/scholarships/scholarships-0)
@@ -251,8 +239,7 @@ requirements.
 Helen A. Borgens Elementary Teacher
 Scholarship: BorgensElementaryScholarship@NSDAR.org** 
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Edward G. and Helen A. Borgens Secondary
 Teacher](https://www.dar.org/national-society/scholarships/scholarships-0)
@@ -271,8 +258,7 @@ requirements.
 Helen A. Borgens Secondary Teacher
 Scholarship: BorgensSecondaryEducationScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Arthur Lockwood Beneventi
 Law](https://www.dar.org/national-society/scholarships/scholarships-1)
@@ -286,8 +272,7 @@ reapply for consideration each year.
 **Questions? Contact the National Vice Chairman for the Arthur Lockwood
 Beneventi Scholarship: ALBeneventiLawScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Mary Elizabeth Lockwood Beneventi
 MBA](https://www.dar.org/national-society/scholarships/scholarships-1)
@@ -303,8 +288,7 @@ reapply for consideration each year.
 Lockwood Beneventi MBA
 Scholarship: MELBeneventiMBAScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Margaret Howard
 Hamilton](https://www.dar.org/national-society/scholarships/scholarships-1)
@@ -327,8 +311,7 @@ Sheet](https://www.dar.org/sites/default/files/members/darnet/forms/Margaret%20H
 **Questions? Contact the National Vice Chairman for the Margaret Howard
 Hamilton Scholarship: MHHamiltonScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Robert Hunter Swadley
 Horticulture](https://www.dar.org/national-society/scholarships/scholarships-1)
@@ -347,8 +330,7 @@ by the principal of the fund.
 Swadley Horticulture
 Scholarship: RobertHunterSwadleyHortScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Nellie Love Butcher
 Music](https://www.dar.org/national-society/scholarships/scholarships-1)
@@ -368,8 +350,7 @@ mp3 file submission instructions. 
 **Questions? Contact the National Vice Chairman for the Nellie Love
 Butcher Music Scholarship: NLButcherMusicScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [William Robert Findley Graduate
 Chemistry](https://www.dar.org/national-society/scholarships/scholarships-1)
@@ -385,8 +366,7 @@ reapply for consideration each year.
 Findley Graduate Chemistry
 Scholarship: WRFindleyChemistryScholarship@NSDAR.org**
 
-![](./media/image2.png){width="3.4270833333333335in"
-height="1.2395833333333333in"}
+![](./media/image2.png)
 
 [Leo W. and Alberta V. Thomas
 Utz](https://www.dar.org/national-society/scholarships/scholarships-1)
@@ -403,8 +383,7 @@ year by July 10**^th^** or the scholarship is forfeited.
 Alberta V. Thomas Utz Scholarship -- English
 Scholarship: UtzEnglishScholarship@NSDAR.org**
 
-![](./media/image3.png){width="4.166666666666667in"
-height="1.3958333333333333in"}
+![](./media/image3.png)
 
 [St. Andrew's Society of
 Philadelphia](https://standrewsociety.org/about-the-program/)
@@ -489,8 +468,7 @@ the United States of America.   These awards are financed with generous
 contributions from state societies, chapters, and individual members.
 The committee presents the listed National Awards below annually:
 
-![](./media/image8.png){width="0.9166666666666666in"
-height="0.9791666666666666in"}
+![](./media/image8.png)
 
 [NES Scholarship Program](https://nesnyc.org/scholarship-program/)
 

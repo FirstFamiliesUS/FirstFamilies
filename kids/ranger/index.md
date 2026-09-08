@@ -23,8 +23,7 @@ permalink: /kids/ranger/
 
 **Posterity** is the Top Priority!
 
-![](./media/image1.png){width="7.177083333333333in"
-height="7.177083333333333in"}
+![](./media/image1.png)
 
 [4th Graders National Parks](https://everykidoutdoors.gov/index.htm)
 

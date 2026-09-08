@@ -21,8 +21,7 @@ permalink: /kids/internships/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
-![](./media/image1.png){width="6.708333333333333in"
-height="3.7668864829396327in"}
+![](./media/image1.png)
 
 [Internships at the Embassy of
 France](https://franceintheus.org/spip.php?article1670)
@@ -49,8 +48,7 @@ provides services for US residents and German citizens within the
 Embassy\'s area of consular jurisdiction: Delaware, Maryland, Virginia,
 West Virginia and the District of Columbia. 
 
-![](./media/image3.png){width="4.791666666666667in"
-height="1.1666666666666667in"}
+![](./media/image3.png)
 
 [Academic
 internships](https://www.eda.admin.ch/countries/usa/en/home/news/vacancies/academic-internships.html)
