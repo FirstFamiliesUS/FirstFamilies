@@ -33,8 +33,7 @@ soldier, sailor, civil officer, or recognized patriot in one of the
 several Colonies or States, or of the United States, provided that the
 applicant is personally acceptable to the Society.\"   
 
-[**The N.S.C.A.R. Application for
-Membership**](https://www.nscar.org/common/Uploaded%20files/nscar_application.pdf)   
+[**The N.S.C.A.R. Application for Membership**](https://www.nscar.org/common/Uploaded%20files/nscar_application.pdf)   
 
 ![](./media/image2.jpeg)
 
@@ -131,8 +130,7 @@ available.
 ![](./media/image8.jpeg){width="3.0520833333333335in"
 height="1.71875in"}
 
-[Congressional Seminar Essay Contest for High School
-Students](https://nscda.org/student-resources/congressional-essay-contest/)
+[Congressional Seminar Essay Contest for High School Students](https://nscda.org/student-resources/congressional-essay-contest/)
 
 The Congressional Essay Contest is run by NSCDA Corporate Societies and
 Town Committees across the United States. Freshman, sophomore, junior,
@@ -141,8 +139,7 @@ and awarded. The essay topic changes annually. 
 
 ![](./media/image9.png)
 
-[Job's Daughters
-International ](https://jobsdaughtersinternational.org/join/)
+[Job's Daughters International ](https://jobsdaughtersinternational.org/join/)
 
 Job's Daughters International is where shy girls turn into confident
 young women. Our members grow alongside their peers and find their voice
@@ -152,8 +149,19 @@ way
 
 ![](./media/image10.jpeg)
 
-[Maryland Society Children of
-1812](https://www.facebook.com/MDChildren1812/)
+[Maryland Society Children of 1812](https://www.facebook.com/MDChildren1812/)
+
+
+Children:
+- [Sons of the American Legion](https://en.wikipedia.org/wiki/Sons_of_the_American_Legion)
+- [Sons of Union Veterans Juniors](https://suvcw.org/membership?utm_source=copilot.com)
+- [Daughters of Union Veterans of the Civil War](https://www.duvcw.org/membership)
+- [Children of the Confederacy](https://hqudc.org/join-the-udc/children-of-the-confederacy/)
+- [National Society Children of 1812](https://nsc1812.weebly.com/our-patriots.html)   
+- [National Society of the Children of the American Revolution](https://nscar.org/)
+- [National Society Children of the American Colonists](https://www.nationalsocietycac.org/)
+
+
 
 </div>
 </article>
