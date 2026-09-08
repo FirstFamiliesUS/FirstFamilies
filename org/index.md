@@ -29,13 +29,23 @@ organization for Full Membership:
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 
+![](./media/image16.jpeg)
+
+[Order of the Founders of North America](https://www.foundersofna.org/Forms/OFNA%20Ancestor%20List.pdf)
+
+Order of the Founders of North America (OFNA) is a lineage society whose
+purpose is to memorialize the individuals who founded North America
+through Colonization; including the Caribbean and offshore North
+Atlantic Islands during the period of 1492 to 1692.
+
+
 ![](./media/image1.jpeg)
 
-[Jamestowne
-Society](https://www.jamestowne.org/qualifying-ancestors.html)
+![](./media/image7.jpeg)
 
-**10 April 1606** stock was sold in London Company or the Virginia
-Company
+[Jamestowne Society](https://www.jamestowne.org/qualifying-ancestors.html)
+
+**10 April 1606** stock was sold in London Company or the Virginia Company
 
 Resident in Virginia at the time of the 1624/25 Muster or earlier
 
@@ -44,6 +54,19 @@ General Court, Member of the Council or House of Burgesses; Anglican
 Church (Church of England) minister in Virginia;  served as an official
 Indian Interpreter in Virginia  or owned land on Jamestown Island or
 lived on the Island on or before **1699**
+
+The following criteria are used to determine whether an early settler
+may be included as a qualifying ancestor for purposes of membership in
+the Jamestowne Society. The individual:
+
+was a stockholder in the London Company or the Virginia Company; or was
+a current member of one of the Guilds owning stock in the aforesaid
+companies during the period of investment; or was a signer of one of the
+three charters of the Virginia Company of London during the joint-stock
+company period of **10 April 1606 and 24 May 1624**; 
+
+owned land on Jamestown Island or lived on the Island **prior to
+1700** 
 
 ![](./media/image2.jpeg)
 
@@ -106,38 +129,7 @@ efforts may come through military, civil or patriotic service and must
 occur during the period between **19 April 1775** (Battle of Lexington)
 and **26 November 1783** (withdrawal of British Troops from New York).
 
-![](./media/image7.jpeg)
 
-[Jamestowne
-Society](https://www.jamestowne.org/application-process.html)
-
-The following criteria are used to determine whether an early settler
-may be included as a qualifying ancestor for purposes of membership in
-the Jamestowne Society. The individual:
-
-was a stockholder in the London Company or the Virginia Company; or was
-a current member of one of the Guilds owning stock in the aforesaid
-companies during the period of investment; or was a signer of one of the
-three charters of the Virginia Company of London during the joint-stock
-company period of **10 April 1606 and 24 May 1624**; 
-
-owned land on Jamestown Island or lived on the Island **prior to
-1700** (owning land in a neighboring area or neighboring county does NOT
-of itself qualify an individual); 
-
-was a resident in Virginia at the time of the 1624/25 Muster or
-earlier; 
-
-served as Governor, Secretary of State, Treasurer, Attorney General,
-Clerk of the General Court, Member of the Council or House of
-Burgesses **prior to 1700**; these persons shall be conclusively
-presumed to have had their domiciles on Jamestown Island during their
-terms of office; 
-
-was an Anglican Church (Church of England) minister in Virginia** prior
-to 1700**; or
-
-served as an official Indian Interpreter in Virginia **prior to 1700**.
 
 ![](./media/image8.png)
 
@@ -248,15 +240,7 @@ following [books](https://www.colonialclergy.com/?page_id=16) should be
 consulted for lists of ministers of the colonial period who are the
 qualifying clergy.
 
-![](./media/image16.jpeg)
 
-[Order of the Founders of North
-America](https://www.foundersofna.org/Forms/OFNA%20Ancestor%20List.pdf)
-
-Order of the Founders of North America (OFNA) is a lineage society whose
-purpose is to memorialize the individuals who founded North America
-through Colonization; including the Caribbean and offshore North
-Atlantic Islands during the period of 1492 to 1692.
 
 [National Society of The Colonial Dames of
 America](https://nscda.org/historical-activities/ancestor-biographies/)
