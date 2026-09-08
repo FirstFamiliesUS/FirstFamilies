@@ -137,17 +137,7 @@ to help trace Huguenot histories. 
 # New England
 
 
-# American Revolution
 
-![](./media/image6.png)
-
-[Daughters of the American Revolution ](https://www.dar.org/national-society/accepted-revolutionary-war-service)
-
-In applying for DAR membership, women must document their lineage back
-to an ancestor who aided the cause of American independence. These
-efforts may come through military, civil or patriotic service and must
-occur during the period between **19 April 1775** (Battle of Lexington)
-and **26 November 1783** (withdrawal of British Troops from New York).
 
 
 
@@ -322,31 +312,6 @@ of the Continental Army who served in the Revolutionary War.
 
  
 
-![](./media/image21.jpeg)
-
-[Sons of American
-Revolution](https://sarpatriots.sar.org/patriot/search/)
-
-The Sons of the American Revolution honors our Revolutionary War patriot
-ancestors by promoting patriotism, serving our communities and educating
-and inspiring future generations about the founding principles of our
-Country. The SAR accepts patriotic service rendered, with some
-exceptions, for the period **between 19 April 1775 and 26 November
-1783**. 
-
-![](./media/image22.png)
-
-[Descendants of Colonial
-Regulators](https://colonialregulators.weebly.com/)
-
-Descendants of Colonial Regulators was initially formed to honor those
-ancestors who took part in the Regulation movements that occurred in
-North Carolina and South Carolina prior to the Revolutionary War. The
-War of Regulation or the Regulator Movement was an uprising that
-occurred from about 1765 and ended around 1771. During that time
-citizens took up arms against colonial officials they viewed as corrupt.
-Though the rebellion did not change the power structure, some historians
-view it as a catalyst to the American Revolution.
 
 ![](./media/image23.png)
 
@@ -386,15 +351,7 @@ descendants of the General court of Massachusetts Bay when the Charter
 was granted in 1638, namely, the Governor, the Governor\'s Council and
 for the Deputies to the General Court of 1638.
 
-![](./media/image26.png)
 
-[Daughters of the Cincinnati](https://daughters1894.org/membership/)
-
-Membership in the Daughters of the Cincinnati is by invitation only to
-any woman over the age of eighteen having an ancestor who served as an
-officer in the Continental Army, Continental Navy, Continental Marines,
-the French Royal Army, and the French Royal Navy during the American
-Revolutionary War (**1775 -- 1783**). 
 
 ![](./media/image27.jpeg)
 
@@ -641,15 +598,7 @@ and 23 crossings of the Atlantic. 
 
  
 
-![](./media/image47.jpeg)
 
-[Society of the Descendants of Washington\'s Army at Valley
-Forge](https://www.valleyforgesociety.com/_files/ugd/cbe2c2_72d505a5537b47a981e600f0195a743e.pdf)
-
-The Society of the Descendants of Washington\'s Army at Valley Forge is
-a historical & genealogical organization where one must prove descent
-from a person that spent time at Valley Forge, Pennsylvania with the
-Continental Army between December 19, 1777 and June 19, 1778. 
 
 ![](./media/image48.png)
 
@@ -736,6 +685,67 @@ and their devotion to liberty, and who emigrated either directly or
 through other countries to North America and contributed by their
 character and ability to the development of the United States. 
 
+
+# American Revolution
+
+
+
+
+![](./media/image22.png)
+
+[Descendants of Colonial Regulators](https://colonialregulators.weebly.com/)
+
+Descendants of Colonial Regulators was initially formed to honor those
+ancestors who took part in the Regulation movements that occurred in
+North Carolina and South Carolina prior to the Revolutionary War. The
+War of Regulation or the Regulator Movement was an uprising that
+occurred from about 1765 and ended around 1771. During that time
+citizens took up arms against colonial officials they viewed as corrupt.
+Though the rebellion did not change the power structure, some historians
+view it as a catalyst to the American Revolution.
+
+
+![](./media/image6.png)
+
+[Daughters of the American Revolution ](https://www.dar.org/national-society/accepted-revolutionary-war-service)
+
+In applying for DAR membership, women must document their lineage back
+to an ancestor who aided the cause of American independence. These
+efforts may come through military, civil or patriotic service and must
+occur during the period between **19 April 1775** (Battle of Lexington)
+and **26 November 1783** (withdrawal of British Troops from New York).
+
+![](./media/image21.jpeg)
+
+[Sons of American Revolution](https://sarpatriots.sar.org/patriot/search/)
+
+The Sons of the American Revolution honors our Revolutionary War patriot
+ancestors by promoting patriotism, serving our communities and educating
+and inspiring future generations about the founding principles of our
+Country. The SAR accepts patriotic service rendered, with some
+exceptions, for the period **between 19 April 1775 and 26 November
+1783**. 
+
+![](./media/image47.jpeg)
+
+[Society of the Descendants of Washington\'s Army at Valley
+Forge](https://www.valleyforgesociety.com/_files/ugd/cbe2c2_72d505a5537b47a981e600f0195a743e.pdf)
+
+The Society of the Descendants of Washington\'s Army at Valley Forge is
+a historical & genealogical organization where one must prove descent
+from a person that spent time at Valley Forge, Pennsylvania with the
+Continental Army between December 19, 1777 and June 19, 1778. 
+
+
+![](./media/image26.png)
+
+[Daughters of the Cincinnati](https://daughters1894.org/membership/)
+
+Membership in the Daughters of the Cincinnati is by invitation only to
+any woman over the age of eighteen having an ancestor who served as an
+officer in the Continental Army, Continental Navy, Continental Marines,
+the French Royal Army, and the French Royal Navy during the American
+Revolutionary War (**1775 -- 1783**). 
 
 
 
