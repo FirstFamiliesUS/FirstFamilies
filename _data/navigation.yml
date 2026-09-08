@@ -107,24 +107,23 @@ main:
   - title: Pages
     type: dropdown
     items:
-      - title: Services
-        url: /services/
       - title: About Us
         url: /about/
-      - title: Membership
-        url: /org/
       - title: Contact
         url: /contact3/
       - title: Internship
         url: /career-job/
+      - title: Membership
+        url: /org/
+      - title: Services
+        url: /services/
       - title: Sign In
         url: /signin/
       - title: Sign Up
         url: /signup/
       - title: Terms
         url: /terms/
-      - title: Resources
-        url: /resources/
+
 
 
 
