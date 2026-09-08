@@ -103,51 +103,26 @@ main:
       - title: Quakers
         url: /faith/quakers/
 
+
   - title: Pages
     type: dropdown
     items:
       - title: Services
-        submenu:
-          - title: Services I
-            url: /services/
-          - title: Services II
-            url: /services2/
-      - title: About
-        submenu:
-          - title: About I
-            url: /about/
-          - title: Membership
-            url: /org/
+        url: /services/
+      - title: About Us
+        url: /about/
+      - title: Membership
+        url: /org/
       - title: Contact
-        submenu:
-          - title: Contact I
-            url: /contact/
-          - title: Contact II
-            url: /contact2/
-          - title: Contact III
-            url: /contact3/
-      - title: Career
-        submenu:
-          - title: Job Listing I
-            url: /career/
-          - title: Job Listing II
-            url: /career2/
-          - title: Job Description
-            url: /career-job/
-      - title: Utility
-        submenu:
-          - title: 404 Not Found
-            url: /404/
-          - title: Sign In I
-            url: /signin/
-          - title: Sign In II
-            url: /signin2/
-          - title: Sign Up I
-            url: /signup/
-          - title: Sign Up II
-            url: /signup2/
-          - title: Terms
-            url: /terms/
+        url: /contact3/
+      - title: Internship
+        url: /career-job/
+      - title: Sign In
+        url: /signin/
+      - title: Sign Up
+        url: /signup/
+      - title: Terms
+        url: /terms/
       - title: Resources
         url: /resources/
 
