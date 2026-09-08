@@ -116,8 +116,8 @@ main:
         submenu:
           - title: About I
             url: /about/
-          - title: About II
-            url: /about2/
+          - title: Membership
+            url: /org/
       - title: Contact
         submenu:
           - title: Contact I
