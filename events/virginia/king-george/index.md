@@ -21,6 +21,10 @@ permalink: /events/virginia/king-george/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
+# Resources
+https://en.wikipedia.org/wiki/King_George,_Virginia
+
+
 # King George, Virginia
 
 Situated in the historic Northern Neck peninsula between the Potomac and Rappahannock rivers, King George County features rich colonial heritage, historic parishes, and vibrant community traditions.
