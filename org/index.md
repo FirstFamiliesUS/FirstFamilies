@@ -41,8 +41,6 @@ Atlantic Islands during the period of 1492 to 1692.
 
 ![](./media/image1.jpeg)
 
-![](./media/image7.jpeg)
-
 [Jamestowne Society](https://www.jamestowne.org/qualifying-ancestors.html)
 
 **10 April 1606** stock was sold in London Company or the Virginia Company
