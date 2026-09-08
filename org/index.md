@@ -39,6 +39,8 @@ through Colonization; including the Caribbean and offshore North
 Atlantic Islands during the period of 1492 to 1692.
 
 
+# Virginia
+
 ![](./media/image1.jpeg)
 
 [Jamestowne Society](https://www.jamestowne.org/qualifying-ancestors.html)
@@ -68,8 +70,7 @@ owned land on Jamestown Island or lived on the Island **prior to
 
 ![](./media/image2.jpeg)
 
-[Sons and Daughters of Virginia Founding
-Fathers](http://www.virginiafoundingfathers.org/ancestors.html)
+[Sons and Daughters of Virginia Founding Fathers](http://www.virginiafoundingfathers.org/ancestors.html)
 
 The Sons and Daughters of Virginia Founding Fathers (SDVAFF) is a
 lineage society that is a non-profit,  charitable organization
@@ -81,8 +82,7 @@ Virginia Colony **on or before 31 December 1699**. 
 
 ![](./media/image3.jpeg)
 
-[Virginia Huguenot
-Society](https://www.frenchhuguenots-virginiasociety.org/)
+[Virginia Huguenot Society](https://www.frenchhuguenots-virginiasociety.org/)
 
 The Edict of Nantes, signed by Henry IV in April, 1598, ended the Wars
 of Religion, and allowed the Huguenots some religious freedoms,
@@ -93,8 +93,7 @@ fled France for other countries. 
 
 ![](./media/image4.png)
 
-[Huguenot Society of the Founders of
-Manakin](https://www.huguenotmanakin.org/copy-of-old-registered-lineages)
+[Huguenot Society of the Founders of Manakin](https://www.huguenotmanakin.org/copy-of-old-registered-lineages)
 
 The Huguenot Society of the Founders of Manakin in the Colony of
 Virginia is a society dedicated to preserving the history and genealogy
@@ -107,8 +106,7 @@ to help trace Huguenot histories. 
 
 ![](./media/image5.png)
 
-[Virginia Founding
-Fathers](http://www.virginiafoundingfathers.org/ancestors.html)
+[Virginia Founding Fathers](http://www.virginiafoundingfathers.org/ancestors.html)
 
 Any person eighteen (18) years of age or older who can prove lineal
 descent from an ancestor who was a resident of the Virginia Colony on or
@@ -116,10 +114,38 @@ prior to **31 December 1699** is eligible for membership provided they
 are acceptable to the Membership Committee.  Lineal descent (descendant)
 shall mean blood relative in the direct line of descent.
 
+![](./media/image52.png)
+
+[Society of The Lees of Virginia](https://www.thesocietyoftheleesofva.org/index.php)
+
+![](./media/image53.png)
+
+[Carter Society](https://cartersociety.org/index.php/membership)
+
+Our forefathers, the Carters of early Virginia and their progeny, helped
+forge this nation based upon freedom and liberty for all men, and it is
+a heritage worthy of honor. The Carter Society has emerged slowly but
+with an extreme sense of purpose. May no man sway us from the path we
+have set.
+
+
+![First Settlers of Shenandoah Valley](./media/image54.jpeg)
+
+[**First Settlers of Shenandoah
+Valley**](http://www.firstsettlersshenandoahvalley.com/settlers.html)
+
+The qualifying FIRST SETTLER ancestor needed for FSSV membership is a
+person who resided in an area that is located in present-day Shenandoah
+Valley before 31 December 1799.
+
+# New England
+
+
+# American Revolution
+
 ![](./media/image6.png)
 
-[Daughters of the American
-Revolution ](https://www.dar.org/national-society/accepted-revolutionary-war-service)
+[Daughters of the American Revolution ](https://www.dar.org/national-society/accepted-revolutionary-war-service)
 
 In applying for DAR membership, women must document their lineage back
 to an ancestor who aided the cause of American independence. These
@@ -131,8 +157,7 @@ and **26 November 1783** (withdrawal of British Troops from New York).
 
 ![](./media/image8.png)
 
-[National Society Colonial Dames 17th
-Century](https://www.facebook.com/NSCDXVIIC?__tn__=-UC*F)
+[National Society Colonial Dames 17th Century](https://www.facebook.com/NSCDXVIIC?__tn__=-UC*F)
 
 Any woman eighteen years of age or over of good moral character is
 eligible for membership, provided she has been invited by the Society,
@@ -166,8 +191,7 @@ of Lexington, **April 19, 1775**
 
 ![](./media/image10.jpeg)
 
-[National Society Sons and Daughters of Antebellum
-Planters ](https://antebellumplanters.org/ancestors/)
+[National Society Sons and Daughters of Antebellum Planters ](https://antebellumplanters.org/ancestors/)
 
 To identify and honor the memory of ancestors who were "planters" within
 lands today comprising the 48 states of the continental United States
@@ -300,16 +324,7 @@ inviolate those exalted rights and liberties of human nature,\" and \"to
 render permanent the cordial affection subsisting among the officers\"
 of the Continental Army who served in the Revolutionary War.
 
-![](./media/image20.jpeg)
-
-[Daughter of the American
-Revolution](https://services.dar.org/public/dar_research/search/?Tab_ID=1)
-
-Any woman 18 years or older who can prove lineal, bloodline descent from
-an ancestor who aided in achieving American independence is eligible to
-join the DAR. She must provide documentation for each statement of
-birth, marriage and death, as well as of the Revolutionary War service
-of her Patriot ancestor. 
+ 
 
 ![](./media/image21.jpeg)
 
@@ -550,7 +565,7 @@ year **1675** 
 
 ![](./media/image40.jpeg)
 
-[Society of the First Families of New York]{.underline} 
+[Society of the First Families of New York]
 
 Any individual at least eighteen years old, who is determined by the
 Society to be eligible based on proven lineal descent from an ancestor
@@ -725,30 +740,8 @@ and their devotion to liberty, and who emigrated either directly or
 through other countries to North America and contributed by their
 character and ability to the development of the United States. 
 
-![](./media/image52.png)
 
-[Society of The Lees of
-Virginia](https://www.thesocietyoftheleesofva.org/index.php)
 
-![](./media/image53.png)
-
-[Carter Society](https://cartersociety.org/index.php/membership)
-
-Our forefathers, the Carters of early Virginia and their progeny, helped
-forge this nation based upon freedom and liberty for all men, and it is
-a heritage worthy of honor. The Carter Society has emerged slowly but
-with an extreme sense of purpose. May no man sway us from the path we
-have set.
-
-![First Settlers of Shenandoah
-Valley](./media/image54.jpeg)
-
-[**First Settlers of Shenandoah
-Valley**](http://www.firstsettlersshenandoahvalley.com/settlers.html)
-
-The qualifying FIRST SETTLER ancestor needed for FSSV membership is a
-person who resided in an area that is located in present-day Shenandoah
-Valley before 31 December 1799.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
