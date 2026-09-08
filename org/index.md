@@ -224,11 +224,11 @@ John Berkeley and Sir George Carteret. The two Jerseys were formally
 divided by the Quintipartite Deed of 1 July 1676 and governed as
 separate proprietary colonies until **17 April 1702**.  
 
+# Connecticut
 
 ![](./media/image29.png)
 
-[Descendants of the Founders of Ancient
-Windsor](https://dfaw.org/founders-list/)
+[Descendants of the Founders of Ancient Windsor](https://dfaw.org/founders-list/)
 
 The first Founders List was literally carved in stone when the Sons and
 Daughters of the Pilgrims, erected the impressive Founders Monument on
@@ -243,8 +243,7 @@ day 
 
 ![](./media/image30.png)
 
-[Descendants of the Founders of
-Hartford](https://www.foundersofhartford.org/the-founders/)
+[Descendants of the Founders of Hartford](https://www.foundersofhartford.org/the-founders/)
 
 The Society of the Descendants of the Founders of Hartford is a
 charitable and educational society organized in 1931. Among its purposes
@@ -258,6 +257,154 @@ organizations in support of the above. There are more than 300 living
 members, in almost every state and in several foreign countries. We meet
 once a year in Hartford for the annual Court and Dinner, which features
 a guest speaker and the introduction of new members. 
+
+
+# Maryland
+
+![](./media/image32.png)
+
+[Society of The Ark and The
+Dove](https://www.thearkandthedove.com/passenger-list/)
+
+The Society of The Ark and The Dove was founded in 1910 to perpetuate
+the memory of the first families of Maryland and to provide
+opportunities for fellowship for all those who trace their descent from
+Lord Baltimore and from those who came on the Ark and the Dove in 1634
+to settle the proprietary province of Maryland. 
+
+# New York
+
+![](./media/image39.png)
+
+[Holland Society of New York](https://hollandsociety.org/join/)
+
+Dutch native or Dutch resident of New Netherland or the American
+colonies (now a part of the United States) prior to or during the
+year **1675** 
+
+![](./media/image40.jpeg)
+
+[Society of the First Families of New York]
+
+Any individual at least eighteen years old, who is determined by the
+Society to be eligible based on proven lineal descent from an ancestor
+of the Founding Families of the State of New York, who was a resident of
+colonial New York, or its current borders, on or before **November 24,
+1783**. 
+
+![](./media/image41.png)
+
+[Society of Daughters of Holland Dames](https://hollanddames.org/ancestors/)
+
+Eligibility for Membership may be through any one of three avenues, or
+all three, if desired.  Any woman shall be eligible who has reached the
+age of eighteen and is lineally descended from a person, male or female,
+(i) who was born, prior to the Treaty of Westminster, 1674\*, either in
+the Netherlands or in New Netherland of Dutch parentage; OR (ii), whose
+ancestor resided in New Netherland prior to the Treaty of Westminster,
+1674 
+
+![](./media/image42.png)
+
+[Dutch Colonial Society](http://www.dutchcolonialsociety.org/ancestors.htm)
+
+Proven direct descent from a Dutch settler born in the Netherlands, and
+who immigrated, no later than **19 April 1775**, to any settlement in
+what is now the United States. Also eligible are direct descendants of
+selected non-Dutch ancestors who resided in New Netherland prior to the
+Treaty of Westminster, 1674, or settled in what is now the United States
+no later than 19 April 1775, AND who have proven significant service to
+Dutch heritage in business, cu
+
+# North Carolina
+
+![](./media/image43.png)
+
+[Order of First Families of North Carolina](https://www.offnc.org/ancestors.html)
+
+The Order of First Families of North Carolina is composed of, and
+limited to, individuals lineally descended from a person who was a
+resident/colonist on or before the 12th day of July, Anno Domini, 1729,
+in that part of the PROVINCE OF CAROLINA which later became the STATE OF
+NORTH CAROLINA. 
+
+# Rhode Island
+
+![](./media/image44.png)
+
+[Order of the First Families of Rhode Island and Providence Plantations](https://newenglandsocieties.com/offri-pp-eligibility/)
+
+Men and women, age 18 and older, who can prove lineal descent from an
+ancestor who was resident on land presently a part of the State of Rhode
+Island and the Providence Plantations prior to January 1, 1647/8, may be
+eligible for membership.  
+
+# Pennsylvania
+
+![](./media/image45.png)
+
+[Colonial Society of Pennsylvania](https://colonialsocietypa.org/wp-content/uploads/2021/12/CSPA-Centenial-Register-Roll-of-Ancestors.pdf)
+
+The Colonial Society of Pennsylvania celebrates anniversaries of events
+connected to the settlement of Pennsylvania which occurred prior to
+1700, as well as the collection, preservation, and publishing of records
+and documents related to the early history of our Commonwealth.
+
+![](./media/image46.png)
+
+[Welcome Society](https://www.welcomesociety.org/ancestors.html)
+
+The purposes of the society are given in its 1906 charter (Listed
+Above).  Though it is not specifically stated in the charter, the
+Society was founded as nonprofit and educational. Originally, the
+membership was limited to the descendants (male or female) of those who
+were passengers on the Welcome.  Presently, membership is composed of
+descendants of those ancestors who traveled with fellow Quakers to
+America during the course of the year of 1682.  This includes 22 ships
+and 23 crossings of the Atlantic. 
+
+ 
+
+
+
+![](./media/image48.png)
+
+[Huguenot Society of Pennsylvania](https://pahuguenotsociety.wixsite.com/website)
+
+In 1918 in Reading, Pennsylvania, approximately ten men and women of
+known Huguenot descent founded The Huguenot Society of Pennsylvania, one
+of the first societies for the descendants of Huguenots established in
+the United States. They settled on April 13, 1918 (the 320th anniversary
+of the Edict of Nantes) for their first official meeting, and set out to
+write a charter, find interested members, and decide upon the
+organization\'s structure. At this meeting, they developed a set of
+objectives for the organization, which included perpetuating and
+maintaining the history, principles, and beliefs of the Huguenots;
+\"publicly commemorating at stated times the principal events in the
+history of the Huguenot;\" maintaining a library and museum of materials
+pertaining to Huguenots in America and specifically in Pennsylvania;
+promoting scholarly study of their history; and above all, celebrating
+and preserving the spirit of a people who withstood persecution and
+intolerance \"because of their adherence to the basic tenets of the
+Protestant faith and their devotion to liberty.\" This is a list of the
+original Huguenot Society of Pennsylvania members in 1918.  To read the
+original proceedings of the 1918 meeting,
+click [here](https://cdn.website-editor.net/020d9c979f77483189db333592c7de7f/files/uploaded/huguenotsocietyo00norr.pdf).
+
+# South Carolina
+
+![](./media/image49.png)
+
+[The Society of First Families of South Carolina](https://firstfamiliesofsc.com/ancestors)
+
+South Carolinians ​​​are proud of our long, rich history. Our state has
+been influencing the birth and direction of a nation since  the earliest
+days of colonization.  The Society of First Families of South
+Carolina **1670-1700**  is working to perpetuate the memory of those who
+achieved a permanent settlement in South Carolina between 1670 and 1700;
+cherish, maintain and extend the institution of American freedom; and
+foster true patriotism and love of country.
+
 
 
 
@@ -500,147 +647,10 @@ objective is to eventually identify every colonial taverner for whom
 evidence survives.
 
 
-![](./media/image32.png)
-
-[Society of The Ark and The
-Dove](https://www.thearkandthedove.com/passenger-list/)
-
-The Society of The Ark and The Dove was founded in 1910 to perpetuate
-the memory of the first families of Maryland and to provide
-opportunities for fellowship for all those who trace their descent from
-Lord Baltimore and from those who came on the Ark and the Dove in 1634
-to settle the proprietary province of Maryland. 
-
-
-![](./media/image39.png)
-
-[Holland Society of New York](https://hollandsociety.org/join/)
-
-Dutch native or Dutch resident of New Netherland or the American
-colonies (now a part of the United States) prior to or during the
-year **1675** 
-
-![](./media/image40.jpeg)
-
-[Society of the First Families of New York]
-
-Any individual at least eighteen years old, who is determined by the
-Society to be eligible based on proven lineal descent from an ancestor
-of the Founding Families of the State of New York, who was a resident of
-colonial New York, or its current borders, on or before **November 24,
-1783**. 
-
-![](./media/image41.png)
-
-[Society of Daughters of Holland
-Dames](https://hollanddames.org/ancestors/)
-
-Eligibility for Membership may be through any one of three avenues, or
-all three, if desired.  Any woman shall be eligible who has reached the
-age of eighteen and is lineally descended from a person, male or female,
-(i) who was born, prior to the Treaty of Westminster, 1674\*, either in
-the Netherlands or in New Netherland of Dutch parentage; OR (ii), whose
-ancestor resided in New Netherland prior to the Treaty of Westminster,
-1674 
-
-![](./media/image42.png)
-
-[Dutch Colonial
-Society](http://www.dutchcolonialsociety.org/ancestors.htm)
-
-Proven direct descent from a Dutch settler born in the Netherlands, and
-who immigrated, no later than **19 April 1775**, to any settlement in
-what is now the United States. Also eligible are direct descendants of
-selected non-Dutch ancestors who resided in New Netherland prior to the
-Treaty of Westminster, 1674, or settled in what is now the United States
-no later than 19 April 1775, AND who have proven significant service to
-Dutch heritage in business, cu
-
-![](./media/image43.png)
-
-[Order of First Families of North
-Carolina](https://www.offnc.org/ancestors.html)
-
-The Order of First Families of North Carolina is composed of, and
-limited to, individuals lineally descended from a person who was a
-resident/colonist on or before the 12th day of July, Anno Domini, 1729,
-in that part of the PROVINCE OF CAROLINA which later became the STATE OF
-NORTH CAROLINA. 
-
-![](./media/image44.png)
-
-[Order of the First Families of Rhode Island and Providence
-Plantations](https://newenglandsocieties.com/offri-pp-eligibility/)
-
-Men and women, age 18 and older, who can prove lineal descent from an
-ancestor who was resident on land presently a part of the State of Rhode
-Island and the Providence Plantations prior to January 1, 1647/8, may be
-eligible for membership.  
-
-![](./media/image45.png)
-
-[Colonial Society of
-Pennsylvania](https://colonialsocietypa.org/wp-content/uploads/2021/12/CSPA-Centenial-Register-Roll-of-Ancestors.pdf)
-
-The Colonial Society of Pennsylvania celebrates anniversaries of events
-connected to the settlement of Pennsylvania which occurred prior to
-1700, as well as the collection, preservation, and publishing of records
-and documents related to the early history of our Commonwealth.
-
-![](./media/image46.png)
-
-[Welcome Society](https://www.welcomesociety.org/ancestors.html)
-
-The purposes of the society are given in its 1906 charter (Listed
-Above).  Though it is not specifically stated in the charter, the
-Society was founded as nonprofit and educational. Originally, the
-membership was limited to the descendants (male or female) of those who
-were passengers on the Welcome.  Presently, membership is composed of
-descendants of those ancestors who traveled with fellow Quakers to
-America during the course of the year of 1682.  This includes 22 ships
-and 23 crossings of the Atlantic. 
-
- 
 
 
 
-![](./media/image48.png)
 
-[Huguenot Society of
-Pennsylvania](https://pahuguenotsociety.wixsite.com/website)
-
-In 1918 in Reading, Pennsylvania, approximately ten men and women of
-known Huguenot descent founded The Huguenot Society of Pennsylvania, one
-of the first societies for the descendants of Huguenots established in
-the United States. They settled on April 13, 1918 (the 320th anniversary
-of the Edict of Nantes) for their first official meeting, and set out to
-write a charter, find interested members, and decide upon the
-organization\'s structure. At this meeting, they developed a set of
-objectives for the organization, which included perpetuating and
-maintaining the history, principles, and beliefs of the Huguenots;
-\"publicly commemorating at stated times the principal events in the
-history of the Huguenot;\" maintaining a library and museum of materials
-pertaining to Huguenots in America and specifically in Pennsylvania;
-promoting scholarly study of their history; and above all, celebrating
-and preserving the spirit of a people who withstood persecution and
-intolerance \"because of their adherence to the basic tenets of the
-Protestant faith and their devotion to liberty.\" This is a list of the
-original Huguenot Society of Pennsylvania members in 1918.  To read the
-original proceedings of the 1918 meeting,
-click [here](https://cdn.website-editor.net/020d9c979f77483189db333592c7de7f/files/uploaded/huguenotsocietyo00norr.pdf).
-
-![](./media/image49.png)
-
-[The Society of First Families of South
-Carolina](https://firstfamiliesofsc.com/ancestors)
-
-South Carolinians ​​​are proud of our long, rich history. Our state has
-been influencing the birth and direction of a nation since  the earliest
-days of colonization.  The Society of First Families of South
-Carolina **1670-1700**  is working to perpetuate the memory of those who
-achieved a permanent settlement in South Carolina between 1670 and 1700;
-cherish, maintain and extend the institution of American freedom; and
-foster true patriotism and love of country.
 
 ![](./media/image8.png)
 
