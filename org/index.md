@@ -68,17 +68,42 @@ company period of **10 April 1606 and 24 May 1624**; 
 owned land on Jamestown Island or lived on the Island **prior to
 1700** 
 
-![](./media/image2.jpeg)
 
-[Sons and Daughters of Virginia Founding Fathers](http://www.virginiafoundingfathers.org/ancestors.html)
+![](./media/image5.png)
 
-The Sons and Daughters of Virginia Founding Fathers (SDVAFF) is a
-lineage society that is a non-profit,  charitable organization
-dedicated: To honor those hardy and enterprising early ancestors who
-concentrated their efforts, labor and skills in building the enduring
-greatness of the Colony of Virginia.  To recognize and record the names
-of those individuals who were residents within the boundaries of the
-Virginia Colony **on or before 31 December 1699**. 
+[Virginia Founding Fathers](http://www.virginiafoundingfathers.org/ancestors.html)
+
+Any person eighteen (18) years of age or older who can prove lineal
+descent from an ancestor who was a resident of the Virginia Colony on or
+prior to **31 December 1699** is eligible for membership provided they
+are acceptable to the Membership Committee.  Lineal descent (descendant)
+shall mean blood relative in the direct line of descent.
+
+
+
+![First Settlers of Shenandoah Valley](./media/image54.jpeg)
+
+[**First Settlers of Shenandoah Valley**](http://www.firstsettlersshenandoahvalley.com/settlers.html)
+
+The qualifying FIRST SETTLER ancestor needed for FSSV membership is a
+person who resided in an area that is located in present-day Shenandoah
+Valley before 31 December 1799.
+
+
+![](./media/image52.png)
+
+[Society of The Lees of Virginia](https://www.thesocietyoftheleesofva.org/index.php)
+
+![](./media/image53.png)
+
+[Carter Society](https://cartersociety.org/index.php/membership)
+
+Our forefathers, the Carters of early Virginia and their progeny, helped
+forge this nation based upon freedom and liberty for all men, and it is
+a heritage worthy of honor. The Carter Society has emerged slowly but
+with an extreme sense of purpose. May no man sway us from the path we
+have set.
+
 
 ![](./media/image3.jpeg)
 
@@ -104,39 +129,10 @@ to help trace Huguenot histories. 
 
 981 Huguenot Trail Midlothian, Virginia   23113
 
-![](./media/image5.png)
-
-[Virginia Founding Fathers](http://www.virginiafoundingfathers.org/ancestors.html)
-
-Any person eighteen (18) years of age or older who can prove lineal
-descent from an ancestor who was a resident of the Virginia Colony on or
-prior to **31 December 1699** is eligible for membership provided they
-are acceptable to the Membership Committee.  Lineal descent (descendant)
-shall mean blood relative in the direct line of descent.
-
-![](./media/image52.png)
-
-[Society of The Lees of Virginia](https://www.thesocietyoftheleesofva.org/index.php)
-
-![](./media/image53.png)
-
-[Carter Society](https://cartersociety.org/index.php/membership)
-
-Our forefathers, the Carters of early Virginia and their progeny, helped
-forge this nation based upon freedom and liberty for all men, and it is
-a heritage worthy of honor. The Carter Society has emerged slowly but
-with an extreme sense of purpose. May no man sway us from the path we
-have set.
 
 
-![First Settlers of Shenandoah Valley](./media/image54.jpeg)
 
-[**First Settlers of Shenandoah
-Valley**](http://www.firstsettlersshenandoahvalley.com/settlers.html)
 
-The qualifying FIRST SETTLER ancestor needed for FSSV membership is a
-person who resided in an area that is located in present-day Shenandoah
-Valley before 31 December 1799.
 
 # New England
 
