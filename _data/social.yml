@@ -1,23 +1,24 @@
-social_accounts: 
+social_accounts:
   title: "Follow Us"
+  # Set links_shown to 5 if you want Dribbble to appear alongside Twitter, Facebook, Instagram, and YouTube.
   links_shown: 4
   links:
-    - url: "#"
+    - url: "https://x.com/yourhandle"
       icon: "uil uil-twitter"
       text: "Twitter"
 
-    - url: "#"
+    - url: "https://www.facebook.com/profile.php?id=100063314974122"
       icon: "uil uil-facebook-f"
       text: "Facebook"
 
-    - url: "#"
+    - url: "https://instagram.com/yourhandle"
       icon: "uil uil-instagram"
       text: "Instagram"
 
-    - url: "#"
+    - url: "https://youtube.com/@davidkenner609"
       icon: "uil uil-youtube"
-      text: "Youtube"
+      text: "YouTube"
 
-    - url: "#"
+    - url: "https://dribbble.com/yourhandle"
       icon: "uil uil-dribbble"
       text: "Dribbble"
