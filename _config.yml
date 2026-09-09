@@ -10,10 +10,10 @@ baseurl: "/FirstFamilies"
 logo: "/assets/images/logo.png"
 twitter_username: jekyllrb
 github_username:  jekyll
-og_image: "/assets/images/logo.png"
+og_image: "/assets/img/logo.png"
 favicon: "/assets/img/favicon.webp"
 # Sitewide Logo
-logo_1x: "/assets/images/logo.png"
+logo_1x: "/assets/img/logo.png"
 
 # Seo Meta Settings
 meta_og_image: "/assets/img/meta-image.webp"  # Image used for OpenGraph (Facebook, LinkedIn)
