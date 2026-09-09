@@ -182,29 +182,29 @@ main:
         url: /surnames/z/
 
 
-  - title: Projects
-    type: dropdown-columns
-    items:
-      - title: Project Pages
-        submenu:
-          - title: Projects I
-            url: /projects-tiles
-          - title: Projects II
-            url: /projects-masonry
-          - title: Projects III
-            url: /projects-filter-grid
-          - title: Projects IV
-            url: /projects-alternating
-      - title: Single Projects
-        submenu:
-          - title: Single Project I
-            url: /projects/sample-with-slider/
-          - title: Single Project II
-            url: /projects/sample-banner-image/
-          - title: Single Project III
-            url: /projects/sample-bg-overlay/
-          - title: Single Project IV
-            url: /projects/sample-featured-image/
+# - title: Projects
+#   type: dropdown-columns
+#   items:
+#     - title: Project Pages
+#       submenu:
+#         - title: Projects I
+#           url: /projects-tiles
+#         - title: Projects II
+#           url: /projects-masonry
+#         - title: Projects III
+#           url: /projects-filter-grid
+#         - title: Projects IV
+#           url: /projects-alternating
+#     - title: Single Projects
+#       submenu:
+#         - title: Single Project I
+#           url: /projects/sample-with-slider/
+#         - title: Single Project II
+#           url: /projects/sample-banner-image/
+#         - title: Single Project III
+#           url: /projects/sample-bg-overlay/
+#         - title: Single Project IV
+#           url: /projects/sample-featured-image/
 
 
 
