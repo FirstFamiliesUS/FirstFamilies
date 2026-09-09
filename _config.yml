@@ -12,8 +12,16 @@ twitter_username: jekyllrb
 github_username:  jekyll
 og_image: "/assets/img/logo.png"
 favicon: "/assets/img/favicon.webp"
-# Sitewide Logo
+
+# Sitewide Logo Settings
+logo: "/assets/img/logo.png"
 logo_1x: "/assets/img/logo.png"
+logo_2x: "/assets/img/logo.png"
+logo_light: "/assets/img/logo.png"
+logo_light_2x: "/assets/img/logo.png"
+logo_dark: "/assets/img/logo.png"
+logo_dark_2x: "/assets/img/logo.png"
+og_image: "/assets/img/logo.png"
 
 # Seo Meta Settings
 meta_og_image: "/assets/img/meta-image.webp"  # Image used for OpenGraph (Facebook, LinkedIn)
