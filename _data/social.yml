@@ -22,3 +22,7 @@ social_accounts:
     - url: "https://dribbble.com/yourhandle"
       icon: "uil uil-dribbble"
       text: "Dribbble"
+
+    - url: "https://linkedin.com/in/yourprofile"
+      icon: "uil uil-linkedin"
+      text: "LinkedIn"
