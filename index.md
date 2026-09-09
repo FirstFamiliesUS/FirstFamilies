@@ -57,13 +57,6 @@ hero:
 </div>
 
 
-
-          {% include components/sections/demo17/services.html %}
-          {% include components/sections/demo17/strategy.html %}
-          {% include components/sections/demo17/facts.html %}
-          {% include components/sections/demo17/testimonials.html %}
-          {% include components/sections/demo17/case-studies.html %}
-          {% include components/sections/demo17/team.html %}
           {% include components/sections/demo17/why-choose.html %}
           {% include components/sections/demo17/cta.html %}
         </div>
