@@ -1,6 +1,6 @@
 # General Settings
-site_name: Sandbox
-title: "Sandbox - Modern & Multipurpose Jekyll Theme"
+site_name: FirstFamiliesUS
+title: "First Families in the United States"
 description: >- # this means to ignore newlines until "baseurl:"
   An impressive and flawless site template that includes various UI elements and countless features, attractive
    ready-made blocks and rich pages, basically everything you need to create a unique and professional website.
@@ -19,13 +19,16 @@ font_scheme: # dm , space , thicccboi , urbanist
 # Site Wide Font Icons Setting. Use the link from your font icons cdn
 font_icons_scheme: # https://unicons.iconscout.com/release/v4.0.8/css/line.css
 
-# Sitewide Logo
-logo_1x: "/assets/img/logo.webp"
-logo_2x: "/assets/img/logo@2x.webp"
-black_logo_1x: "/assets/img/logo-dark.webp"
-black_logo_2x: "/assets/img/logo-dark@2x.webp"
-light_logo_1x: "/assets/img/logo-light.webp"
-light_logo_2x: "/assets/img/logo-light@2x.webp"
+# Sitewide Logo Settings
+logo: "/assets/img/logo.png"
+logo_1x: "/assets/img/logo.png"
+logo_2x: "/assets/img/logo.png"
+logo_light: "/assets/img/logo.png"
+logo_light_2x: "/assets/img/logo.png"
+logo_dark: "/assets/img/logo.png"
+logo_dark_2x: "/assets/img/logo.png"
+og_image: "/assets/img/logo.png"
+
 
 address: 'Moonshine St. 14/05 Light City, London, United Kingdom'
 address_01: 'Moonshine St. <br>14/05 Light City,<br /> London, United Kingdom'
