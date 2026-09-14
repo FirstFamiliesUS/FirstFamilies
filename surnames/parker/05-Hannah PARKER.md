@@ -46,6 +46,8 @@ SOURCES:
 3. [Year: 1850; Census Place: Brandon, Oakland, Michigan; Roll: M432_360; Page: 345B; Image: 196](https://www.ancestry.com/search/collections/8054/records/3215568?tid=168012819&pid=272180028511&ssrc=pt)
 4. [Year: 1860; Census Place: Oxford, Oakland, Michigan; Page: 773; Family History Library Film: 803556](https://www.ancestry.com/search/collections/7667/records/45216518?tid=168012819&pid=272180029558&ssrc=pt)
 5. [Hannah H Holman & Frank E Hall Marriage Certificate](https://www.ancestry.com/search/collections/1171/records/510526523?tid=22054715&pid=132049675376&ssrc=pt)
+6. Wikitree: [Parker-37419](https://www.wikitree.com/wiki/Parker-37419)
+8. FamilySearch: [9D6Z-4YM](https://www.familysearch.org/en/tree/person/details/9D6Z-4YM)  
 
 ACCOLADES:
 - Iowa First Families
