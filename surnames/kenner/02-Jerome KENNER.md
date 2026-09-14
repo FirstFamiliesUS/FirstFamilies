@@ -46,6 +46,7 @@ Petty Officer Jerome Kenner
 6. [Jerome Kenner Death Certificate]({{ '/docs/DadsDeathCertificate.png' | relative_url }})
 7. AncestryDNA:  [422709443736](https://www.ancestry.com/family-tree/person/tree/206876160/person/422709443736/facts)
 8. [Wikitree](https://www.wikitree.com/wiki/): [Kenner-228](https://www.wikitree.com/wiki/Kenner-228)
+9. [The Kenner Chronicle]({{ '/surnames/kenner/kennerchronicle.pdf' | relative_url }})
 
 ### ACCOLADES:
 
