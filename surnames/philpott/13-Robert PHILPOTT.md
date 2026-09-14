@@ -23,18 +23,18 @@ permalink: /ancestors/philpott/robert/
 
 
 
-NAME
+NAME: Captain Robert Philpott I (The Burgess)
 
-- Born: 
-- Birth Place:
-- Marriage Date:
-- Marriage Place
-- Died: 
-- Burial Place:  
-- Father: [Forefather CPT Robert Philpott (The Burgess)]({{ '/ancestors/philpott/robert' | relative_url }})
+- Born: 1610 
+- Birth Place: England
+- Marriage Date: 1640 
+- Marriage Place: Kent Island, St. Annes County, Maryland
+- Died: 19 Dec 1650
+- Burial Place:  Westmoreland County, Virginia
+- Father: 
 - Mother: 
-- Spouse: [Forefather Samuel Bonum]({{ '/ancestors/bonum/rebecca' | relative_url }})
-- Child:  [Rebecca Bonum]({{ '/ancestors/bonum/rebecca' | relative_url }})
+- Spouse: Joane
+- Child:  [Margaret Philpott]({{ '/ancestors/philpott/margaret' | relative_url }})
 
 
 
