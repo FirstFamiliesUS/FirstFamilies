@@ -38,7 +38,7 @@ SGT Lyman Parker
 - Mother:
 - Residence: Lived in Ohio 1832 to 1834 where his 2 sons Baruch and Johnathan were born.  `#2`
 
-- Father: [PVT Lyman Parker]({{ '/ancestors/parker/lyman' | relative_url }})  
+- Father: [Jotham Parker]({{ '/ancestors/parker/jotham' | relative_url }})  
 - Mother:  [Lowly Barker]({{ '/ancestors/barker/lowly' | relative_url }})   
 - Spouse:  [Elizabeth Chase]({{ '/ancestors/chase/elizabeth' | relative_url }})   `#2, #5, #4, #6`
 - Child:  [Hannah Parker]({{ '/ancestors/parker/hannah' | relative_url }})  `#2`
@@ -58,3 +58,8 @@ ACCOLADES:
 - Michigan First Families: Pre-Statehood Certificate # P-039
 - Ohio First Families (Pending)
 - Land Grants: No. 19564
+
+
+Descendants:
+
+![AncestryDNA]({{ '/surnames/parker/LymanParkerDNA-descendents.png' | relative_url }})
