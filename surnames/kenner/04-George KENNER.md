@@ -43,5 +43,5 @@ SOURCES:
 3. [George Thomas Kenner Death Certificate: 34192](https://www.sos.mo.gov/images/archives/deathcerts/1933/1933_00035000.PDF)
 4. [George Kenner Tombstone. Find A Grave Memorial ID: 144004457](https://www.findagrave.com/memorial/144004457/george_thomas-kenner)
 5. [Wikitree](https://www.wikitree.com/wiki/): [Kenner-226](https://www.wikitree.com/wiki/Kenner-226)
+6. [The Kenner Chronicle]({{ '/surnames/kenner/kennerchronicle.pdf' | relative_url }})
 
-- [The Kenner Chronicle]({{ '/docs/kennerchronicle.pdf' | relative_url }})
