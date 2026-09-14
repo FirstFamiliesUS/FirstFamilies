@@ -36,7 +36,7 @@ SGT Lyman Parker
 
 - Father:  Barak Parker  `#6`
 - Mother:
-- Residence: Lived in Ohio 1832 to 1834 where his 2 sons Baruch and Johnathan were born.  `#2`
+- Residence: Lived in Ohio 1832 to 1834 where his 2 sons Baruch and Johnathan were born.  `#2, #9`
 
 - Father: [Jotham Parker]({{ '/ancestors/parker/jotham' | relative_url }})  
 - Mother:  [Lowly Barker]({{ '/ancestors/barker/lowly' | relative_url }})   
@@ -54,6 +54,7 @@ SOURCES:
 6. [Lyman Parker Michigan Pioneer. Pre-Statehood Certificate Number: P039](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/P039%20docs.pdf)
 7. Wikitree: [Parker-13456](https://www.wikitree.com/wiki/Parker-13456)
 8. FamilySearch: [9F43-V8H](https://www.familysearch.org/en/tree/person/details/9F43-V8H)
+9. ![Isaac Parker Death Certificate]({{ '/surnames/parker/IsaacParkerDeathCertificate.jpg' | relative_url }})
 
 ACCOLADES:
 - Presidential Memorial Certificate
