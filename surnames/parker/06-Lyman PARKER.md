@@ -34,8 +34,7 @@ SGT Lyman Parker
 - Marriage Date: before 1832 `#2`
 - Marriage Place: probably Ohio `#2`
 
-- Father:  Barak Parker  `#6`
-- Mother:
+
 - Residence: Lived in Ohio 1827 to 1834 where his 3 sons Isaac, Baruch and Johnathan were born.  `#2, #9, #10`
 
 - Father: [Jotham Parker]({{ '/ancestors/parker/jotham' | relative_url }})  
