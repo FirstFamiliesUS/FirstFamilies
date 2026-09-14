@@ -52,6 +52,8 @@ SOURCES:
 4. [US Daughters of 1812 Ancestor ID:  31599](https://members.usdaughters1812.org/i4a/memberDirectory/index.cfm?srch_ANCESTOR_ID_singleLineText_190=&srch_ANC_LNAME_singleLineText_191=Parker&srch_ANC_FNAME_singleLineText_369=Lyman&srch_BIRTH_STATE_singleLineText_368=&srch_ANCESTOR_STATE_SERVED_singleLineText_192=&srch_DEATH_STATE_singleLineText_370=&srch_ANC_SERVICE_singleLineText_193=&srch_SPOUSE_singleLineText_194=&srch_CHILD_singleLineText_195=&srch_CHILDS_SPOUSE_singleLineText_196=&controller=memberDirectory&action=resultsListing&directory_id=43&start=1&submitFlag=1&pageID=3817)
 5. [Year: 1860; Census Place: Oxford, Oakland, Michigan; Page: 773; Family History Library Film: 803556](https://www.ancestry.com/search/collections/7667/records/45216518?tid=168012819&pid=272180029558&ssrc=pt)
 6. [Lyman Parker Michigan Pioneer. Pre-Statehood Certificate Number: P039](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/P039%20docs.pdf)
+7. Wikitree: [Parker-13456](https://www.wikitree.com/wiki/Parker-13456)
+8. FamilySearch: [9F43-V8H](https://www.familysearch.org/en/tree/person/details/9F43-V8H)
 
 ACCOLADES:
 - Presidential Memorial Certificate
