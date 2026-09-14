@@ -45,7 +45,7 @@ SOURCES:
 4. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID: [GX67-P36](https://www.familysearch.org/en/tree/person/details/GX67-P36)
 5. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors): [Philpot-105](https://www.wikitree.com/wiki/Philpot-105)
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737):
-7. [Early Settlers](https://www.colonial-settlers-md-va.us/getperson.php?personID=I024766&tree=Tree1):
+7. [Early Settlers](https://www.colonial-settlers-md-va.us/getperson.php?personID=I024766&tree=Tree1): [I24766](https://www.colonial-settlers-md-va.us/getperson.php?personID=I24766)
 8. [Eskridge Family Assocation](https://eskridgefamilyassociation.com/files/first4-pdf.pdf):
 
 
