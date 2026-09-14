@@ -59,6 +59,8 @@ SOURCES:
 8. [Tidbits in Tennessee](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Tidbits%20in%20Tennnessee.jpg)
 9. [Hawkins County History](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Hawkins%20County%20History.pdf) P. 141
 10. [Mendenhall Family Association](https://www.mendenhall.org/): [I24903](https://www.mendenhall.org/mfa/tng/getperson.php?personID=I24903&tree=MendEuro20260329)
+11. [The Kenner Chronicle Vol 2]({{ '/surnames/kenner/kennerchronicle-vol2.pdf' | relative_url }})
+12. [Hawkins County History]({{ '/events/tennessee/hawkins/Hawkins County History.pdf' | relative_url }}) 
 
 
 
@@ -67,6 +69,3 @@ ACCOLADES:
 - [Tennessee First Families](https://tngs.org/): [Henry](https://tngs.org/resources/Site/Custom_HTML_Files/TCD/County/Henry.html), [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy),
 
 
-- [The Kenner Chronicle]({{ '/docs/kennerchronicle.pdf' | relative_url }})
-
-- [The Kenner Chronicle Vol 2]({{ '/docs/kennerchronicle-vol2.pdf' | relative_url }})
