@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Jerome Kenner"
-permalink: /surnames/kenner/jerome/
+permalink: /ancestors/kenner/jerome/
 ---
 
 
