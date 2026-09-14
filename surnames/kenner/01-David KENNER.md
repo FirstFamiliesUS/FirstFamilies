@@ -54,6 +54,7 @@ SOURCES:
 5. [David Kenner SAR](https://sarpatriots.sar.org/member/display/219515)
 6. [FamilySearch](https://www.familysearch.org/en/search/): ID [LR6S-78B](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B)
 7. [Wikitree](https://www.wikitree.com/wiki/): [Kenner-232](https://www.wikitree.com/wiki/Kenner-232)
+8. [The Kenner Chronicle]({{ '/surnames/kenner/kennerchronicle.pdf' | relative_url }})
 
 
 
@@ -61,4 +62,4 @@ SOURCES:
 
 
 
-- [The Kenner Chronicle]({{ '/docs/kennerchronicle.pdf' | relative_url }})
+- 
