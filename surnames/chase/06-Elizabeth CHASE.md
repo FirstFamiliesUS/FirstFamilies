@@ -52,6 +52,6 @@ SOURCES:
 5. [Lyman Parker Michigan Pioneer. Pre-Statehood Certificate Number: P039](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/P039%20docs.pdf)
 
 ACCOLADES:
-- Ohio First Families  (Pending)
+- Ohio First Families: Ancestor [#3118](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/events/ohio/SBO-2025-Roster-for-Website.pdf).
 - Michigan First Families Certificate #200
 
