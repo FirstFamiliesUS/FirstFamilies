@@ -26,3 +26,4 @@ permalink: /surnames/richardson/
 - [William Richardson]({{ '/ancestors/richardson/william' | relative_url }})
 - [PVT John Richardson]({{ '/ancestors/richardson/john' | relative_url }})
 
+https://www.wikitree.com/wiki/Space:Richardson_Name_Study
