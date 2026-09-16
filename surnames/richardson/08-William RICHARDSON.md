@@ -23,9 +23,10 @@ permalink: /ancestors/richardson/william1/
 
 
 
-- Spouse:  [Ann Guignard]({{ '/ancestors/guignard/ann' | relative_url }})
-- Father: 
-- Spouse:   
+
+- Father:
+- Mother:  
+- Spouse:   [Ann Guignard]({{ '/ancestors/guignard/ann' | relative_url }})
 - Child:  [John Richardson]({{ '/ancestors/richardson/john' | relative_url }}) 
 
 
