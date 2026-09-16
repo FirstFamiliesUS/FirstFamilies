@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Capt William Richardson"
-permalink: /ancestors/richardson/william1/
 ---
 
 
