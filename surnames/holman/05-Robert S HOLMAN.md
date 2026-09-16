@@ -39,6 +39,7 @@ Robert S HOLMAN
 
 SOURCES:
 1. Nebraska First Families Certificate # [F-026](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/F026%20docs.pdf)
+2. Wikitree:[Holman-3629](https://www.wikitree.com/wiki/Holman-3629)
 
 ACCOLADES:
 - Nebraska First Families Certificate # [F-026](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/F026%20docs.pdf)
