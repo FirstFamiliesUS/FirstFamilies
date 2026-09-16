@@ -30,4 +30,9 @@ permalink: /ancestors/richardson/john/
 
 ![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
-[US Daughters of 1812. National No 17821](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/John%20Richardson%20US%20Daughters%20of%20war%20of%201812.pdf)
+SOURCES:
+- [US Daughters of 1812. National No 17821](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/John%20Richardson%20US%20Daughters%20of%20war%20of%201812.pdf)
+- Wikitree:[ Richardson-10848](https://www.wikitree.com/wiki/Richardson-10848)
+- FindAGrave:[23545146](https://www.findagrave.com/memorial/23545146/john-richardson)
+- FamilySearch:[HZQ-H5Y](https://familysearch.org/ark:/61903/4:1:LHZQ-H5Y)
+
