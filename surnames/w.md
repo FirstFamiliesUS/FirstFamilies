@@ -30,3 +30,4 @@ permalink: /surnames/w/
 * [Washington]({{ '/surnames/washington/' | relative_url }})
 * [Wheeler]({{ '/surnames/wheeler/' | relative_url }})
 * [Woolman]({{ '/surnames/woolman/' | relative_url }})
+* [Wells]({{ '/surnames/wells/' | relative_url }})
