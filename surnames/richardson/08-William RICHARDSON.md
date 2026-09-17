@@ -21,6 +21,11 @@ permalink: /ancestors/richardson/william1/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
+<img src="{{ 'portrait.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Portrait">
+
+<img src="{{ 'WilliamRichardson1-grave.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Grave">
+
+<img src="{{ 'wikipedia.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Wikipedia">
 
 
 
@@ -34,7 +39,7 @@ permalink: /ancestors/richardson/william1/
 
 SOURCES:
 - Wikitree:[Richardson-238](https://www.wikitree.com/wiki/Richardson-238)
-- FindAGrave:
+- FindAGrave: [70963350](https://www.findagrave.com/memorial/70963350/william-richardson) 
 - FamilySearch:
 
 
