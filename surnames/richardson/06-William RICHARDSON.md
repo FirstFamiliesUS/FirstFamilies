@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "William Richardson"
-permalink: /ancestors/richardson/william/
+title: "Capt William Richardson"
 ---
-
 
 <header class="wrapper bg-light">
   {% include components/navbar/navbar.html
@@ -21,35 +19,22 @@ permalink: /ancestors/richardson/william/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
+- Father:
+- Mother:  
+- Spouse:   [Ann Guignard]({{ '/ancestors/guignard/ann' | relative_url }})
+- Child:  [John Richardson]({{ '/ancestors/richardson/john' | relative_url }}) 
 
-
-William RICHARDSON
-
-
-
-- Born: 
-- Birth Place:
-- Marriage Date:
-- Marriage Place
-- Died: 
-- Burial Place:  
-
-- Father: [PVT John W. Richardson]({{ '/ancestors/richardson/john' | relative_url }})  
-- Mother: [Mary Horner]({{ '/ancestors/horner/mary' | relative_url }})  
-- Spouse:  [Martha Childers]({{ '/ancestors/childers/martha' | relative_url }}) 
-- Child:  [Jemima Richardson]({{ '/ancestors/richardson/jemima' | relative_url }}) `#3`
+![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
 SOURCES:
-1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID
-2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
-3. [Year: 1860; Census Place: Perry, Tennessee; Roll: M653_1268; Page: 300; Family History Library Film: 805268](https://www.ancestry.com/search/collections/7667/records/22544489?tid=168012819&pid=272180029347&ssrc=pt)
+- [US Daughters of 1812. National No 17821](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/John%20Richardson%20US%20Daughters%20of%20war%20of%201812.pdf)
+- Wikitree: [Richardson-10848](https://www.wikitree.com/wiki/Richardson-10848)
+- FindAGrave: [23545146](https://www.findagrave.com/memorial/23545146/john-richardson)
+- FamilySearch: [LHZQ-H5Y](https://familysearch.org/ark:/61903/4:1:LHZQ-H5Y)
 
-
-ACCOLADES:
-- [Tennessee First Families](https://tngs.org/): [Henry](https://tngs.org/resources/Site/Custom_HTML_Files/TCD/County/Henry.html), [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy),
-- [Land Grants](https://glorecords.blm.gov/search/default.aspx):
-- Namesake
-
-
-[US Daughters of 1812. National No 17821](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/John%20Richardson%20US%20Daughters%20of%20war%20of%201812.pdf)
-
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>
