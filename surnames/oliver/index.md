@@ -30,3 +30,4 @@ Here we will detail the lineage, historical documents, and stories of the Oliver
 - [ Isaac OLIVER]({{ '/ancestors/oliver/isaac/' | relative_url }})
 - [ William OLIVER]({{ '/ancestors/oliver/william/' | relative_url }})
 - [ John OLIVER]({{ '/ancestors/oliver/john/' | relative_url }})
+- [ John OLIVER]({{ '/ancestors/oliver/john/' | relative_url }})
