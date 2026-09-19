@@ -28,9 +28,3 @@ permalink: /ancestors/paul/minnie/
 **SOURCES:**
 1. [Sons of the American Revolution Application](https://sarpatriots.sar.org/application/display/227819)
 
-          </div>
-        </article>
-      </div>
-    </div>
-  </div>
-</section>
