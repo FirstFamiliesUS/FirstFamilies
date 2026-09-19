@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "William Richardson"
-permalink: /ancestors/richardson/william1/
+title: "Ricky Richardson"
+permalink: /ancestors/richardson/fname/
 ---
-
 
 <header class="wrapper bg-light">
   {% include components/navbar/navbar.html
@@ -21,20 +20,17 @@ permalink: /ancestors/richardson/william1/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
+William Richardson
 
-
-
-
-
-
-- Born: 17 June
+- Born: 
 - Birth Place: [US](https://www.familysearch.org/en/wiki/United_States_Genealogy)
 - Died: 
 - Burial Place: [US](https://www.familysearch.org/en/wiki/United_States_Genealogy)
 - Father: 
 - Mother: 
 - Spouse
-- Child
+- Child:
+- Occupation:
 
 
 SOURCES:
