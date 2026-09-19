@@ -28,7 +28,7 @@ William Richardson
 - Burial Place: [US](https://www.familysearch.org/en/wiki/United_States_Genealogy)
 - Father: 
 - Mother: 
-- Spouse
+- Spouse:
 - Child:
 - Occupation:
 
@@ -41,7 +41,7 @@ SOURCES:
 5. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737):
 6. [Sons of the American Revolution](https://sarpatriots.sar.org/patriot/search). Patriot
 7. [Daughters of the American Revolution](https://services.dar.org/public/dar_research/search/?Tab_ID=1): Ancestor #:
-8. [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/getperson.php?personID=I25402&tree=Tree1) 
+8. [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/searchform.php) 
 
 
 ACCOLADES:
