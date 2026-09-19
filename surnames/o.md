@@ -21,3 +21,4 @@ permalink: /surnames/o/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
+* [Oliver]({{ '/surnames/oliver/' | relative_url }})
