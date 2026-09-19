@@ -25,3 +25,4 @@ permalink: /surnames/miller/
 - [Matilda Miller]({{ '/ancestors/miller/matilda' | relative_url }})
 - [PVT Isaac Miller]({{ '/ancestors/miller/isaac' | relative_url }})
 
+- [ James MILLER]({{ '/ancestors/miller/james/' | relative_url }})
