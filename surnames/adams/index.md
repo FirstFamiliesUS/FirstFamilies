@@ -117,3 +117,4 @@ the conflicts and hardships in his life, it was often his wife who
 brought strength, courage, and compassion to the family. Only through a
 thorough examination of this woman's life can we uncover the important
 place in history that Louisa Catherine Adams truly deserves. 
+- [  ADAMS]({{ '/ancestors/adams//' | relative_url }})
