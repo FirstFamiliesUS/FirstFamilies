@@ -31,4 +31,4 @@ Here we will detail the lineage, historical documents, and stories of the Oliver
 - [ William OLIVER]({{ '/ancestors/oliver/william/' | relative_url }})
 - [ John OLIVER]({{ '/ancestors/oliver/john/' | relative_url }})
 
-- [ John OLIVER]({{ '/ancestors/oliver/john/' | relative_url }})
+
