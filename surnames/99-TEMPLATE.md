@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Capt William Richardson"
+title: "William Richardson"
 permalink: /ancestors/richardson/william1/
 ---
 
@@ -25,12 +25,12 @@ permalink: /ancestors/richardson/william1/
 
 
 
-David J. Kenner
+
 
 - Born: 17 June
-- Birth Place: 
+- Birth Place: [US](https://www.familysearch.org/en/wiki/United_States_Genealogy)
 - Died: 
-- Burial Place: 
+- Burial Place: [US](https://www.familysearch.org/en/wiki/United_States_Genealogy)
 - Father: 
 - Mother: 
 - Spouse
