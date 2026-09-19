@@ -1,9 +1,8 @@
 ---
 layout: default
-title: "Paul"
-permalink: /surnames/paul/minnie
+title: "Minnie Paul"
+permalink: /surnames/paul/minnie/
 ---
-
 
 <header class="wrapper bg-light">
   {% include components/navbar/navbar.html
@@ -15,16 +14,23 @@ permalink: /surnames/paul/minnie
 </header>
 
 <section class="wrapper bg-light">
-<div class="container py-12 py-md-14">
-<div class="row justify-content-center">
-<div class="col-lg-9">
-<article class="card shadow-lg">
-<div class="card-body p-6 p-md-8" markdown="1">
+  <div class="container py-12 py-md-14">
+    <div class="row justify-content-center">
+      <div class="col-lg-9">
+        <article class="card shadow-lg">
+          <div class="card-body p-6 p-md-8" markdown="1">
 
+- Father: [Oscar Paul]({{ '/surnames/paul/oscar/' | relative_url }})
+- Mother: [Mary Lyell]({{ '/surnames/lyell/mary/' | relative_url }})
+- Spouse: [Edward Bower]({{ '/surnames/bower/edward/' | relative_url }})
+- Child: [Lee Bower]({{ '/surnames/bower/lee/' | relative_url }})
 
-- Father:  [Oscar Paul]({{ '/surnames/paul/oscar' | relative_url }})  
-- Mother:  [Mary Lyell]({{ '/surnames/lyell/mary' | relative_url }})  
-- Spouse:  [Edward Bower]({{ '/surnames/bower/edward' | relative_url }})  
-- Child:  [Lee Bower]({{ '/surnames/bower/lee' | relative_url }})
+**SOURCES:**
+1. [Sons of the American Revolution Application](https://sarpatriots.sar.org/application/display/227819)
 
-https://sarpatriots.sar.org/application/display/227819
+          </div>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
