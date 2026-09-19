@@ -5,12 +5,12 @@ permalink: /surnames/oliver/
 ---
 
 <header class="wrapper bg-light">
-{% include components/navbar/navbar.html
-classList="center-nav transparent navbar-light"
-centerNav=true
-logoAlt=true
-otherClassList="w-100 d-flex ms-auto"
-%}
+  {% include components/navbar/navbar.html
+    classList="center-nav transparent navbar-light"
+    centerNav=true
+    logoAlt=true
+    otherClassList="w-100 d-flex ms-auto"
+  %}
 </header>
 
 
@@ -25,12 +25,6 @@ Welcome to the Oliver family history page.
 
 Here we will detail the lineage, historical documents, and stories of the Oliver ancestors in the United States.
 
-</div>
-</article>
-</div>
-</div>
-</div>
-</section>
 
 - [ Mary OLIVER]({{ '/ancestors/oliver/mary/' | relative_url }})
 - [ Isaac OLIVER]({{ '/ancestors/oliver/isaac/' | relative_url }})
