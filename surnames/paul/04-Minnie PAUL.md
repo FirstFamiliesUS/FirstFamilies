@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Paul"
-permalink: /ancestors/paul/minnie
+permalink: /surnames/paul/minnie
 ---
 
 
@@ -22,9 +22,9 @@ permalink: /ancestors/paul/minnie
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- Father:  [Oscar Paul]({{ '/ancestors/paul/oscar' | relative_url }})  
-- Mother:  [Mary Lyell]({{ '/ancestors/lyell/mary' | relative_url }})  
-- Spouse:  [Edward Bower]({{ '/ancestors/bower/edward' | relative_url }})  
-- Child:  [Lee Bower]({{ '/ancestors/bower/lee' | relative_url }})
+- Father:  [Oscar Paul]({{ '/surnames/paul/oscar' | relative_url }})  
+- Mother:  [Mary Lyell]({{ '/surnames/lyell/mary' | relative_url }})  
+- Spouse:  [Edward Bower]({{ '/surnames/bower/edward' | relative_url }})  
+- Child:  [Lee Bower]({{ '/surnames/bower/lee' | relative_url }})
 
 https://sarpatriots.sar.org/application/display/227819
