@@ -31,6 +31,7 @@ Here we will detail the lineage, historical documents, and stories of the Oliver
 </div>
 </div>
 </section>
+
 - [ Mary OLIVER]({{ '/ancestors/oliver/mary/' | relative_url }})
 - [ Isaac OLIVER]({{ '/ancestors/oliver/isaac/' | relative_url }})
 - [ William OLIVER]({{ '/ancestors/oliver/william/' | relative_url }})
