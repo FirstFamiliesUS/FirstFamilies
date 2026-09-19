@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Minnie Paul"
-permalink: /surnames/paul/minnie/
+permalink: /ancestors/paul/minnie/
 ---
 
 <header class="wrapper bg-light">
@@ -20,10 +20,10 @@ permalink: /surnames/paul/minnie/
         <article class="card shadow-lg">
           <div class="card-body p-6 p-md-8" markdown="1">
 
-- Father: [Oscar Paul]({{ '/surnames/paul/oscar/' | relative_url }})
-- Mother: [Mary Lyell]({{ '/surnames/lyell/mary/' | relative_url }})
-- Spouse: [Edward Bower]({{ '/surnames/bower/edward/' | relative_url }})
-- Child: [Lee Bower]({{ '/surnames/bower/lee/' | relative_url }})
+- Father: [Oscar Paul]({{ '/ancestors/paul/oscar/' | relative_url }})
+- Mother: [Mary Lyell]({{ '/ancestors/lyell/mary/' | relative_url }})
+- Spouse: [Edward Bower]({{ '/ancestors/bower/edward/' | relative_url }})
+- Child: [Lee Bower]({{ '/surnames/ancestors/lee/' | relative_url }})
 
 **SOURCES:**
 1. [Sons of the American Revolution Application](https://sarpatriots.sar.org/application/display/227819)
