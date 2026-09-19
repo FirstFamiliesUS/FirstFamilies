@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Oscar PAUL I"
-permalink: /surnames/paul/oscar-i/
+permalink: /ancestors/paul/oscar-i/
 ---
 
 <header class="wrapper bg-light">
@@ -29,7 +29,7 @@ Oscar PAUL I
 - Father: 
 - Mother: 
 - Spouse:
-- Child: [04-Minnie PAUL]({{ '/surnames/paul/04-minnie/' | relative_url }})
+- Child: [04-Minnie PAUL]({{ '/ancestors/paul/04-minnie/' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/memorial/188277485) Memorial ID [188277485](https://www.findagrave.com/memorial/188277485)
