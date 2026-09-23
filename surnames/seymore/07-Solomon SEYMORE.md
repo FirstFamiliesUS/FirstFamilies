@@ -33,7 +33,7 @@ permalink: /surnames/seymore/solomon/
 - Burial Place:  
 
 
-- Father:     
+- Father: [Forefather Thomas Seymore]({{ '/surnames/seymore/thomas' | relative_url }})
 - Mother:    
 - Spouse: [Martha Lade]({{ '/surnames/lade/martha' | relative_url }})     
 - Child:  [PVT Solomon Seymore]({{ '/surnames/seymore/solomon' | relative_url }})
