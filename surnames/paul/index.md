@@ -25,3 +25,4 @@ permalink: /surnames/paul/
 - [Minnie Paul]({{ '/surnames/paul/minnie' | relative_url }})
 - [ Oscar PAUL I]({{ '/surnames/paul/oscar-i/' | relative_url }})
 - [ Thomas PAUL I]({{ '/surnames/paul/thomas-i/' | relative_url }})
+- [ Thomas PAUL I]({{ '/surnames/paul/thomas/' | relative_url }})
