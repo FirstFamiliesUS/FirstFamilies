@@ -26,3 +26,4 @@ permalink: /surnames/horner/
 - [CPT John Horner]({{ '/surnames/horner/john' | relative_url }})
 - [ Patriot William HORNER I]({{ '/surnames/horner/william/' | relative_url }})
 - [ George HORNER I]({{ '/surnames/horner/george/' | relative_url }})
+- [ Johannes HORNER Forefather]({{ '/surnames/horner/johannes/' | relative_url }})
