@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Honorable Howson Kenner I"
-permalink: /ancestors/kenner/howson/
+permalink: /surnames/kenner/howson/
 ---
 
 
@@ -39,10 +39,10 @@ NAME
 - Marriage Place
 - Died: 1778
 - Burial Place:  
-- Father: [Capt Francis Kenner I]({{ '/ancestors/kenner/francis1' | relative_url }})  `#7`
-- Mother:  [Hannah Howson]({{ '/ancestors/howson/hannah' | relative_url }})  `#7`
-- Spouse:   [Margaret Eskridge]({{ '/ancestors/eskridge/margaret' | relative_url }})  `#7, #8`
-- Child: [PVT Francis Kenner]({{ '/ancestors/kenner/francis' | relative_url }}) `#8`
+- Father: [Capt Francis Kenner I]({{ '/surnames/kenner/francis1' | relative_url }})  `#7`
+- Mother:  [Hannah Howson]({{ '/surnames/howson/hannah' | relative_url }})  `#7`
+- Spouse:   [Margaret Eskridge]({{ '/surnames/eskridge/margaret' | relative_url }})  `#7, #8`
+- Child: [PVT Francis Kenner]({{ '/surnames/kenner/francis' | relative_url }}) `#8`
 
 
 

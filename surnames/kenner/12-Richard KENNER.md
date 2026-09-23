@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Capt. Richard Kenner II (The Burgess)"
-permalink: /ancestors/kenner/richard2/
+permalink: /surnames/kenner/richard2/
 ---
 
 
@@ -35,10 +35,10 @@ NAME
 - Marriage Place
 - Died: 1778
 - Burial Place:  
-- Father: [Dr Richard Kenner I]({{ '/ancestors/kenner/richard1' | relative_url }})
-- Mother:  [Hannah Howson]({{ '/ancestors/howson/hannah' | relative_url }})  `#7`
-- Spouse:   [Margaret Eskridge]({{ '/ancestors/eskridge/margaret' | relative_url }})  `#7, #8`
-- Child: [Capt Francis Kenner I]({{ '/ancestors/kenner/francis1' | relative_url }}) `#8`
+- Father: [Dr Richard Kenner I]({{ '/surnames/kenner/richard1' | relative_url }})
+- Mother:  [Hannah Howson]({{ '/surnames/howson/hannah' | relative_url }})  `#7`
+- Spouse:   [Margaret Eskridge]({{ '/surnames/eskridge/margaret' | relative_url }})  `#7, #8`
+- Child: [Capt Francis Kenner I]({{ '/surnames/kenner/francis1' | relative_url }}) `#8`
 
 
 

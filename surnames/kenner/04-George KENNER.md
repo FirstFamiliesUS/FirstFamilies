@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Rev. George Kenner"
-permalink: /ancestors/kenner/george/
+permalink: /surnames/kenner/george/
 ---
 
 
@@ -30,10 +30,10 @@ The Rev. George Kenner
 - Died: 10 Oct 1933  `#3`
 - Burial:  Shirley Cemetery, Briar, Ripley County, Missouri  `#4`
 - Marriage Date: before 1892  `#2`
-- Father:   [Rev. EHC Kenner]({{ '/ancestors/kenner/ehc' | relative_url }})  `#1, #3`
-- Mother: [Matilda Miller]({{ '/ancestors/miller/matilda' | relative_url }})  `#1, #3`
-- Spouse:   [Martha Staton]({{ '/ancestors/staton/martha' | relative_url }}) `#2, #3`
-- Child:  [Perry Kenner]({{ '/ancestors/kenner/perry' | relative_url }})  `#2`
+- Father:   [Rev. EHC Kenner]({{ '/surnames/kenner/ehc' | relative_url }})  `#1, #3`
+- Mother: [Matilda Miller]({{ '/surnames/miller/matilda' | relative_url }})  `#1, #3`
+- Spouse:   [Martha Staton]({{ '/surnames/staton/martha' | relative_url }}) `#2, #3`
+- Child:  [Perry Kenner]({{ '/surnames/kenner/perry' | relative_url }})  `#2`
 
 
 

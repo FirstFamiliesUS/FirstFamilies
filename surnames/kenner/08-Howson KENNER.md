@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Midshipman Howson Kenner"
-permalink: /ancestors/kenner/midshipman/
+permalink: /surnames/kenner/midshipman/
 ---
 
 
@@ -41,10 +41,10 @@ NAME
 - Marriage Place
 - Died:   29 June 1824  `#7, #8`
 - Burial Place:  Howson County, Tennessee  `#7`
-- Father:  [PVT Francis Kenner]({{ '/ancestors/kenner/francis' | relative_url }})  `#8`
-- Mother:  [Elizabeth Howard]({{ '/ancestors/howard/elizabeth' | relative_url }})  `#8`
-- Spouse: [Lucy Callahan]({{ '/ancestors/callahan/lucy' | relative_url }})  `#7, #8`
-- Child:  [William Kenner]({{ '/ancestors/kenner/william' | relative_url }})
+- Father:  [PVT Francis Kenner]({{ '/surnames/kenner/francis' | relative_url }})  `#8`
+- Mother:  [Elizabeth Howard]({{ '/surnames/howard/elizabeth' | relative_url }})  `#8`
+- Spouse: [Lucy Callahan]({{ '/surnames/callahan/lucy' | relative_url }})  `#7, #8`
+- Child:  [William Kenner]({{ '/surnames/kenner/william' | relative_url }})
 
 
 

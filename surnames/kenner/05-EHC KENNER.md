@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Rev. EHC Kenner"
-permalink: /ancestors/kenner/ehc/
+permalink: /surnames/kenner/ehc/
 ---
 
 
@@ -31,10 +31,10 @@ The Rev. EHC Kenner
 - Died:  1928  `#5`
 - Burial:  Black Creek Cemetery, Poplar Bluff, Butler County, Missouri   `#5`
 - Marriage Date: before 1872  `#2`
-- Father:   [The Honorable Rev Elias Kenner]({{ '/ancestors/kenner/elias' | relative_url }})  `#1`
-- Mother:  [Clarinda Latham]({{ '/ancestors/latham/clarinda' | relative_url }})  `#1`
-- Spouse:   [Matilda Miller]({{ '/ancestors/miller/matilda' | relative_url }})  `#3, #4`  
-- Child:  [Perry Kenner]({{ '/ancestors/kenner/perry' | relative_url }})  `#2`
+- Father:   [The Honorable Rev Elias Kenner]({{ '/surnames/kenner/elias' | relative_url }})  `#1`
+- Mother:  [Clarinda Latham]({{ '/surnames/latham/clarinda' | relative_url }})  `#1`
+- Spouse:   [Matilda Miller]({{ '/surnames/miller/matilda' | relative_url }})  `#3, #4`  
+- Child:  [Perry Kenner]({{ '/surnames/kenner/perry' | relative_url }})  `#2`
 
 ### SOURCES:
 

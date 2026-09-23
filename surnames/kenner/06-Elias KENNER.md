@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Elias Kenner"
-permalink: /ancestors/kenner/elias/
+permalink: /surnames/kenner/elias/
 ---
 
 
@@ -47,10 +47,10 @@ Moved to Pulaski County, Missouri after his marriage in 1842. Was a Justice of t
 - Burial:  [Macedonia Cemetery](https://www.findagrave.com/cemetery/54860/macedonia-cemetery), [Warm Springs](https://en.wikipedia.org/wiki/Warm_Springs,_Arkansas), [Randolph](https://www.familysearch.org/en/wiki/Randolph_County,_Arkansas_Genealogy "Randolph County, Arkansas Genealogy"), [Arkansas](https://www.familysearch.org/en/wiki/Arkansas,_United_States_Genealogy "Arkansas, United States Genealogy")  `#3`
 - Marriage Date: before 1844      `#1`
 - Marriage Place
-- Father: [William Kenner]({{ '/ancestors/kenner/william' | relative_url }})
-- Mother: [Elizabeth Mendenhall]({{ '/ancestors/mendenhall/elizabeth' | relative_url }})
-- Spouse: [Clarinda Latham]({{ '/ancestors/latham/clarinda' | relative_url }})       `#2`
-- Child:  [Rev. EHC Kenner]({{ '/ancestors/kenner/ehc' | relative_url }})  `#1, #2`
+- Father: [William Kenner]({{ '/surnames/kenner/william' | relative_url }})
+- Mother: [Elizabeth Mendenhall]({{ '/surnames/mendenhall/elizabeth' | relative_url }})
+- Spouse: [Clarinda Latham]({{ '/surnames/latham/clarinda' | relative_url }})       `#2`
+- Child:  [Rev. EHC Kenner]({{ '/surnames/kenner/ehc' | relative_url }})  `#1, #2`
 
 SOURCES:
 1. [Year: 1860; Census Place: Dry Creek, Maries, Missouri; Roll: M653_632; Page: 562; Family History Library Film: 803632](https://www.ancestry.com/search/collections/7667/records/40427738?tid=168012819&pid=272180029271&ssrc=pt).

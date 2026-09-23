@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT Francis Kenner"
-permalink: /ancestors/kenner/francis/
+permalink: /surnames/kenner/francis/
 ---
 
 
@@ -40,10 +40,10 @@ PVT Francis KENNER
 - Marriage Place:  North Carolina  `#7`
 - Died:   1784  `#7`
 - Death Place:   Watauga, Washington Co., NC, now Carter Co., TN  `#7, #8`
-- Father:  [The Honorable Howson Kenner I]({{ '/ancestors/kenner/howson' | relative_url }})  `#7, #8, #9`
-- Mother:  [Margaret Eskridge]({{ '/ancestors/eskridge/margaret' | relative_url }})  `#7, #8, #9`
-- Spouse [Elizabeth Howard]({{ '/ancestors/howard/elizabeth' | relative_url }}) `#7, #8`
-- Child:  [Midshipman Howson Kenner]({{ '/ancestors/kenner/midshipman' | relative_url }})  `#7, #8`
+- Father:  [The Honorable Howson Kenner I]({{ '/surnames/kenner/howson' | relative_url }})  `#7, #8, #9`
+- Mother:  [Margaret Eskridge]({{ '/surnames/eskridge/margaret' | relative_url }})  `#7, #8, #9`
+- Spouse [Elizabeth Howard]({{ '/surnames/howard/elizabeth' | relative_url }}) `#7, #8`
+- Child:  [Midshipman Howson Kenner]({{ '/surnames/kenner/midshipman' | relative_url }})  `#7, #8`
 
 
 

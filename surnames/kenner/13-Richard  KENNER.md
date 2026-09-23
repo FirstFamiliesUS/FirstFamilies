@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Forefather Dr. Richard Kenner I"
-permalink: /ancestors/kenner/richard1/
+permalink: /surnames/kenner/richard1/
 ---
 
 
@@ -36,7 +36,7 @@ NAME
 - Father: 
 - Mother:  
 - Spouse:  
-- Child: [Capt Richard Kenner II]({{ '/ancestors/kenner/richard2' | relative_url }})
+- Child: [Capt Richard Kenner II]({{ '/surnames/kenner/richard2' | relative_url }})
 
 
 
