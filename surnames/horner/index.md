@@ -24,7 +24,6 @@ permalink: /surnames/horner/
 
 - [Mary Horner]({{ '/surnames/horner/mary' | relative_url }})
 - [CPT John Horner]({{ '/surnames/horner/john2' | relative_url }})
-- [PVT William Horner]({{ '/surnames/horner/william' | relative_url }})
-- [George Horner]({{ '/surnames/horner/george' | relative_url }})
-- [Forefather John Horner]({{ '/surnames/horner/john' | relative_url }})
+- [Patriot William Horner]({{ '/surnames/horner/william' | relative_url }})
+
 
