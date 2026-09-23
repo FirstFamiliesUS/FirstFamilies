@@ -20,7 +20,7 @@ permalink: /surnames/paul/minnie/
         <article class="card shadow-lg">
           <div class="card-body p-6 p-md-8" markdown="1">
 
-- Father: [Oscar Paul]({{ '/surnames/paul/oscar/' | relative_url }})
+- Father: [Oscar Paul]({{ '/surnames/paul/oscar-i/' | relative_url }})
 - Mother: [Mary Lyell]({{ '/ancestors/lyell/mary/' | relative_url }})
 - Spouse: [Edward Bower]({{ '/ancestors/bower/edward/' | relative_url }})
 - Child: [Lee Bower]({{ '/surnames/ancestors/lee/' | relative_url }})
