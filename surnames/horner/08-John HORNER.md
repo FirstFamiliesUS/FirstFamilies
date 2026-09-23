@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "CPT John Horner"
-permalink: /surnames/horner/john2/
+permalink: /surnames/horner/john/
 ---
 
 
