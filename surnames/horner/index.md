@@ -25,3 +25,4 @@ permalink: /surnames/horner/
 - [Mary Horner]({{ '/surnames/horner/mary' | relative_url }})
 - [CPT John Horner]({{ '/surnames/horner/john' | relative_url }})
 - [ Patriot William HORNER I]({{ '/surnames/horner/william/' | relative_url }})
+- [ George HORNER I]({{ '/surnames/horner/george/' | relative_url }})
