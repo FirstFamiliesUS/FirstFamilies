@@ -29,7 +29,7 @@ George RUSSELL Captain
 - Father: 
 - Mother: 
 - Spouse:
-- Child: [Mary RUSSELL]({{ '/surnames/russell/mary/' | relative_url }})
+- Child: [Elizabeth RUSSELL]({{ '/surnames/russell/elizabeth/' | relative_url }})
 
 
 

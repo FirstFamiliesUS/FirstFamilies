@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Mary RUSSELL"
-permalink: /surnames/russell/mary/
+title: "Elizabeth RUSSELL"
+permalink: /surnames/russell/elizabeth/
 ---
 
 <header class="wrapper bg-light">
