@@ -22,6 +22,6 @@ permalink: /surnames/paul/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Minnie Paul]({{ '/ancestors/paul/minnie' | relative_url }})
+- [Minnie Paul]({{ '/surnames/paul/minnie' | relative_url }})
 
 - [ Oscar PAUL I]({{ '/surnames/paul/oscar-i/' | relative_url }})
