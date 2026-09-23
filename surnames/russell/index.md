@@ -34,3 +34,4 @@ In the United States, the name Russell is the 97th most popular surname
 with an estimated 211,395 people with that name.
 - [ Mary RUSSELL]({{ '/surnames/russell/mary/' | relative_url }})
 - [ George RUSSELL Captain]({{ '/surnames/russell/george/' | relative_url }})
+- [ William RUSSELL Colonel]({{ '/surnames/russell/william/' | relative_url }})
