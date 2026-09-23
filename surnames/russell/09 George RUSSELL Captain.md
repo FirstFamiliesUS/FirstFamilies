@@ -33,11 +33,9 @@ George RUSSELL Captain
 
 
 
-![DAR Logo]({{ '/assets/images/DAR_LOGO.jpg' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/memorial/63574609) Memorial ID [63574609](https://www.findagrave.com/memorial/63574609)
 2. [FamilySearch](https://www.familysearch.org/en/tree/person/details/LCFV-B9B): ID [LCFV-B9B](https://www.familysearch.org/en/tree/person/details/LCFV-B9B)
 3. [Wikitree](https://www.wikitree.com/wiki/Russell-2021): ID [Russell-2021](https://www.wikitree.com/wiki/Russell-2021)
 4. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737)
-Daughters of the American Revolution: George RUSSELL. DAR #: [A098354](https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A098354)
