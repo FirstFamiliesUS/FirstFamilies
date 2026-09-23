@@ -22,7 +22,7 @@ permalink: /surnames/horner/mary/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- Father: [CPT John Horner]({{ '/surnames/horner/john2' | relative_url }})  
+- Father: [CPT John Horner]({{ '/surnames/horner/john' | relative_url }})  
 - Mother:  [Elizabeth Russell]({{ '/surnames/russell/elizabeth' | relative_url }})
 - Spouse:  [PVT John Richardson]({{ '/surnames/richardson/john' | relative_url }})  
 - Child:  [William Richardson]({{ '/surnames/richardson/william' | relative_url }}) 
