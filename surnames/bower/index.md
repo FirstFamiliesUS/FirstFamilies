@@ -22,10 +22,10 @@ permalink: /surnames/bower/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Annette Bower]({{ '/ancestors/bower/annette' | relative_url }})
-- [Lee Bower]({{ '/ancestors/bower/lee' | relative_url }})
-- [Edward Bower]({{ '/ancestors/bower/edward' | relative_url }})
-- [Benjamin Bower]({{ '/ancestors/bower/benjamin' | relative_url }})
-- [PVT Jacob Bower]({{ '/ancestors/bower/jacob' | relative_url }})
-- [PVT Andrew Bower]({{ '/ancestors/bower/andrew' | relative_url }})
-- [Forefather Michael Bower]({{ '/ancestors/bower/michael' | relative_url }})
+- [Annette Bower]({{ '/surnames/bower/annette' | relative_url }})
+- [Lee Bower]({{ '/surnames/bower/lee' | relative_url }})
+- [Edward Bower]({{ '/surnames/bower/edward' | relative_url }})
+- [Benjamin Bower]({{ '/surnames/bower/benjamin' | relative_url }})
+- [PVT Jacob Bower]({{ '/surnames/bower/jacob' | relative_url }})
+- [PVT Andrew Bower]({{ '/surnames/bower/andrew' | relative_url }})
+- [Forefather Michael Bower]({{ '/surnames/bower/michael' | relative_url }})

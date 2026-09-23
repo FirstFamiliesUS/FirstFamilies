@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Jacob Bower"
-permalink: /ancestors/bower/jacob/
+permalink: /surnames/bower/jacob/
 ---
 
 
@@ -36,10 +36,10 @@ Jacob Bower
 - Burial Place:  
 
 
-- Father:  [PVT Andrew Bower]({{ '/ancestors/bower/andrew' | relative_url }}) 
-- Mother:  [Elizabeth Bechtel]({{ '/ancestors/bechtel/elizabeth' | relative_url }})
-- Spouse:  [Elizabeth Brugh]({{ '/ancestors/brugh/elizabeth' | relative_url }})
-- Child:  [Benjamin Bower]({{ '/ancestors/bower/benjamin' | relative_url }}) 
+- Father:  [PVT Andrew Bower]({{ '/surnames/bower/andrew' | relative_url }}) 
+- Mother:  [Elizabeth Bechtel]({{ '/surnames/bechtel/elizabeth' | relative_url }})
+- Spouse:  [Elizabeth Brugh]({{ '/surnames/brugh/elizabeth' | relative_url }})
+- Child:  [Benjamin Bower]({{ '/surnames/bower/benjamin' | relative_url }}) 
 
 
 

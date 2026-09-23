@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Michael Bower"
-permalink: /ancestors/bower/michael/
+permalink: /surnames/bower/michael/
 ---
 
 
@@ -25,10 +25,10 @@ permalink: /ancestors/bower/michael/
 
 
 
-- Father:  [Andreas Bauer]({{ '/ancestors/bower/andreas' | relative_url }}) 
-- Mother:  [Maria Mohrlock]({{ '/ancestors/mohrlock/maria' | relative_url }})
-- Spouse:  [Elizabeth Bechtel]({{ '/ancestors/bechtel/elizabeth' | relative_url }})
-- Child:  [Andrew Bower]({{ '/ancestors/bower/andrew' | relative_url }}) 
+- Father:  [Andreas Bauer]({{ '/surnames/bower/andreas' | relative_url }}) 
+- Mother:  [Maria Mohrlock]({{ '/surnames/mohrlock/maria' | relative_url }})
+- Spouse:  [Elizabeth Bechtel]({{ '/surnames/bechtel/elizabeth' | relative_url }})
+- Child:  [Andrew Bower]({{ '/surnames/bower/andrew' | relative_url }}) 
 
 
 SOURCES:

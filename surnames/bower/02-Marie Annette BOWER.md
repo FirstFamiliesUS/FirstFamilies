@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Annette Bower"
-permalink: /ancestors/bower/annette/
+permalink: /surnames/bower/annette/
 ---
 
 
@@ -31,10 +31,10 @@ Marie Annette Bower
 - Marriage Place: [Poplar Bluff](https://en.wikipedia.org/wiki/Poplar_Bluff,_Missouri), [Butler County](https://www.familysearch.org/en/wiki/Butler_County,_Missouri_Genealogy), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)   `#2`
 - Died: 26 Nov 2022  `#1, #2`
 - Burial Place:  Poplar Bluff City Cemetery, Poplar Bluff, Butler County, Missouri  `#1`
-- Father:  [Lee Bower]({{ '/ancestors/bower/lee' | relative_url }})  `#2, #3`
-- Mother:  [Roberta Holman]({{ '/ancestors/holman/roberta' | relative_url }}) `#2, #3`
-- Spouse:  [Jerome Kenner]({{ '/ancestors/kenner/jerome' | relative_url }}) `#2`
-- Child:  [David J. Kenner]({{ '/ancestors/kenner/david' | relative_url }})  `#2`
+- Father:  [Lee Bower]({{ '/surnames/bower/lee' | relative_url }})  `#2, #3`
+- Mother:  [Roberta Holman]({{ '/surnames/holman/roberta' | relative_url }}) `#2, #3`
+- Spouse:  [Jerome Kenner]({{ '/surnames/kenner/jerome' | relative_url }}) `#2`
+- Child:  [David J. Kenner]({{ '/surnames/kenner/david' | relative_url }})  `#2`
 
 
 

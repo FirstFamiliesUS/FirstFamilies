@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Benjamin Bower"
-permalink: /ancestors/bower/benjamin/
+permalink: /surnames/bower/benjamin/
 ---
 
 
@@ -26,10 +26,10 @@ permalink: /ancestors/bower/benjamin/
 
 https://sarpatriots.sar.org/application/display/227819
 
-- Father:  [PVT Jacob Bower]({{ '/ancestors/bower/jacob' | relative_url }}) 
-- Mother:  [Elizabeth Brugh]({{ '/ancestors/brugh/elizabeth' | relative_url }})
-- Spouse:  [Anna Horst]({{ '/ancestors/horst/anna' | relative_url }})
-- Child:  [Edward Bower]({{ '/ancestors/bower/edward' | relative_url }})  
+- Father:  [PVT Jacob Bower]({{ '/surnames/bower/jacob' | relative_url }}) 
+- Mother:  [Elizabeth Brugh]({{ '/surnames/brugh/elizabeth' | relative_url }})
+- Spouse:  [Anna Horst]({{ '/surnames/horst/anna' | relative_url }})
+- Child:  [Edward Bower]({{ '/surnames/bower/edward' | relative_url }})  
 
 
 SOURCES:

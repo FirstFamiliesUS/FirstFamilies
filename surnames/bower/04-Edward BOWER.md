@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Edward Bower"
-permalink: /ancestors/bower/edward/
+permalink: /surnames/bower/edward/
 ---
 
 
@@ -24,10 +24,10 @@ permalink: /ancestors/bower/edward/
 
 
 
-- Father:  [Benjamin Bower]({{ '/ancestors/bower/benjamin' | relative_url }}) 
-- Mother:  [Anna Horst]({{ '/ancestors/horst/anna' | relative_url }})
-- Spouse:  [Minnie Paul]({{ '/ancestors/paul/minnie' | relative_url }}) 
-- Child:  [Lee Bower]({{ '/ancestors/bower/lee' | relative_url }})  
+- Father:  [Benjamin Bower]({{ '/surnames/bower/benjamin' | relative_url }}) 
+- Mother:  [Anna Horst]({{ '/surnames/horst/anna' | relative_url }})
+- Spouse:  [Minnie Paul]({{ '/surnames/paul/minnie' | relative_url }}) 
+- Child:  [Lee Bower]({{ '/surnames/bower/lee' | relative_url }})  
 
 - Born: 
 - Birth Place:
@@ -38,10 +38,10 @@ permalink: /ancestors/bower/edward/
 - Burial Place:  
 
 
-- Father:  [John Emerson]({{ '/ancestors/emerson/john' | relative_url }})
-- Mother:  [Ruth Ripin]({{ '/ancestors/ripin/ruth' | relative_url }}) 
-- Spouse: [Elizabeth Johnson]({{ '/ancestors/johnson/elizabeth' | relative_url }})    
-- Child:  [Regulator James Emerson]({{ '/ancestors/emerson/james1' | relative_url }})
+- Father:  [John Emerson]({{ '/surnames/emerson/john' | relative_url }})
+- Mother:  [Ruth Ripin]({{ '/surnames/ripin/ruth' | relative_url }}) 
+- Spouse: [Elizabeth Johnson]({{ '/surnames/johnson/elizabeth' | relative_url }})    
+- Child:  [Regulator James Emerson]({{ '/surnames/emerson/james1' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 
