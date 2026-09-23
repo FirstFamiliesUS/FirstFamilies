@@ -38,4 +38,5 @@ SOURCES:
 2. [FamilySearch](https://www.familysearch.org/en/tree/person/details/LHZM-6KV): ID [LHZM-6KV](https://www.familysearch.org/en/tree/person/details/LHZM-6KV)
 3. [Wikitree](https://www.wikitree.com/wiki/Russell-11641): ID [Russell-11641](https://www.wikitree.com/wiki/Russell-11641)
 4. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737)
-- Daughters of the American Revolution: Elizabeth RUSSELL. DAR #: [1370771](https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=1370771)
+
+- Daughters of the American Revolution: Elizabeth RUSSELL. DAR #: [A098354](https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A098354)
