@@ -21,9 +21,9 @@ permalink: /surnames/paul/minnie/
           <div class="card-body p-6 p-md-8" markdown="1">
 
 - Father: [Oscar Paul]({{ '/surnames/paul/oscar-i/' | relative_url }})
-- Mother: [Mary Lyell]({{ '/ancestors/lyell/mary/' | relative_url }})
-- Spouse: [Edward Bower]({{ '/ancestors/bower/edward/' | relative_url }})
-- Child: [Lee Bower]({{ '/surnames/ancestors/lee/' | relative_url }})
+- Mother: [Mary Lyell]({{ '/surnames/lyell/mary/' | relative_url }})
+- Spouse: [Edward Bower]({{ '/surnames/bower/edward/' | relative_url }})
+- Child: [Lee Bower]({{ '/surnames/bower/lee/' | relative_url }})
 
 **SOURCES:**
 1. [Sons of the American Revolution Application](https://sarpatriots.sar.org/application/display/227819)
