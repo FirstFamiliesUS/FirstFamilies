@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Oscar PAUL I"
-permalink: /surnames/paul/oscar-i/
+permalink: /surnames/paul/oscar/
 ---
 
 <header class="wrapper bg-light">
