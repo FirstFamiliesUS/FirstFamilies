@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Forefather CPT Robert Philpott (The Burgess)"
-permalink: /ancestors/philpott/robert/
+permalink: /surnames/philpott/robert/
 ---
 
 
@@ -34,7 +34,7 @@ NAME: Captain Robert Philpott I (The Burgess)
 - Father: 
 - Mother: 
 - Spouse: Joane
-- Child:  [Margaret Philpott]({{ '/ancestors/philpott/margaret' | relative_url }})
+- Child:  [Margaret Philpott]({{ '/surnames/philpott/margaret' | relative_url }})
 
 
 

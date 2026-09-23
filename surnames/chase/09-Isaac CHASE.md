@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Isaac Chase I"
-permalink: /ancestors/chase/isaac1/
+permalink: /surnames/chase/isaac1/
 ---
 
 
@@ -29,10 +29,10 @@ permalink: /ancestors/chase/isaac1/
 
 - Marriage Date: 
 - Marriage Place: 
-- Father:  [William Chase III]({{ '/ancestors/chase/william3' | relative_url }})
-- Mother:  [Hannah Sherman]({{ '/ancestors/sherman/hannah' | relative_url }})
-- Spouse:  [Elizabeth Blethen]({{ '/ancestors/blethen/elizabeth' | relative_url }})
-- Child:   [Isaac Chase II]({{ '/ancestors/chase/isaac2' | relative_url }})
+- Father:  [William Chase III]({{ '/surnames/chase/william3' | relative_url }})
+- Mother:  [Hannah Sherman]({{ '/surnames/sherman/hannah' | relative_url }})
+- Spouse:  [Elizabeth Blethen]({{ '/surnames/blethen/elizabeth' | relative_url }})
+- Child:   [Isaac Chase II]({{ '/surnames/chase/isaac2' | relative_url }})
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Samuel Pratt II"
-permalink: /ancestors/pratt/samuel2/
+permalink: /surnames/pratt/samuel2/
 ---
 
 
@@ -33,10 +33,10 @@ permalink: /ancestors/pratt/samuel2/
 - Residence: 
 - Military Service: 
 
-- Father: [PVT Samuel Pratt I]({{ '/ancestors/pratt/samuel' | relative_url }}) 
-- Mother: [Hannah Rogers]({{ '/ancestors/rogers/hannah' | relative_url }})
-- Spouse: [Patience Chard]({{ '/ancestors/chard/patience' | relative_url }})    
-- Child:  [Samuel Pratt II]({{ '/ancestors/pratt/samuel2' | relative_url }})   
+- Father: [PVT Samuel Pratt I]({{ '/surnames/pratt/samuel' | relative_url }}) 
+- Mother: [Hannah Rogers]({{ '/surnames/rogers/hannah' | relative_url }})
+- Spouse: [Patience Chard]({{ '/surnames/chard/patience' | relative_url }})    
+- Child:  [Samuel Pratt II]({{ '/surnames/pratt/samuel2' | relative_url }})   
 
 
 SOURCES:

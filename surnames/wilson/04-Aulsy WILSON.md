@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Aulsy Wilson"
-permalink: /ancestors/wilson/aulsy/
+permalink: /surnames/wilson/aulsy/
 ---
 
 
@@ -22,7 +22,7 @@ permalink: /ancestors/wilson/aulsy/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- Father:  [George Wilson]({{ '/ancestors/wilson/georgew' | relative_url }})  
-- Mother:  [Jemima Richardson]({{ '/ancestors/richardson/jemima' | relative_url }})  
-- Spouse:  [Jesse Jerome Seymore]({{ '/ancestors/seymore/jerome' | relative_url }})  
-- Child:  [Ina Seymore]({{ '/ancestors/seymore/ina' | relative_url }}) 
+- Father:  [George Wilson]({{ '/surnames/wilson/georgew' | relative_url }})  
+- Mother:  [Jemima Richardson]({{ '/surnames/richardson/jemima' | relative_url }})  
+- Spouse:  [Jesse Jerome Seymore]({{ '/surnames/seymore/jerome' | relative_url }})  
+- Child:  [Ina Seymore]({{ '/surnames/seymore/ina' | relative_url }}) 

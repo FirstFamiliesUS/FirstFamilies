@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT Solomon Seymore"
-permalink: /ancestors/seymore/solomon/
+permalink: /surnames/seymore/solomon/
 ---
 
 
@@ -35,8 +35,8 @@ permalink: /ancestors/seymore/solomon/
 
 - Father:     
 - Mother:    
-- Spouse: [Martha Lade]({{ '/ancestors/lade/martha' | relative_url }})     
-- Child:  [PVT Solomon Seymore]({{ '/ancestors/seymore/solomon' | relative_url }})
+- Spouse: [Martha Lade]({{ '/surnames/lade/martha' | relative_url }})     
+- Child:  [PVT Solomon Seymore]({{ '/surnames/seymore/solomon' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 

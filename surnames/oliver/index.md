@@ -26,9 +26,9 @@ Welcome to the Oliver family history page.
 Here we will detail the lineage, historical documents, and stories of the Oliver ancestors in the United States.
 
 
-- [ Mary OLIVER]({{ '/ancestors/oliver/mary/' | relative_url }})
-- [ Isaac OLIVER]({{ '/ancestors/oliver/isaac/' | relative_url }})
-- [ William OLIVER]({{ '/ancestors/oliver/william/' | relative_url }})
-- [ John OLIVER]({{ '/ancestors/oliver/john/' | relative_url }})
+- [ Mary OLIVER]({{ '/surnames/oliver/mary/' | relative_url }})
+- [ Isaac OLIVER]({{ '/surnames/oliver/isaac/' | relative_url }})
+- [ William OLIVER]({{ '/surnames/oliver/william/' | relative_url }})
+- [ John OLIVER]({{ '/surnames/oliver/john/' | relative_url }})
 
 

@@ -22,7 +22,7 @@ permalink: /surnames/swindell/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Elizabeth Swindell]({{ '/ancestors/swindell/emily' | relative_url }})
-- [Joseph Swindell]({{ '/ancestors/swindell/joseph' | relative_url }})
-- [John Swindell]({{ '/ancestors/swindell/john' | relative_url }})
-- [Timothy Swindell]({{ '/ancestors/swindell/timothy' | relative_url }})
+- [Elizabeth Swindell]({{ '/surnames/swindell/emily' | relative_url }})
+- [Joseph Swindell]({{ '/surnames/swindell/joseph' | relative_url }})
+- [John Swindell]({{ '/surnames/swindell/john' | relative_url }})
+- [Timothy Swindell]({{ '/surnames/swindell/timothy' | relative_url }})

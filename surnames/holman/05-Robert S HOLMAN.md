@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Robert S. Holman"
-permalink: /ancestors/holman/roberts/
+permalink: /surnames/holman/roberts/
 ---
 
 
@@ -30,10 +30,10 @@ Robert S HOLMAN
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father:  [James Holman]({{ '/ancestors/holman/james' | relative_url }})  `#2`
-- Mother:  [Mary Wells]({{ '/ancestors/wells/mary' | relative_url }}) `#2`
-- Spouse:  [Hannah Parker]({{ '/ancestors/parker/hannah' | relative_url }})  `#3, #4`
-- Child:  [Robert Holman]({{ '/ancestors/holman/robert' | relative_url }})  `#3`
+- Father:  [James Holman]({{ '/surnames/holman/james' | relative_url }})  `#2`
+- Mother:  [Mary Wells]({{ '/surnames/wells/mary' | relative_url }}) `#2`
+- Spouse:  [Hannah Parker]({{ '/surnames/parker/hannah' | relative_url }})  `#3, #4`
+- Child:  [Robert Holman]({{ '/surnames/holman/robert' | relative_url }})  `#3`
 
 
 

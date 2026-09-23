@@ -22,11 +22,11 @@ permalink: /surnames/carter/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Narcissa Carter]({{ '/ancestors/carter/narcissa' | relative_url }})
-- [James Carter]({{ '/ancestors/carter/james' | relative_url }})
-- [CPL Merriman Carter]({{ '/ancestors/carter/merriman' | relative_url }})
-- [CPT John Carter]({{ '/ancestors/carter/john' | relative_url }})
-- [The Honorable Skipwith Carter]({{ '/ancestors/carter/skipwith' | relative_url }})
-- [Forefather Honorable CPT Thomas Carter (The Burgess)]({{ '/ancestors/carter/thomas' | relative_url }})
+- [Narcissa Carter]({{ '/surnames/carter/narcissa' | relative_url }})
+- [James Carter]({{ '/surnames/carter/james' | relative_url }})
+- [CPL Merriman Carter]({{ '/surnames/carter/merriman' | relative_url }})
+- [CPT John Carter]({{ '/surnames/carter/john' | relative_url }})
+- [The Honorable Skipwith Carter]({{ '/surnames/carter/skipwith' | relative_url }})
+- [Forefather Honorable CPT Thomas Carter (The Burgess)]({{ '/surnames/carter/thomas' | relative_url }})
 
 ## [Carter Society](https://cartersociety.org/index.php/membership#applications):

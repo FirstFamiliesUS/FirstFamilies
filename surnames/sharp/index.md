@@ -22,10 +22,10 @@ permalink: /surnames/sharp/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Emily Sharp]({{ '/ancestors/sharp/emily' | relative_url }})
-- [James Anson Sharp]({{ '/ancestors/sharp/james' | relative_url }})
-- [Rev. Richard N. Sharp]({{ '/ancestors/sharp/richard' | relative_url }})
-- [Capt. Robert Sharp]({{ '/ancestors/sharp/robert' | relative_url }})
-- [Thomas Sharp]({{ '/ancestors/sharp/thomas' | relative_url }})
+- [Emily Sharp]({{ '/surnames/sharp/emily' | relative_url }})
+- [James Anson Sharp]({{ '/surnames/sharp/james' | relative_url }})
+- [Rev. Richard N. Sharp]({{ '/surnames/sharp/richard' | relative_url }})
+- [Capt. Robert Sharp]({{ '/surnames/sharp/robert' | relative_url }})
+- [Thomas Sharp]({{ '/surnames/sharp/thomas' | relative_url }})
 
 

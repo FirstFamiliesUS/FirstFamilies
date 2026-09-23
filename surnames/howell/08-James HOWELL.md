@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT James Howell"
-permalink: /ancestors/howell/james/
+permalink: /surnames/howell/james/
 ---
 
 
@@ -23,10 +23,10 @@ permalink: /ancestors/howell/james/
 
 
 
-- Father: [Edward Howell]({{ '/ancestors/howell/dward' | relative_url }})
+- Father: [Edward Howell]({{ '/surnames/howell/dward' | relative_url }})
 - Mother: 
-- Spouse: [Martha Denney]({{ '/ancestors/denney/martha' | relative_url }})
-- Child: [John Howell]({{ '/ancestors/howell/john' | relative_url }})
+- Spouse: [Martha Denney]({{ '/surnames/denney/martha' | relative_url }})
+- Child: [John Howell]({{ '/surnames/howell/john' | relative_url }})
 
 
 PVT James HOWELL

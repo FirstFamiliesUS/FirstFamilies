@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT John Richardson"
-permalink: /ancestors/richardson/john/
+permalink: /surnames/richardson/john/
 ---
 
 
@@ -22,10 +22,10 @@ permalink: /ancestors/richardson/john/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- Father: [William Richardson]({{ '/ancestors/richardson/william1' | relative_url }})  
-- Mother:  [Ann Guignard]({{ '/ancestors/guignard/ann' | relative_url }})
-- Spouse:  [Mary Horner]({{ '/ancestors/horner/mary' | relative_url }})  
-- Child:  [William Richardson]({{ '/ancestors/richardson/william' | relative_url }}) 
+- Father: [William Richardson]({{ '/surnames/richardson/william1' | relative_url }})  
+- Mother:  [Ann Guignard]({{ '/surnames/guignard/ann' | relative_url }})
+- Spouse:  [Mary Horner]({{ '/surnames/horner/mary' | relative_url }})  
+- Child:  [William Richardson]({{ '/surnames/richardson/william' | relative_url }}) 
 
 
 ![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})

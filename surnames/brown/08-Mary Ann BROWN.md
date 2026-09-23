@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Mary Ann Brown"
-permalink: /ancestors/brown/mary/
+permalink: /surnames/brown/mary/
 ---
 
 
@@ -31,10 +31,10 @@ Mary Ann BROWN
 - Marriage Place:  [Madison County](https://www.familysearch.org/en/wiki/Madison_County,_Virginia_Genealogy), [Virginia](https://www.familysearch.org/en/wiki/Virginia,_United_States_Genealogy)  `#3`
 - Died: 4 Jul 1868  `#1`
 - Burial Place:  [Swindell Cemetery](https://www.findagrave.com/cemetery/31874/swindell-cemetery), [Madison](https://en.wikipedia.org/wiki/Madison,_Missouri),  [Monroe County](https://www.familysearch.org/en/wiki/Monroe_County,_Missouri_Genealogy),  [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)  `#1, #3`
-- Father: [Lt. Col Thomas Brown]({{ '/ancestors/brown/thomas' | relative_url }})
-- Mother: [Mary Pettus]({{ '/ancestors/pettus/mary' | relative_url }})
-- Spouse: [Joseph Swindell]({{ '/ancestors/swindell/joseph' | relative_url }})  `#1, #3`
-- Child:  [Elizabeth Swindell]({{ '/ancestors/swindell/emily' | relative_url }})
+- Father: [Lt. Col Thomas Brown]({{ '/surnames/brown/thomas' | relative_url }})
+- Mother: [Mary Pettus]({{ '/surnames/pettus/mary' | relative_url }})
+- Spouse: [Joseph Swindell]({{ '/surnames/swindell/joseph' | relative_url }})  `#1, #3`
+- Child:  [Elizabeth Swindell]({{ '/surnames/swindell/emily' | relative_url }})
 
 
 

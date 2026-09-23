@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ralph Fuqua"
-permalink: /ancestors/fuqua/ralph/
+permalink: /surnames/fuqua/ralph/
 ---
 
 
@@ -30,10 +30,10 @@ NAME
 - Marriage Place
 - Died: 
 - Burial Place: [Fuqua Cemetery](https://www.findagrave.com/cemetery/1997614/fuqua-cemetery), [Bedford County](https://www.familysearch.org/en/wiki/Bedford_County,_Virginia_Genealogy), [VA](https://www.familysearch.org/en/wiki/Virginia,_United_States_Genealogy).  
-- Father: [Forefather Guillaume Fuqua]({{ '/ancestors/fuqua/skipwith' | relative_url }})
-- Mother: [Jane Eyre]({{ '/ancestors/eyre/jane' | relative_url }}) 
-- Spouse: [Priscilla Owens]({{ '/ancestors/owens/priscilla' | relative_url }}) 
-- Child:  [Rev. Isham Fuqua]({{ '/ancestors/fuqua/isham' | relative_url }})
+- Father: [Forefather Guillaume Fuqua]({{ '/surnames/fuqua/skipwith' | relative_url }})
+- Mother: [Jane Eyre]({{ '/surnames/eyre/jane' | relative_url }}) 
+- Spouse: [Priscilla Owens]({{ '/surnames/owens/priscilla' | relative_url }}) 
+- Child:  [Rev. Isham Fuqua]({{ '/surnames/fuqua/isham' | relative_url }})
 
 
 SOURCES:

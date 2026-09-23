@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "John Staton"
-permalink: /ancestors/staton/john3/
+permalink: /surnames/staton/john3/
 ---
 
 
@@ -33,10 +33,10 @@ NAME
 - Died: 
 - Burial Place:  
 
-- Father:  [PVT Damron Staton]({{ '/ancestors/staton/damron' | relative_url }})
-- Mother:  [Naomi Lamar]({{ '/ancestors/lamar/naomi' | relative_url }}) 
-- Spouse:  [Florilla Philley]({{ '/ancestors/philley/florilla' | relative_url }})   
-- Child: [PVT Charles Staton]({{ '/ancestors/staton/charles' | relative_url }})
+- Father:  [PVT Damron Staton]({{ '/surnames/staton/damron' | relative_url }})
+- Mother:  [Naomi Lamar]({{ '/surnames/lamar/naomi' | relative_url }}) 
+- Spouse:  [Florilla Philley]({{ '/surnames/philley/florilla' | relative_url }})   
+- Child: [PVT Charles Staton]({{ '/surnames/staton/charles' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 

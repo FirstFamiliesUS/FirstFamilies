@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Timothy Swindell"
-permalink: /ancestors/swindell/timothy/
+permalink: /surnames/swindell/timothy/
 ---
 
 
@@ -22,10 +22,10 @@ permalink: /ancestors/swindell/timothy/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- Father: [John Swindell]({{ '/ancestors/swindell/john2' | relative_url }})
-- Mother: [Mary McPherson]({{ '/ancestors/mcpherson/mary' | relative_url }})
-- Spouse: [Rebecca Crees]({{ '/ancestors/crees/rebecca' | relative_url }})    
-- Child: [John Swindell]({{ '/ancestors/swindell/john' | relative_url }})
+- Father: [John Swindell]({{ '/surnames/swindell/john2' | relative_url }})
+- Mother: [Mary McPherson]({{ '/surnames/mcpherson/mary' | relative_url }})
+- Spouse: [Rebecca Crees]({{ '/surnames/crees/rebecca' | relative_url }})    
+- Child: [John Swindell]({{ '/surnames/swindell/john' | relative_url }})
 
 
 

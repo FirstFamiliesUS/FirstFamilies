@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "James MILLER"
-permalink: /ancestors/miller/james/
+permalink: /surnames/miller/james/
 ---
 
 <header class="wrapper bg-light">

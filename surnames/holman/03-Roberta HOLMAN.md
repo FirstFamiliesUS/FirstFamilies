@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Roberta Holman"
-permalink: /ancestors/holman/roberta/
+permalink: /surnames/holman/roberta/
 ---
 
 
@@ -31,10 +31,10 @@ Roberta Isabelle Holman
 - Marriage Place: probably [Beauregard Parish](https://www.familysearch.org/en/wiki/Beauregard_Parish,_Louisiana_Genealogy), [Louisana](https://www.familysearch.org/en/wiki/Louisiana,_United_States_Genealogy)  `#3`
 - Died: 
 - Burial Place:
-- Father:   [Robert Holman]({{ '/ancestors/holman/robert' | relative_url }})  `#3, #4, #6`
-- Mother:  [Evalyn Gray]({{ '/ancestors/gray/evalyn' | relative_url }})  `#3, #4, #5, #6` 
-- Spouse:  [Lee Bower]({{ '/ancestors/bower/lee' | relative_url }})  `#1, #2, #5`
-- Child:  [Annette Bower]({{ '/ancestors/bower/annette' | relative_url }})    `#1` 
+- Father:   [Robert Holman]({{ '/surnames/holman/robert' | relative_url }})  `#3, #4, #6`
+- Mother:  [Evalyn Gray]({{ '/surnames/gray/evalyn' | relative_url }})  `#3, #4, #5, #6` 
+- Spouse:  [Lee Bower]({{ '/surnames/bower/lee' | relative_url }})  `#1, #2, #5`
+- Child:  [Annette Bower]({{ '/surnames/bower/annette' | relative_url }})    `#1` 
 
 
 

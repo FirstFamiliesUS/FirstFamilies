@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Honorable CPT Thomas Carter (The Burgess)"
-permalink: /ancestors/carter/thomas/
+permalink: /surnames/carter/thomas/
 ---
 
 
@@ -33,8 +33,8 @@ NAME
 - Burial Place: 
 - Father:  
 - Mother:  
-- Spouse:  [Katherine Dale]({{ '/ancestors/dale/katherine' | relative_url }})
-- Child:   [The Honorable Skipwith Carter]({{ '/ancestors/carter/skipwith' | relative_url }})
+- Spouse:  [Katherine Dale]({{ '/surnames/dale/katherine' | relative_url }})
+- Child:   [The Honorable Skipwith Carter]({{ '/surnames/carter/skipwith' | relative_url }})
 
 
 SOURCES:

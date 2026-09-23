@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Anton Thummel"
-permalink: /ancestors/thummel/anton/
+permalink: /surnames/thummel/anton/
 ---
 
 
@@ -23,10 +23,10 @@ permalink: /ancestors/thummel/anton/
 
 
 
-- Father: [Gerhardt Thummel]({{ '/ancestors/thummel/gerhardt' | relative_url }})
-- Mother: [Margaretta Meyer]({{ '/ancestors/meyer/margaretta' | relative_url }})
-- Spouse: [Helen Klosterman]({{ '/ancestors/klosterman/helen' | relative_url }})
-- Child: [Frederica thummel]({{ '/ancestors/thummel/frederica' | relative_url }})
+- Father: [Gerhardt Thummel]({{ '/surnames/thummel/gerhardt' | relative_url }})
+- Mother: [Margaretta Meyer]({{ '/surnames/meyer/margaretta' | relative_url }})
+- Spouse: [Helen Klosterman]({{ '/surnames/klosterman/helen' | relative_url }})
+- Child: [Frederica thummel]({{ '/surnames/thummel/frederica' | relative_url }})
 
 
 [List of AncestryDNA Descendents](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/surnames/thummel/AnthonyThummel-DNA-Descendents.pdf)

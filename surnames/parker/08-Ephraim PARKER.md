@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT Ephraim Parker"
-permalink: /ancestors/parker/ephraim
+permalink: /surnames/parker/ephraim
 ---
 
 
@@ -37,10 +37,10 @@ permalink: /ancestors/parker/ephraim
 - [DAR Ancestor ID: 265416](https://sarpatriots.sar.org/patriot/display/265416)
 - [SAR Ancestor ID: A087427](https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A087427)
 
-- Father: [Deacon Edward Parker]({{ '/ancestors/parker/edward' | relative_url }})  
-- Mother:  [Jerusha Merriam]({{ '/ancestors/merriam/jerusha' | relative_url }})   
-- Spouse:  [Bathsheba Pierson]({{ '/ancestors/pierson/bathsheba' | relative_url }})  
-- Child:  [Jotham Parker]({{ '/ancestors/parker/jotham' | relative_url }})  
+- Father: [Deacon Edward Parker]({{ '/surnames/parker/edward' | relative_url }})  
+- Mother:  [Jerusha Merriam]({{ '/surnames/merriam/jerusha' | relative_url }})   
+- Spouse:  [Bathsheba Pierson]({{ '/surnames/pierson/bathsheba' | relative_url }})  
+- Child:  [Jotham Parker]({{ '/surnames/parker/jotham' | relative_url }})  
 
 
 

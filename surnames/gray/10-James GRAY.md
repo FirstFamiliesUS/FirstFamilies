@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "James Gray I"
-permalink: /ancestors/gray/james1/
+permalink: /surnames/gray/james1/
 ---
 
 
@@ -31,10 +31,10 @@ permalink: /ancestors/gray/james1/
 - Burial Place:  
 
 
-- Father: [Forefather George Gray I]({{ '/ancestors/gray/george1' | relative_url }})   
-- Mother: [Sarah Cooper]({{ '/ancestors/cooper/sarah' | relative_url }})
-- Spouse: [Martha Goodwin]({{ '/ancestors/goodwin/martha' | relative_url }})     
-- Child:  [James Gray II]({{ '/ancestors/gray/james2' | relative_url }})
+- Father: [Forefather George Gray I]({{ '/surnames/gray/george1' | relative_url }})   
+- Mother: [Sarah Cooper]({{ '/surnames/cooper/sarah' | relative_url }})
+- Spouse: [Martha Goodwin]({{ '/surnames/goodwin/martha' | relative_url }})     
+- Child:  [James Gray II]({{ '/surnames/gray/james2' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 

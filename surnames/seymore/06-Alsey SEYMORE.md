@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Alsey Seymore"
-permalink: /ancestors/seymore/alsey/
+permalink: /surnames/seymore/alsey/
 ---
 
 
@@ -33,10 +33,10 @@ permalink: /ancestors/seymore/alsey/
 - Burial Place:  
 
 
-- Father:   [PVT Solomon Seymore]({{ '/ancestors/seymore/solomon' | relative_url }})  
-- Mother:   [Martha Petty]({{ '/ancestors/petty/martha' | relative_url }}) 
-- Spouse: [Sinai Seymore]({{ '/ancestors/seymore/sinai' | relative_url }})     
-- Child [PVT Franklin H. Seymore]({{ '/ancestors/seymore/franklin' | relative_url }})
+- Father:   [PVT Solomon Seymore]({{ '/surnames/seymore/solomon' | relative_url }})  
+- Mother:   [Martha Petty]({{ '/surnames/petty/martha' | relative_url }}) 
+- Spouse: [Sinai Seymore]({{ '/surnames/seymore/sinai' | relative_url }})     
+- Child [PVT Franklin H. Seymore]({{ '/surnames/seymore/franklin' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [113703810](https://www.findagrave.com/memorial/113703810/franklin-h.-seamore)

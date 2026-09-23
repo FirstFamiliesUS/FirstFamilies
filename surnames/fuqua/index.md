@@ -22,11 +22,11 @@ permalink: /surnames/fuqua/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Virginia Fuqua]({{ '/ancestors/fuqua/virginia' | relative_url }})
-- [Rev. Jesse Jerome Fuqua I]({{ '/ancestors/fuqua/jerome' | relative_url }})
-- [Patriot Rev. Isham Fuqua]({{ '/ancestors/fuqua/isham' | relative_url }})
-- [Ralph Fuqua]({{ '/ancestors/fuqua/ralph ' | relative_url }})
-- [Forefather Guillaume Fuqua]({{ '/ancestors/fuqua/skipwith' | relative_url }})
+- [Virginia Fuqua]({{ '/surnames/fuqua/virginia' | relative_url }})
+- [Rev. Jesse Jerome Fuqua I]({{ '/surnames/fuqua/jerome' | relative_url }})
+- [Patriot Rev. Isham Fuqua]({{ '/surnames/fuqua/isham' | relative_url }})
+- [Ralph Fuqua]({{ '/surnames/fuqua/ralph ' | relative_url }})
+- [Forefather Guillaume Fuqua]({{ '/surnames/fuqua/skipwith' | relative_url }})
 
 
 - [Fuqua Database](https://homepages.rootsweb.com/~fuqua/Main%20Database/index.htm)

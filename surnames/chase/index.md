@@ -22,10 +22,10 @@ permalink: /surnames/chase/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Elizabeth Chase]({{ '/ancestors/chase/elizabeth' | relative_url }})
-- [Christopher Chase]({{ '/ancestors/chase/christopher' | relative_url }})
-- [Isaac Chase II]({{ '/ancestors/chase/isaac2' | relative_url }})
-- [Isaac Chase I]({{ '/ancestors/chase/isaac1' | relative_url }})
-- [William Chase III]({{ '/ancestors/chase/william3' | relative_url }})
-- [William Chase II]({{ '/ancestors/chase/william2' | relative_url }})
-- [Forefather William Chase I]({{ '/ancestors/chase/william1' | relative_url }})
+- [Elizabeth Chase]({{ '/surnames/chase/elizabeth' | relative_url }})
+- [Christopher Chase]({{ '/surnames/chase/christopher' | relative_url }})
+- [Isaac Chase II]({{ '/surnames/chase/isaac2' | relative_url }})
+- [Isaac Chase I]({{ '/surnames/chase/isaac1' | relative_url }})
+- [William Chase III]({{ '/surnames/chase/william3' | relative_url }})
+- [William Chase II]({{ '/surnames/chase/william2' | relative_url }})
+- [Forefather William Chase I]({{ '/surnames/chase/william1' | relative_url }})

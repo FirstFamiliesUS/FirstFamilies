@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Joseph Swindell"
-permalink: /ancestors/swindell/joseph/
+permalink: /surnames/swindell/joseph/
 ---
 
 
@@ -34,10 +34,10 @@ Joseph Swindle was born in the Fort Germanna community in central Virginia. His 
 - Burial Place:  [Swindell Cemetery](https://www.findagrave.com/cemetery/31874/swindell-cemetery), [Madison](https://en.wikipedia.org/wiki/Madison,_Missouri),  [Monroe County](https://www.familysearch.org/en/wiki/Monroe_County,_Missouri_Genealogy)  [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)   `#1` 
 
 
-- Father: [John Swindell]({{ '/ancestors/swindell/john' | relative_url }})
-- Mother: [Hannah Weaver]({{ '/ancestors/weaver/hannah' | relative_url }})  `#3`
-- Spouse: [Mary Ann Brown]({{ '/ancestors/brown/mary' | relative_url }})    `#1`
-- Child: [Elizabeth Swindell]({{ '/ancestors/swindell/emily' | relative_url }})
+- Father: [John Swindell]({{ '/surnames/swindell/john' | relative_url }})
+- Mother: [Hannah Weaver]({{ '/surnames/weaver/hannah' | relative_url }})  `#3`
+- Spouse: [Mary Ann Brown]({{ '/surnames/brown/mary' | relative_url }})    `#1`
+- Child: [Elizabeth Swindell]({{ '/surnames/swindell/emily' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [44642652](https://www.findagrave.com/memorial/44642652/joseph-swindell)

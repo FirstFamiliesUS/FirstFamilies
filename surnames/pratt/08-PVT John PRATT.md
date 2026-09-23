@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT John Pratt"
-permalink: /ancestors/pratt/john/
+permalink: /surnames/pratt/john/
 ---
 
 
@@ -33,10 +33,10 @@ permalink: /ancestors/pratt/john/
 - Residence: 
 - Military Service: 
 
-- Father: [SGT Peter Pratt]({{ '/ancestors/pratt/peter' | relative_url }}) 
-- Mother: [Mary Lincoln]({{ '/ancestors/lincoln/mary' | relative_url }})  
-- Spouse: [Mary Hepzibah]({{ '/ancestors/hepzibah/mary' | relative_url }})  
-- Child:  [PVT Darius Pratt]({{ '/ancestors/pratt/darius' | relative_url }})   
+- Father: [SGT Peter Pratt]({{ '/surnames/pratt/peter' | relative_url }}) 
+- Mother: [Mary Lincoln]({{ '/surnames/lincoln/mary' | relative_url }})  
+- Spouse: [Mary Hepzibah]({{ '/surnames/hepzibah/mary' | relative_url }})  
+- Child:  [PVT Darius Pratt]({{ '/surnames/pratt/darius' | relative_url }})   
 
 
 SOURCES:

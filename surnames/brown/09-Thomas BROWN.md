@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Thomas Brown"
-permalink: /ancestors/brown/thomas/
+permalink: /surnames/brown/thomas/
 ---
 
 
@@ -30,10 +30,10 @@ Lt. Col. Thomas Brown
 - Marriage Place:  
 - Died: 9 Jun 1794 `#1, #3`
 - Burial Place:  [Mecklenburg County](https://www.familysearch.org/en/wiki/Mecklenburg_County,_Virginia_Genealogy),  [Virginia](https://www.familysearch.org/en/wiki/Virginia,_United_States_Genealogy) `#1, #3`
-- Father: [CPT John Brown]({{ '/ancestors/brown/john' | relative_url }})
-- Mother: [Mary Jones]({{ '/ancestors/jones/mary' | relative_url }})
-- Spouse: [Mary Pettus]({{ '/ancestors/pettus/mary' | relative_url }}) `#3`
-- Child: [Mary Brown]({{ '/ancestors/brown/mary' | relative_url }})
+- Father: [CPT John Brown]({{ '/surnames/brown/john' | relative_url }})
+- Mother: [Mary Jones]({{ '/surnames/jones/mary' | relative_url }})
+- Spouse: [Mary Pettus]({{ '/surnames/pettus/mary' | relative_url }}) `#3`
+- Child: [Mary Brown]({{ '/surnames/brown/mary' | relative_url }})
 
 
 

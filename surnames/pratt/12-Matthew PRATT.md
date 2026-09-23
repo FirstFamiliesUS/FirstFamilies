@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Forefather Matthew Pratt"
-permalink: /ancestors/pratt/matthew/
+permalink: /surnames/pratt/matthew/
 ---
 
 
@@ -35,8 +35,8 @@ permalink: /ancestors/pratt/matthew/
 
 - Father:  
 - Mother: 
-- Spouse: [Elizabeth Kingham]({{ '/ancestors/kingham/elizabeth' | relative_url }})     
-- Child:  [PVT Samuel Pratt I]({{ '/ancestors/pratt/samuel1' | relative_url }})   
+- Spouse: [Elizabeth Kingham]({{ '/surnames/kingham/elizabeth' | relative_url }})     
+- Child:  [PVT Samuel Pratt I]({{ '/surnames/pratt/samuel1' | relative_url }})   
 
 
 SOURCES:

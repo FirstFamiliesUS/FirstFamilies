@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "CPT John Horner"
-permalink: /ancestors/horner/john2/
+permalink: /surnames/horner/john2/
 ---
 
 
@@ -22,10 +22,10 @@ permalink: /ancestors/horner/john2/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- Father: [PVT William Horner]({{ '/ancestors/horner/william' | relative_url }})  
-- Mother: [Elizabeth Allred]({{ '/ancestors/allred/elizabeth' | relative_url }}) 
-- Spouse:  [Elizabeth Russell]({{ '/ancestors/russell/elizabeth' | relative_url }})  
-- Child:  [PVT John Richardson]({{ '/ancestors/richardson/john' | relative_url }})
+- Father: [PVT William Horner]({{ '/surnames/horner/william' | relative_url }})  
+- Mother: [Elizabeth Allred]({{ '/surnames/allred/elizabeth' | relative_url }}) 
+- Spouse:  [Elizabeth Russell]({{ '/surnames/russell/elizabeth' | relative_url }})  
+- Child:  [PVT John Richardson]({{ '/surnames/richardson/john' | relative_url }})
 
 
 SOURCES:

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT John Staton"
-permalink: /ancestors/staton/john2/
+permalink: /surnames/staton/john2/
 ---
 
 
@@ -33,10 +33,10 @@ NAME
 - Died: 
 - Burial Place:  
 
-- Father:  [PVT Thomas Staton]({{ '/ancestors/staton/thomas' | relative_url }})
-- Mother:  [Anne Matthews]({{ '/ancestors/matthews/anne' | relative_url }})
-- Spouse:  [Mary Dameron]({{ '/ancestors/dameron/mary' | relative_url }})    
-- Child: [PVT Dameron Staton]({{ '/ancestors/staton/dameron' | relative_url }})
+- Father:  [PVT Thomas Staton]({{ '/surnames/staton/thomas' | relative_url }})
+- Mother:  [Anne Matthews]({{ '/surnames/matthews/anne' | relative_url }})
+- Spouse:  [Mary Dameron]({{ '/surnames/dameron/mary' | relative_url }})    
+- Child: [PVT Dameron Staton]({{ '/surnames/staton/dameron' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 

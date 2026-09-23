@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Forefather Samuel Bonum"
-permalink: /ancestors/bonum/samuel/
+permalink: /surnames/bonum/samuel/
 ---
 
 
@@ -33,8 +33,8 @@ NAME
 - Burial Place:  
 - Father: 
 - Mother: 
-- Spouse: [Margaret Philpott]({{ '/ancestors/philpott/margaret' | relative_url }}) 
-- Child:  [Rebecca Bonum]({{ '/ancestors/bonum/rebecca' | relative_url }})
+- Spouse: [Margaret Philpott]({{ '/surnames/philpott/margaret' | relative_url }}) 
+- Child:  [Rebecca Bonum]({{ '/surnames/bonum/rebecca' | relative_url }})
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Forefather George Gray I"
-permalink: /ancestors/gray/george1/
+permalink: /surnames/gray/george1/
 ---
 
 
@@ -31,10 +31,10 @@ permalink: /ancestors/gray/george1/
 - Burial Place:  
 
 
-- Father:  [Robert Gray]({{ '/ancestors/gray/robert' | relative_url }})
-- Mother:  [Margaret Madir]({{ '/ancestors/madir/margaret' | relative_url }}) 
-- Spouse: [Sarah Cooper]({{ '/ancestors/cooper/sarah' | relative_url }})    
-- Child:  [James Gray I]({{ '/ancestors/gray/james1' | relative_url }})
+- Father:  [Robert Gray]({{ '/surnames/gray/robert' | relative_url }})
+- Mother:  [Margaret Madir]({{ '/surnames/madir/margaret' | relative_url }}) 
+- Spouse: [Sarah Cooper]({{ '/surnames/cooper/sarah' | relative_url }})    
+- Child:  [James Gray I]({{ '/surnames/gray/james1' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 

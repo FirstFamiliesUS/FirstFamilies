@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lyell"
-permalink: /ancestors/lyell/mary/
+permalink: /surnames/lyell/mary/
 ---
 
 
@@ -22,7 +22,7 @@ permalink: /ancestors/lyell/mary/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- Father:  [John Lyell]({{ '/ancestors/lyell/john' | relative_url }})  
-- Mother:  [Emily Sharp]({{ '/ancestors/sharp/emily' | relative_url }})  
-- Spouse:  [Oscar Paul]({{ '/ancestors/paul/oscar' | relative_url }})  
-- Child:  [Minnie Paul]({{ '/ancestors/paul/minnie' | relative_url }})  
+- Father:  [John Lyell]({{ '/surnames/lyell/john' | relative_url }})  
+- Mother:  [Emily Sharp]({{ '/surnames/sharp/emily' | relative_url }})  
+- Spouse:  [Oscar Paul]({{ '/surnames/paul/oscar' | relative_url }})  
+- Child:  [Minnie Paul]({{ '/surnames/paul/minnie' | relative_url }})  

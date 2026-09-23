@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Warrington Staton"
-permalink: /ancestors/staton/warrington/
+permalink: /surnames/staton/warrington/
 ---
 
 
@@ -35,8 +35,8 @@ NAME
 
 - Father:  
 - Mother:  
-- Spouse:  [Catherine Hesten]({{ '/ancestors/hesten/catherine' | relative_url }})   
-- Child: [PVT Thomas Staton]({{ '/ancestors/staton/thomas' | relative_url }})
+- Spouse:  [Catherine Hesten]({{ '/surnames/hesten/catherine' | relative_url }})   
+- Child: [PVT Thomas Staton]({{ '/surnames/staton/thomas' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 

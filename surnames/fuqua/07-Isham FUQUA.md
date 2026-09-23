@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Patriot Rev. Isham Fuqua"
-permalink: /ancestors/fuqua/isham/
+permalink: /surnames/fuqua/isham/
 ---
 
 
@@ -30,10 +30,10 @@ NAME
 - Marriage Place
 - Died: 
 - Burial Place:  [Davidson County](https://www.familysearch.org/en/wiki/Davidson_County,_Tennessee_Genealogy), [TN](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy).
-- Father: [Ralph Fuqua]({{ '/ancestors/fuqua/ralph ' | relative_url }})
-- Mother: [Priscilla Owens]({{ '/ancestors/owens/priscilla' | relative_url }}) 
-- Spouse: [Mary Hammons]({{ '/ancestors/hammons/mary' | relative_url }})
-- Child:  [Rev. Jesse Jerome Fuqua I]({{ '/ancestors/fuqua/jerome' | relative_url }})
+- Father: [Ralph Fuqua]({{ '/surnames/fuqua/ralph ' | relative_url }})
+- Mother: [Priscilla Owens]({{ '/surnames/owens/priscilla' | relative_url }}) 
+- Spouse: [Mary Hammons]({{ '/surnames/hammons/mary' | relative_url }})
+- Child:  [Rev. Jesse Jerome Fuqua I]({{ '/surnames/fuqua/jerome' | relative_url }})
 
 
 SOURCES:

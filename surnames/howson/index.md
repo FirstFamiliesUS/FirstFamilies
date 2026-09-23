@@ -22,6 +22,6 @@ permalink: /surnames/howson/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Hannah Howson]({{ '/ancestors/howson/hannah' | relative_url }})
-- [Capt. Leonard Howson I]({{ '/ancestors/howson/leonard' | relative_url }})
-- [Capt. Robert Howson I]({{ '/ancestors/howson/robert' | relative_url }})
+- [Hannah Howson]({{ '/surnames/howson/hannah' | relative_url }})
+- [Capt. Leonard Howson I]({{ '/surnames/howson/leonard' | relative_url }})
+- [Capt. Robert Howson I]({{ '/surnames/howson/robert' | relative_url }})

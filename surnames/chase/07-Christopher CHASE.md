@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Christopher Chase"
-permalink: /ancestors/chase/christopher/
+permalink: /surnames/chase/christopher/
 ---
 
 
@@ -29,10 +29,10 @@ permalink: /ancestors/chase/christopher/
 
 - Marriage Date: 
 - Marriage Place: 
-- Father:  [Isaac Chase II]({{ '/ancestors/chase/isaac2' | relative_url }})
-- Mother:  [Amy Anthony]({{ '/ancestors/anthony/amy' | relative_url }})
-- Spouse:  [Elizabeth Nichols]({{ '/ancestors/nichols/elizabeth' | relative_url }})
-- Child:  [Elizabeth Chase]({{ '/ancestors/chase/elizabeth' | relative_url }})
+- Father:  [Isaac Chase II]({{ '/surnames/chase/isaac2' | relative_url }})
+- Mother:  [Amy Anthony]({{ '/surnames/anthony/amy' | relative_url }})
+- Spouse:  [Elizabeth Nichols]({{ '/surnames/nichols/elizabeth' | relative_url }})
+- Child:  [Elizabeth Chase]({{ '/surnames/chase/elizabeth' | relative_url }})
 
 
 

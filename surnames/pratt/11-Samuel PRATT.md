@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT Samuel Pratt I"
-permalink: /ancestors/pratt/samuel1/
+permalink: /surnames/pratt/samuel1/
 ---
 
 
@@ -33,10 +33,10 @@ permalink: /ancestors/pratt/samuel1/
 - Residence: 
 - Military Service: 
 
-- Father: [Forever Matthew Pratt]({{ '/ancestors/pratt/matthew' | relative_url }}) 
-- Mother: [Elizabeth Kingham]({{ '/ancestors/kingham/elizabeth' | relative_url }}) 
-- Spouse: [Hannah Rogers]({{ '/ancestors/rogers/hannah' | relative_url }})    
-- Child:  [Samuel Pratt II]({{ '/ancestors/pratt/samuel2' | relative_url }})   
+- Father: [Forever Matthew Pratt]({{ '/surnames/pratt/matthew' | relative_url }}) 
+- Mother: [Elizabeth Kingham]({{ '/surnames/kingham/elizabeth' | relative_url }}) 
+- Spouse: [Hannah Rogers]({{ '/surnames/rogers/hannah' | relative_url }})    
+- Child:  [Samuel Pratt II]({{ '/surnames/pratt/samuel2' | relative_url }})   
 
 
 SOURCES:

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "John Allan Staton"
-permalink: /ancestors/staton/allan/
+permalink: /surnames/staton/allan/
 ---
 
 
@@ -33,10 +33,10 @@ John Allan Staton died before 1880. His wife Susannah Emerson Staton and daughte
 - Died: before 1880  `#4` 
 - Burial Place:  
 
-- Father:  [PVT Charles Staton]({{ '/ancestors/staton/charles' | relative_url }})  `#1`
-- Mother:  [Martha Liles]({{ '/ancestors/liles/martha' | relative_url }})  `#1`
-- Spouse:  [Susannah Emerson]({{ '/ancestors/emerson/susannah' | relative_url }})  `#2, #3, #4`
-- Child:  [Martha Staton]({{ '/ancestors/staton/martha' | relative_url }})  `#4, #5`
+- Father:  [PVT Charles Staton]({{ '/surnames/staton/charles' | relative_url }})  `#1`
+- Mother:  [Martha Liles]({{ '/surnames/liles/martha' | relative_url }})  `#1`
+- Spouse:  [Susannah Emerson]({{ '/surnames/emerson/susannah' | relative_url }})  `#2, #3, #4`
+- Child:  [Martha Staton]({{ '/surnames/staton/martha' | relative_url }})  `#4, #5`
 
 SOURCES:
 

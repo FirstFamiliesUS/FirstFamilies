@@ -22,10 +22,10 @@ permalink: /surnames/emerson/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Susannah Emerson]({{ '/ancestors/emerson/susannah' | relative_url }})
-- [Deacon Henry H. Emerson]({{ '/ancestors/emerson/henry' | relative_url }})
-- [PVT James Emerson]({{ '/ancestors/emerson/james2' | relative_url }})
-- [Isaac Emerson]({{ '/ancestors/emerson/isaac' | relative_url }})
-- [Regulator James Emerson]({{ '/ancestors/emerson/james1' | relative_url }})
-- [Forefather William Emerson]({{ '/ancestors/emerson/william' | relative_url }})
+- [Susannah Emerson]({{ '/surnames/emerson/susannah' | relative_url }})
+- [Deacon Henry H. Emerson]({{ '/surnames/emerson/henry' | relative_url }})
+- [PVT James Emerson]({{ '/surnames/emerson/james2' | relative_url }})
+- [Isaac Emerson]({{ '/surnames/emerson/isaac' | relative_url }})
+- [Regulator James Emerson]({{ '/surnames/emerson/james1' | relative_url }})
+- [Forefather William Emerson]({{ '/surnames/emerson/william' | relative_url }})
 

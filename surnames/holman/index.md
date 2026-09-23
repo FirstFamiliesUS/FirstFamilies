@@ -22,6 +22,6 @@ permalink: /surnames/holman/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Roberta Holman]({{ '/ancestors/holman/roberta' | relative_url }})
-- [Robert Holman]({{ '/ancestors/holman/robert' | relative_url }})
-- [Robert S. Holman]({{ '/ancestors/holman/roberts' | relative_url }})
+- [Roberta Holman]({{ '/surnames/holman/roberta' | relative_url }})
+- [Robert Holman]({{ '/surnames/holman/robert' | relative_url }})
+- [Robert S. Holman]({{ '/surnames/holman/roberts' | relative_url }})

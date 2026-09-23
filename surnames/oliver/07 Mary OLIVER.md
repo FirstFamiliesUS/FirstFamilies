@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Mary OLIVER"
-permalink: /ancestors/oliver/mary/
+permalink: /surnames/oliver/mary/
 ---
 
 <header class="wrapper bg-light">

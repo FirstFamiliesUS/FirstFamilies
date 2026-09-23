@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Elizabeth Lee"
-permalink: /ancestors/lee/elizabeth/
+permalink: /surnames/lee/elizabeth/
 ---
 
 
@@ -23,10 +23,10 @@ permalink: /ancestors/lee/elizabeth/
 
 
 
-- Father: [Colonel Richard Lee]({{ '/ancestors/lee/richard' | relative_url }})
-- Mother: [Anne Constable]({{ '/ancestors/constable/anne' | relative_url }})
-- Spouse: [Capt. Leonard Howson]({{ '/ancestors/howson/leonard' | relative_url }})
-- Child:  [Hannah Howson]({{ '/ancestors/howson/hannah' | relative_url }})
+- Father: [Colonel Richard Lee]({{ '/surnames/lee/richard' | relative_url }})
+- Mother: [Anne Constable]({{ '/surnames/constable/anne' | relative_url }})
+- Spouse: [Capt. Leonard Howson]({{ '/surnames/howson/leonard' | relative_url }})
+- Child:  [Hannah Howson]({{ '/surnames/howson/hannah' | relative_url }})
 
 
 NAME

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "CPL Merriman Carter"
-permalink: /ancestors/carter/merriman/
+permalink: /surnames/carter/merriman/
 ---
 
 
@@ -31,10 +31,10 @@ NAME
 - Marriage Place: 
 - Died: 
 - Burial Place: 
-- Father:  [CPT John Carter]({{ '/ancestors/carter/john' | relative_url }})
-- Mother:  [Susannah Payne]({{ '/ancestors/payne/susannah' | relative_url }}) 
-- Spouse:  [Frances Leftwich]({{ '/ancestors/leftwich/frances' | relative_url }})
-- Child:   [James Carter]({{ '/ancestors/carter/james' | relative_url }})
+- Father:  [CPT John Carter]({{ '/surnames/carter/john' | relative_url }})
+- Mother:  [Susannah Payne]({{ '/surnames/payne/susannah' | relative_url }}) 
+- Spouse:  [Frances Leftwich]({{ '/surnames/leftwich/frances' | relative_url }})
+- Child:   [James Carter]({{ '/surnames/carter/james' | relative_url }})
 
 
 SOURCES:

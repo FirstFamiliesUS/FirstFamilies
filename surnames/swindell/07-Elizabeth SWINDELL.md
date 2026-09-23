@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Elizabeth Swindell"
-permalink: /ancestors/swindell/
+permalink: /surnames/swindell/
 ---
 
 
@@ -22,9 +22,9 @@ permalink: /ancestors/swindell/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- Father: [Joseph Swindell]({{ '/ancestors/swindell/joseph' | relative_url }})
-- Mother: [Mary Ann Brown]({{ '/ancestors/brown/mary' | relative_url }})
-- Spouse: [James Ansen Sharp]({{ '/ancestors/sharp/james' | relative_url }})
-- Child: [Emily Sharp]({{ '/ancestors/sharp/emily' | relative_url }})
+- Father: [Joseph Swindell]({{ '/surnames/swindell/joseph' | relative_url }})
+- Mother: [Mary Ann Brown]({{ '/surnames/brown/mary' | relative_url }})
+- Spouse: [James Ansen Sharp]({{ '/surnames/sharp/james' | relative_url }})
+- Child: [Emily Sharp]({{ '/surnames/sharp/emily' | relative_url }})
 
 

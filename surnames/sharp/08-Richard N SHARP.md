@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Rev. Richard N. Sharp"
-permalink: /ancestors/sharp/richard/
+permalink: /surnames/sharp/richard/
 ---
 
 
@@ -36,10 +36,10 @@ Rev. Richard Sharp Death reported in The Nashville Christian Advocate of the M.E
 - Died:  4 Feb 1850  `#1`
 - Burial Place:  [Sharpsburg Cemetery](https://www.findagrave.com/cemetery/31525/sharpsburg-cemetery), [Marion County](https://www.familysearch.org/en/wiki/Marion_County,_Missouri_Genealogy),  [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)  `#1`
 
-- Father: [Capt. Robert Sharp]({{ '/ancestors/sharp/obert' | relative_url }})
-- Mother: [Nancy Harris]({{ '/ancestors/harris/nancy' | relative_url }})
-- Spouse: [Nancy Rowe]({{ '/ancestors/rowe/nancy' | relative_url }})
-- Child:  [James Anson Sharp]({{ '/ancestors/sharp/james' | relative_url }})
+- Father: [Capt. Robert Sharp]({{ '/surnames/sharp/obert' | relative_url }})
+- Mother: [Nancy Harris]({{ '/surnames/harris/nancy' | relative_url }})
+- Spouse: [Nancy Rowe]({{ '/surnames/rowe/nancy' | relative_url }})
+- Child:  [James Anson Sharp]({{ '/surnames/sharp/james' | relative_url }})
 
 
 SOURCES:

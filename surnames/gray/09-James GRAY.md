@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "James Gray II"
-permalink: /ancestors/gray/james2/
+permalink: /surnames/gray/james2/
 ---
 
 
@@ -31,10 +31,10 @@ permalink: /ancestors/gray/james2/
 - Burial Place:  
 
 
-- Father: [James Gray I]({{ '/ancestors/gray/james1' | relative_url }})    
-- Mother: [Martha Goodwin]({{ '/ancestors/goodwin/martha' | relative_url }})
-- Spouse: [Mary Hambleton]({{ '/ancestors/hambleton/mary' | relative_url }})      
-- Child:  [PVT Jonathan Gray]({{ '/ancestors/gray/jonathan' | relative_url }})
+- Father: [James Gray I]({{ '/surnames/gray/james1' | relative_url }})    
+- Mother: [Martha Goodwin]({{ '/surnames/goodwin/martha' | relative_url }})
+- Spouse: [Mary Hambleton]({{ '/surnames/hambleton/mary' | relative_url }})      
+- Child:  [PVT Jonathan Gray]({{ '/surnames/gray/jonathan' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 

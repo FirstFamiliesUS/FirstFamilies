@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Forefather George Wolfe"
-permalink: /ancestors/wolfe/george/
+permalink: /surnames/wolfe/george/
 ---
 
 
@@ -25,8 +25,8 @@ permalink: /ancestors/wolfe/george/
 
 - Father: 
 - Mother: 
-- Spouse: [Maria Reijinders]({{ '/ancestors/reijinders/maroa' | relative_url }})
-- Child: [Valentine Wolfe]({{ '/ancestors/wolfe/valentine' | relative_url }})
+- Spouse: [Maria Reijinders]({{ '/surnames/reijinders/maroa' | relative_url }})
+- Child: [Valentine Wolfe]({{ '/surnames/wolfe/valentine' | relative_url }})
 
 
 

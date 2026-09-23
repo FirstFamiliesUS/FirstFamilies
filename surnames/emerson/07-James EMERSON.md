@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Regulator James Gray"
-permalink: /ancestors/gray/james1/
+permalink: /surnames/gray/james1/
 ---
 
 
@@ -31,10 +31,10 @@ permalink: /ancestors/gray/james1/
 - Burial Place:  
 
 
-- Father:  [Forefather William Emerson]({{ '/ancestors/emerson/william' | relative_url }})
-- Mother:  [Elizabeth Johnson]({{ '/ancestors/johnson/elizabeth' | relative_url }}) 
-- Spouse: [Margaret Moore]({{ '/ancestors/moore/margaret' | relative_url }})    
-- Child:  [Isaac Emerson]({{ '/ancestors/emerson/isaac' | relative_url }})
+- Father:  [Forefather William Emerson]({{ '/surnames/emerson/william' | relative_url }})
+- Mother:  [Elizabeth Johnson]({{ '/surnames/johnson/elizabeth' | relative_url }}) 
+- Spouse: [Margaret Moore]({{ '/surnames/moore/margaret' | relative_url }})    
+- Child:  [Isaac Emerson]({{ '/surnames/emerson/isaac' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 

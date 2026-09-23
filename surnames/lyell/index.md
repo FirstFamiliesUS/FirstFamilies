@@ -22,6 +22,6 @@ permalink: /surnames/lyell/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Mary Lyell]({{ '/ancestors/lyell/mary' | relative_url }})
-- [John Lyell]({{ '/ancestors/lyell/john' | relative_url }})
+- [Mary Lyell]({{ '/surnames/lyell/mary' | relative_url }})
+- [John Lyell]({{ '/surnames/lyell/john' | relative_url }})
 

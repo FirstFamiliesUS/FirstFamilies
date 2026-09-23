@@ -22,6 +22,6 @@ permalink: /surnames/howell/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Elizabeth Howell]({{ '/ancestors/howell/elizabeth' | relative_url }})
-- [John Howell]({{ '/ancestors/howell/john' | relative_url }})
-- [PVT James Howell]({{ '/ancestors/howell/james' | relative_url }})
+- [Elizabeth Howell]({{ '/surnames/howell/elizabeth' | relative_url }})
+- [John Howell]({{ '/surnames/howell/john' | relative_url }})
+- [PVT James Howell]({{ '/surnames/howell/james' | relative_url }})

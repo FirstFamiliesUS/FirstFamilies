@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Frederica Thummel"
-permalink: /ancestors/thummel/fredica/
+permalink: /surnames/thummel/fredica/
 ---
 
 
@@ -23,8 +23,8 @@ permalink: /ancestors/thummel/fredica/
 
 
 
-- Father: [Anton Thummel]({{ '/ancestors/thummel/anton' | relative_url }})
-- Mother: [Helen Klosterman]({{ '/ancestors/klosterman/helen' | relative_url }})
-- Spouse: [Marshall Lincoln Pratt]({{ '/ancestors/pratt/marshall' | relative_url }})
-- Child: [Isabell Pratt]({{ '/ancestors/pratt/isabell' | relative_url }})
+- Father: [Anton Thummel]({{ '/surnames/thummel/anton' | relative_url }})
+- Mother: [Helen Klosterman]({{ '/surnames/klosterman/helen' | relative_url }})
+- Spouse: [Marshall Lincoln Pratt]({{ '/surnames/pratt/marshall' | relative_url }})
+- Child: [Isabell Pratt]({{ '/surnames/pratt/isabell' | relative_url }})
 

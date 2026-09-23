@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT Peter Pratt"
-permalink: /ancestors/pratt/peter/
+permalink: /surnames/pratt/peter/
 ---
 
 
@@ -33,10 +33,10 @@ permalink: /ancestors/pratt/peter/
 - Residence: 
 - Military Service: 
 
-- Father: [Samuel Pratt II]({{ '/ancestors/pratt/samuel2' | relative_url }}) 
-- Mother: [Mary Lincoln]({{ '/ancestors/lincoln/mary' | relative_url }})
-- Spouse: [Mary Lincoln]({{ '/ancestors/lincoln/mary' | relative_url }})    
-- Child:  [PVT John Pratt]({{ '/ancestors/pratt/john' | relative_url }})   
+- Father: [Samuel Pratt II]({{ '/surnames/pratt/samuel2' | relative_url }}) 
+- Mother: [Mary Lincoln]({{ '/surnames/lincoln/mary' | relative_url }})
+- Spouse: [Mary Lincoln]({{ '/surnames/lincoln/mary' | relative_url }})    
+- Child:  [PVT John Pratt]({{ '/surnames/pratt/john' | relative_url }})   
 
 
 SOURCES:

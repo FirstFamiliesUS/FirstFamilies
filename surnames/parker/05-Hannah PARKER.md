@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Parker"
-permalink: /ancestors/parker/hannah/
+permalink: /surnames/parker/hannah/
 ---
 
 
@@ -32,10 +32,10 @@ Hannah Parker Hall Holman
 - Burial Place:  probably Nebraska  `#1`
 
 
-- Father: [PVT Lyman Parker]({{ '/ancestors/parker/lyman' | relative_url }})  `#3`
-- Mother:  [Elizabeth Chase]({{ '/ancestors/chase/elizabeth' | relative_url }})   `#3`
-- Spouse:  [James S. Holman]({{ '/ancestors/holman/james' | relative_url }})  `#1`
-- Child:  [Robert Holman]({{ '/ancestors/holman/robert' | relative_url }})  `#4`
+- Father: [PVT Lyman Parker]({{ '/surnames/parker/lyman' | relative_url }})  `#3`
+- Mother:  [Elizabeth Chase]({{ '/surnames/chase/elizabeth' | relative_url }})   `#3`
+- Spouse:  [James S. Holman]({{ '/surnames/holman/james' | relative_url }})  `#1`
+- Child:  [Robert Holman]({{ '/surnames/holman/robert' | relative_url }})  `#4`
 - 2nd Spouse: Frank Hall  `#5, #2, #1`
 - Residence: 1885 • [Braddyville](https://en.wikipedia.org/wiki/Braddyville,_Iowa), [Page County](https://www.familysearch.org/en/wiki/Page_County,_Iowa_Genealogy), [Iowa](https://www.familysearch.org/en/wiki/Iowa,_United_States_Genealogy)  `#2`
 

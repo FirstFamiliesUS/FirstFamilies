@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "William Chase II"
-permalink: /ancestors/chase/william2/
+permalink: /surnames/chase/william2/
 ---
 
 
@@ -29,10 +29,10 @@ permalink: /ancestors/chase/william2/
 
 - Marriage Date: 
 - Marriage Place: 
-- Father:  [William Chase II]({{ '/ancestors/chase/william2' | relative_url }})
-- Mother:  [Elizabeth Holder]({{ '/ancestors/holder/elizabeth' | relative_url }})
-- Spouse:  [Hannah Sherman]({{ '/ancestors/sherman/hannah' | relative_url }})
-- Child:   [Isaac Chase I]({{ '/ancestors/chase/isaac1' | relative_url }})
+- Father:  [William Chase II]({{ '/surnames/chase/william2' | relative_url }})
+- Mother:  [Elizabeth Holder]({{ '/surnames/holder/elizabeth' | relative_url }})
+- Spouse:  [Hannah Sherman]({{ '/surnames/sherman/hannah' | relative_url }})
+- Child:   [Isaac Chase I]({{ '/surnames/chase/isaac1' | relative_url }})
 
 
 SOURCES:

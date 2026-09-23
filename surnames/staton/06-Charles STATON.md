@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT Charles Staton"
-permalink: /ancestors/staton/charles/
+permalink: /surnames/staton/charles/
 ---
 
 
@@ -33,10 +33,10 @@ NAME
 - Died: 
 - Burial Place:  
 
-- Father:  [John Staton]({{ '/ancestors/staton/john3' | relative_url }})  
-- Mother:  [Florilla Philley]({{ '/ancestors/philley/florilla' | relative_url }})  
-- Spouse:  [Martha Liles]({{ '/ancestors/liles/martha' | relative_url }})  
-- Child:  [John Allan Staton]({{ '/ancestors/staton/allan' | relative_url }})  
+- Father:  [John Staton]({{ '/surnames/staton/john3' | relative_url }})  
+- Mother:  [Florilla Philley]({{ '/surnames/philley/florilla' | relative_url }})  
+- Spouse:  [Martha Liles]({{ '/surnames/liles/martha' | relative_url }})  
+- Child:  [John Allan Staton]({{ '/surnames/staton/allan' | relative_url }})  
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 

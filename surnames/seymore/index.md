@@ -22,9 +22,9 @@ permalink: /surnames/seymore/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Ina Seymore]({{ '/ancestors/seymore/ina' | relative_url }})
-- [Jesse Jerome Seymore]({{ '/ancestors/seymore/jerome' | relative_url }})
-- [PVT Franklin H. Seymore]({{ '/ancestors/seymore/franklin' | relative_url }})
-- [Aley Seymore]({{ '/ancestors/seymore/alsey' | relative_url }})
-- [PVT Solomon Seymore]({{ '/ancestors/seymore/solomon' | relative_url }})
-- [Forefather Thomas Seymore]({{ '/ancestors/seymore/thomas' | relative_url }})
+- [Ina Seymore]({{ '/surnames/seymore/ina' | relative_url }})
+- [Jesse Jerome Seymore]({{ '/surnames/seymore/jerome' | relative_url }})
+- [PVT Franklin H. Seymore]({{ '/surnames/seymore/franklin' | relative_url }})
+- [Aley Seymore]({{ '/surnames/seymore/alsey' | relative_url }})
+- [PVT Solomon Seymore]({{ '/surnames/seymore/solomon' | relative_url }})
+- [Forefather Thomas Seymore]({{ '/surnames/seymore/thomas' | relative_url }})

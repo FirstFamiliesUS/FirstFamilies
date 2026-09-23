@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT John Swindell"
-permalink: /ancestors/swindell/john/
+permalink: /surnames/swindell/john/
 ---
 
 
@@ -22,10 +22,10 @@ permalink: /ancestors/swindell/john/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- Father: [Timothy Swindell]({{ '/ancestors/swindell/timothy' | relative_url }})
-- Mother: [Rebecca Crees]({{ '/ancestors/crees/rebecca' | relative_url }}) 
-- Spouse: [Hannah Weaver]({{ '/ancestors/weaver/hannah' | relative_url }})   
-- Child: [Joseph Swindell]({{ '/ancestors/swindell/joseph' | relative_url }})
+- Father: [Timothy Swindell]({{ '/surnames/swindell/timothy' | relative_url }})
+- Mother: [Rebecca Crees]({{ '/surnames/crees/rebecca' | relative_url }}) 
+- Spouse: [Hannah Weaver]({{ '/surnames/weaver/hannah' | relative_url }})   
+- Child: [Joseph Swindell]({{ '/surnames/swindell/joseph' | relative_url }})
 
 PVT John Swindell
 

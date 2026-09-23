@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Valentine Wolfe"
-permalink: /ancestors/wolfe/
+permalink: /surnames/wolfe/
 ---
 
 
@@ -23,10 +23,10 @@ permalink: /ancestors/wolfe/
 
 
 
-- Father: [PVT George Wolfe]({{ '/ancestors/wolfe/george' | relative_url }})
-- Mother: [Mary Bare]({{ '/ancestors/bare/mary' | relative_url }})
-- Spouse: [Mary Thompson]({{ '/ancestors/thompson/mary' | relative_url }})
-- Child: [Elizabeth Wolfe]({{ '/ancestors/wolfe/elizabeth' | relative_url }})
+- Father: [PVT George Wolfe]({{ '/surnames/wolfe/george' | relative_url }})
+- Mother: [Mary Bare]({{ '/surnames/bare/mary' | relative_url }})
+- Spouse: [Mary Thompson]({{ '/surnames/thompson/mary' | relative_url }})
+- Child: [Elizabeth Wolfe]({{ '/surnames/wolfe/elizabeth' | relative_url }})
 
 
 

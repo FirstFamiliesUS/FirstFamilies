@@ -22,6 +22,6 @@ permalink: /surnames/wolfe/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Elizabeth Wolfe]({{ '/ancestors/wolfe/elizabeth' | relative_url }})
-- [Valentine Wolfe]({{ '/ancestors/wolfe/valentine' | relative_url }})
-- [PVT George Wolfe]({{ '/ancestors/wolfe/george' | relative_url }})
+- [Elizabeth Wolfe]({{ '/surnames/wolfe/elizabeth' | relative_url }})
+- [Valentine Wolfe]({{ '/surnames/wolfe/valentine' | relative_url }})
+- [PVT George Wolfe]({{ '/surnames/wolfe/george' | relative_url }})

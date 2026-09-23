@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Honorable Skipwith Carter"
-permalink: /ancestors/carter/skipwith/
+permalink: /surnames/carter/skipwith/
 ---
 
 
@@ -31,10 +31,10 @@ NAME
 - Marriage Place: 
 - Died: 
 - Burial Place: 
-- Father:  [Forefather Honorabl CPT Thomas Carter (The Burgess)]({{ '/ancestors/carter/thomas' | relative_url }})
-- Mother:  [Katherine Dale]({{ '/ancestors/dale/katherine' | relative_url }})
-- Spouse:  [Anne Harris]({{ '/ancestors/harris/anne' | relative_url }}) 
-- Child:   [CPT John Carter]({{ '/ancestors/carter/john' | relative_url }})
+- Father:  [Forefather Honorabl CPT Thomas Carter (The Burgess)]({{ '/surnames/carter/thomas' | relative_url }})
+- Mother:  [Katherine Dale]({{ '/surnames/dale/katherine' | relative_url }})
+- Spouse:  [Anne Harris]({{ '/surnames/harris/anne' | relative_url }}) 
+- Child:   [CPT John Carter]({{ '/surnames/carter/john' | relative_url }})
 
 
 SOURCES:

@@ -22,5 +22,5 @@ permalink: /surnames/thummel/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Frederica thummel]({{ '/ancestors/thummel/frederica' | relative_url }})
-- [Anton Thummel]({{ '/ancestors/thummel/anton' | relative_url }})
+- [Frederica thummel]({{ '/surnames/thummel/frederica' | relative_url }})
+- [Anton Thummel]({{ '/surnames/thummel/anton' | relative_url }})

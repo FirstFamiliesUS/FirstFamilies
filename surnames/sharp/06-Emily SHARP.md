@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Emily Sharp"
-permalink: /ancestors/sharp/emily/
+permalink: /surnames/sharp/emily/
 ---
 
 
@@ -22,7 +22,7 @@ permalink: /ancestors/sharp/emily/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- Father: [James Anson Sharp]({{ '/ancestors/sharp/james' | relative_url }})
-- Mother: [Elizabeth Swindell]({{ '/ancestors/swindell/elizabeth' | relative_url }})
-- Spouse: [PVT John Lyell]({{ '/ancestors/lyell/john' | relative_url }})
-- Child:  [Mary Lyell]({{ '/ancestors/lyell/mary' | relative_url }}
+- Father: [James Anson Sharp]({{ '/surnames/sharp/james' | relative_url }})
+- Mother: [Elizabeth Swindell]({{ '/surnames/swindell/elizabeth' | relative_url }})
+- Spouse: [PVT John Lyell]({{ '/surnames/lyell/john' | relative_url }})
+- Child:  [Mary Lyell]({{ '/surnames/lyell/mary' | relative_url }}

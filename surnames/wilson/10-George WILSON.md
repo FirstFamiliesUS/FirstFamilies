@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "George Wilson II"
-permalink: /ancestors/wilson/george2/
+permalink: /surnames/wilson/george2/
 ---
 
 
@@ -34,10 +34,10 @@ permalink: /ancestors/wilson/george2/
 - Military Service: 
 - Residence:  
 
-- Father:  [Forefather Geroge Wilson I]({{ '/ancestors/wilson/george1' | relative_url }})    
-- Mother:  [Elizabeth Johnson]({{ '/ancestors/johnson/elizabeth' | relative_url }})  
-- Spouse: [Catherine Rimmer]({{ '/ancestors/rimmer/catherine' | relative_url }})
-- Child:  [SGT John Wilson]({{ '/ancestors/wilson/john' | relative_url }})  
+- Father:  [Forefather Geroge Wilson I]({{ '/surnames/wilson/george1' | relative_url }})    
+- Mother:  [Elizabeth Johnson]({{ '/surnames/johnson/elizabeth' | relative_url }})  
+- Spouse: [Catherine Rimmer]({{ '/surnames/rimmer/catherine' | relative_url }})
+- Child:  [SGT John Wilson]({{ '/surnames/wilson/john' | relative_url }})  
 
 
 

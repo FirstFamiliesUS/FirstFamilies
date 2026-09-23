@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Daniel MILLER"
-permalink: /ancestors/miller/daniel/
+permalink: /surnames/miller/daniel/
 ---
 
 <header class="wrapper bg-light">

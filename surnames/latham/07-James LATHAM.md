@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT James Latham"
-permalink: /ancestors/latham/james/
+permalink: /surnames/latham/james/
 ---
 
 
@@ -34,10 +34,10 @@ PVT James Latham
 - Burial Place:
 - Military Service: [1 Reg't Mtd. (Perkins) W. Tennesse Vols. War of 1812](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/JamesLathamMilitaryRecord.pdf)  
 
-- Father:  [PVT Samuel Latham]({{ '/ancestors/latham/samuel' | relative_url }}) 
-- Mother:  [Patience Condiff]({{ '/ancestors/condiff/patience' | relative_url }})  
-- Spouse:  [Lucrita Brakefield]({{ '/ancestors/brakefield/lucrita' | relative_url }})  
-- Child:  [Clarinda Latham]({{ '/ancestors/latham/clarinda' | relative_url }})  
+- Father:  [PVT Samuel Latham]({{ '/surnames/latham/samuel' | relative_url }}) 
+- Mother:  [Patience Condiff]({{ '/surnames/condiff/patience' | relative_url }})  
+- Spouse:  [Lucrita Brakefield]({{ '/surnames/brakefield/lucrita' | relative_url }})  
+- Child:  [Clarinda Latham]({{ '/surnames/latham/clarinda' | relative_url }})  
 
 
 - Residence: [Tishamingo County](https://www.familysearch.org/en/wiki/Tishomingo_County,_Mississippi_Genealogy), [Mississippi](https://www.familysearch.org/en/wiki/Mississippi,_United_States_Genealogy) 

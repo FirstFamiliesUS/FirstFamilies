@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Capt. Leonard Howson I"
-permalink: /ancestors/howson/leonard/
+permalink: /surnames/howson/leonard/
 ---
 
 
@@ -32,8 +32,8 @@ NAME
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father: [Capt. Robert Howson I]({{ '/ancestors/howson/robert' | relative_url }})
-- Mother: [Margaret Fourness]({{ '/ancestors/fourness/margaret' | relative_url }})
-- Spouse: [Elizabeth Lee]({{ '/ancestors/lee/elizabeth' | relative_url }})
-- Child:  [Hannah Howson]({{ '/ancestors/howson/hannah' | relative_url }})  
+- Father: [Capt. Robert Howson I]({{ '/surnames/howson/robert' | relative_url }})
+- Mother: [Margaret Fourness]({{ '/surnames/fourness/margaret' | relative_url }})
+- Spouse: [Elizabeth Lee]({{ '/surnames/lee/elizabeth' | relative_url }})
+- Child:  [Hannah Howson]({{ '/surnames/howson/hannah' | relative_url }})  
 

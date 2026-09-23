@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT John Lyell"
-permalink: /ancestors/lyell/john/
+permalink: /surnames/lyell/john/
 ---
 
 
@@ -24,10 +24,10 @@ permalink: /ancestors/lyell/john/
 
 ![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
-- Father:  [John Albert Lyell]({{ '/ancestors/lyell/john2' | relative_url }})  
-- Mother:  [Sarah Plummer]({{ '/ancestors/plummer/sarah' | relative_url }})  
-- Spouse:  [Emily Sharp]({{ '/ancestors/sharp/emily' | relative_url }})  
-- Child:   [Mary Lyell]({{ '/ancestors/lyell/mary' | relative_url }})  
+- Father:  [John Albert Lyell]({{ '/surnames/lyell/john2' | relative_url }})  
+- Mother:  [Sarah Plummer]({{ '/surnames/plummer/sarah' | relative_url }})  
+- Spouse:  [Emily Sharp]({{ '/surnames/sharp/emily' | relative_url }})  
+- Child:   [Mary Lyell]({{ '/surnames/lyell/mary' | relative_url }})  
 
 PVT John Lyell
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT Dameron Staton"
-permalink: /ancestors/staton/dameron/
+permalink: /surnames/staton/dameron/
 ---
 
 
@@ -33,10 +33,10 @@ NAME
 - Died: 
 - Burial Place:  
 
-- Father:  [PVT John Staton]({{ '/ancestors/staton/john2' | relative_url }})
-- Mother:  [Mary Dameron]({{ '/ancestors/dameron/mary' | relative_url }}) 
-- Spouse:  [Naomi Lamar]({{ '/ancestors/lamar/naomi' | relative_url }})   
-- Child: [John Staton]({{ '/ancestors/staton/john3' | relative_url }})
+- Father:  [PVT John Staton]({{ '/surnames/staton/john2' | relative_url }})
+- Mother:  [Mary Dameron]({{ '/surnames/dameron/mary' | relative_url }}) 
+- Spouse:  [Naomi Lamar]({{ '/surnames/lamar/naomi' | relative_url }})   
+- Child: [John Staton]({{ '/surnames/staton/john3' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 

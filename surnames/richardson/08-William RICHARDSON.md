@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Capt William Richardson"
-permalink: /ancestors/richardson/william1/
+permalink: /surnames/richardson/william1/
 ---
 
 
@@ -31,8 +31,8 @@ permalink: /ancestors/richardson/william1/
 
 - Father:
 - Mother:  
-- Spouse:   [Ann Guignard]({{ '/ancestors/guignard/ann' | relative_url }})
-- Child:  [John Richardson]({{ '/ancestors/richardson/john' | relative_url }}) 
+- Spouse:   [Ann Guignard]({{ '/surnames/guignard/ann' | relative_url }})
+- Child:  [John Richardson]({{ '/surnames/richardson/john' | relative_url }}) 
 
 
 ![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})

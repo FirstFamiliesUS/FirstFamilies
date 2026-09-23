@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Miller"
-permalink: /ancestors/miller/isaac/
+permalink: /surnames/miller/isaac/
 ---
 
 
@@ -41,10 +41,10 @@ PVT Isaac Miller was born in Gasconade, Missouri in 1820 - before Missouri becam
 - Military Service: [Osage County](https://www.familysearch.org/en/wiki/Osage_County,_Missouri_Genealogy) Home Gd Infantry Regiment [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)  `#6`
 
 
-- Father:   [James Miller]({{ '/ancestors/miller/james' | relative_url }})
-- Mother:  [Mary Oliver]({{ '/ancestors/oliver/mary' | relative_url }}) 
-- Spouse:  [Elizabeth Wolfe]({{ '/ancestors/wolfe/elizabeth' | relative_url }})  
-- Child:  [Matilda Miller]({{ '/ancestors/miller/matilda' | relative_url }})  
+- Father:   [James Miller]({{ '/surnames/miller/james' | relative_url }})
+- Mother:  [Mary Oliver]({{ '/surnames/oliver/mary' | relative_url }}) 
+- Spouse:  [Elizabeth Wolfe]({{ '/surnames/wolfe/elizabeth' | relative_url }})  
+- Child:  [Matilda Miller]({{ '/surnames/miller/matilda' | relative_url }})  
 
 
 SOURCES:

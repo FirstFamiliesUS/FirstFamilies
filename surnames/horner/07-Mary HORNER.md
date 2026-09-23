@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Mary Horner"
-permalink: /ancestors/horner/mary/
+permalink: /surnames/horner/mary/
 ---
 
 
@@ -22,10 +22,10 @@ permalink: /ancestors/horner/mary/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- Father: [CPT John Horner]({{ '/ancestors/horner/john2' | relative_url }})  
-- Mother:  [Elizabeth Russell]({{ '/ancestors/russell/elizabeth' | relative_url }})
-- Spouse:  [PVT John Richardson]({{ '/ancestors/richardson/john' | relative_url }})  
-- Child:  [William Richardson]({{ '/ancestors/richardson/william' | relative_url }}) 
+- Father: [CPT John Horner]({{ '/surnames/horner/john2' | relative_url }})  
+- Mother:  [Elizabeth Russell]({{ '/surnames/russell/elizabeth' | relative_url }})
+- Spouse:  [PVT John Richardson]({{ '/surnames/richardson/john' | relative_url }})  
+- Child:  [William Richardson]({{ '/surnames/richardson/william' | relative_url }}) 
 
 
 

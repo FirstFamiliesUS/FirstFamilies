@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ina Seymore"
-permalink: /ancestors/seymore/ina/
+permalink: /surnames/seymore/ina/
 ---
 
 
@@ -22,9 +22,9 @@ permalink: /ancestors/seymore/ina/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- Father:   [Jesse Jerome Seymore]({{ '/ancestors/seymore/jerome' | relative_url }})  
-- Mother:  [Aulsy Wilson]({{ '/ancestors/wilson/aulsy' | relative_url }})   
-- Spouse:  [Perry Kenner]({{ '/ancestors/kenner/perry' | relative_url }})   
-- Child:  [Jerome Kenner]({{ '/ancestors/kenner/jerome' | relative_url }}) 
+- Father:   [Jesse Jerome Seymore]({{ '/surnames/seymore/jerome' | relative_url }})  
+- Mother:  [Aulsy Wilson]({{ '/surnames/wilson/aulsy' | relative_url }})   
+- Spouse:  [Perry Kenner]({{ '/surnames/kenner/perry' | relative_url }})   
+- Child:  [Jerome Kenner]({{ '/surnames/kenner/jerome' | relative_url }}) 
 
 - [Ina Seymore Kenner Tombstone. Find A Grave Memorial ID: 170788979](https://www.findagrave.com/memorial/170788979/ina-kenner)

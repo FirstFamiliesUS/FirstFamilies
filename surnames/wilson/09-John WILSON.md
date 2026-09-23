@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SGT John Wilson"
-permalink: /ancestors/wilson/john/
+permalink: /surnames/wilson/john/
 ---
 
 
@@ -34,10 +34,10 @@ permalink: /ancestors/wilson/john/
 - Military Service: 
 - Residence:  
 
-- Father:  [George Wilson II]({{ '/ancestors/wilson/george2' | relative_url }})   
-- Mother:  [Catherine Rimmer]({{ '/ancestors/rimmer/catherine' | relative_url }}) 
-- Spouse: [Ann Luck]({{ '/ancestors/luck/ann' | relative_url }}) 
-- Child:  [PVT Garland Wilson]({{ '/ancestors/wilson/garland' | relative_url }})  
+- Father:  [George Wilson II]({{ '/surnames/wilson/george2' | relative_url }})   
+- Mother:  [Catherine Rimmer]({{ '/surnames/rimmer/catherine' | relative_url }}) 
+- Spouse: [Ann Luck]({{ '/surnames/luck/ann' | relative_url }}) 
+- Child:  [PVT Garland Wilson]({{ '/surnames/wilson/garland' | relative_url }})  
 
 
 

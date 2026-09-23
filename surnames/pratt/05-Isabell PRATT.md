@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Isabell Pratt"
-permalink: /ancestors/pratt/isabell/
+permalink: /surnames/pratt/isabell/
 ---
 
 
@@ -31,10 +31,10 @@ Isabell Pratt
 - Marriage Place:  Nebraska  `#2`
 - Died:  29 Jul 1917  `#1, #2` 
 - Burial Place:  [Harvard Cemetery](https://www.findagrave.com/cemetery/1993813/harvard-cemetery), Harvard,  Clay County,  Nebraska  `#1, #2`
-- Father:  [Marshall L. Pratt]({{ '/ancestors/pratt/marshall' | relative_url }})  `#4` 
-- Mother:   [Frederica Thummel]({{ '/ancestors/thummel/frederica' | relative_url }})  `#4`
-- Spouse: [CPL Robert Gray II]({{ '/ancestors/gray/robert2' | relative_url }})  `#1, #2`
-- Child:  [Evalyn Gray]({{ '/ancestors/gray/evalyn' | relative_url }})  `#2`
+- Father:  [Marshall L. Pratt]({{ '/surnames/pratt/marshall' | relative_url }})  `#4` 
+- Mother:   [Frederica Thummel]({{ '/surnames/thummel/frederica' | relative_url }})  `#4`
+- Spouse: [CPL Robert Gray II]({{ '/surnames/gray/robert2' | relative_url }})  `#1, #2`
+- Child:  [Evalyn Gray]({{ '/surnames/gray/evalyn' | relative_url }})  `#2`
 
 
 

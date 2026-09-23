@@ -58,10 +58,10 @@ After the war, Nebraska became his home. Here he received a Land Grant. He marri
 - Burial Place:  [Harvard Cemetery](https://www.findagrave.com/cemetery/1993813/harvard-cemetery), Harvard,  Clay County,  Nebraska  `#1`  
 - Military Service: Corporal Company D and H of the 26th Regiment of the Illinois Infantry  `#1, #5`
 - Richardson Post 60 G.A.R.  `#3`
-- Father: [Robert Gray I]({{ '/ancestors/gray/robert1' | relative_url }}) 
-- Mother: [Susana Baker]({{ '/ancestors/baker/susana' | relative_url }})  
-- Spouse: [Isabell Pratt]({{ '/ancestors/pratt/isabell' | relative_url }}) 
-- Child: [Evalyn Gray]({{ '/ancestors/gray/evalyn' | relative_url }})    `#3, #4`
+- Father: [Robert Gray I]({{ '/surnames/gray/robert1' | relative_url }}) 
+- Mother: [Susana Baker]({{ '/surnames/baker/susana' | relative_url }})  
+- Spouse: [Isabell Pratt]({{ '/surnames/pratt/isabell' | relative_url }}) 
+- Child: [Evalyn Gray]({{ '/surnames/gray/evalyn' | relative_url }})    `#3, #4`
 
 ### SOURCES:
 

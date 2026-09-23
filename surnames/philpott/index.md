@@ -22,7 +22,7 @@ permalink: /surnames/philpott/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Margaret Philpott]({{ '/ancestors/philpott/margaret' | relative_url }})
-- [Forefather CPT Robert Philpott (The Burgess)]({{ '/ancestors/philpott/robert' | relative_url }})
+- [Margaret Philpott]({{ '/surnames/philpott/margaret' | relative_url }})
+- [Forefather CPT Robert Philpott (The Burgess)]({{ '/surnames/philpott/robert' | relative_url }})
 
 

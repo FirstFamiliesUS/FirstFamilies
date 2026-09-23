@@ -22,11 +22,11 @@ permalink: /surnames/wilson/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Aulsy Wilson]({{ '/ancestors/wilson/aulsy' | relative_url }})
-- [George Wilson]({{ '/ancestors/wilson/georgew' | relative_url }})
-- [PVT William Wilson]({{ '/ancestors/wilson/william2' | relative_url }}) 
-- [Andrew Jackson Wilson I]({{ '/ancestors/wilson/andrew' | relative_url }}) 
-- [PVT Garland Wilson]({{ '/ancestors/wilson/garland' | relative_url }}) 
-- [SGT John Wilson]({{ '/ancestors/wilson/john' | relative_url }}) 
-- [George Wilson II]({{ '/ancestors/wilson/george2' | relative_url }}) 
-- [Forefather Geroge Wilson I]({{ '/ancestors/wilson/george1' | relative_url }}) 
+- [Aulsy Wilson]({{ '/surnames/wilson/aulsy' | relative_url }})
+- [George Wilson]({{ '/surnames/wilson/georgew' | relative_url }})
+- [PVT William Wilson]({{ '/surnames/wilson/william2' | relative_url }}) 
+- [Andrew Jackson Wilson I]({{ '/surnames/wilson/andrew' | relative_url }}) 
+- [PVT Garland Wilson]({{ '/surnames/wilson/garland' | relative_url }}) 
+- [SGT John Wilson]({{ '/surnames/wilson/john' | relative_url }}) 
+- [George Wilson II]({{ '/surnames/wilson/george2' | relative_url }}) 
+- [Forefather Geroge Wilson I]({{ '/surnames/wilson/george1' | relative_url }}) 

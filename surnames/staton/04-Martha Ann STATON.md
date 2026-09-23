@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Martha Staton"
-permalink: /ancestors/staton/martha/
+permalink: /surnames/staton/martha/
 ---
 
 
@@ -30,10 +30,10 @@ Martha Ann Staton
 - Marriage Place:  Butler County, Missouri  `#3`
 - Died: 20 Dec. 1972  `#1, $6`  
 - Burial Place:    [Shirley Cemetery](https://www.findagrave.com/cemetery/31568/shirley-cemetery) Briar,  Ripley County,  Missouri,    `#1, #6`
-- Father:  [John Allan Staton]({{ '/ancestors/staton/allan' | relative_url }})  `#6` 
-- Mother:  [Martha Liles]({{ '/ancestors/liles/martha' | relative_url }})  `#4, $6`
-- Spouse:  [Rev. George Kenner]({{ '/ancestors/kenner/george' | relative_url }})  `#3, #5, #7`
-- Child:  [Perry Kenner]({{ '/ancestors/kenner/perry' | relative_url }})  `#5, #6`
+- Father:  [John Allan Staton]({{ '/surnames/staton/allan' | relative_url }})  `#6` 
+- Mother:  [Martha Liles]({{ '/surnames/liles/martha' | relative_url }})  `#4, $6`
+- Spouse:  [Rev. George Kenner]({{ '/surnames/kenner/george' | relative_url }})  `#3, #5, #7`
+- Child:  [Perry Kenner]({{ '/surnames/kenner/perry' | relative_url }})  `#5, #6`
 
 
 

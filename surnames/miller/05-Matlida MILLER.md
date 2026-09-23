@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Miller"
-permalink: /ancestors/miller/matlida/
+permalink: /surnames/miller/matlida/
 ---
 
 
@@ -32,10 +32,10 @@ Matilda Miller
 - Burial:  Black Creek Cemetery, Poplar Bluff, Butler County, Missouri     `#1, #3`
 - Marriage Date: before 1872  `#4` 
 
-- Father:   [PVT Isaac Miller]({{ '/ancestors/miller/isaac' | relative_url }})
-- Mother:  [Elizabeth Wolfe]({{ '/ancestors/wolfe/elizabeth' | relative_url }}) 
-- Spouse:  [Rev. EHC Kenner]({{ '/ancestors/kenner/ehc' | relative_url }})     `#1, #3, #4`  
-- Child:  [Rev. George Kenner]({{ '/ancestors/kenner/george' | relative_url }})  
+- Father:   [PVT Isaac Miller]({{ '/surnames/miller/isaac' | relative_url }})
+- Mother:  [Elizabeth Wolfe]({{ '/surnames/wolfe/elizabeth' | relative_url }}) 
+- Spouse:  [Rev. EHC Kenner]({{ '/surnames/kenner/ehc' | relative_url }})     `#1, #3, #4`  
+- Child:  [Rev. George Kenner]({{ '/surnames/kenner/george' | relative_url }})  
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [67496487](https://www.findagrave.com/memorial/67496487/matilda-narcissa-kenner)

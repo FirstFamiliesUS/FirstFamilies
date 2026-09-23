@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Isaac Chase II"
-permalink: /ancestors/chase/isaac2/
+permalink: /surnames/chase/isaac2/
 ---
 
 
@@ -29,10 +29,10 @@ permalink: /ancestors/chase/isaac2/
 
 - Marriage Date: 
 - Marriage Place: 
-- Father:  [Isaac Chase I]({{ '/ancestors/chase/isaac1' | relative_url }})
-- Mother:  [Elizabeth Blethen]({{ '/ancestors/blethen/elizabeth' | relative_url }})
-- Spouse:  [Amy Anthony]({{ '/ancestors/anthony/amy' | relative_url }})
-- Child:   [Christopher Chase]({{ '/ancestors/chase/christopher' | relative_url }})
+- Father:  [Isaac Chase I]({{ '/surnames/chase/isaac1' | relative_url }})
+- Mother:  [Elizabeth Blethen]({{ '/surnames/blethen/elizabeth' | relative_url }})
+- Spouse:  [Amy Anthony]({{ '/surnames/anthony/amy' | relative_url }})
+- Child:   [Christopher Chase]({{ '/surnames/chase/christopher' | relative_url }})
 
 
 

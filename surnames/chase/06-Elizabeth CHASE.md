@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Elizabeth Chase"
-permalink: /ancestors/chase/elizabeth/
+permalink: /surnames/chase/elizabeth/
 ---
 
 
@@ -32,10 +32,10 @@ Elizabeth CHASE
 
 - Marriage Date: before 1832 `#2`
 - Marriage Place: probably Ohio `#2`
-- Father:  [Christopher Chase]({{ '/ancestors/chase/christopher' | relative_url }})
-- Mother:  [Elizabeth Nichols]({{ '/ancestors/nichols/elizabeth' | relative_url }})
-- Spouse:  [PVT Lyman Parker]({{ '/ancestors/parker/lyman' | relative_url }})  `#1, #2, #3, #4, #5`
-- Child:  [Hannah Parker]({{ '/ancestors/parker/hannah' | relative_url }})    `#2`
+- Father:  [Christopher Chase]({{ '/surnames/chase/christopher' | relative_url }})
+- Mother:  [Elizabeth Nichols]({{ '/surnames/nichols/elizabeth' | relative_url }})
+- Spouse:  [PVT Lyman Parker]({{ '/surnames/parker/lyman' | relative_url }})  `#1, #2, #3, #4, #5`
+- Child:  [Hannah Parker]({{ '/surnames/parker/hannah' | relative_url }})    `#2`
 
 - Residence: Lived in Ohio 1832 to 1834 where her 2 sons Baruch and Johnathan were born.  `#2, #4`
 - Residence: Living in Michigan 1850 - 1864  `#1, #2, #4`

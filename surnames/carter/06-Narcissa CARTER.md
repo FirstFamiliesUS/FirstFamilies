@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Narcissa Carter"
-permalink: /ancestors/carter/narcissa/
+permalink: /surnames/carter/narcissa/
 ---
 
 
@@ -31,10 +31,10 @@ NAME
 - Marriage Place: [Davidson County](https://www.familysearch.org/en/wiki/Davidson_County,_Tennessee_Genealogy), [TN](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy).
 - Died: 
 - Burial Place:  [Vineyard Cemetery](https://www.findagrave.com/cemetery/19745/vineyard-cemetery), [Humphreys County](https://www.familysearch.org/en/wiki/Humphreys_County,_Tennessee_Genealogy), [TN](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy).
-- Father:   [James Carter]({{ '/ancestors/carter/james' | relative_url }})
+- Father:   [James Carter]({{ '/surnames/carter/james' | relative_url }})
 - Mother:   
-- Spouse:   [Rev. Jesse Jerome Fuqua I]({{ '/ancestors/fuqua/jerome' | relative_url }})
-- Child:    [Virginia Fuqua]({{ '/ancestors/fuqua/virginia' | relative_url }})
+- Spouse:   [Rev. Jesse Jerome Fuqua I]({{ '/surnames/fuqua/jerome' | relative_url }})
+- Child:    [Virginia Fuqua]({{ '/surnames/fuqua/virginia' | relative_url }})
 
 
 

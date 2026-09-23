@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT Jonathan gray"
-permalink: /ancestors/gray/jonathan/
+permalink: /surnames/gray/jonathan/
 ---
 
 
@@ -31,10 +31,10 @@ permalink: /ancestors/gray/jonathan/
 - Burial Place:  
 
 
-- Father: [Jonathan Gray]({{ '/ancestors/gray/jonathan' | relative_url }})    
-- Mother: [Mary Hambleton]({{ '/ancestors/hambleton/mary' | relative_url }})  
-- Spouse: [Catherine Roberts]({{ '/ancestors/roberts/catherine' | relative_url }})     
-- Child:  [PVT Nathaniel Gray]({{ '/ancestors/gray/nathaniel' | relative_url }})
+- Father: [Jonathan Gray]({{ '/surnames/gray/jonathan' | relative_url }})    
+- Mother: [Mary Hambleton]({{ '/surnames/hambleton/mary' | relative_url }})  
+- Spouse: [Catherine Roberts]({{ '/surnames/roberts/catherine' | relative_url }})     
+- Child:  [PVT Nathaniel Gray]({{ '/surnames/gray/nathaniel' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 

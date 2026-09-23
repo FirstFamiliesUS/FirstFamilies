@@ -22,7 +22,7 @@ permalink: /surnames/miller/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Matilda Miller]({{ '/ancestors/miller/matilda' | relative_url }})
-- [PVT Isaac Miller]({{ '/ancestors/miller/isaac' | relative_url }})
-- [ James MILLER]({{ '/ancestors/miller/james/' | relative_url }})
-- [ Daniel MILLER]({{ '/ancestors/miller/daniel/' | relative_url }})
+- [Matilda Miller]({{ '/surnames/miller/matilda' | relative_url }})
+- [PVT Isaac Miller]({{ '/surnames/miller/isaac' | relative_url }})
+- [ James MILLER]({{ '/surnames/miller/james/' | relative_url }})
+- [ Daniel MILLER]({{ '/surnames/miller/daniel/' | relative_url }})

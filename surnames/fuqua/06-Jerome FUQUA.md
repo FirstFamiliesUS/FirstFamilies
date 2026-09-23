@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Rev. Jesse Jerome Fuqua I"
-permalink: /ancestors/fuqua/jerome/
+permalink: /surnames/fuqua/jerome/
 ---
 
 
@@ -31,10 +31,10 @@ NAME
 - Marriage Place
 - Died: 
 - Burial Place:  [Vineyard Cemetery](https://www.findagrave.com/cemetery/19745/vineyard-cemetery), [Humphreys County](https://www.familysearch.org/en/wiki/Humphreys_County,_Tennessee_Genealogy), [TN](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy).
-- Father: [Rev. Isham Fuqua]({{ '/ancestors/fuqua/isham' | relative_url }})
-- Mother: [Mary Hammons]({{ '/ancestors/hammons/mary' | relative_url }})
-- Spouse: [Narcissa Carter]({{ '/ancestors/carter/narcissa' | relative_url }})
-- Child: [Virginia Fuqua]({{ '/ancestors/fuqua/virginia' | relative_url }})
+- Father: [Rev. Isham Fuqua]({{ '/surnames/fuqua/isham' | relative_url }})
+- Mother: [Mary Hammons]({{ '/surnames/hammons/mary' | relative_url }})
+- Spouse: [Narcissa Carter]({{ '/surnames/carter/narcissa' | relative_url }})
+- Child: [Virginia Fuqua]({{ '/surnames/fuqua/virginia' | relative_url }})
 
 
 SOURCES:

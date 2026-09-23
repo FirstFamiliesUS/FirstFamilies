@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "George Wilson I"
-permalink: /ancestors/wilson/george1/
+permalink: /surnames/wilson/george1/
 ---
 
 
@@ -36,8 +36,8 @@ permalink: /ancestors/wilson/george1/
 
 - Father:      
 - Mother:    
-- Spouse: [Elizabeth Johnson]({{ '/ancestors/johnson/elizabeth' | relative_url }})
-- Child:  [George Wilson II]({{ '/ancestors/wilson/george2' | relative_url }})   
+- Spouse: [Elizabeth Johnson]({{ '/surnames/johnson/elizabeth' | relative_url }})
+- Child:  [George Wilson II]({{ '/surnames/wilson/george2' | relative_url }})   
 
 
 

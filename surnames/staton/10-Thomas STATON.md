@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT Thomas Staton"
-permalink: /ancestors/staton/thomas/
+permalink: /surnames/staton/thomas/
 ---
 
 
@@ -33,10 +33,10 @@ NAME
 - Died: 
 - Burial Place:  
 
-- Father:  [Warrington Staton]({{ '/ancestors/staton/warrington' | relative_url }})
-- Mother:  [Catherine Hesten]({{ '/ancestors/hesten/catherine' | relative_url }})
-- Spouse:  [Anne Matthews]({{ '/ancestors/matthews/anne' | relative_url }})   
-- Child: [PVT John Staton]({{ '/ancestors/staton/john2' | relative_url }})
+- Father:  [Warrington Staton]({{ '/surnames/staton/warrington' | relative_url }})
+- Mother:  [Catherine Hesten]({{ '/surnames/hesten/catherine' | relative_url }})
+- Spouse:  [Anne Matthews]({{ '/surnames/matthews/anne' | relative_url }})   
+- Child: [PVT John Staton]({{ '/surnames/staton/john2' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 

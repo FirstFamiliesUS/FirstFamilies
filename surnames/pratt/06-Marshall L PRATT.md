@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT Marshall Lincoln Pratt"
-permalink: /ancestors/pratt/marshall
+permalink: /surnames/pratt/marshall
 ---
 
 
@@ -38,10 +38,10 @@ Before moving to Nebraska he served in Captain Murrays Company Second Regiment P
 - Residence: [Illinois](https://www.familysearch.org/en/wiki/Illinois,_United_States_Genealogy), before 1841 `#10` - after 28 Feb 1846 [Dixon](https://en.wikipedia.org/wiki/Dixon,_Illinois), [Lee County](https://www.familysearch.org/en/wiki/Lee_County,_Illinois_Genealogy), [Illinois](https://www.familysearch.org/en/wiki/Illinois,_United_States_Genealogy). `#10`
 - Military Service: Captain Murrays Company Second Regiment Pennsylvania Volunteers  `#5`
 
-- Father:  [PVT Darius Pratt]({{ '/ancestors/pratt/darius' | relative_url }})  
-- Mother:   [Zilpha Wheeler]({{ '/ancestors/wheeler/zilpha' | relative_url }})  
-- Spouse: [Frederica Thummel]({{ '/ancestors/thummel/frederica' | relative_url }}) 
-- Child:  [Isabell Pratt]({{ '/ancestors/pratt/isabell' | relative_url }})   `#3`
+- Father:  [PVT Darius Pratt]({{ '/surnames/pratt/darius' | relative_url }})  
+- Mother:   [Zilpha Wheeler]({{ '/surnames/wheeler/zilpha' | relative_url }})  
+- Spouse: [Frederica Thummel]({{ '/surnames/thummel/frederica' | relative_url }}) 
+- Child:  [Isabell Pratt]({{ '/surnames/pratt/isabell' | relative_url }})   `#3`
 
 
 SOURCES:

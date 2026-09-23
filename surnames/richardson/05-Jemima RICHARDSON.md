@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Jemima Richardson"
-permalink: /ancestors/richardson/jemima/
+permalink: /surnames/richardson/jemima/
 ---
 
 
@@ -31,10 +31,10 @@ Jemima Richardson
 
 - Marriage Date: before 1878  `#3`
 
-- Father: [William Richardson]({{ '/ancestors/richardson/william' | relative_url }})  `#2, #5`
-- Mother: [Martha Childers]({{ '/ancestors/childers/martha' | relative_url }})  `#2`
-- Spouse:  [George W. Wilson]({{ '/ancestors/wilson/george' | relative_url }}) `#4`
-- Child:  [Aulsy Wilson]({{ '/ancestors/wilson/aulsy' | relative_url }})
+- Father: [William Richardson]({{ '/surnames/richardson/william' | relative_url }})  `#2, #5`
+- Mother: [Martha Childers]({{ '/surnames/childers/martha' | relative_url }})  `#2`
+- Spouse:  [George W. Wilson]({{ '/surnames/wilson/george' | relative_url }}) `#4`
+- Child:  [Aulsy Wilson]({{ '/surnames/wilson/aulsy' | relative_url }})
 
 
 SOURCES:

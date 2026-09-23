@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Forefather William Chase I"
-permalink: /ancestors/chase/william1/
+permalink: /surnames/chase/william1/
 ---
 
 
@@ -31,8 +31,8 @@ permalink: /ancestors/chase/william1/
 - Marriage Place: 
 - Father:  
 - Mother:  
-- Spouse:  [Elizabeth Holder]({{ '/ancestors/holder/elizabeth' | relative_url }})
-- Child:   [William Chase II]({{ '/ancestors/chase/william2' | relative_url }})
+- Spouse:  [Elizabeth Holder]({{ '/surnames/holder/elizabeth' | relative_url }})
+- Child:   [William Chase II]({{ '/surnames/chase/william2' | relative_url }})
 
 
 SOURCES:

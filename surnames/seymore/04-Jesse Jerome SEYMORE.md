@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Jesse Jerome Seymore"
-permalink: /ancestors/seymore/jerome/
+permalink: /surnames/seymore/jerome/
 ---
 
 
@@ -22,10 +22,10 @@ permalink: /ancestors/seymore/jerome/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- Father:   [PVT Franklin H Seymore]({{ '/ancestors/seymore/franklin' | relative_url }})  
-- Mother:  [Virginia Fuqua]({{ '/ancestors/fuqua/virginia' | relative_url }})   
-- Spouse:  [Aulsy Wilson]({{ '/ancestors/wilson/aulsy' | relative_url }})   
-- Child:  [Ina Seymore]({{ '/ancestors/seymore/ina' | relative_url }}) 
+- Father:   [PVT Franklin H Seymore]({{ '/surnames/seymore/franklin' | relative_url }})  
+- Mother:  [Virginia Fuqua]({{ '/surnames/fuqua/virginia' | relative_url }})   
+- Spouse:  [Aulsy Wilson]({{ '/surnames/wilson/aulsy' | relative_url }})   
+- Child:  [Ina Seymore]({{ '/surnames/seymore/ina' | relative_url }}) 
 
 
 Jesse Jerome Seymore

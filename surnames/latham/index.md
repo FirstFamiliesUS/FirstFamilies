@@ -22,6 +22,6 @@ permalink: /surnames/latham/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Clarinda Latham]({{ '/ancestors/latham/clarinda' | relative_url }})
-- [James Latham]({{ '/ancestors/latham/james' | relative_url }})
+- [Clarinda Latham]({{ '/surnames/latham/clarinda' | relative_url }})
+- [James Latham]({{ '/surnames/latham/james' | relative_url }})
 

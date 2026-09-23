@@ -22,12 +22,12 @@ permalink: /surnames/staton/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Martha Staton]({{ '/ancestors/staton/martha' | relative_url }})
-- [John Allan Staton]({{ '/ancestors/staton/allan' | relative_url }})
-- [PVT Charles Staton]({{ '/ancestors/staton/charles' | relative_url }})
-- [John Staton]({{ '/ancestors/staton/john3' | relative_url }})
-- [PVT Dameron Staton]({{ '/ancestors/staton/dameron' | relative_url }})
-- [PVT John Staton]({{ '/ancestors/staton/john2' | relative_url }})
-- [PVT Thomas Staton]({{ '/ancestors/staton/thomas' | relative_url }})
-- [Warrington Staton]({{ '/ancestors/staton/warrington' | relative_url }})
+- [Martha Staton]({{ '/surnames/staton/martha' | relative_url }})
+- [John Allan Staton]({{ '/surnames/staton/allan' | relative_url }})
+- [PVT Charles Staton]({{ '/surnames/staton/charles' | relative_url }})
+- [John Staton]({{ '/surnames/staton/john3' | relative_url }})
+- [PVT Dameron Staton]({{ '/surnames/staton/dameron' | relative_url }})
+- [PVT John Staton]({{ '/surnames/staton/john2' | relative_url }})
+- [PVT Thomas Staton]({{ '/surnames/staton/thomas' | relative_url }})
+- [Warrington Staton]({{ '/surnames/staton/warrington' | relative_url }})
 

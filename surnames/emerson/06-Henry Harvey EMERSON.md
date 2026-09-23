@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Deacon Henry H. Emerson"
-permalink: /ancestors/emerson/henry/
+permalink: /surnames/emerson/henry/
 ---
 
 
@@ -32,10 +32,10 @@ Henry Harvey EMERSON
 - Died:  10 Sep 1902  `#1`
 - Burial Place:  [ Black Creek Cemetery](https://www.findagrave.com/cemetery/27611/black-creek-cemetery) Poplar Bluff,  [Butler](https://www.familysearch.org/en/wiki/Butler_County,_Missouri_Genealogy),  [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy "Missouri, United States Genealogy")
 
-- Father:  [PVT James Emerson]({{ '/ancestors/emerson/james' | relative_url }})  `#1, #2, #5`
-- Mother:  [Susannah McDaniel]({{ '/ancestors/mcdaniel/susannah' | relative_url }})   
-- Spouse:  [Elizabeth Howell]({{ '/ancestors/howell/elizabeth' | relative_url }})  `#3, #4, #5, #6, #7`
-- Child:  [Susannah Emerson]({{ '/ancestors/emerson/susannah' | relative_url }})  `#4, #5, #6`
+- Father:  [PVT James Emerson]({{ '/surnames/emerson/james' | relative_url }})  `#1, #2, #5`
+- Mother:  [Susannah McDaniel]({{ '/surnames/mcdaniel/susannah' | relative_url }})   
+- Spouse:  [Elizabeth Howell]({{ '/surnames/howell/elizabeth' | relative_url }})  `#3, #4, #5, #6, #7`
+- Child:  [Susannah Emerson]({{ '/surnames/emerson/susannah' | relative_url }})  `#4, #5, #6`
 
 
 SOURCES:

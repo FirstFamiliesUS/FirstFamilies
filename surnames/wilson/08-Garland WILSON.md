@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT Garland Wilson"
-permalink: /ancestors/wilson/garland/
+permalink: /surnames/wilson/garland/
 ---
 
 
@@ -34,10 +34,10 @@ permalink: /ancestors/wilson/garland/
 - Military Service: 
 - Residence:  
 
-- Father:  [SGT John Wilson]({{ '/ancestors/wilson/john' | relative_url }})   
-- Mother:  [Ann Luck]({{ '/ancestors/luck/ann' | relative_url }}) 
-- Spouse: [Rachel Paschall]({{ '/ancestors/paschall/rachel' | relative_url }})
-- Child:  [Andrew Jackson Wilson I]({{ '/ancestors/wilson/andrew' | relative_url }})  
+- Father:  [SGT John Wilson]({{ '/surnames/wilson/john' | relative_url }})   
+- Mother:  [Ann Luck]({{ '/surnames/luck/ann' | relative_url }}) 
+- Spouse: [Rachel Paschall]({{ '/surnames/paschall/rachel' | relative_url }})
+- Child:  [Andrew Jackson Wilson I]({{ '/surnames/wilson/andrew' | relative_url }})  
 
 
 

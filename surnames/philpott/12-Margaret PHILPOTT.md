@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Margaret Philpott"
-permalink: /ancestors/philpott/margaret/
+permalink: /surnames/philpott/margaret/
 ---
 
 
@@ -31,10 +31,10 @@ NAME
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father: [Forefather CPT Robert Philpott (The Burgess)]({{ '/ancestors/philpott/robert' | relative_url }})
+- Father: [Forefather CPT Robert Philpott (The Burgess)]({{ '/surnames/philpott/robert' | relative_url }})
 - Mother: 
-- Spouse: [Forefather Samuel Bonum]({{ '/ancestors/bonum/rebecca' | relative_url }})
-- Child:  [Rebecca Bonum]({{ '/ancestors/bonum/rebecca' | relative_url }})
+- Spouse: [Forefather Samuel Bonum]({{ '/surnames/bonum/rebecca' | relative_url }})
+- Child:  [Rebecca Bonum]({{ '/surnames/bonum/rebecca' | relative_url }})
 
 
 

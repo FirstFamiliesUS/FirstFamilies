@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Patriot Margaret Eskridge"
-permalink: /ancestors/eskridge/margaret/
+permalink: /surnames/eskridge/margaret/
 ---
 
 
@@ -32,10 +32,10 @@ NAME
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father:   [Forefather COL George Eskridge (The Burgess)]({{ '/ancestors/eskridge/george2' | relative_url }}) 
-- Mother:   [Rebecca Bonum]({{ '/ancestors/bonum/rebecca' | relative_url }})
-- Spouse:   [The Honorable Rev. Elias Kenner]({{ '/ancestors/kenner/elias' | relative_url }})   
-- Child:    [PVT Francis Kenner]({{ '/ancestors/kenner/francis' | relative_url }})
+- Father:   [Forefather COL George Eskridge (The Burgess)]({{ '/surnames/eskridge/george2' | relative_url }}) 
+- Mother:   [Rebecca Bonum]({{ '/surnames/bonum/rebecca' | relative_url }})
+- Spouse:   [The Honorable Rev. Elias Kenner]({{ '/surnames/kenner/elias' | relative_url }})   
+- Child:    [PVT Francis Kenner]({{ '/surnames/kenner/francis' | relative_url }})
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Andrew Jackson Wilson"
-permalink: /ancestors/wilson/andrew/
+permalink: /surnames/wilson/andrew/
 ---
 
 
@@ -36,10 +36,10 @@ permalink: /ancestors/wilson/andrew/
 - Military Service: 
 - Residence:  
 
-- Father:  [PVT Garland Wilson]({{ '/ancestors/wilson/garland' | relative_url }})  
-- Mother:  [Rachel Paschall]({{ '/ancestors/paschall/rachel' | relative_url }})
-- Spouse:  [Elizabeth McQueen]({{ '/ancestors/mcqueen/elizabeth' | relative_url }}) 
-- Child:  [PVT William Wilson]({{ '/ancestors/wilson/william2' | relative_url }}) 
+- Father:  [PVT Garland Wilson]({{ '/surnames/wilson/garland' | relative_url }})  
+- Mother:  [Rachel Paschall]({{ '/surnames/paschall/rachel' | relative_url }})
+- Spouse:  [Elizabeth McQueen]({{ '/surnames/mcqueen/elizabeth' | relative_url }}) 
+- Child:  [PVT William Wilson]({{ '/surnames/wilson/william2' | relative_url }}) 
 
 
 

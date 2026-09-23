@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT George Wolfe"
-permalink: /ancestors/wolfe/george/
+permalink: /surnames/wolfe/george/
 ---
 
 
@@ -23,10 +23,10 @@ permalink: /ancestors/wolfe/george/
 
 
 
-- Father: [Forefathers Johann Wolfe]({{ '/ancestors/wolfe/johann' | relative_url }})
-- Mother: [Maria Reijinders]({{ '/ancestors/reijinders/maroa' | relative_url }})
-- Spouse: [Mary Thompson]({{ '/ancestors/thompson/mary' | relative_url }})
-- Child: [Mary Bare]({{ '/ancestors/bare/mary' | relative_url }})
+- Father: [Forefathers Johann Wolfe]({{ '/surnames/wolfe/johann' | relative_url }})
+- Mother: [Maria Reijinders]({{ '/surnames/reijinders/maroa' | relative_url }})
+- Spouse: [Mary Thompson]({{ '/surnames/thompson/mary' | relative_url }})
+- Child: [Mary Bare]({{ '/surnames/bare/mary' | relative_url }})
 
 
 

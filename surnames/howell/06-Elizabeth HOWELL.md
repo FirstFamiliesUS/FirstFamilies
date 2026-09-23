@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Elizabeth Howell"
-permalink: /ancestors/howell/elizabeth/
+permalink: /surnames/howell/elizabeth/
 ---
 
 
@@ -23,10 +23,10 @@ permalink: /ancestors/howell/elizabeth/
 
 
 
-- Father: [John Howell]({{ '/ancestors/howell/john' | relative_url }})
-- Mother: [Charlotte Cook]({{ '/ancestors/cook/charlotte' | relative_url }})
-- Spouse: [Deacon Henry H. Emerson]({{ '/ancestors/emerson/henry' | relative_url }}) `#1, #3, #4, #5, #6, #7`
-- Child: [Susannah Emerson]({{ '/ancestors/emerson/susannah' | relative_url }}) `#4, #5, #6`
+- Father: [John Howell]({{ '/surnames/howell/john' | relative_url }})
+- Mother: [Charlotte Cook]({{ '/surnames/cook/charlotte' | relative_url }})
+- Spouse: [Deacon Henry H. Emerson]({{ '/surnames/emerson/henry' | relative_url }}) `#1, #3, #4, #5, #6, #7`
+- Child: [Susannah Emerson]({{ '/surnames/emerson/susannah' | relative_url }}) `#4, #5, #6`
 
 
 

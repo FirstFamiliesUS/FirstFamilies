@@ -22,9 +22,9 @@ permalink: /surnames/horner/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Mary Horner]({{ '/ancestors/horner/mary' | relative_url }})
-- [CPT John Horner]({{ '/ancestors/horner/john2' | relative_url }})
-- [PVT William Horner]({{ '/ancestors/horner/william' | relative_url }})
-- [George Horner]({{ '/ancestors/horner/george' | relative_url }})
-- [Forefather John Horner]({{ '/ancestors/horner/john' | relative_url }})
+- [Mary Horner]({{ '/surnames/horner/mary' | relative_url }})
+- [CPT John Horner]({{ '/surnames/horner/john2' | relative_url }})
+- [PVT William Horner]({{ '/surnames/horner/william' | relative_url }})
+- [George Horner]({{ '/surnames/horner/george' | relative_url }})
+- [Forefather John Horner]({{ '/surnames/horner/john' | relative_url }})
 

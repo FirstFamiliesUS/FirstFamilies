@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT Darius Pratt"
-permalink: /ancestors/pratt/darius/
+permalink: /surnames/pratt/darius/
 ---
 
 
@@ -33,10 +33,10 @@ permalink: /ancestors/pratt/darius/
 - Residence: 
 - Military Service: 
 
-- Father: [PVT John Pratt]({{ '/ancestors/pratt/john' | relative_url }})  
-- Mother: [Mary Hepzibah]({{ '/ancestors/hepzibah/mary' | relative_url }})    
-- Spouse: [Zilpha Wheeler]({{ '/ancestors/wheeler/zilpha' | relative_url }}) 
-- Child:  [Marshall L. Pratt]({{ '/ancestors/pratt/marshall' | relative_url }})   
+- Father: [PVT John Pratt]({{ '/surnames/pratt/john' | relative_url }})  
+- Mother: [Mary Hepzibah]({{ '/surnames/hepzibah/mary' | relative_url }})    
+- Spouse: [Zilpha Wheeler]({{ '/surnames/wheeler/zilpha' | relative_url }}) 
+- Child:  [Marshall L. Pratt]({{ '/surnames/pratt/marshall' | relative_url }})   
 
 
 SOURCES:

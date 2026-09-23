@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Forefather COL George Eskridge (The Burgess)"
-permalink: /ancestors/eskridge/george2/
+permalink: /surnames/eskridge/george2/
 ---
 
 
@@ -34,8 +34,8 @@ NAME
 - Burial Place:  
 - Father:   
 - Mother:   
-- Spouse:   [Rebecca Bonum]({{ '/ancestors/bonum/rebecca' | relative_url }})  
-- Child:    [Patriot Margaret Eskrige]({{ '/ancestors/eskridge/margaret' | relative_url }})
+- Spouse:   [Rebecca Bonum]({{ '/surnames/bonum/rebecca' | relative_url }})  
+- Child:    [Patriot Margaret Eskrige]({{ '/surnames/eskridge/margaret' | relative_url }})
 
 
 

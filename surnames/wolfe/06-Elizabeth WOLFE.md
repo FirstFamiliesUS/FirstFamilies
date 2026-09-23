@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Elizabeth Wolfe"
-permalink: /ancestors/wolfe/
+permalink: /surnames/wolfe/
 ---
 
 
@@ -23,10 +23,10 @@ permalink: /ancestors/wolfe/
 
 
 
-- Father: [Valentine Wolfe]({{ '/ancestors/wolfe/valentine' | relative_url }})
-- Mother: [Mary Thompson]({{ '/ancestors/thompson/mary' | relative_url }})
-- Spouse: [PVT Isaac Miller]({{ '/ancestors/miller/isaac' | relative_url }})
-- Child: [Elizabeth Wolfe]({{ '/ancestors/wolfe/elizabeth' | relative_url }})
+- Father: [Valentine Wolfe]({{ '/surnames/wolfe/valentine' | relative_url }})
+- Mother: [Mary Thompson]({{ '/surnames/thompson/mary' | relative_url }})
+- Spouse: [PVT Isaac Miller]({{ '/surnames/miller/isaac' | relative_url }})
+- Child: [Elizabeth Wolfe]({{ '/surnames/wolfe/elizabeth' | relative_url }})
 
 
 

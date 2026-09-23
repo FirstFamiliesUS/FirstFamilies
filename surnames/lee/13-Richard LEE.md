@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Colonel Richard Lee"
-permalink: /ancestors/lee/richard1/
+permalink: /surnames/lee/richard1/
 ---
 
 
@@ -25,8 +25,8 @@ permalink: /ancestors/lee/richard1/
 
 - Father: 
 - Mother: 
-- Spouse: [Anne Constable]({{ '/ancestors/constable/anne' | relative_url }})
-- Child:  [Elizabeth Lee]({{ '/ancestors/lee/elizabeth' | relative_url }})
+- Spouse: [Anne Constable]({{ '/surnames/constable/anne' | relative_url }})
+- Child:  [Elizabeth Lee]({{ '/surnames/lee/elizabeth' | relative_url }})
 
 
 NAME

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Susannah Emerson"
-permalink: /ancestors/emerson/susannah/
+permalink: /surnames/emerson/susannah/
 ---
 
 
@@ -35,10 +35,10 @@ Susannah Emerson
 - Mother:  Elizabeth  `#1, #2, #5`
 - Child:  Martha Staton  `#5`
 
-- Father:  [Deacon Henry H. Emerson]({{ '/ancestors/emerson/henry' | relative_url }})  `#1, #2, #5`
-- Mother:  [Elizabeth Howell]({{ '/ancestors/howell/elizabeth' | relative_url }})   
-- Spouse:  [John Allan Staton]({{ '/ancestors/staton/allan' | relative_url }})  
-- Child:  [Martha Staton]({{ '/ancestors/staton/martha' | relative_url }})  
+- Father:  [Deacon Henry H. Emerson]({{ '/surnames/emerson/henry' | relative_url }})  `#1, #2, #5`
+- Mother:  [Elizabeth Howell]({{ '/surnames/howell/elizabeth' | relative_url }})   
+- Spouse:  [John Allan Staton]({{ '/surnames/staton/allan' | relative_url }})  
+- Child:  [Martha Staton]({{ '/surnames/staton/martha' | relative_url }})  
 
 
 SOURCES:

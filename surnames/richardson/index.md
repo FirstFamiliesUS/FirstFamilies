@@ -22,10 +22,10 @@ permalink: /surnames/richardson/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Jemima Richardson]({{ '/ancestors/richardson/jemima' | relative_url }})
-- [William Richardson]({{ '/ancestors/richardson/william' | relative_url }})
-- [PVT John Richardson]({{ '/ancestors/richardson/john' | relative_url }})
-- [Capt William Richardson]({{ '/ancestors/richardson/william1' | relative_url }})
+- [Jemima Richardson]({{ '/surnames/richardson/jemima' | relative_url }})
+- [William Richardson]({{ '/surnames/richardson/william' | relative_url }})
+- [PVT John Richardson]({{ '/surnames/richardson/john' | relative_url }})
+- [Capt William Richardson]({{ '/surnames/richardson/william1' | relative_url }})
 
 
 

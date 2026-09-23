@@ -22,11 +22,11 @@ permalink: /surnames/gray/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Evalyn Gray]({{ '/ancestors/gray/evalyn' | relative_url }})
-- [CPL Robert Gray II]({{ '/ancestors/gray/robert2' | relative_url }})
-- [Robert Gray I]({{ '/ancestors/gray/robert1' | relative_url }})
-- [PVT Nathaniel Gray]({{ '/ancestors/gray/nathaniel' | relative_url }})
-- [PVT Jonathan Gray]({{ '/ancestors/gray/jonathan' | relative_url }})
-- [James Gray II]({{ '/ancestors/gray/james2' | relative_url }})
-- [James Gray I]({{ '/ancestors/gray/james1' | relative_url }})
-- [Forefather George Gray I]({{ '/ancestors/gray/george1' | relative_url }})
+- [Evalyn Gray]({{ '/surnames/gray/evalyn' | relative_url }})
+- [CPL Robert Gray II]({{ '/surnames/gray/robert2' | relative_url }})
+- [Robert Gray I]({{ '/surnames/gray/robert1' | relative_url }})
+- [PVT Nathaniel Gray]({{ '/surnames/gray/nathaniel' | relative_url }})
+- [PVT Jonathan Gray]({{ '/surnames/gray/jonathan' | relative_url }})
+- [James Gray II]({{ '/surnames/gray/james2' | relative_url }})
+- [James Gray I]({{ '/surnames/gray/james1' | relative_url }})
+- [Forefather George Gray I]({{ '/surnames/gray/george1' | relative_url }})

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "CPT John Carter"
-permalink: /ancestors/carter/john/
+permalink: /surnames/carter/john/
 ---
 
 
@@ -31,10 +31,10 @@ NAME
 - Marriage Place: 
 - Died: 
 - Burial Place: 
-- Father:  [Skipwith Carter]({{ '/ancestors/carter/skipwith' | relative_url }})
-- Mother:  [Anne Harris]({{ '/ancestors/harris/anne' | relative_url }}) 
-- Spouse:  [Susannah Payne]({{ '/ancestors/payne/susannah' | relative_url }})
-- Child:   [CPL Merriman Carter]({{ '/ancestors/carter/merriman' | relative_url }})
+- Father:  [Skipwith Carter]({{ '/surnames/carter/skipwith' | relative_url }})
+- Mother:  [Anne Harris]({{ '/surnames/harris/anne' | relative_url }}) 
+- Spouse:  [Susannah Payne]({{ '/surnames/payne/susannah' | relative_url }})
+- Child:   [CPL Merriman Carter]({{ '/surnames/carter/merriman' | relative_url }})
 
 
 SOURCES:

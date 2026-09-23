@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Rebecca Bonum"
-permalink: /ancestors/bonum/rebecca/
+permalink: /surnames/bonum/rebecca/
 ---
 
 
@@ -31,10 +31,10 @@ NAME
 - Marriage Place
 - Died: 
 - Burial Place:  
-- Father: [Forefather Samuel Bonum]({{ '/ancestors/bonum/rebecca' | relative_url }})
-- Mother: [Margaret Philpott]({{ '/ancestors/philpott/margaret' | relative_url }})
-- Spouse: [Forefather COL George Eskridge (The Burgess)]({{ '/ancestors/eskridge/george2' | relative_url }})  
-- Child:  [Patriot Margaret Eskrige]({{ '/ancestors/eskridge/margaret' | relative_url }})
+- Father: [Forefather Samuel Bonum]({{ '/surnames/bonum/rebecca' | relative_url }})
+- Mother: [Margaret Philpott]({{ '/surnames/philpott/margaret' | relative_url }})
+- Spouse: [Forefather COL George Eskridge (The Burgess)]({{ '/surnames/eskridge/george2' | relative_url }})  
+- Child:  [Patriot Margaret Eskrige]({{ '/surnames/eskridge/margaret' | relative_url }})
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Forefather William Gray"
-permalink: /ancestors/gray/william/
+permalink: /surnames/gray/william/
 ---
 
 
@@ -31,10 +31,10 @@ permalink: /ancestors/gray/william/
 - Burial Place:  
 
 
-- Father:  [John Emerson]({{ '/ancestors/emerson/john' | relative_url }})
-- Mother:  [Ruth Ripin]({{ '/ancestors/ripin/ruth' | relative_url }}) 
-- Spouse: [Elizabeth Johnson]({{ '/ancestors/johnson/elizabeth' | relative_url }})    
-- Child:  [Regulator James Emerson]({{ '/ancestors/emerson/james1' | relative_url }})
+- Father:  [John Emerson]({{ '/surnames/emerson/john' | relative_url }})
+- Mother:  [Ruth Ripin]({{ '/surnames/ripin/ruth' | relative_url }}) 
+- Spouse: [Elizabeth Johnson]({{ '/surnames/johnson/elizabeth' | relative_url }})    
+- Child:  [Regulator James Emerson]({{ '/surnames/emerson/james1' | relative_url }})
 
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 

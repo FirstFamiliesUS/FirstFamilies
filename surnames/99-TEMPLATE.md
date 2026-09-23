@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ricky Richardson"
-permalink: /ancestors/richardson/fname/
+permalink: /surnames/richardson/fname/
 ---
 
 <header class="wrapper bg-light">

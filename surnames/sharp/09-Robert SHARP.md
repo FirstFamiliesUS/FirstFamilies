@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Capt. Robert Sharp"
-permalink: /ancestors/sharp/robert/
+permalink: /surnames/sharp/robert/
 ---
 
 
@@ -50,7 +50,7 @@ https://services.dar.org/public/dar_research/search_adb/?action=full&p_id=A10300
 - Service Description:  1) ALBEMARLE CO MILITIA; SIGNER DECLARATION OF INDEPENDENCE, ALBEMARLE CO; 2) FURNISHED SUPPLIES; PAID SUPPLY TAX, 1783
 - Residence: Created: 2016-12-08 09:05:25.4, Updated: 2016-12-08 09:05:25.4, By:  1) County: ALBEMARLE CO - State: VIRGINIA 
 
-- Father: [Thomas Sharp]({{ '/ancestors/sharp/thomas' | relative_url }})
-- Mother: [Margaret Elder]({{ '/ancestors/elder/margaret' | relative_url }})
-- Spouse: [Nancy Harris]({{ '/ancestors/harris/nancy' | relative_url }})
-- Child:  [Rev. Richard N Sharp]({{ '/ancestors/sharp/richard' | relative_url }})
+- Father: [Thomas Sharp]({{ '/surnames/sharp/thomas' | relative_url }})
+- Mother: [Margaret Elder]({{ '/surnames/elder/margaret' | relative_url }})
+- Spouse: [Nancy Harris]({{ '/surnames/harris/nancy' | relative_url }})
+- Child:  [Rev. Richard N Sharp]({{ '/surnames/sharp/richard' | relative_url }})

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Robert Holman"
-permalink: /ancestors/holman/robert/
+permalink: /surnames/holman/robert/
 ---
 
 
@@ -32,10 +32,10 @@ Robert James Holman was a Oklahoma Pioneer who married and raise his family in H
 - Marriage Place: [Buffalo](https://en.wikipedia.org/wiki/Buffalo,_Oklahoma), [Harper County](https://www.familysearch.org/en/wiki/Harper_County,_Oklahoma_Genealogy), [Oklahoma](https://www.familysearch.org/en/wiki/Oklahoma,_United_States_Genealogy)  `#3, #4`
 - Died: 5 Jan 1946  `#1, #4`
 - Burial Place:  Williamson Cemetery, [Vidor](https://en.wikipedia.org/wiki/Vidor,_Texas), [Orange County](https://www.familysearch.org/en/wiki/Orange_County,_Texas_Genealogy), [Texas](https://www.familysearch.org/en/wiki/Texas,_United_States_Genealogy)  `#1, #4`
-- Father:  [Robert S. Holman]({{ '/ancestors/holman/roberts' | relative_url }})  `#2`
-- Mother:  [Hannah Parker]({{ '/ancestors/parker/hannah' | relative_url }})  `#2`
-- Spouse:  [Evalyn Gray]({{ '/ancestors/gray/evalyn' | relative_url }})  `#3, #4`
-- Child:  [Roberta Holman]({{ '/ancestors/holman/roberta' | relative_url }})  `#3`
+- Father:  [Robert S. Holman]({{ '/surnames/holman/roberts' | relative_url }})  `#2`
+- Mother:  [Hannah Parker]({{ '/surnames/parker/hannah' | relative_url }})  `#2`
+- Spouse:  [Evalyn Gray]({{ '/surnames/gray/evalyn' | relative_url }})  `#3, #4`
+- Child:  [Roberta Holman]({{ '/surnames/holman/roberta' | relative_url }})  `#3`
 
 
 SOURCES:

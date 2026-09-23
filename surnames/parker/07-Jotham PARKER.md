@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Jotham Parker"
-permalink: /ancestors/parker/jotham/
+permalink: /surnames/parker/jotham/
 ---
 
 
@@ -23,7 +23,7 @@ permalink: /ancestors/parker/jotham/
 
 
 
-- Father: [PVT Ephraim Parker]({{ '/ancestors/parker/ephraim' | relative_url }})  
-- Mother:  [Bathsheba Pierson]({{ '/ancestors/pierson/bathsheba' | relative_url }})  
-- Spouse:  [Lowly Barker]({{ '/ancestors/barker/lowly' | relative_url }})   
-- Child:  [CPL Lyman Parker]({{ '/ancestors/parker/lyman' | relative_url }})  
+- Father: [PVT Ephraim Parker]({{ '/surnames/parker/ephraim' | relative_url }})  
+- Mother:  [Bathsheba Pierson]({{ '/surnames/pierson/bathsheba' | relative_url }})  
+- Spouse:  [Lowly Barker]({{ '/surnames/barker/lowly' | relative_url }})   
+- Child:  [CPL Lyman Parker]({{ '/surnames/parker/lyman' | relative_url }})  

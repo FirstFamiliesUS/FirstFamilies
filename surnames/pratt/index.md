@@ -22,11 +22,11 @@ permalink: /surnames/pratt/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Isabell Pratt]({{ '/ancestors/pratt/isabell' | relative_url }})
-- [Marshall L. Pratt]({{ '/ancestors/pratt/marshall' | relative_url }})
-- [PVT Darius Pratt]({{ '/ancestors/pratt/darius' | relative_url }})
-- [PVT John Pratt]({{ '/ancestors/pratt/john' | relative_url }})
-- [SGT Peter Pratt]({{ '/ancestors/pratt/peter' | relative_url }})
-- [Samuel Pratt II]({{ '/ancestors/pratt/samuel2' | relative_url }})
-- [PVT Samuel Pratt I]({{ '/ancestors/pratt/samuel1' | relative_url }})
-- [Forever Matthew Pratt]({{ '/ancestors/pratt/matthew' | relative_url }})
+- [Isabell Pratt]({{ '/surnames/pratt/isabell' | relative_url }})
+- [Marshall L. Pratt]({{ '/surnames/pratt/marshall' | relative_url }})
+- [PVT Darius Pratt]({{ '/surnames/pratt/darius' | relative_url }})
+- [PVT John Pratt]({{ '/surnames/pratt/john' | relative_url }})
+- [SGT Peter Pratt]({{ '/surnames/pratt/peter' | relative_url }})
+- [Samuel Pratt II]({{ '/surnames/pratt/samuel2' | relative_url }})
+- [PVT Samuel Pratt I]({{ '/surnames/pratt/samuel1' | relative_url }})
+- [Forever Matthew Pratt]({{ '/surnames/pratt/matthew' | relative_url }})

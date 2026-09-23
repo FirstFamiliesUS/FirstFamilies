@@ -22,7 +22,7 @@ permalink: /surnames/lee/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Elizabeth Lee]({{ '/ancestors/lee/elizabeth' | relative_url }})
-- [Richard Lee]({{ '/ancestors/lee/richard1' | relative_url }})
+- [Elizabeth Lee]({{ '/surnames/lee/elizabeth' | relative_url }})
+- [Richard Lee]({{ '/surnames/lee/richard1' | relative_url }})
 
 - [Society of Lees](http://www.thesocietyoftheleesofva.org/index.php)

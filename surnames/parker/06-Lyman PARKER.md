@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Parker"
-permalink: /ancestors/parker/lyman/
+permalink: /surnames/parker/lyman/
 ---
 
 
@@ -37,10 +37,10 @@ SGT Lyman Parker
 
 - Residence: Lived in Ohio 1827 to 1834 where his 3 sons Isaac, Baruch and Johnathan were born.  `#2, #9, #10`
 
-- Father: [Jotham Parker]({{ '/ancestors/parker/jotham' | relative_url }})  
-- Mother:  [Lowly Barker]({{ '/ancestors/barker/lowly' | relative_url }})   
-- Spouse:  [Elizabeth Chase]({{ '/ancestors/chase/elizabeth' | relative_url }})   `#2, #5, #4, #6`
-- Child:  [Hannah Parker]({{ '/ancestors/parker/hannah' | relative_url }})  `#2`
+- Father: [Jotham Parker]({{ '/surnames/parker/jotham' | relative_url }})  
+- Mother:  [Lowly Barker]({{ '/surnames/barker/lowly' | relative_url }})   
+- Spouse:  [Elizabeth Chase]({{ '/surnames/chase/elizabeth' | relative_url }})   `#2, #5, #4, #6`
+- Child:  [Hannah Parker]({{ '/surnames/parker/hannah' | relative_url }})  `#2`
 
 
 

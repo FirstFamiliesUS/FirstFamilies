@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "George W Wilson"
-permalink: /ancestors/wilson/georgew/
+permalink: /surnames/wilson/georgew/
 ---
 
 
@@ -33,10 +33,10 @@ George Wilson
 - Marriage Place: [Perry](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)  `#4`
 
  
-- Father:  [PVT William Wilson]({{ '/ancestors/wilson/william2' | relative_url }})  `#2`
-- Mother:  [Virginia Pevahouse]({{ '/ancestors/pevahouse/virginia' | relative_url }})  `#2`
-- Spouse:  [Jemima Richardson]({{ '/ancestors/richardson/jemima' | relative_url }})  `#2, #4`
-- Child:  [Aulsy Wilson]({{ '/ancestors/wilson/aulsy' | relative_url }}) `#3`
+- Father:  [PVT William Wilson]({{ '/surnames/wilson/william2' | relative_url }})  `#2`
+- Mother:  [Virginia Pevahouse]({{ '/surnames/pevahouse/virginia' | relative_url }})  `#2`
+- Spouse:  [Jemima Richardson]({{ '/surnames/richardson/jemima' | relative_url }})  `#2, #4`
+- Child:  [Aulsy Wilson]({{ '/surnames/wilson/aulsy' | relative_url }}) `#3`
 
 ACCOLADES:
 - Land Grant: [MO4380__.054](https://glorecords.blm.gov/details/patent/default.aspx?accession=MO4380__.054&docClass=STA&sid=tg4ogi5f.na4#patentDetailsTabIndex=0)	(80 acres)

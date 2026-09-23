@@ -22,8 +22,8 @@ permalink: /surnames/eskridge/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-- [Patriot Margaret Eskrige]({{ '/ancestors/eskridge/margaret' | relative_url }})
-- [Forefather COL George Eskridge (The Burgess)]({{ '/ancestors/eskridge/george2' | relative_url }})
+- [Patriot Margaret Eskrige]({{ '/surnames/eskridge/margaret' | relative_url }})
+- [Forefather COL George Eskridge (The Burgess)]({{ '/surnames/eskridge/george2' | relative_url }})
 
 
 - [Eskridge Family Assocation](https://eskridgefamilyassociation.com/files/first4-pdf.pdf):

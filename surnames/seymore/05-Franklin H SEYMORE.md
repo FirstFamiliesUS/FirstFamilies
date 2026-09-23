@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PVT Franklin H. Seymore"
-permalink: /ancestors/seymore/franklin/
+permalink: /surnames/seymore/franklin/
 ---
 
 
@@ -39,10 +39,10 @@ PVT Franklin H Seymore served during the Civil War. He was a peasant farmer in r
 - Burial Place:  [Riverview Cemetery](https://www.findagrave.com/cemetery/17796/riverview-cemetery), [Clarksville](https://en.wikipedia.org/wiki/Clarksville,_Tennessee),  [Montgomery County](https://www.familysearch.org/en/wiki/Montgomery_County,_Tennessee_Genealogy),  [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)   `#1`
 
 
-- Father:   [Alsey Seymore]({{ '/ancestors/seymore/alsey' | relative_url }})  
-- Mother:  [Sinai Seymore]({{ '/ancestors/seymore/sinai' | relative_url }})   
-- Spouse:  [Virginia Fuqua]({{ '/ancestors/fuqua/virginia' | relative_url }})   
-- Child:  [Jesse Jerome Seymore]({{ '/ancestors/seymore/jerome' | relative_url }}) 
+- Father:   [Alsey Seymore]({{ '/surnames/seymore/alsey' | relative_url }})  
+- Mother:  [Sinai Seymore]({{ '/surnames/seymore/sinai' | relative_url }})   
+- Spouse:  [Virginia Fuqua]({{ '/surnames/fuqua/virginia' | relative_url }})   
+- Child:  [Jesse Jerome Seymore]({{ '/surnames/seymore/jerome' | relative_url }}) 
 
 
 SOURCES:

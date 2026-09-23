@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "James Carter"
-permalink: /ancestors/carter/james/
+permalink: /surnames/carter/james/
 ---
 
 
@@ -31,10 +31,10 @@ NAME
 - Marriage Place: [Davidson County](https://www.familysearch.org/en/wiki/Davidson_County,_Tennessee_Genealogy), [TN](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy).
 - Died: 
 - Burial Place:  [Mount Zion Baptist Cemetery](https://www.findagrave.com/cemetery/1978461/mount-zion-baptist-cemetery) Mayfield,  Graves County,  KY.
-- Father:   [Merriman Carter]({{ '/ancestors/carter/merriman' | relative_url }})
+- Father:   [Merriman Carter]({{ '/surnames/carter/merriman' | relative_url }})
 - Mother:   
 - Spouse:   
-- Child:    [Narcissa Carter]({{ '/ancestors/carter/narcissa' | relative_url }})
+- Child:    [Narcissa Carter]({{ '/surnames/carter/narcissa' | relative_url }})
 
 
 

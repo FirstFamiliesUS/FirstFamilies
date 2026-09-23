@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "John Howell"
-permalink: /ancestors/howell/john/
+permalink: /surnames/howell/john/
 ---
 
 
@@ -24,10 +24,10 @@ permalink: /ancestors/howell/john/
 
 ![PMC Sample]({{ '/assets/images/PMC-sample.jpg' | relative_url }})
 
-- Father: [PVT James Howell]({{ '/ancestors/howell/james' | relative_url }})
-- Mother: [Martha Denney]({{ '/ancestors/denney/martha' | relative_url }})
-- Spouse: [Charlotte Cook]({{ '/ancestors/cook/charlotte' | relative_url }})
-- Child: [Elizabeth Howell]({{ '/ancestors/howell/elizabeth' | relative_url }})
+- Father: [PVT James Howell]({{ '/surnames/howell/james' | relative_url }})
+- Mother: [Martha Denney]({{ '/surnames/denney/martha' | relative_url }})
+- Spouse: [Charlotte Cook]({{ '/surnames/cook/charlotte' | relative_url }})
+- Child: [Elizabeth Howell]({{ '/surnames/howell/elizabeth' | relative_url }})
 
 
 

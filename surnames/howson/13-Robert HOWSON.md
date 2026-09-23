@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Forefather Capt. Robert Howson I"
-permalink: /ancestors/howson/robert/
+permalink: /surnames/howson/robert/
 ---
 
 
@@ -34,5 +34,5 @@ NAME
 - Burial Place:  
 - Father: 
 - Mother: 
-- Spouse: [Margaret Fourness]({{ '/ancestors/fourness/margaret' | relative_url }})
-- Child:  [Capt. Leonard Howson I]({{ '/ancestors/howson/leonard' | relative_url }})
+- Spouse: [Margaret Fourness]({{ '/surnames/fourness/margaret' | relative_url }})
+- Child:  [Capt. Leonard Howson I]({{ '/surnames/howson/leonard' | relative_url }})
