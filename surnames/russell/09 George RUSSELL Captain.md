@@ -31,6 +31,8 @@ George RUSSELL Captain
 - Spouse:
 - Child: [Mary RUSSELL]({{ '/surnames/russell/mary/' | relative_url }})
 
+![DAR Logo]({{ '/assets/images/DAR_LOGO.jpg' | relative_url }}): Daughters of the American Revolution: George RUSSELL. DAR #: [A098354](https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A098354)
+
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/memorial/63574609) Memorial ID [63574609](https://www.findagrave.com/memorial/63574609)
 2. [FamilySearch](https://www.familysearch.org/en/tree/person/details/LCFV-B9B): ID [LCFV-B9B](https://www.familysearch.org/en/tree/person/details/LCFV-B9B)
