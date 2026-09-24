@@ -2,6 +2,7 @@
 layout: default
 title: Wisconsin
 custom_color: navy
+permalink: /events/wisconsin
 ---
 
 <header class="wrapper bg-light">
@@ -21,7 +22,8 @@ custom_color: navy
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
-- [Wisconsin Genealogical Society](https://wsgs.org/genealogy-help). [Reunion Certificate](https://wsgs.org/page-1075288) - issued by the WSGS to families holding reunions.
+
+- Wisconsin Genealogical Society. [Reunion Certificate](https://wsgs.org/page-1075288) - issued by the WSGS to families holding reunions.
 
 ---
 

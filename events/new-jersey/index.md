@@ -1,8 +1,8 @@
-![](./media/media/image1.png){width="7.5in"
-height="5.315277777777778in"}
-
-[Descendants of Founders of New
-Jersey](https://www.njfounders.org/founders)
+---
+layout: default
+title: New Jersey
+permalink: /events/new-jersey/
+---
 
 
 <header class="wrapper bg-light">
@@ -14,11 +14,30 @@ Jersey](https://www.njfounders.org/founders)
   %}
 </header>
 
-Settlers came to East Jersey as early as 1618 when the Dutch from New
-Amsterdam settled at Bergen (now Jersey City), and in West Jersey as
-early as 1623 when Fort Nassau was established on the Delaware River. In
-March 1664, King Charles II formally granted the land to his brother,
-James, Duke of York. In June 1664, James divided the grant between Lord
-John Berkeley and Sir George Carteret. The two Jerseys were formally
-divided by the Quintipartite Deed of 1 July 1676 and governed as
-separate proprietary colonies until **17 April 1702**.  
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
+
+# New Jersey
+
+Welcome to the New Jersey section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to New Jersey.
+
+* [Descendants of Founders of New Jersey](https://www.njfounders.org/founders)
+
+## Coming Soon
+
+More detailed family histories, migration stories, and research resources will be added to this page over time.
+
+---
+
+*Last updated: August 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>

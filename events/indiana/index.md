@@ -2,6 +2,7 @@
 layout: default
 title: Indiana
 custom_color: navy
+permalink: /events/indiana
 ---
 
 <header class="wrapper bg-light">

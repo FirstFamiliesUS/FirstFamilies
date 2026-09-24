@@ -14,14 +14,31 @@ permalink: /events/north-carolina/
   %}
 </header>
 
+<section class="wrapper bg-light">
+<div class="container py-12 py-md-14">
+<div class="row justify-content-center">
+<div class="col-lg-9">
+<article class="card shadow-lg">
+<div class="card-body p-6 p-md-8" markdown="1">
 
-![](./media/media/image1.png)
+# North Carolina
 
-[Order of First Families of North
-Carolina](https://www.offnc.org/ancestors.html)
+Welcome to the North Carolina section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to North Carolina.
 
-The Order of First Families of North Carolina is composed of, and
-limited to, individuals lineally descended from a person who was a
-resident/colonist on or before the 12th day of July, Anno Domini, 1729,
-in that part of the PROVINCE OF CAROLINA which later became the STATE OF
-NORTH CAROLINA. 
+## Coming Soon
+
+More detailed family histories, migration stories, and research resources will be added to this page over time.
+
+* [Alamance]({{ '/events/north-carolina/alamance/' | relative_url }})
+* [Piedmont Triad]({{ '/events/north-carolina/piedmont-triad/' | relative_url }})
+
+---
+
+*Last updated: August 2026*
+
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>

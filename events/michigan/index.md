@@ -2,6 +2,7 @@
 layout: default
 title: Michigan
 custom_color: navy
+permalink: /events/michigan
 ---
 
 <header class="wrapper bg-light">
@@ -23,6 +24,7 @@ custom_color: navy
 
 
 - [Michigan Database](http://data.mimgc.org/PioneerCertificates/FMPro?-db=PioneerCertificates&lay=web&-format=search.htm&-view). 
+
 
 ---
 
