@@ -50,7 +50,7 @@ More detailed family histories, migration stories, and research resources will b
 * [Baltimore]({{ '/events/maryland/baltimore/' | relative_url }})
 * [Carroll]({{ '/events/maryland/carroll/' | relative_url }})
 * [Frederick]({{ '/events/maryland/frederick/' | relative_url }})
-* [Kent Island]({{ '/events/maryland/kentisland/' | relative_url }})
+* [Queen Anne]({{ '/events/maryland/queen-anne/' | relative_url }})
 * [St Mary]({{ '/events/maryland/st-mary/' | relative_url }})
 * [St Michaels]({{ '/events/maryland/st-michaels/' | relative_url }})
 
@@ -61,7 +61,7 @@ More detailed family histories, migration stories, and research resources will b
 ## Resources
 
 * **Maryland Genealogical Society**: The research fee, payable in advance, is $20.00 per hour for members of the Maryland Genealogical Society, $30.00 per hour for non-members, and does not include the cost of any copies of documents which you may request. The Society cannot guarantee that a search will be successful, and the research fee is not refundable.
-* **Maryland, United States Genealogy** • FamilySearch
+* **Maryland, United States Genealogy** • [FamilySearch](https://www.familysearch.org/en/wiki/Maryland,_United_States_Genealogy)
 * [Maryland War of 1812](https://md1812.org/history-resources/geneology/)
 * [Maryland Genealogical Society Surnames](https://www.mdgensoc.org/surname.php):
 * [Frederick County](https://frecogs.org/surname.php),
