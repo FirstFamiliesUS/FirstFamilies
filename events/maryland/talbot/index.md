@@ -1,7 +1,7 @@
 ---
 layout: default
 title: St. Michaels, Maryland
-permalink: /events/maryland/st-michaels/
+permalink: /events/maryland/talbot/
 ---
 
 
@@ -20,6 +20,9 @@ permalink: /events/maryland/st-michaels/
 St. Michaels is a historic coastal town located on Maryland's Eastern Shore in Talbot County. Known as "the town that fooled the British" during the War of 1812, St. Michaels features rich maritime heritage, historic 19th-century architecture, premier crabbing and dining, and scenic Chesapeake Bay access.
 
 ---
+
+## Research Resources:
+* **Family Search:** [Talbot](https://www.familysearch.org/en/wiki/Talbot_County,_Maryland_Genealogy)
 
 ## Genealogy & Historical Resources
 * **Town History & Tourism:** [St. Michaels Tourism Information](https://www.stmichaelsmd.com/)

@@ -27,6 +27,10 @@ Formed in 1837 from parts of Baltimore and Frederick counties, Carroll County li
 
 ---
 
+## Research Resources:
+* **Family Search:** [Carroll](https://www.familysearch.org/en/wiki/Carroll_County,_Maryland_Genealogy)
+* [Carroll County](https://ccgsmd.org/cpage.php?pt=15)
+
 ## Historic & Religious Sites
 
 ### Strawbridge Shrine

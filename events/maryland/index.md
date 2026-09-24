@@ -52,7 +52,7 @@ More detailed family histories, migration stories, and research resources will b
 * [Frederick]({{ '/events/maryland/frederick/' | relative_url }})
 * [Queen Anne]({{ '/events/maryland/queen-anne/' | relative_url }})
 * [St Mary]({{ '/events/maryland/st-mary/' | relative_url }})
-* [St Michaels]({{ '/events/maryland/st-michaels/' | relative_url }})
+* [Talbot]({{ '/events/maryland/talbot/' | relative_url }})
 
 
 ----------------------------------------------------------------
@@ -64,13 +64,10 @@ More detailed family histories, migration stories, and research resources will b
 * [FamilySearch](https://www.familysearch.org/en/wiki/Maryland,_United_States_Genealogy)
 * [Maryland War of 1812](https://md1812.org/history-resources/geneology/)
 * [Maryland Genealogical Society Surnames](https://www.mdgensoc.org/surname.php):
-* [Frederick County](https://frecogs.org/surname.php),
 * [Allegany County](https://gsacmd.org/surnames/),
-* [Carroll County](https://ccgsmd.org/cpage.php?pt=15),
 * [Harford County](https://www.harfordhistory.org/research/research-by-mail/),
 * [Montgomery County](https://mocogensoc.org/surname.php),
 * [Odenton Genealogical](https://odentongg.org/surname.php), [Prince George](https://www.pgcgs.org/cpage.php?pt=7),
-* [St. Mary](https://smcgsi.org/surname-research),
 * [Upper Shore](http://usgsmd.org/pdfs/USGSMD-Surname-Index-of-Family-Research-Volumes.pdf),
 * [Maryland Early Settlers](https://earlysettlers.msa.maryland.gov/),
 * [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/)

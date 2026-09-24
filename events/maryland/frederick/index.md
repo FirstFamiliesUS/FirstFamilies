@@ -27,6 +27,10 @@ Established in 1748, Frederick County serves as a vital crossroad of American hi
 
 ---
 
+## Research Resources:
+* **Family Search:** [Frederick](https://www.familysearch.org/en/wiki/Frederick_County,_Maryland_Genealogy)
+* [Frederick County](https://frecogs.org/surname.php)
+
 ## Historic & Cultural Landmarks
 
 ### Frederick Visitor Center

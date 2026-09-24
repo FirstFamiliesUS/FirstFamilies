@@ -21,6 +21,11 @@ Historic St. Mary's City (HSMC) is a living history museum and historic landmark
 
 ---
 
+## Research Resources:
+* **Family Search:** [St. Mary](https://www.familysearch.org/en/wiki/St._Mary%27s_County,_Maryland_Genealogy)
+* [St. Mary](https://smcgsi.org/surname-research)
+
+
 ## Annual Events & Living History
 
 ### St. Mary's City Beer Fest

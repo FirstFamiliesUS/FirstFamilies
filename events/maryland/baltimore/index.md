@@ -27,6 +27,9 @@ Established in 1729 along the Patapsco River, Baltimore is Maryland's largest ci
 
 ---
 
+## Research Resources:
+* **Family Search:** [Baltimore](https://www.familysearch.org/en/wiki/Baltimore_County,_Maryland_Genealogy)
+
 ## Military, Maritime & National Heritage Sites
 
 ### Fort McHenry National Monument & Historic Shrine
