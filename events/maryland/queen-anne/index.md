@@ -34,7 +34,7 @@ It all dates back to August 1631, when William Claiborne's party founded Kent Is
 
 ## Research Resources:
 * **Family Search:** [Queen-Anne](https://www.familysearch.org/en/wiki/Queen_Anne%27s_County,_Maryland_Genealogy)
-* **Kent Island Surnames:** [Surname Index PDF](/events/maryland/queen-anne/Surname-List-update.pdf)
+* **Kent Island Surnames:** [Surname Index PDF](https://firstfamiliesus.github.io/FirstFamilies/events/maryland/queen-anne/Surname-List-update.pdf) [Surname Spreadsheet](https://firstfamiliesus.github.io/FirstFamilies/events/maryland/queen-anne/Surname-List-update.xlsx)
 * **Kent Island Heritage Society:** [Surname Research & History](https://kentislandheritagesociety.org/kent-island-surnames/)
 
 ## Historical Sites & Churches
