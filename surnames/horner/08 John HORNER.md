@@ -28,6 +28,8 @@ permalink: /surnames/horner/john/
 - Child:  [PVT John Richardson]({{ '/surnames/richardson/john' | relative_url }})
 
 
+![DAR Logo]({{ '/assets/images/DAR_LOGO.jpg' | relative_url }})
+
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID: [57916179](https://www.findagrave.com/memorial/57916179/john_horner)
 2. [Land Grants](https://glorecords.blm.gov/search/default.aspx):
@@ -43,3 +45,4 @@ ACCOLADES:
 
 
 
+- Daughters of the American Revolution: John HORNER. DAR #: [A098354](https://services.dar.org/Public/DAR_Research/search_adb/?action=full&p_id=A098354)
