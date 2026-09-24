@@ -26,6 +26,9 @@ permalink: /events/maine/
 
 # Maine
 
+## Research Resources:
+* **Family Search:** [Maine](https://www.familysearch.org/en/wiki/Maine,_United_States_Genealogy)
+
 Welcome to the Maine section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Maine.
 
 [Order of the First Families of Maine](https://newenglandsocieties.com/offme-eligibility/)

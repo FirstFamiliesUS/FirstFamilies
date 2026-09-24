@@ -25,6 +25,11 @@ permalink: /events/georgia/
 
 Welcome to the Georgia section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Georgia.
 
+
+## Research Resources:
+* **Family Search:** [Georgia](https://www.familysearch.org/en/wiki/Georgia,_United_States_Genealogy)
+
+
 ## Overview
 
 Add a short introduction about Georgia’s role in early American settlement here. Mention when the territory was organized, key migration routes, or notable historical periods.

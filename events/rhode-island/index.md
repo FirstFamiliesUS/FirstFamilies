@@ -25,6 +25,9 @@ permalink: /events/rhode-island/
 
 Welcome to the Rhode Island section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Rhode Island.
 
+
+* [FamilySearch](https://www.familysearch.org/en/wiki/Rhode_Island,_United_States_Genealogy)
+
 <img src="{{ '/events/rhode-island/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Order of the First Families of Rhode Island and Providence Plantations">
 
 **[Order of the First Families of Rhode Island and Providence Plantations](https://newenglandsocieties.com/offri-pp-eligibility/)**

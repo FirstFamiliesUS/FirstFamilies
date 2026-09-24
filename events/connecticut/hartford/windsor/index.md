@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Windsor, Connecticut
-permalink: /events/connecticut/windsor/
+permalink: /events/connecticut/hartford/windsor/
 ---
 
 
@@ -33,7 +33,7 @@ Settled in 1633, Windsor holds the distinction of being the first English settle
 ### Descendants of the Founders of Ancient Windsor (DFAW)
 The Descendants of the Founders of Ancient Windsor honors the early settlers who established the town prior to the end of 1641, preserving their historical records, family lineages, and ongoing cultural impact.
 
-<img src="{{ '/events/connecticut/windsor/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Descendants of the Founders of Ancient Windsor Banner">
+<img src="{{ '/events/connecticut/hartford/windsor/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Descendants of the Founders of Ancient Windsor Banner">
 
 
 

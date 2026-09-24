@@ -25,6 +25,8 @@ permalink: /events/pennsylvania/
 
 Welcome to the Pennsylvania section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Pennsylvania.
 
+* [FamilySearch](https://www.familysearch.org/en/wiki/Pennsylvania,_United_States_Genealogy)
+
 <img src="{{ '/events/pennsylvania/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Genealogical Society of Pennsylvania">
 
 **[Genealogical Society of Pennsylvania](https://genpa.org/first-families-of-pennsylvania/)**

@@ -25,6 +25,8 @@ permalink: /events/south-carolina/
 
 Welcome to the South Carolina section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to South Carolina.
 
+* [FamilySearch](https://www.familysearch.org/en/wiki/South_Carolina,_United_States_Genealogy)
+
 <img src="{{ '/events/south-carolina/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="The Society of First Families of South Carolina">
 
 **[The Society of First Families of South Carolina](https://firstfamiliesofsc.com/ancestors)**

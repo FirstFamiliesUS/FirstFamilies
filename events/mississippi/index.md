@@ -25,6 +25,10 @@ permalink: /events/mississippi/
 
 Welcome to the Mississippi section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Mississippi.
 
+
+* [FamilySearch](https://www.familysearch.org/en/wiki/Mississippi,_United_States_Genealogy)
+
+
 <img src="{{ '/events/mississippi/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Order of the First Families of Mississippi">
 
 **[Order of the First Families of Mississippi](https://offms.org/history-of-the-order/ancestor-roster/)**

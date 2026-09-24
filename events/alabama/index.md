@@ -23,6 +23,10 @@ permalink: /events/alabama/
 
 # Alabama
 
+## Research Resources:
+* **Family Search:** [Alabama](https://www.familysearch.org/en/wiki/Alabama,_United_States_Genealogy)
+
+
 Welcome to the Alabama section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Alabama.
 
 <img src="{{ '/events/alabama/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Alabama Genealogical Society">

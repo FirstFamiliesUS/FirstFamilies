@@ -23,6 +23,10 @@ permalink: /events/illinois/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
+## Research Resources:
+* **Family Search:** [Illinois](https://www.familysearch.org/en/wiki/Illinios,_United_States_Genealogy)
+
+
 - [Illinois Genealogical Society](https://ilgensoc.org/cstm_ILcmbDB.php). [Prairie Patriot Certificates DB](https://ilgensoc.org/cstm_ILcmbDB.php). 
 - [Johnson County](https://johnsonctyilgenhist.org/),   [Illinois](https://ilgensoc.org/cpage.php?pt=599).
 

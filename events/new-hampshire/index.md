@@ -25,6 +25,8 @@ permalink: /events/new-hampshire/
 
 Welcome to the New Hampshire section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to New Hampshire.
 
+* [FamilySearch](https://www.familysearch.org/en/wiki/New_Hampshire,_United_States_Genealogy)
+
 <img src="{{ '/events/new-hampshire/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Order of the First Families of New Hampshire">
 
 **[Order of the First Families of New Hampshire](http://www.firstfamiliesofnewhampshire.org/ancestors.html)**

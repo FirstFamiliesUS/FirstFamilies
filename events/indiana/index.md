@@ -23,6 +23,9 @@ permalink: /events/indiana
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
+## Research Resources:
+* **Family Search:** [Indiana](https://www.familysearch.org/en/wiki/Indiana,_United_States_Genealogy)
+
 - [Indiana Approved Ancestors](https://indianapioneers.org/ancestors/)
 
 ---

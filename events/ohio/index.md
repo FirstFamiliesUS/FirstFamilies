@@ -23,6 +23,9 @@ permalink: /events/ohio/
 
 # Ohio
 
+* [FamilySearch](https://www.familysearch.org/en/wiki/Ohio,_United_States_Genealogy)
+
+
 Welcome to the Ohio section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Ohio.
 
 <img src="{{ '/events/ohio/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Military Order of the Daughters and Sons of Ohio">

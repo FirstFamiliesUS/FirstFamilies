@@ -25,6 +25,8 @@ permalink: /events/north-carolina/
 
 Welcome to the North Carolina section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to North Carolina.
 
+* [FamilySearch](https://www.familysearch.org/en/wiki/North_Carolina,_United_States_Genealogy)
+
 ## Coming Soon
 
 More detailed family histories, migration stories, and research resources will be added to this page over time.

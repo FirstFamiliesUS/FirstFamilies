@@ -30,7 +30,11 @@ Welcome to the Connecticut section of First Families. This page highlights early
 More detailed family histories, migration stories, and research resources will be added to this page over time.
 
 * [Hartford]({{ '/events/connecticut/hartford/' | relative_url }})
-* [Windsor]({{ '/events/connecticut/windsor/' | relative_url }})
+
+## Research Resources:
+* **Family Search:** [Connecticut](https://www.familysearch.org/en/wiki/Connecticut,_United_States_Genealogy)
+
+
 
 ---
 

@@ -25,6 +25,8 @@ permalink: /events/new-jersey/
 
 Welcome to the New Jersey section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to New Jersey.
 
+* [FamilySearch](https://www.familysearch.org/en/wiki/New_Jersey,_United_States_Genealogy)
+
 * [Descendants of Founders of New Jersey](https://www.njfounders.org/founders)
 
 ## Coming Soon

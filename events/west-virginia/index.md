@@ -25,6 +25,8 @@ permalink: /events/west-virginia/
 
 Welcome to the West Virginia section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to West Virginia.
 
+* [FamilySearch](https://www.familysearch.org/en/wiki/West_Virginia,_United_States_Genealogy)
+
 <img src="{{ '/events/west-virginia/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="First Settlers of Shenandoah Valley">
 
 **[First Settlers of Shenandoah Valley](http://www.firstsettlersshenandoahvalley.com/settlers.html)**

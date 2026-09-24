@@ -26,7 +26,12 @@ permalink: /events/connecticut/hartford/
 ## Overview
 Hartford, the state capital of Connecticut, was founded in 1635 by English settlers led by Thomas Hooker and Samuel Stone. As one of the oldest cities in the United States, Hartford played a pivotal role in early colonial history, including the authoring of the Fundamental Orders of Connecticut in 1639—often recognized as one of the world's first written constitutions.
 
+* [Windsor]({{ '/events/connecticut/hartford/windsor/' | relative_url }})
+
 ---
+
+## Research Resources:
+* **Family Search:** [Hartford](https://www.familysearch.org/en/wiki/New_Haven_County,_Connecticut_Genealogy)
 
 ## Genealogy & Heritage Organizations
 

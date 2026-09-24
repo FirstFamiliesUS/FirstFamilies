@@ -23,6 +23,8 @@ permalink: /events/massachusetts/
 
 # Massachusetts
 
+* [FamilySearch](https://www.familysearch.org/en/wiki/Massachusetts,_United_States_Genealogy)
+
 Welcome to the Massachusetts section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Massachusetts.
 
 <img src="{{ '/events/massachusetts/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Hereditary Order of the First Families of Massachusetts">
