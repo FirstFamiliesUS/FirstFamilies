@@ -25,7 +25,13 @@ permalink: /events/maryland/anne-arundel/
 
 Formed in 1650 and named after Lady Anne Arundel, Anne Arundel County lies at the heart of Maryland along the western shore of the Chesapeake Bay. Rich in colonial, naval, and ecclesiastical heritage, the county boasts deep roots in American colonial history, offering extensive genealogical research centers, historic churches, and vibrant waterfront towns.
 
+State Capital: [Annapolis]({{ '/events/maryland/anne-arundel/annapolis/' | relative_url }})
+
 ---
+
+## Research Resources:
+* **Family Search:** [Anne Arundel](https://www.familysearch.org/en/wiki/Anne_Arundel_County,_Maryland_Genealogy)
+
 
 ## Historical & Genealogical Research Facilities
 

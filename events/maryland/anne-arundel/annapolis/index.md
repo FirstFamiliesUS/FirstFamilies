@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Annapolis, Maryland
-permalink: /events/maryland/annapolis/
+permalink: /events/maryland/anne-arundel/annapolis/
 ---
 
 
@@ -31,7 +31,7 @@ Serving as Maryland's state capital and briefly as the capital of the United Sta
 
 ### United States Naval Academy Chapel & Crypt
 
-<img src="{{ '/events/maryland/annapolis/media/media/image6.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="United States Naval Academy Chapel">
+<img src="{{ '/events/maryland/anne-arundel/annapolis/media/media/image6.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="United States Naval Academy Chapel">
 
 Designated a National Historic Landmark in 1961, the Naval Academy Chapel is an iconic architectural landmark in Annapolis. Beneath the main sanctuary lies the marble crypt containing the sarcophagus of Revolutionary War naval hero [John Paul Jones](https://en.wikipedia.org/wiki/John_Paul_Jones#Exhumation_and_reburial).
 
@@ -44,7 +44,7 @@ Designated a National Historic Landmark in 1961, the Naval Academy Chapel is an 
 
 ### Armel-Leftwich Visitor Center & Academy Tours
 
-<img src="{{ '/events/maryland/annapolis/media/media/image7.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Leftwich Visitor Center at the US Naval Academy">
+<img src="{{ '/events/maryland/anne-arundel/annapolis/media/media/image7.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Leftwich Visitor Center at the US Naval Academy">
 
 The primary entrance gateway for visitors exploring the grounds of the United States Naval Academy ("The Yard"). Guided walking tours and electric car tours explore midshipman life, historic campus architecture, and naval military history.
 
@@ -56,7 +56,7 @@ The primary entrance gateway for visitors exploring the grounds of the United St
 
 ### Navy-Marine Corps Memorial Stadium
 
-<img src="{{ '/events/maryland/annapolis/media/media/image12.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Navy-Marine Corps Memorial Stadium">
+<img src="{{ '/events/maryland/anne-arundel/annapolis/media/media/image12.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Navy-Marine Corps Memorial Stadium">
 
 Home to the Navy Midshipmen football and lacrosse teams, this state-of-the-art stadium hosts local, national, and international sporting events and military pageantry.
 
@@ -69,7 +69,7 @@ Home to the Navy Midshipmen football and lacrosse teams, this state-of-the-art s
 
 ### Susan Campbell Park & City Dock
 
-<img src="{{ '/events/maryland/annapolis/media/media/image9.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Susan Campbell Park at Annapolis City Dock">
+<img src="{{ '/events/maryland/anne-arundel/annapolis/media/media/image9.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Susan Campbell Park at Annapolis City Dock">
 
 Located at the foot of City Dock along Annapolis Harbor, Susan Campbell Park offers panoramic views of Spa Creek, visiting sailboats, and historic harbor traffic.
 
@@ -80,7 +80,7 @@ Located at the foot of City Dock along Annapolis Harbor, Susan Campbell Park off
 
 ### Annapolis Harbor & USNA Cruises (Watermark)
 
-<img src="{{ '/events/maryland/annapolis/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Watermark Annapolis Harbor Cruise">
+<img src="{{ '/events/maryland/anne-arundel/annapolis/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Watermark Annapolis Harbor Cruise">
 
 Narrated historical cruises departing from City Dock that explore the Annapolis waterfront, Spa Creek, and the shoreline of the United States Naval Academy.
 
@@ -93,7 +93,7 @@ Narrated historical cruises departing from City Dock that explore the Annapolis 
 
 ### Annapolis Water Taxi
 
-<img src="{{ '/events/maryland/annapolis/media/media/image10.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Annapolis Water Taxi on Spa Creek">
+<img src="{{ '/events/maryland/anne-arundel/annapolis/media/media/image10.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Annapolis Water Taxi on Spa Creek">
 
 Continuous water harbor transit service connecting City Dock, Spa Creek, Back Creek, and waterfront dining destinations.
 
@@ -105,7 +105,7 @@ Continuous water harbor transit service connecting City Dock, Spa Creek, Back Cr
 
 ### Chesapeake Bay Sightseeing Cruises
 
-<img src="{{ '/events/maryland/annapolis/media/media/image14.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Chesapeake Bay Cruise Boat">
+<img src="{{ '/events/maryland/anne-arundel/annapolis/media/media/image14.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Chesapeake Bay Cruise Boat">
 
 Scenic boat tours traveling out into the Chesapeake Bay, passing under the iconic Chesapeake Bay Bridge and offering views of historic regional lighthouses.
 
@@ -115,7 +115,7 @@ Scenic boat tours traveling out into the Chesapeake Bay, passing under the iconi
 
 ### Maryland Renaissance Festival
 
-<img src="{{ '/events/maryland/annapolis/media/media/image13.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Maryland Renaissance Festival Revel Grove Village">
+<img src="{{ '/events/maryland/anne-arundel/annapolis/media/media/image13.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Maryland Renaissance Festival Revel Grove Village">
 
 Running annually from late August through October in nearby Crownsville, Revel Grove is a 27-acre recreated 16th-century English village featuring jousting, artisan shops, theatrical performances, and period reenactments set during the reign of King Henry VIII.
 
@@ -127,7 +127,7 @@ Running annually from late August through October in nearby Crownsville, Revel G
 
 ### Iron Rooster
 
-<img src="{{ '/events/maryland/annapolis/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Iron Rooster Annapolis">
+<img src="{{ '/events/maryland/anne-arundel/annapolis/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Iron Rooster Annapolis">
 
 Famous for all-day comfort food and homemade pop-tarts located in Market Space.
 
@@ -140,19 +140,19 @@ Famous for all-day comfort food and homemade pop-tarts located in Market Space.
 
 ### The Choptank
 
-<img src="{{ '/events/maryland/annapolis/media/media/image4.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="The Choptank Annapolis Waterfront Restaurant">
+<img src="{{ '/events/maryland/anne-arundel/annapolis/media/media/image4.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="The Choptank Annapolis Waterfront Restaurant">
 
 Classic Maryland seafood restaurant and crab house positioned directly on the harbor at Egregious Slip.
 
 * **Address:** [110 Compromise St, Annapolis, MD 21401](https://maps.app.goo.gl/110CompromiseSt)
 * **Phone:** [(443) 808-1992](tel:+14438081992)
-* **Reservations:** [The Choptank OpenTable](https://www.opentable.com/r/the-choptank-annapolis?ref=1068) | [Website](https://thechoptankrestaurant.com/annapolis/)
+* **Reservations:** [The Choptank OpenTable](https://www.opentable.com/r/the-choptank-annapolis?ref=1068) | [Website](https://thechoptankrestaurant.com/anne-arundel/annapolis/)
 
 ---
 
 ### 1845 Coffee & Tea
 
-<img src="{{ '/events/maryland/annapolis/media/media/image5.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="1845 Coffee & Tea at USNA">
+<img src="{{ '/events/maryland/anne-arundel/annapolis/media/media/image5.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="1845 Coffee & Tea at USNA">
 
 Specialty coffee house located on the Naval Academy grounds inside the Naval Academy Club building.
 
@@ -164,7 +164,7 @@ Specialty coffee house located on the Naval Academy grounds inside the Naval Aca
 
 ### Latitude 38° Waterfront Dining
 
-<img src="{{ '/events/maryland/annapolis/media/media/image8.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Latitude 38 Waterfront Dining">
+<img src="{{ '/events/maryland/anne-arundel/annapolis/media/media/image8.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Latitude 38 Waterfront Dining">
 
 Waterfront restaurant specializing in coastal cuisine and local seafood along Dock Street.
 
@@ -176,7 +176,7 @@ Waterfront restaurant specializing in coastal cuisine and local seafood along Do
 
 ### Chart House Prime
 
-<img src="{{ '/events/maryland/annapolis/media/media/image11.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Chart House Restaurant Annapolis">
+<img src="{{ '/events/maryland/anne-arundel/annapolis/media/media/image11.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Chart House Restaurant Annapolis">
 
 Historic waterfront dining in Eastport overlooking the Annapolis harbor and skyline.
 

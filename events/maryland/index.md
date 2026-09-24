@@ -41,11 +41,11 @@ permalink: /events/maryland/
 ----------------------------------------------------------------
 
 
-## Maryland Cities and Counties
+## Maryland Counties
 
 More detailed family histories, migration stories, and research resources will be added to this page over time.
 
-* [Annapolis]({{ '/events/maryland/annapolis/' | relative_url }})
+
 * [Anne Arundel]({{ '/events/maryland/anne-arundel/' | relative_url }})
 * [Baltimore]({{ '/events/maryland/baltimore/' | relative_url }})
 * [Carroll]({{ '/events/maryland/carroll/' | relative_url }})
@@ -61,7 +61,7 @@ More detailed family histories, migration stories, and research resources will b
 ## Resources
 
 * **Maryland Genealogical Society**: The research fee, payable in advance, is $20.00 per hour for members of the Maryland Genealogical Society, $30.00 per hour for non-members, and does not include the cost of any copies of documents which you may request. The Society cannot guarantee that a search will be successful, and the research fee is not refundable.
-* **Maryland, United States Genealogy** • [FamilySearch](https://www.familysearch.org/en/wiki/Maryland,_United_States_Genealogy)
+* [FamilySearch](https://www.familysearch.org/en/wiki/Maryland,_United_States_Genealogy)
 * [Maryland War of 1812](https://md1812.org/history-resources/geneology/)
 * [Maryland Genealogical Society Surnames](https://www.mdgensoc.org/surname.php):
 * [Frederick County](https://frecogs.org/surname.php),
@@ -73,7 +73,6 @@ More detailed family histories, migration stories, and research resources will b
 * [St. Mary](https://smcgsi.org/surname-research),
 * [Upper Shore](http://usgsmd.org/pdfs/USGSMD-Surname-Index-of-Family-Research-Volumes.pdf),
 * [Maryland Early Settlers](https://earlysettlers.msa.maryland.gov/),
-* [Kent Island Surnames](https://kentislandheritagesociety.org/wp-content/uploads/2018/05/Surname-List-update.pdf)
 * [Early Colonial Settlers of Southern Maryland and Virginia's Northern Neck Counties](https://www.colonial-settlers-md-va.us/)
 
 ----------------------------------------------------------------
