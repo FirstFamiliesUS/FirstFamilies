@@ -43,6 +43,8 @@ permalink: /surnames/bower/edward/
 - Spouse: [Elizabeth Johnson]({{ '/surnames/johnson/elizabeth' | relative_url }})    
 - Child:  [Regulator James Emerson]({{ '/surnames/emerson/james1' | relative_url }})
 
+![SAR Logo]({{ '/assets/images/General_Society_Sons_of_the_Revolution_Insignia.jpg' | relative_url }})
+
 SOURCES:
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID 
 2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID
@@ -54,3 +56,4 @@ SOURCES:
  
 ACCOLADES:
 - Presidential Memorial Certificate
+- Sons of the American Revolution. Patriot [227819](https://sarpatriots.sar.org/application/display/227819)
