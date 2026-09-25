@@ -25,6 +25,8 @@ permalink: /events/virginia/arlington/
 
 Located directly across the Potomac River from Washington, D.C., Arlington County is home to iconic national landmarks, historic military memorials, and convenient travel hubs connecting visitors to Alexandria, Mount Vernon, and the nation's capital.
 
+- https://www.familysearch.org/en/wiki/Arlington_County,_Virginia_Genealogy
+
 ---
 
 ## Transportation & Travel Hubs

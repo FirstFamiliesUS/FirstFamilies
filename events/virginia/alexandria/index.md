@@ -230,6 +230,11 @@ A traditional Anglican parish practicing within the Book of Common Prayer tradit
 <img src="{{ '/events/virginia/alexandria/media/media/image13.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Lady Bird Johnson Park">
 <p class="text-center fw-bold">Lady Bird Johnson Park</p>
 
+
+# References:
+- https://www.familysearch.org/en/wiki/Alexandria_(Independent_City),_Virginia_Genealogy
+- https://en.wikipedia.org/wiki/Alexandria,_Virginia
+
 ---
 
 *Last updated: September 2026*
