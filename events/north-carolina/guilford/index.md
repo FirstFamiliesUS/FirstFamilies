@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Piedmont Triad, North Carolina
-permalink: /events/north-carolina/piedmont-triad/
+permalink: /events/north-carolina/guildford/
 ---
 
 
@@ -25,13 +25,15 @@ permalink: /events/north-carolina/piedmont-triad/
 
 The Piedmont Triad region—spanning Guilford, Forsyth, and Randolph counties—serves as the historical heart of Quakerism in North Carolina. Beginning in the mid-18th century, Friends migrated to the backcountry from Pennsylvania, Nantucket, and South Carolina. They established enduring monthly meetings, educational institutions like Guilford College, and agricultural communities that significantly shaped North Carolina's social and cultural landscape.
 
+- https://www.familysearch.org/en/wiki/Guilford_County,_North_Carolina_Genealogy
+
 ---
 
 ## Historic Quaker Meetings
 
 ### New Garden Friends Meeting
 
-<img src="{{ '/events/north-carolina/piedmont-triad/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="New Garden Friends Meetinghouse in Greensboro, North Carolina">
+<img src="{{ '/events/north-carolina/guildford/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="New Garden Friends Meetinghouse in Greensboro, North Carolina">
 
 Friends first gathered at New Garden in the mid-1700s, holding outdoor First Day (Sunday) worship seated on fallen trees. Established as a Monthly Meeting in 1754, New Garden became a pivotal center for North Carolina Quakers and later played an essential role in the founding of New Garden Boarding School (now Guilford College).
 
@@ -43,7 +45,7 @@ Friends first gathered at New Garden in the mid-1700s, holding outdoor First Day
 
 ### Deep River Friends Meeting
 
-<img src="{{ '/events/north-carolina/piedmont-triad/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Deep River Friends Meetinghouse in High Point, North Carolina">
+<img src="{{ '/events/north-carolina/guildford/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Deep River Friends Meetinghouse in High Point, North Carolina">
 
 Established in 1754 in High Point, Deep River Friends Meeting has served as a center for Quaker faith, testimony, and community worship for over two centuries.
 
@@ -56,7 +58,7 @@ Established in 1754 in High Point, Deep River Friends Meeting has served as a ce
 
 ### Springfield Friends Meeting
 
-<img src="{{ '/events/north-carolina/piedmont-triad/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Springfield Friends Meetinghouse">
+<img src="{{ '/events/north-carolina/guildford/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Springfield Friends Meetinghouse">
 
 Springfield Friends Meeting was established as Quakers migrated into the Piedmont from three distinct migration streams during the 18th century:
 
@@ -72,7 +74,7 @@ Springfield Friends Meeting was established as Quakers migrated into the Piedmon
 
 ### Guilford College
 
-<img src="{{ '/events/north-carolina/piedmont-triad/media/media/image5.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Guilford College Campus in Greensboro, North Carolina">
+<img src="{{ '/events/north-carolina/guildford/media/media/image5.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Guilford College Campus in Greensboro, North Carolina">
 
 Founded in 1837 by the Religious Society of Friends as New Garden Boarding School, Guilford College is a private liberal arts institution rooted in Quaker principles. Designated a National Historic District in 1990, the campus retains deep ties to peace, justice, and regional history.
 
@@ -85,7 +87,7 @@ Founded in 1837 by the Religious Society of Friends as New Garden Boarding Schoo
 
 ### High Point Museum: Historical Park & Hoggatt House
 
-<img src="{{ '/events/north-carolina/piedmont-triad/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Hoggatt House at High Point Museum Historical Park">
+<img src="{{ '/events/north-carolina/guildford/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Hoggatt House at High Point Museum Historical Park">
 
 The Hoggatt House is a rare surviving example of early backcountry architecture. Built around 1801 as a single-room log cabin with a large stone fireplace and expanded in 1824, the house was relocated to the High Point Museum Historical Park in 1973. Following a restoration after a 2004 lightning strike, it stands as an educational site demonstrating daily pioneer life in the early 19th century.
 

@@ -26,7 +26,7 @@ permalink: /events/north-carolina/
 ## County Events
 
 * [Alamance]({{ '/events/north-carolina/alamance/' | relative_url }})
-* [Piedmont Triad]({{ '/events/north-carolina/piedmont-triad/' | relative_url }})
+* [Guilford]({{ '/events/north-carolina/guilford/' | relative_url }})
 
 Welcome to the North Carolina section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to North Carolina.
 
@@ -36,7 +36,7 @@ Welcome to the North Carolina section of First Families. This page highlights ea
 
 ---
 
-*Last updated: August 2026*
+*Last updated: September 2026*
 
 </div>
 </article>
