@@ -25,6 +25,8 @@ permalink: /events/virginia/virginia-beach/
 
 Whether visiting the coastal resort area of Virginia Beach or exploring the historic roots of early American settlement nearby, the lower Tidewater and Historic Triangle regions offer a ideal blend of historical exploration and oceanfront recreation.
 
+- https://www.familysearch.org/en/wiki/Virginia_Beach_(Independent_City),_Virginia_Genealogy
+
 ---
 
 ## Virginia Beach Oceanfront & Hospitality

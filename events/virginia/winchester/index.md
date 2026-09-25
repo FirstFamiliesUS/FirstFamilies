@@ -140,7 +140,7 @@ Annual agricultural fair featuring livestock shows, entertainment, track events,
 
 ## External Research Resources
 
-* [FamilySearch - Frederick County, Virginia Genealogy Wiki](https://www.familysearch.org/en/wiki/Frederick_County,_Virginia_Genealogy)
+* https://www.familysearch.org/en/wiki/Winchester_(Independent_City),_Virginia_Genealogy
 
 ---
 

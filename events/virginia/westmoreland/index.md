@@ -29,6 +29,17 @@ Known as the "Garden of Virginia," Westmoreland County is the historic Northern 
 
 ---
 
+## Genealogy & Historical Resources
+
+* [WikiTree - Westmoreland County Colony Category](https://www.wikitree.com/wiki/Category:Westmoreland_County%2C_Virginia_Colony)
+* [FamilySearch - Westmoreland County Genealogy Wiki](https://www.familysearch.org/en/wiki/Westmoreland_County,_Virginia_Genealogy)
+* [Northern Neck Heritage Sites & Kid Activities](https://www.northernneck.org/historical-heritage-sites/)
+* [Central Rappahannock Regional Library - History & Genealogy](https://www.librarypoint.org/resources/history-genealogy/)
+* [Westmoreland County Government Portal](https://www.westmoreland-county.org/)
+* [Westmoreland County Wikipedia Entry](https://en.wikipedia.org/wiki/Westmoreland_County%2C_Virginia)
+
+---
+
 ## Historic Plantations & Lodging
 
 ### Stratford Hall & Grounds
@@ -168,16 +179,7 @@ Historic Potomac River beach town featuring dining, boardwalk attractions, and a
 * **Phone:** [(804) 333-1470](tel:+18043331470)
 * **Website:** [Rappahannock River Valley NWR (FWS)](https://www.fws.gov/refuge/rappahannock-river-valley)
 
----
 
-## Genealogy & Historical Resources
-
-* [WikiTree - Westmoreland County Colony Category](https://www.wikitree.com/wiki/Category:Westmoreland_County%2C_Virginia_Colony)
-* [FamilySearch - Westmoreland County Genealogy Wiki](https://www.familysearch.org/en/wiki/Westmoreland_County,_Virginia_Genealogy)
-* [Northern Neck Heritage Sites & Kid Activities](https://www.northernneck.org/historical-heritage-sites/)
-* [Central Rappahannock Regional Library - History & Genealogy](https://www.librarypoint.org/resources/history-genealogy/)
-* [Westmoreland County Government Portal](https://www.westmoreland-county.org/)
-* [Westmoreland County Wikipedia Entry](https://en.wikipedia.org/wiki/Westmoreland_County%2C_Virginia)
 
 ---
 

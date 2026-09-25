@@ -26,6 +26,7 @@ permalink: /events/virginia/richmond/
 The Greater Richmond region serves as a central historic hub for Virginia's early colonial past, including key sites along the historic Huguenot Trail where early French Protestant refugees established their community in the early 18th century.
 
 * **Driving Tour:** [Richmond Driving Tour Map](https://maps.app.goo.gl/BJ1p5Qyq6shU7e4p8)
+* https://www.familysearch.org/en/wiki/Richmond_(Independent_City),_Virginia_Genealogy
 
 ---
 

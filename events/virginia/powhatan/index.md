@@ -25,6 +25,8 @@ permalink: /events/virginia/powhatan/
 
 Formed in 1777 from Cumberland County and named in honor of Chief Powhatan, Powhatan County lies directly west of Richmond along the James River. The region holds a rich early colonial history, most notably serving as the haven for French Huguenot refugees who established King William Parish in 1700.
 
+https://www.familysearch.org/en/wiki/Powhatan_County,_Virginia_Genealogy
+
 ---
 
 ## Historic Sites & Parishes

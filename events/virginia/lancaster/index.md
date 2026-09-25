@@ -25,6 +25,8 @@ permalink: /events/virginia/lancaster/
 
 Situated in the lower Northern Neck peninsula bounded by the Rappahannock River and Chesapeake Bay, Lancaster County is rich in colonial heritage, historic 18th-century churches, steamboat history, and waterfront recreation.
 
+- https://www.familysearch.org/en/wiki/Lancaster_County,_Virginia_Genealogy
+
 ---
 
 ## Visitor Centers, Museums & Historical Libraries

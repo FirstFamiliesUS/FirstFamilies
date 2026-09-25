@@ -25,6 +25,8 @@ permalink: /events/virginia/fredericksburg/
 
 Rich in colonial and Civil War history, Fredericksburg features historic 18th-century churches, local genealogical resources, historic markers, and premier dining along the Rappahannock River.
 
+- https://www.familysearch.org/en/wiki/Fredericksburg_(Independent_City),_Virginia_Genealogy
+
 ---
 
 ## Visitor & Historical Resources

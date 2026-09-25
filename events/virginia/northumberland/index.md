@@ -25,6 +25,8 @@ permalink: /events/virginia/northumberland/
 
 Formed in 1648, Northumberland County is one of the oldest political subdivisions in Virginia, sitting on the easternmost tip of the Northern Neck along the Chesapeake Bay. It features deep roots in early colonial parish history, historic Lee family plantations, and rich coastal wildlife preserves.
 
+- https://www.familysearch.org/en/wiki/Northumberland_County,_Virginia_Genealogy
+
 ---
 
 ## Historical Societies & Research

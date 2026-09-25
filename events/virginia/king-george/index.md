@@ -22,7 +22,8 @@ permalink: /events/virginia/king-george/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 # Resources
-https://en.wikipedia.org/wiki/King_George,_Virginia
+- https://www.familysearch.org/en/wiki/King_George_County,_Virginia_Genealogy
+- https://en.wikipedia.org/wiki/King_George,_Virginia
 
 
 # King George, Virginia
