@@ -22,6 +22,24 @@ permalink: /events/virginia/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
+## Upcoming Events
+
+* [Alexandria]({{ '/events/virginia/alexandria/' | relative_url }})
+* [Arlington]({{ '/events/virginia/arlington/' | relative_url }})
+* [Bedford]({{ '/events/virginia/bedford/' | relative_url }})
+* [Fredericksburg]({{ '/events/virginia/fredericksburg/' | relative_url }})
+* [Germanna]({{ '/events/virginia/germanna/' | relative_url }})
+* [King George]({{ '/events/virginia/king-george/' | relative_url }})
+* [Lancaster]({{ '/events/virginia/lancaster/' | relative_url }})
+* [Northumberland]({{ '/events/virginia/northumberland/' | relative_url }})
+* [Powhatan]({{ '/events/virginia/powhatan/' | relative_url }})
+* [Richmond]({{ '/events/virginia/richmond/' | relative_url }})
+* [Virginia Beach]({{ '/events/virginia/virginia-beach/' | relative_url }})
+* [Westmoreland]({{ '/events/virginia/westmoreland/' | relative_url }})
+* [Winchester]({{ '/events/virginia/winchester/' | relative_url }})
+
+
+
 * [FamilySearch](https://www.familysearch.org/en/wiki/Virginia,_United_States_Genealogy)
 
 # First Families in the United States: Virginia
@@ -72,18 +90,4 @@ The Sons and Daughters of Virginia Founding Fathers (SDVAFF) is a non-profit lin
 
 ---
 
-## Upcoming Events
 
-* [Alexandria]({{ '/events/virginia/alexandria/' | relative_url }})
-* [Arlington]({{ '/events/virginia/arlington/' | relative_url }})
-* [Blue Ridge]({{ '/events/virginia/blue-ridge/' | relative_url }})
-* [Fredericksburg]({{ '/events/virginia/fredericksburg/' | relative_url }})
-* [Germanna]({{ '/events/virginia/germanna/' | relative_url }})
-* [King George]({{ '/events/virginia/king-george/' | relative_url }})
-* [Lancaster]({{ '/events/virginia/lancaster/' | relative_url }})
-* [Northumberland]({{ '/events/virginia/northumberland/' | relative_url }})
-* [Powhatan]({{ '/events/virginia/powhatan/' | relative_url }})
-* [Richmond]({{ '/events/virginia/richmond/' | relative_url }})
-* [Virginia Beach]({{ '/events/virginia/virginia-beach/' | relative_url }})
-* [Westmoreland]({{ '/events/virginia/westmoreland/' | relative_url }})
-* [Winchester]({{ '/events/virginia/winchester/' | relative_url }})

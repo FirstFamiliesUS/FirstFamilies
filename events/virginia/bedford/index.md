@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blue Ridge, Virginia
-permalink: /events/virginia/blue-ridge/
+permalink: /events/virginia/bedford/
 ---
 
 
@@ -25,13 +25,15 @@ permalink: /events/virginia/blue-ridge/
 
 Nestled near the scenic Blue Ridge Parkway and the prominent Peaks of Otter, the Blue Ridge and Bedford areas offer visitors rich natural beauty, historic driving routes, and deep-rooted local history.
 
+- https://www.familysearch.org/en/wiki/Bedford_County,_Virginia_Genealogy
+
 ---
 
 ## Scenic Drives & Tours
 
 ### Blue Ridge Parkway Driving Tour
 
-<img src="{{ '/events/virginia/blue-ridge/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Blue Ridge Parkway Driving Tour">
+<img src="{{ '/events/virginia/bedford/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Blue Ridge Parkway Driving Tour">
 
 Experience scenic mountain vistas along America's favorite drive through the heart of the Blue Ridge region.
 
