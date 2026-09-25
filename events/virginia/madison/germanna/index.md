@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Germanna, Virginia
-permalink: /events/virginia/germanna/
+permalink: /events/virginia/madison/germanna/
 ---
 
 
@@ -25,13 +25,15 @@ permalink: /events/virginia/germanna/
 
 Germanna is a key historic site in central Virginia, marking the early 18th-century settlement of German immigrants brought to the colony by Lt. Governor Alexander Spotswood. The region spans historic Orange, Culpeper, and Madison counties, featuring rich genealogical resources and iconic colonial architecture.
 
+https://www.familysearch.org/en/wiki/Madison_County,_Virginia_Genealogy
+
 ---
 
 ## Visitor Centers & Heritage Sites
 
 ### Historic Germanna Visitor Center
 
-<img src="{{ '/events/virginia/germanna/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Germanna Visitor Center">
+<img src="{{ '/events/virginia/madison/germanna/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Germanna Visitor Center">
 
 Dedicated to preserving the heritage of the 1714 and 1717 German settlers and researching the early history of the region.
 
@@ -46,7 +48,7 @@ Dedicated to preserving the heritage of the 1714 and 1717 German settlers and re
 
 ### Hebron Lutheran Church
 
-<img src="{{ '/events/virginia/germanna/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Hebron Lutheran Church">
+<img src="{{ '/events/virginia/madison/germanna/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Hebron Lutheran Church">
 
 A historic Lutheran church built by early German immigrants in Madison County. Constructed around 1740 with a south wing added circa 1800, it is a one-story, T-shaped frame structure on a stone foundation and stands as the oldest continuously used Lutheran church building in the United States.
 
