@@ -29,6 +29,8 @@ As the capital of New York and one of the oldest surviving European settlements 
 
 ## Lineage & Historical Societies
 
+- https://www.familysearch.org/en/wiki/Albany_County,_New_York_Genealogy
+
 ### Dutch Settlers Society of Albany
 
 Founded in 1924 during the tercentenary celebration of the city's settlement, the Dutch Settlers Society of Albany works to preserve the memory, genealogical records, and cultural history of the early Dutch inhabitants of New Netherland and the Upper Hudson Valley.

@@ -25,6 +25,8 @@ permalink: /events/new-york/westchester/
 
 Located directly north of New York City along the Hudson River, Westchester County played a vital role in colonial New Netherland, provincial New York, and the American Revolution. Rich in Dutch architecture, Revolutionary history, and historic landmarks, Westchester remains an essential region for Hudson Valley historical and genealogical research.
 
+- https://www.familysearch.org/en/wiki/Westchester_County,_New_York_Genealogy
+
 ---
 
 ## Historic Landmarks & Places of Worship

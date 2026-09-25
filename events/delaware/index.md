@@ -29,9 +29,7 @@ Welcome to the Delaware section of First Families. This page highlights early fa
 * **Family Search:** [Delaware](https://www.familysearch.org/en/wiki/Delaware,_United_States_Genealogy)
 
 
-## Coming Soon
-
-More detailed family histories, migration stories, and research resources will be added to this page over time.
+## County Events
 
 * [New Castle]({{ '/events/delaware/new-castle/' | relative_url }})
 

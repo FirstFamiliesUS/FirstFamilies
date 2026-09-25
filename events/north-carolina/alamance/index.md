@@ -25,6 +25,8 @@ permalink: /events/north-carolina/alamance/
 
 Formed in 1849 from Orange County, Alamance County sits in the heart of the North Carolina Piedmont. Steeped in early Quaker history, colonial resistance during the War of the Regulation (1871 Battle of Alamance), and a rich textile manufacturing legacy, the region remains a vital center for Quaker history and backcountry genealogical research.
 
+- https://www.familysearch.org/en/wiki/Alamance_County,_North_Carolina_Genealogy
+
 ---
 
 ## Historic & Religious Sites
