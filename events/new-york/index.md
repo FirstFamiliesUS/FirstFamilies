@@ -23,6 +23,14 @@ permalink: /events/new-york/
 
 # New York
 
+## City and County Events
+
+More detailed family histories, migration stories, and research resources will be added to this page over time.
+
+* [Albany]({{ '/events/new-york/albany/' | relative_url }})
+* [New York City]({{ '/events/new-york/new-york-city/' | relative_url }})
+* [Westchester]({{ '/events/new-york/westchester/' | relative_url }})
+
 Welcome to the New York section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to New York.
 
 
@@ -53,13 +61,7 @@ Eligibility for Membership may be through any one of three avenues, or all three
 
 Proven direct descent from a Dutch settler born in the Netherlands, and who immigrated, no later than **19 April 1775**, to any settlement in what is now the United States. Also eligible are direct descendants of selected non-Dutch ancestors who resided in New Netherland prior to the Treaty of Westminster, 1674, or settled in what is now the United States no later than 19 April 1775, AND who have proven significant service to Dutch heritage in business, cultural, military, religious or political affairs either in the Netherlands and/or the United States.
 
-## Coming Soon
 
-More detailed family histories, migration stories, and research resources will be added to this page over time.
-
-* [Albany]({{ '/events/new-york/albany/' | relative_url }})
-* [New York City]({{ '/events/new-york/new-york-city/' | relative_url }})
-* [Westchester]({{ '/events/new-york/westchester/' | relative_url }})
 
 ---
 

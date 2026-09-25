@@ -22,6 +22,15 @@ permalink: /events/maine/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
+
+## County Events
+
+More detailed family histories, migration stories, and research resources will be added to this page over time.
+
+* [Kennebec]({{ '/events/maine/kennebec/' | relative_url }})
+* [York]({{ '/events/maine/york/' | relative_url }})
+
+
 <img src="{{ '/events/maine/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Seal of the Order of the First Families of Maine">
 
 # Maine
@@ -35,12 +44,7 @@ Welcome to the Maine section of First Families. This page highlights early famil
 
 Membership is open to individuals at least eighteen years of age, who are lineal descendants of an ancestor who was a resident of present-day Maine, by the year **1652**. Membership is by invitation only and shall be extended by the President General. Membership inquiries are welcome. 
 
-## Coming Soon
 
-More detailed family histories, migration stories, and research resources will be added to this page over time.
-
-* [Kennebec]({{ '/events/maine/kennebec/' | relative_url }})
-* [York]({{ '/events/maine/york/' | relative_url }})
 
 ---
 

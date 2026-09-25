@@ -21,9 +21,26 @@ permalink: /events/massachusetts/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
+
+## County Events
+
+More detailed family histories, migration stories, and research resources will be added to this page over time.
+
+
+* [Norfolk]({{ '/events/massachusetts/norfolk/' | relative_url }})
+* [Plymouth]({{ '/events/massachusetts/plymouth/' | relative_url }})
+* [Suffolk]({{ '/events/massachusetts/suffolk/' | relative_url }})
+* [Weymouth]({{ '/events/massachusetts/weymouth/' | relative_url }})
+
+
+
+
 # Massachusetts
 
 * [FamilySearch](https://www.familysearch.org/en/wiki/Massachusetts,_United_States_Genealogy)
+
+
+
 
 Welcome to the Massachusetts section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Massachusetts.
 
@@ -45,14 +62,7 @@ Those individuals eligible for membership shall be at least eighteen years of ag
 
 The Winthrop Society currently consists of proven descendants of the first settlers of the Massachusetts Bay Colony. It is open to all men and women of good character and proven descent from one or more passengers of the Winthrop fleet, or of others who settled in the Bay Colony and Down East* by the end of 1640.
 
-## Coming Soon
 
-More detailed family histories, migration stories, and research resources will be added to this page over time.
-
-* [Boston]({{ '/events/massachusetts/boston/' | relative_url }})
-* [Plymouth]({{ '/events/massachusetts/plymouth/' | relative_url }})
-* [Quincy]({{ '/events/massachusetts/quincy/' | relative_url }})
-* [Weymouth]({{ '/events/massachusetts/weymouth/' | relative_url }})
 
 ---
 

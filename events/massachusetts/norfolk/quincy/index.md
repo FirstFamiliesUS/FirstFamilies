@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Quincy, Massachusetts
-permalink: /events/massachusetts/quincy/
+permalink: /events/massachusetts/norfolk/quincy/
 ---
 
 
@@ -32,7 +32,7 @@ Known as the "City of Presidents," Quincy is the birthplace of two U.S. Presiden
 http://googleusercontent.com/map_location_reference/1
 ### [Adams National Historical Park](http://googleusercontent.com/map_location_reference/0)
 
-<img src="{{ '/events/massachusetts/quincy/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Adams National Historical Park Map and Grounds">
+<img src="{{ '/events/massachusetts/norfolk/quincy/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Adams National Historical Park Map and Grounds">
 
 Preserving the home and legacy of four generations of the Adams family from 1720 to 1927, the park encompasses the birthplaces of John Adams and John Quincy Adams, Peacefield (the "Old House"), and the Stone Library.
 
@@ -44,7 +44,7 @@ Preserving the home and legacy of four generations of the Adams family from 1720
 
 ### Junior Ranger Programs & Educational Activities
 
-<img src="{{ '/events/massachusetts/quincy/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Adams National Historical Park Junior Ranger Program">
+<img src="{{ '/events/massachusetts/norfolk/quincy/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Adams National Historical Park Junior Ranger Program">
 
 Educational activity guidebooks designed for youth and families visiting or learning remotely about the Adams legacy:
 
@@ -59,7 +59,7 @@ Educational activity guidebooks designed for youth and families visiting or lear
 http://googleusercontent.com/map_location_reference/3
 ### [United First Parish Church](http://googleusercontent.com/map_location_reference/2)
 
-<img src="{{ '/events/massachusetts/quincy/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="United First Parish Church in Quincy, Massachusetts">
+<img src="{{ '/events/massachusetts/norfolk/quincy/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="United First Parish Church in Quincy, Massachusetts">
 
 Known as the "Church of the Presidents," United First Parish Church is the final resting place of President John Adams, First Lady Abigail Adams, President John Quincy Adams, and First Lady Louisa Catherine Adams.
 

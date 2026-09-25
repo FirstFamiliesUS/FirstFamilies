@@ -23,6 +23,10 @@ permalink: /events/ohio/
 
 # Ohio
 
+## County Events
+
+* [Hamilton]({{ '/events/ohio/hamilton/' | relative_url }})
+
 * [FamilySearch](https://www.familysearch.org/en/wiki/Ohio,_United_States_Genealogy)
 
 
@@ -37,11 +41,7 @@ Any member of OGS who can prove satisfactory lineal descent from a resident of t
 * [Ohio Genealogical Society Approved List](https://www.ogs.org/wp-content/uploads/2025/06/SBO-2025-Roster-for-Website.pdf)
 * [Ohio Genealogical Society Search Databases](https://www.ogs.org/search-databases/)
 
-## Coming Soon
 
-More detailed family histories, migration stories, and research resources will be added to this page over time.
-
-* [Cincinnati]({{ '/events/ohio/cincinnati/' | relative_url }})
 
 ---
 

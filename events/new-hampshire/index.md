@@ -23,6 +23,10 @@ permalink: /events/new-hampshire/
 
 # New Hampshire
 
+## County Events
+
+* [Rockingham]({{ '/events/new-hampshire/rockingham/' | relative_url }})
+
 Welcome to the New Hampshire section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to New Hampshire.
 
 * [FamilySearch](https://www.familysearch.org/en/wiki/New_Hampshire,_United_States_Genealogy)
@@ -33,11 +37,7 @@ Welcome to the New Hampshire section of First Families. This page highlights ear
 
 Honor those hardy and enterprising early ancestors who concentrated their efforts, labor and skills in building the enduring greatness of the State of New Hampshire. Recognize and record those individuals who established residency, owned land or businesses within the boundaries of present day New Hampshire between 1622 - 1680.
 
-## Coming Soon
 
-More detailed family histories, migration stories, and research resources will be added to this page over time.
-
-* [Rockingham]({{ '/events/new-hampshire/rockingham/' | relative_url }})
 
 ---
 

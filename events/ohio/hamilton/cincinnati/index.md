@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cincinnati, Ohio
-permalink: /events/ohio/cincinnati/
+permalink: /events/ohio/hamilton/cincinnati/
 ---
 
 
@@ -29,18 +29,6 @@ Situated along the Ohio River, Cincinnati—known as the "Queen City"—holds a 
 
 ## Lineage & Genealogical Societies
 
-### Hamilton County Genealogical Society (HCGS)
-
-An active chapter of the Ohio Genealogical Society dedicated to providing educational programs, preserving regional records, and maintaining extensive pioneer databases.
-
-* **Sponsored Lineage Societies:**
-  * **First Families:** Honors direct descendants of pioneers who settled in Hamilton County prior to January 1, 1821.
-  * **Settlers and Builders:** Honors direct descendants of pioneers who settled in Hamilton County between January 1, 1821 and December 31, 1860.
-  * **Century Families:** Honors direct descendants of residents who settled between January 1, 1861 and 100 years ago.
-  * **Civil War Soldiers:** Honors direct or collateral descendants of Civil War soldiers and certain civilian groups (1861–1865).
-* **Mailing Address:** [P.O. Box 15865, Cincinnati, OH 45215](https://maps.app.goo.gl/HamiltonCountyGS)
-* **Phone:** [(513) 956-7078](tel:+15139567078)
-* **Website:** [Hamilton County Genealogical Society](https://hcgsohio.org/)
 
 ---
 
@@ -48,7 +36,7 @@ An active chapter of the Ohio Genealogical Society dedicated to providing educat
 
 ### The Betts House
 
-<img src="{{ '/events/ohio/cincinnati/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="The Betts House in Cincinnati, Ohio">
+<img src="{{ '/events/ohio/hamilton/cincinnati/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="The Betts House in Cincinnati, Ohio">
 
 Built in 1804, The Betts House is Cincinnati's oldest surviving brick home. Owned and operated as a historic house museum by The National Society of The Colonial Dames of America in the State of Ohio (NSCDA-Ohio), it offers exhibits exploring early 19th-century domestic life, construction history, and regional preservation.
 
