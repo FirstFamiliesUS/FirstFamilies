@@ -23,6 +23,12 @@ permalink: /events/tennessee/
 
 # Tennessee
 
+## County Events
+
+* [Hamblen]({{ '/events/tennessee/hamblen/' | relative_url }})
+* [Hawkins]({{ '/events/tennessee/hawkins/' | relative_url }})
+
+
 Welcome to the Tennessee section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to Tennessee.
 
 
@@ -42,15 +48,11 @@ Colonial — prior to 1 June 1796.
 * [Tennessee Genealogy • FamilySearch](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)
 * [East Tennessee Historical Society](https://www.easttnhistory.org/research/genealogy/tennessee-ancestors/family-search/)
 
-## Coming Soon
 
-More detailed family histories, migration stories, and research resources will be added to this page over time.
-
-* [Hamblen]({{ '/events/tennessee/hamblen/' | relative_url }})
 
 ---
 
-*Last updated: August 2026*
+*Last updated: September 2026*
 
 </div>
 </article>

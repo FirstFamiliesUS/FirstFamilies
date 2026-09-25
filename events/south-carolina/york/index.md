@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Piedmont, South Carolina
-permalink: /events/south-carolina/piedmont/
+permalink: /events/south-carolina/york/
 ---
 
 
@@ -25,13 +25,15 @@ permalink: /events/south-carolina/piedmont/
 
 The Upcountry and Piedmont region of South Carolina played a pivotal role in the American Revolution, serving as the backdrop for key Patriot victories and early backcountry settlement. Today, the area features preserved national military battlefields, state parks, historic architectural structures, and centuries-old colonial church congregations.
 
+  - https://www.familysearch.org/en/wiki/York_County,_South_Carolina_Genealogy
+
 ---
 
 ## National & State Parks
 
 ### Kings Mountain National Military Park
 
-<img src="{{ '/events/south-carolina/piedmont/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kings Mountain National Military Park">
+<img src="{{ '/events/south-carolina/york/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kings Mountain National Military Park">
 
 Commemorates the Battle of Kings Mountain (October 7, 1780), a decisive victory by American Patriots over Loyalist militia that Thomas Jefferson called the turn of the tide of the American Revolution.
 
@@ -41,13 +43,13 @@ Commemorates the Battle of Kings Mountain (October 7, 1780), a decisive victory 
 
 ### Kings Mountain State Park & Historic Structures
 
-<img src="{{ '/events/south-carolina/piedmont/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kings Mountain State Park">
+<img src="{{ '/events/south-carolina/york/media/media/image2.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Kings Mountain State Park">
 
 Adjacent to the national military park, Kings Mountain State Park offers outdoor recreation, miles of trails, and a Living History Farm that preserves early Upcountry agricultural life.
 
 * **Capt. John Dickey's Home:** A preserved historic home moved directly to Kings Mountain State Park to showcase 18th-century regional architecture.
 
-<img src="{{ '/events/south-carolina/piedmont/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Capt. John Dickey's Home at Kings Mountain State Park">
+<img src="{{ '/events/south-carolina/york/media/media/image3.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Capt. John Dickey's Home at Kings Mountain State Park">
 
 * **Programs & Events:** [Kings Mountain State Park Programs](https://southcarolinaparks.com/kings-mountain/programs-and-events#jump)
 
@@ -57,7 +59,7 @@ Adjacent to the national military park, Kings Mountain State Park offers outdoor
 
 ### Bullock Creek Presbyterian Church in America
 
-<img src="{{ '/events/south-carolina/piedmont/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Bullock Creek Presbyterian Church">
+<img src="{{ '/events/south-carolina/york/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Bullock Creek Presbyterian Church">
 
 Organized in the 1760s, Bullock Creek is one of the oldest Presbyterian churches in the South Carolina backcountry and served as a spiritual hub during the Revolutionary War era.
 

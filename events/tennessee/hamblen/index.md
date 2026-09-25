@@ -25,6 +25,8 @@ permalink: /events/tennessee/hamblen/
 
 Situated in East Tennessee between Cherokee Lake and the Great Smoky Mountains, Hamblen County combines deep regional history with rich Appalachian heritage. From early frontier settlements and Civil War encampments to historic churches and community gathering places, the county spans key historic towns including Morristown, Russellville, and Whitesburg.
 
+- https://www.familysearch.org/en/wiki/Hamblen_County,_Tennessee_Genealogy
+
 ---
 
 ## Historic Towns & Heritage Sites

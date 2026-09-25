@@ -25,6 +25,8 @@ permalink: /events/south-carolina/charleston/
 
 Founded in 1670, Charleston is South Carolina’s oldest city and a central hub of French Huguenot heritage in North America. Known for its rich colonial history, architectural preservation, and deep religious roots, the historic downtown district remains home to unique active congregations and annual commemorative traditions.
 
+- https://www.familysearch.org/en/wiki/Charleston_County,_South_Carolina_Genealogy
+
 ---
 
 ## Historic Churches & Traditions
