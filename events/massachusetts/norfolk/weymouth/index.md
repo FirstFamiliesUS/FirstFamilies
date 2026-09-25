@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Weymouth, Massachusetts
-permalink: /events/massachusetts/weymouth/
+permalink: /events/massachusetts/norfolk/weymouth/
 ---
 
 
@@ -32,7 +32,7 @@ Settled in 1622 and incorporated in 1635, [Weymouth](http://googleusercontent.co
 
 ### Early Settlement & King Philip's War
 
-<img src="{{ '/events/massachusetts/weymouth/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Historical Map or Illustration of Early Weymouth, Massachusetts">
+<img src="{{ '/events/massachusetts/norfolk/weymouth/media/media/image1.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Historical Map or Illustration of Early Weymouth, Massachusetts">
 
 * **1674 — The Matthew Pratt II House:** Built on Green Street, the house stands as an enduring milestone of early colonial architectural heritage in Norfolk County.
 * **1676 — King Philip's War Attack:** On April 19, 1676, during the height of King Philip's War (Metacom's War), native forces launched an attack on Weymouth, burning seven homes and killing Sergeant Thomas [Pratt](https://www.firstfamilies.us/ancestors/england/pratt) as hostiles advanced toward Plymouth.

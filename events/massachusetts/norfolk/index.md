@@ -24,7 +24,7 @@ permalink: /events/massachusetts/norfolk/
 # Norfolk County, Massachusetts
 
 * [Quincy]({{ '/events/massachusetts/norfolk/quincy/' | relative_url }})
-
+* [Weymouth]({{ '/events/massachusetts/norfolk/weymouth/' | relative_url }})
 
 
 
