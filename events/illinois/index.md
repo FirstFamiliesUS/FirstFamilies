@@ -36,3 +36,5 @@ permalink: /events/illinois/
 *Last updated: September 2026*
 
 
+
+* [Lee]({{ '/events/illinois/lee/' | relative_url }})
