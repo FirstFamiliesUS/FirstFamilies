@@ -23,7 +23,7 @@ permalink: /events/maryland/queen-anne/
 
 # Queen Anne County, Maryland
 
-
+[Kent Island]({{ '/events/maryland/queen-anne/kent-island/' | relative_url }})
 
 ---
 
