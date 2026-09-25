@@ -35,11 +35,6 @@ permalink: /events/illinois/
 
 *Last updated: September 2026*
 
-</div>
-</article>
-</div>
-</div>
-</div>
-</section>
+
 
 - [Lee](/events/illinois/lee/)
