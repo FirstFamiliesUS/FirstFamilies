@@ -23,6 +23,11 @@ permalink: /events/west-virginia/
 
 # West Virginia
 
+## County Events
+
+* [Jefferson]({{ '/events/west-virginia/jefferson/' | relative_url }})
+* [Monroe]({{ '/events/west-virginia/monroe/' | relative_url }})
+
 Welcome to the West Virginia section of First Families. This page highlights early families, historical migration patterns, and key genealogical resources related to West Virginia.
 
 * [FamilySearch](https://www.familysearch.org/en/wiki/West_Virginia,_United_States_Genealogy)
@@ -35,16 +40,11 @@ The qualifying FIRST SETTLER ancestor needed for FSSV membership is a person who
 
 The first governor of West Virginia was [Arthur Boreman](https://www.firstfamilies.us/ancestors/scotland/kenner). West Virginia Day is celebrated annually on June 20.
 
-## Coming Soon
 
-More detailed family histories, migration stories, and research resources will be added to this page over time.
-
-* [Jefferson]({{ '/events/west-virginia/jefferson/' | relative_url }})
-* [Monroe]({{ '/events/west-virginia/monroe/' | relative_url }})
 
 ---
 
-*Last updated: August 2026*
+*Last updated: September 2026*
 
 </div>
 </article>

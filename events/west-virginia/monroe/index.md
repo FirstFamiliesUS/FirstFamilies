@@ -25,6 +25,8 @@ permalink: /events/west-virginia/monroe/
 
 Welcome to the Monroe County section of West Virginia First Families. Explore local history, key historical landmarks, and genealogical resources below.
 
+- https://www.familysearch.org/en/wiki/Monroe_County,_West_Virginia_Genealogy
+
 ---
 
 ## Key Destinations & Landmarks

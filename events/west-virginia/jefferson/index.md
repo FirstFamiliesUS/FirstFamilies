@@ -32,6 +32,7 @@ Welcome to the Jefferson County section of West Virginia First Families. Explore
 * **JCHS:** [Preserving Jefferson County's History Since 1927](https://www.jeffersonhistoricalwv.org/)
 * **Genealogy:** [Jefferson County, West Virginia Genealogy • FamilySearch](https://www.familysearch.org/en/wiki/Jefferson_County,_West_Virginia_Genealogy)
 * **Overview:** [Jefferson County, West Virginia - Wikipedia](https://en.wikipedia.org/wiki/Jefferson_County%2C_West_Virginia)
+* https://www.familysearch.org/en/wiki/Jefferson_County,_West_Virginia_Genealogy
 
 ---
 
