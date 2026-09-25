@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gettysburg, Pennsylvania
-permalink: /events/pennsylvania/gettysburg/
+permalink: /events/pennsylvania/adams/gettysburg/
 ---
 
 
@@ -31,7 +31,7 @@ As the site of the pivotal 1863 Civil War battle and President Abraham Lincoln's
 
 ### Gettysburg National Military Park
 
-<img src="{{ '/events/pennsylvania/gettysburg/media/media/image7.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Gettysburg National Military Park">
+<img src="{{ '/events/pennsylvania/adams/gettysburg/media/media/image7.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Gettysburg National Military Park">
 
 Covering nearly 6,000 acres five miles north of the Mason-Dixon line, Gettysburg National Military Park preserves the site of one of the most consequential battles and influential speeches in American history.
 
@@ -41,7 +41,7 @@ Covering nearly 6,000 acres five miles north of the Mason-Dixon line, Gettysburg
 
 ### Gettysburg National Military Park Museum & Visitor Center
 
-<img src="{{ '/events/pennsylvania/gettysburg/media/media/image10.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Gettysburg Visitor Center">
+<img src="{{ '/events/pennsylvania/adams/gettysburg/media/media/image10.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Gettysburg Visitor Center">
 
 The primary starting point for visiting Gettysburg, providing museum exhibits, film presentations, the historic Cyclorama painting, and customized touring itineraries.
 
@@ -54,7 +54,7 @@ The primary starting point for visiting Gettysburg, providing museum exhibits, f
 
 ### Eisenhower National Historic Site
 
-<img src="{{ '/events/pennsylvania/gettysburg/media/media/image11.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Eisenhower National Historic Site">
+<img src="{{ '/events/pennsylvania/adams/gettysburg/media/media/image11.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Eisenhower National Historic Site">
 
 The home and farm of 34th President Dwight D. Eisenhower and First Lady Mamie Eisenhower. Serving as a weekend retreat during his presidency and a gathering spot for world leaders, the farm was gifted to the federal government in 1967 and designated a National Historic Site in 1969.
 
@@ -66,7 +66,7 @@ The home and farm of 34th President Dwight D. Eisenhower and First Lady Mamie Ei
 
 ### Seminary Ridge Museum & Education Center
 
-<img src="{{ '/events/pennsylvania/gettysburg/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Seminary Ridge Museum">
+<img src="{{ '/events/pennsylvania/adams/gettysburg/media/media/image3.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Seminary Ridge Museum">
 
 Located in Schmucker Hall on Seminary Ridge, this museum focuses on the First Day's battle, Civil War medicine, and church history. Hosts special events including the Gettysburg Address Anniversary presentations.
 
@@ -79,7 +79,7 @@ Located in Schmucker Hall on Seminary Ridge, this museum focuses on the First Da
 
 ### United Lutheran Seminary (Church of the Abiding Presence)
 
-<img src="{{ '/events/pennsylvania/gettysburg/media/media/image8.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="United Lutheran Seminary Chapel">
+<img src="{{ '/events/pennsylvania/adams/gettysburg/media/media/image8.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="United Lutheran Seminary Chapel">
 
 The oldest continuing Lutheran seminary in the United States, offering Sunday Divine Service at the Church of the Abiding Presence on its historic Gettysburg campus.
 
@@ -90,7 +90,7 @@ The oldest continuing Lutheran seminary in the United States, offering Sunday Di
 
 ### Gettysburg Heritage Center
 
-<img src="{{ '/events/pennsylvania/gettysburg/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Gettysburg Heritage Center">
+<img src="{{ '/events/pennsylvania/adams/gettysburg/media/media/image4.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Gettysburg Heritage Center">
 
 Offers interactive educational displays, civilian stories during the battle, guided tours, and historical gifts.
 
@@ -104,7 +104,7 @@ Offers interactive educational displays, civilian stories during the battle, gui
 
 ### Mansion House 1757
 
-<img src="{{ '/events/pennsylvania/gettysburg/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Mansion House 1757">
+<img src="{{ '/events/pennsylvania/adams/gettysburg/media/media/image2.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Mansion House 1757">
 
 Recognized as the oldest operating pub in Pennsylvania, the historic inn famously served General Robert E. Lee following the Battle of Gettysburg.
 
@@ -118,7 +118,7 @@ Recognized as the oldest operating pub in Pennsylvania, the historic inn famousl
 
 ### Dedication Day & Lincoln Fellowship of Pennsylvania
 
-<img src="{{ '/events/pennsylvania/gettysburg/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Lincoln Fellowship Dedication Day at Majestic Theater">
+<img src="{{ '/events/pennsylvania/adams/gettysburg/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Lincoln Fellowship Dedication Day at Majestic Theater">
 
 Annual Dedication Day ceremonies honor Abraham Lincoln's Gettysburg Address. Hosted by the Lincoln Fellowship of Pennsylvania at historic venues such as Gettysburg College's Majestic Theater, keynotes and guests have included notable historians and figures like Susan Eisenhower, Harold Holzer, and Doris Kearns Goodwin.
 
@@ -130,11 +130,11 @@ Annual Dedication Day ceremonies honor Abraham Lincoln's Gettysburg Address. Hos
 
 ### Remembrance Day Parade & National Civil War Ball
 
-<img src="{{ '/events/pennsylvania/gettysburg/media/media/image5.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Remembrance Day Parade">
+<img src="{{ '/events/pennsylvania/adams/gettysburg/media/media/image5.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Remembrance Day Parade">
 
 Held annually on the **third Saturday in November at 1:00 PM**, Remembrance Day honors Civil War soldiers and civilians. Sponsored by the Sons of Veterans Reserve (Military Department of the Sons of Union Veterans of the Civil War), the parade lines up on Middle Street, steps off down Baltimore Street, and finishes along Steinwehr Avenue.
 
-<img src="{{ '/events/pennsylvania/gettysburg/media/media/image6.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="National Civil War Ball">
+<img src="{{ '/events/pennsylvania/adams/gettysburg/media/media/image6.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="National Civil War Ball">
 
 The evening features the official **National Civil War Ball**, hosted by the SVR with authentic 19th-century music by the Philadelphia Brigade Band and dancing led by the Victorian Dance Ensemble.
 
@@ -148,7 +148,7 @@ The evening features the official **National Civil War Ball**, hosted by the SVR
 
 ### Eisenhower Hotel & Conference Center
 
-<img src="{{ '/events/pennsylvania/gettysburg/media/media/image9.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Eisenhower Hotel & Conference Center">
+<img src="{{ '/events/pennsylvania/adams/gettysburg/media/media/image9.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Eisenhower Hotel & Conference Center">
 
 Large complex offering lodging and event space for conferences, reenactor groups, and visitors.
 

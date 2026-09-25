@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Harrisburg, Pennsylvania
-permalink: /events/pennsylvania/harrisburg/
+permalink: /events/pennsylvania/dauphin/harrisburg/
 ---
 
 
@@ -31,7 +31,7 @@ As the capital of Pennsylvania and a major historical hub along the Susquehanna 
 
 ### The National Civil War Museum
 
-<img src="{{ '/events/pennsylvania/harrisburg/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="National Civil War Museum in Harrisburg, Pennsylvania">
+<img src="{{ '/events/pennsylvania/dauphin/harrisburg/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="National Civil War Museum in Harrisburg, Pennsylvania">
 
 The National Civil War Museum is one of the largest museums in the world dedicated solely to the American Civil War. Located in Reservoir Park, the museum seeks to portray the complete narrative of this pivotal era by presenting both Northern and Southern viewpoints equally, while highlighting both military campaigns and civilian experiences.
 

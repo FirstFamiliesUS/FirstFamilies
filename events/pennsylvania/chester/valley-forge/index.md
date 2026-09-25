@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Valley Forge, Pennsylvania
-permalink: /events/pennsylvania/valley-forge/
+permalink: /events/pennsylvania/chester/valley-forge/
 ---
 
 
@@ -31,7 +31,7 @@ Valley Forge holds a monumental place in American history as the site of the Con
 
 ### Society of the Descendants of Washington's Army at Valley Forge
 
-<img src="{{ '/events/pennsylvania/valley-forge/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Society of the Descendants of Washington's Army at Valley Forge Insignia">
+<img src="{{ '/events/pennsylvania/chester/valley-forge/media/media/image1.jpeg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Society of the Descendants of Washington's Army at Valley Forge Insignia">
 
 A national lineage, historical, and genealogical organization dedicated to preserving the memory and sacrifices of those who served under General George Washington during the critical six-month encampment at Valley Forge.
 
