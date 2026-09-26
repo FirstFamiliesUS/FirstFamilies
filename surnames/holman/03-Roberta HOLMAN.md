@@ -41,12 +41,12 @@ Roberta Isabelle  [HOLMAN]({{ '/surnames/holman/' | relative_url }})
 
 SOURCES:
 
-1. [Oscar Lee Bower Obituary: Daily American Republic 17 April 1991](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Daily_American_Republic_1991_04_17_6.pdf)
+1. [Oscar Lee Bower Obituary: Daily American Republic 17 April 1991]({{ '/docs/Daily_American_Republic_1991_04_17_6.pdf' | relative_url }})
 2. [Year: 1940; Census Place: Ash Hill, Butler, Missouri; Roll: m-t0627-02090; Page: 18B; Enumeration District: 12-4B](https://www.ancestry.com/search/collections/2442/records/90798464?tid=168012819&pid=272180029245&ssrc=pt)
 3. [1930; Census Place: Police Jury Ward 3, Beauregard, L](https://www.ancestry.com/search/collections/6224/records/34318698?tid=168012819&pid=272180029245&ssrc=pt)
 4. [Year: 1920; Census Place: Protection, Comanche, Kansas; Roll: T625_527; Page: 11A; Enumeration District: 36](https://www.ancestry.com/search/collections/6061/records/64976025?tid=168012819&pid=272180029245&ssrc=pt)
-5. [Evalyn Frederica GRAY Obituary: Beaumont Journal 11 Feb 1965](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Beaumont_Journal_1965_02_11_14.pdf)
-6. Roberta Holman Birth Certificate: [Page 1](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P1.jpg); [Page 2](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P2.jpg). 
+5. [Evalyn Frederica GRAY Obituary: Beaumont Journal 11 Feb 1965]({{ '/docs/Beaumont_Journal_1965_02_11_14.pdf' | relative_url }})
+6. Roberta Holman Birth Certificate 18036: [Page 2]({{ '/docs/Roberta Holman Birth Certificate P1.jpg' | relative_url }}) ; [Page 1]({{ '/docs/Roberta Holman Birth Certificate P2.jpg' | relative_url }}) 
 7. FamilySearch: ID [LKMR-DYN](https://www.familysearch.org/en/tree/pedigree/landscape/LKMR-DYN)
 8. Wikitree: [Holman-678](https://www.wikitree.com/wiki/Holman-678)
 9. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737)
@@ -55,4 +55,3 @@ SOURCES:
 ACCOLADES:
 - Oklahoma First Families: Settler and Builder No. 43
 
-[Oscar Lee Bower Obituary: Daily American Republic 17 April 1991]({{ '/docs/Daily_American_Republic_1991_04_17_6.pdf' | relative_url }})
