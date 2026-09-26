@@ -22,6 +22,12 @@ permalink: /surnames/bower/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
+Wartburg Castle
+
+<img src="{{ '/surnames/bower/media/EisenachWartburg.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Seal of the Order of the First Families of Maine">
+
+
+
 - [Annette Bower]({{ '/surnames/bower/annette' | relative_url }})
 - [Lee Bower]({{ '/surnames/bower/lee' | relative_url }})
 - [Edward Bower]({{ '/surnames/bower/edward' | relative_url }})
