@@ -23,9 +23,9 @@ permalink: /surnames/bower/annette/
 
 <img src="{{ '/surnames/bower/media/mom19.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" style="max-width: 300px;" alt="Mom at 19">
 
-<img src="{{ '/surnames/bower/media/MomDadColor.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Mom and Dad">
+<img src="{{ '/surnames/bower/media/MomDadColor.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" style="max-width: 300px;" alt="Mom and Dad">
 
-<img src="{{ '/surnames/bower/media/basketballQueen.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Mom and Dad">
+<img src="{{ '/surnames/bower/media/basketballQueen.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" style="max-width: 300px;" alt="Mom and Dad">
 
 Marie Annette [BOWER]({{ '/surnames/bower/' | relative_url }})
 
