@@ -22,11 +22,18 @@ permalink: /surnames/gray/evalyn/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
+<img src="{{ '/docs/RobertGrayFamily.jpg class="img-fluid rounded shadow-sm d-block mx-auto mb-4" style="max-width: 300px;" alt="Robert Gray Family"
+
 Evalyn Frederica [GRAY]({{ '/surnames/gray/' | relative_url }})
 
+
+ACCOLADES:
+- Oklahoma First Families: Member No 4652
+- Nebraska First Families Certificate #20-002
+
+VITALS:
 - Born: 18 Feb 1870  `#1, #2`
 - Birth Place: Delaware, Otoe County, Nebraska  `#2, #4`
-
 - Marriage Date: before 30 Aug 1913  `#5`
 - Marriage Place: probably Oklahoma  `#5`
 - Died: 10 Feb 1965  `#1, #2, #3`
@@ -50,7 +57,5 @@ SOURCES:
 8. Wikitree: [Gray-29128](https://www.wikitree.com/wiki/Gray-29128)
 9. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737)
 
-ACCOLADES:
-- Oklahoma First Families: Member No 4652
-- Nebraska First Families Certificate #20-002
+
 

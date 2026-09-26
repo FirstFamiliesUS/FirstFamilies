@@ -22,10 +22,20 @@ permalink: /surnames/pratt/marshall
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-Marshall L Pratt
+Marshall L [PRATT]({{ '/surnames/pratt/' | relative_url }})
 
 Before moving to Nebraska he served in Captain Murrays Company Second Regiment Pennsylvania Volunteers. In 1860 he moved his large family to Nebraska City in Otoe County in Nebraska. He was known as farming and vegetables. He died and was buried in Nebraska
 
+
+ACCOLADES:
+- Illinois First Families (Pending)
+- Iowa First Families
+- Michigan First Families Pre-Statehood Certificate: #P-0174
+- Nebraska First Families Certificate #23-002
+- Wisconsin First Families: Pioneer Family Certificate
+- Land Grants: [MI1250__.479] (160 acres) ; [MW-0984-417]({{ '/surnames/pratt/media/MW_Patent_0984-417.PDF' | relative_url }}) (160 acres); 
+
+VITALS:
 - Born: 1811  `#1, #3`
 - Birth Place: Massachusetts  `#3`
 - Spouse:  Fredricka  `#3`
@@ -58,15 +68,6 @@ SOURCES:
 11. Wikitree: [Pratt-9996](https://www.wikitree.com/wiki/Pratt-9996)
 12. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737)
 
-[MW-0984-417]({{ '/surnames/pratt/media/MW_Patent_0984-417.PDF' | relative_url }})
-
-ACCOLADES:
-- Illinois First Families (Pending)
-- Iowa First Families
-- Michigan First Families Pre-Statehood Certificate: #P-0174
-- Nebraska First Families Certificate #23-002
-- Wisconsin First Families: Pioneer Family Certificate
-- Land Grants: [MI1250__.479] (160 acres) ; [MW-0984-417]({{ '/surnames/pratt/media/MW_Patent_0984-417.PDF' | relative_url }}) (160 acres); 
 
 DOCUMENTS:
 <img src="{{ '/surnames/pratt/media/MarshallLPratt.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Marshall L Pratt Tombstone">

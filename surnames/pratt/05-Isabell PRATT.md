@@ -22,9 +22,20 @@ permalink: /surnames/pratt/isabell/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
+<img src="{{ '/docs/RobertGrayFamily.jpg class="img-fluid rounded shadow-sm d-block mx-auto mb-4" style="max-width: 300px;" alt="Robert Gray Family"
 
-Isabell Pratt
 
+
+Isabell [PRATT]({{ '/surnames/pratt/' | relative_url }})
+
+ACCOLADES:
+- Illinois First Families (Pending)
+- [Iowa First Families](https://iowagenealogy.org)
+- [Nebraska First Families](https://nsgs.org/) Certificate #20-001
+- [Oklahoma First Families](https://okgensoc.org) Member No 4652
+- [Wisconsin First Families](https://wsgs.org/cpage.php?pt=212)
+
+VITALS:
 - Born:  27 Feb 1846  `#1, #2, #4` 
 - Birth Place:  Dixon, Illinois  `#2, #2`
 - Marriage Date:  13 March 1867  `#2`
@@ -49,10 +60,6 @@ SOURCES:
 
 
 
-ACCOLADES:
-- [Iowa First Families](https://iowagenealogy.org)
-- [Nebraska First Families](https://nsgs.org/) Certificate #20-001
-- [Oklahoma First Families](https://okgensoc.org) Member No 4652
-- [Wisconsin First Families](https://wsgs.org/cpage.php?pt=212)
+
 
 
