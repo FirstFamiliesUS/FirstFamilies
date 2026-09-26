@@ -23,8 +23,8 @@ permalink: /surnames/gray/evalyn/
 
 
 
+<img src="{{ '/docs/RobertGrayFamily.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" style="max-width: 300px;" alt="Mom at 19">
 
-<img src="{{ '/docs/RobertGrayFamily.jpgs="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="The Robert Gray Family">
 
 Evalyn Frederica [GRAY]({{ '/surnames/gray/' | relative_url }})
 
