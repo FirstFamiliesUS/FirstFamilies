@@ -21,8 +21,10 @@ permalink: /surnames/gray/evalyn/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
-![Robert Gray Family](https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/docs/RobertGrayFamily.jpg)
 
+
+
+<img src="{{ '/docs/RobertGrayFamily.jpgs="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="The Robert Gray Family">
 
 Evalyn Frederica [GRAY]({{ '/surnames/gray/' | relative_url }})
 
