@@ -30,3 +30,9 @@ permalink: /surnames/bower/lee/
 - Mother:  [Minnie Paul]({{ '/surnames/paul/minnie' | relative_url }})
 - Spouse:  [Roberta Holman]({{ '/surnames/holman/roberta' | relative_url }}) 
 - Child:  [Annette Bower]({{ '/surnames/bower/annette' | relative_url }})  
+
+SOURCES: 
+1. FamilySearch: ID [GP1T-DJG](https://www.familysearch.org/en/tree/pedigree/landscape/GP1T-DJG)
+2. Wikitree: [Bower-369](https://www.wikitree.com/wiki/Bower-369)
+3. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737)
+4. [Edward Bower Family Reunion]({{ '/surnames/bower/media/The_Chillicothe_Constitution_Tribune_1978_08_21_Page_3.pdf' | relative_url }})

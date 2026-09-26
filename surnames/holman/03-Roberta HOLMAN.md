@@ -47,6 +47,10 @@ SOURCES:
 4. [Year: 1920; Census Place: Protection, Comanche, Kansas; Roll: T625_527; Page: 11A; Enumeration District: 36](https://www.ancestry.com/search/collections/6061/records/64976025?tid=168012819&pid=272180029245&ssrc=pt)
 5. [Evalyn Frederica GRAY Obituary: Beaumont Journal 11 Feb 1965](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Beaumont_Journal_1965_02_11_14.pdf)
 6. Roberta Holman Birth Certificate: [Page 1](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P1.jpg); [Page 2](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P2.jpg). 
+7. FamilySearch: ID [LKMR-DYN](https://www.familysearch.org/en/tree/pedigree/landscape/LKMR-DYN)
+8. Wikitree: [Holman-678](https://www.wikitree.com/wiki/Holman-678)
+9. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737)
+10. [Oklahoma Vitals]({{ '/surnames/holman/media/OK2Explore.pdf' | relative_url }})
 
 ACCOLADES:
 - Oklahoma First Families: Settler and Builder No. 43
