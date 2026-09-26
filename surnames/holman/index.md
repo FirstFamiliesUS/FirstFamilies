@@ -33,5 +33,5 @@ permalink: /surnames/holman/
 DOCUMENTS:
 
 - [The Holman Chronicle]({{ '/surnames/holman/media/HOLMAN.pdf' | relative_url }})
-- https://www.wikitree.com/genealogy/HOLMAN
+- Wikitree: [HOLMAN](https://www.wikitree.com/genealogy/HOLMAN)
 

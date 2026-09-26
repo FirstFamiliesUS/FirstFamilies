@@ -38,4 +38,5 @@ Wartburg Castle
 
 DOCUMENTS
 - [The Bower Chronicle]({{ '/surnames/bower/media/BOWER.pdf' | relative_url }})
-- https://www.wikitree.com/genealogy/BOWER
+- Wikitree: [BOWER](https://www.wikitree.com/genealogy/BOWER)
+- 
