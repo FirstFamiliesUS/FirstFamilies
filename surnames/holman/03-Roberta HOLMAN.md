@@ -25,12 +25,16 @@ permalink: /surnames/holman/roberta/
 
 Roberta Isabelle  [HOLMAN]({{ '/surnames/holman/' | relative_url }})
 
+ACCOLADES:
+- Oklahoma First Families: Settler and Builder No. 43
+
+VITALS:
 - Born: 30 August 1914  `#2, #3, #4, #6`
 - Birth Place: Willard, [Harper County](https://www.familysearch.org/en/wiki/Harper_County,_Oklahoma_Genealogy), [Oklahoma](https://www.familysearch.org/en/wiki/Oklahoma,_United_States_Genealogy) `#3, #4, #6` 
 - Marriage Date: 3 Feb 1933    `#1, #2`
 - Marriage Place: probably [Beauregard Parish](https://www.familysearch.org/en/wiki/Beauregard_Parish,_Louisiana_Genealogy), [Louisana](https://www.familysearch.org/en/wiki/Louisiana,_United_States_Genealogy)  `#3`
 - Died: 
-- Burial Place:
+- Burial Place: Roberta was cremated. Annette Bower poured her ashes in the Black River, just south of Clear Water Dam.
 - Father:   [Robert Holman]({{ '/surnames/holman/robert' | relative_url }})  `#3, #4, #6`
 - Mother:  [Evalyn Gray]({{ '/surnames/gray/evalyn' | relative_url }})  `#3, #4, #5, #6` 
 - Spouse:  [Lee Bower]({{ '/surnames/bower/lee' | relative_url }})  `#1, #2, #5`
@@ -52,6 +56,5 @@ SOURCES:
 9. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443829)
 10. [Oklahoma Vitals]({{ '/surnames/holman/media/OK2Explore.pdf' | relative_url }})
 
-ACCOLADES:
-- Oklahoma First Families: Settler and Builder No. 43
+
 
