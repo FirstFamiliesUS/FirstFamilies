@@ -48,8 +48,8 @@ SOURCES:
 1. Marie Annette Bower Tombstone. [Find A Grave Memorial ID: 287932046](https://www.findagrave.com/memorial/287932046/marie-kenner)
 2. Marie Annette Bower Obituary: [Daily American Republic 16 Dec. 2022](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/MarieAnnetteBower-obit.pdf)
 3. [Year: 1940; Census Place: Ash Hill, Butler, Missouri; Roll: m-t0627-02090; Page: 18B; Enumeration District: 12-4B](https://www.ancestry.com/search/collections/2442/records/90798468)
-4. [FamilySearch](https://www.familysearch.org/en/search/): ID [GP1T-DJG](https://www.familysearch.org/en/tree/pedigree/landscape/GP1T-DJG)
-5. [Wikitree](https://www.wikitree.com/wiki/): [Bower-369](https://www.wikitree.com/wiki/Bower-369)
+4. FamilySearch: ID [GP1T-DJG](https://www.familysearch.org/en/tree/pedigree/landscape/GP1T-DJG)
+5. Wikitree: [Bower-369](https://www.wikitree.com/wiki/Bower-369)
 6. [Marriage Announcement]({{ '/surnames/bower/media/Daily_American_Republic_1955_06_14_3.pdf' | relative_url }})
 7. [Bridal Couple Honored]({{ '/surnames/bower/media/Daily_American_Republic_1955_06_14_3-page2.pdf' | relative_url }})
 
