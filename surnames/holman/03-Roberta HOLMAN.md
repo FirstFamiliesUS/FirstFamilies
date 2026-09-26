@@ -23,7 +23,7 @@ permalink: /surnames/holman/roberta/
 
 
 
-Roberta Isabelle Holman
+Roberta Isabelle  [HOLMAN]({{ '/surnames/holman/' | relative_url }})
 
 - Born: 30 August 1914  `#2, #3, #4, #6`
 - Birth Place: Willard, [Harper County](https://www.familysearch.org/en/wiki/Harper_County,_Oklahoma_Genealogy), [Oklahoma](https://www.familysearch.org/en/wiki/Oklahoma,_United_States_Genealogy) `#3, #4, #6` 
