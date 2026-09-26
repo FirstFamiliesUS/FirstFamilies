@@ -22,6 +22,8 @@ permalink: /surnames/gray/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
+<img src="{{ '/surnames/gray/media/DunnottarCastle.png' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Dunnottar Castle">
+
 - [Evalyn Gray]({{ '/surnames/gray/evalyn' | relative_url }})
 - [CPL Robert Gray II]({{ '/surnames/gray/robert2' | relative_url }})
 - [Robert Gray I]({{ '/surnames/gray/robert1' | relative_url }})
@@ -30,3 +32,10 @@ permalink: /surnames/gray/
 - [James Gray II]({{ '/surnames/gray/james2' | relative_url }})
 - [James Gray I]({{ '/surnames/gray/james1' | relative_url }})
 - [Forefather George Gray I]({{ '/surnames/gray/george1' | relative_url }})
+
+
+
+DOCUMENTS:
+
+- [The Holman Chronicle]({{ '/surnames/gray/media/GRAY.pdf' | relative_url }})
+- Wikitree: [GRAY](https://www.wikitree.com/genealogy/GRAY)

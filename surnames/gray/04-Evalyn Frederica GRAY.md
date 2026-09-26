@@ -22,7 +22,7 @@ permalink: /surnames/gray/evalyn/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-Evalyn Frederica GRAY
+Evalyn Frederica [GRAY]({{ '/surnames/gray/' | relative_url }})
 
 - Born: 18 Feb 1870  `#1, #2`
 - Birth Place: Delaware, Otoe County, Nebraska  `#2, #4`
@@ -46,6 +46,9 @@ SOURCES:
 4. [Year: 1870; Census Place: Delaware, Otoe, Nebraska; Roll: M593_831; Page: 360B; Family History Library Film: 552330](https://www.ancestry.com/search/collections/7163/records/1450809?tid=168012819&pid=272180029576&ssrc=pt).
 5. Roberta Holman Birth Certificate #18036. [Page1](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P1.jpg) ; [Page2](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Roberta%20Holman%20Birth%20Certificate%20P2.jpg) .
 6. [Isabel Pratt Obituary. The Aurora Sun 9 Aug 1917](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf)
+7. FamilySearch: ID [27SZ-4GX](https://www.familysearch.org/en/tree/pedigree/landscape/27SZ-4GX)
+8. Wikitree: [Gray-29128](https://www.wikitree.com/wiki/Gray-29128)
+9. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737)
 
 ACCOLADES:
 - Oklahoma First Families: Member No 4652
