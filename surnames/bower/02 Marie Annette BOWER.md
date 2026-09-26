@@ -27,7 +27,7 @@ permalink: /surnames/bower/annette/
 
 <img src="{{ '/surnames/bower/media/basketballQueen.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Mom and Dad">
 
-Marie Annette Bower
+Marie Annette [BOWER]({{ '/surnames/bower/' | relative_url }})
 
 - Born: 8 Aug 1936  `#1, #2, #3`
 - Birth Place: Missouri  `#3` 
