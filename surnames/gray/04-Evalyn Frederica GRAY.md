@@ -46,7 +46,7 @@ SOURCES:
 4. [Year: 1870; Census Place: Delaware, Otoe, Nebraska; Roll: M593_831; Page: 360B; Family History Library Film: 552330](https://www.ancestry.com/search/collections/7163/records/1450809?tid=168012819&pid=272180029576&ssrc=pt).
 5. Roberta Holman Birth Certificate: 18036 [Page 1]({{ '/docs/Roberta Holman Birth Certificate P1.jpg' | relative_url }}) ; [Page 2]({{ '/docs/Roberta Holman Birth Certificate P2.jpg' | relative_url }})
 6. [Isabel Pratt Obituary. The Aurora Sun 9 Aug 1917]({{ '/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf' | relative_url }})
-7. FamilySearch: ID [27SZ-4GX](https://www.familysearch.org/en/tree/pedigree/landscape/27SZ-4GX)
+7. FamilySearch: ID [27SZ-4GX](https://www.familysearch.org/en/tree/person/details/27SZ-4GX)
 8. Wikitree: [Gray-29128](https://www.wikitree.com/wiki/Gray-29128)
 9. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737)
 
