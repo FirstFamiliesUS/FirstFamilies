@@ -1,19 +1,9 @@
 ---
 layout: default
-title: "Gray"
+title: "Robert GRAY II"
 permalink: /surnames/gray/robert2/
 gallery:
   - url: /assets/images/PMC-sample.jpg
-
-<header class="wrapper bg-light">
-  {% include components/navbar/navbar.html
-    classList="center-nav transparent navbar-light"
-    centerNav=true
-    logoAlt=true
-    otherClassList="w-100 d-flex ms-auto"
-  %}
-</header>
-
     image_path: /assets/images/PMC-sample.jpg
     alt: "PMC Sample"
   - url: /assets/images/msga3.jpg
@@ -36,6 +26,15 @@ gallery:
     alt: "OKS"
 ---
 
+<header class="wrapper bg-light">
+  {% include components/navbar/navbar.html
+    classList="center-nav transparent navbar-light"
+    centerNav=true
+    logoAlt=true
+    otherClassList="w-100 d-flex ms-auto"
+  %}
+</header>
+
 <section class="wrapper bg-light">
 <div class="container py-12 py-md-14">
 <div class="row justify-content-center">
@@ -43,9 +42,7 @@ gallery:
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
-
-<img src="{{ '/docs/RobertGrayFamily.jpg class="img-fluid rounded shadow-sm d-block mx-auto mb-4" style="max-width: 300px;" alt="Robert Gray Family"
-
+<img src="{{ '/docs/RobertGrayFamily.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" style="max-width: 300px;" alt="Robert Gray Family">
 
 {% comment %} {% include gallery layout="third" caption="Accolades and Society Memberships" %} {% endcomment %}
 
@@ -53,24 +50,24 @@ Robert Gray II was born in Maine and moved to Missouri before 31 December 1860. 
 
 After the war, Nebraska became his home. Here he received a Land Grant. He married Isabel Pratt. They raised their children in Nebraska. He died and was buried in Nebraska with full honors by Richardson Post 60 Grand Army of the Republic. They were Pioneers of Otoe County, Nebraska. They had a large farm and built a large frame house. They had seven children, including Evalyn Frederica Gray. Evalyn married twice. First to Oldsburg and then to Robert James Holmna III. In 1900, after most of the children were grown and some of them were married, Robert & Isabelle Gray moved to a farm in Garfield County, Oklahoma. By hard work and self denial, they managed to acquire a good amount of property.
 
-- Born:  8 Nov 1832  `#1, #3, #4, #5` 
-- Birth Place:  Garland, Maine  `#3, #4, #5`
-- Spouse:  Isabelle E Pratt  `#1, #3, #4`
-- Marriage Date:  13 March 1867  `#3, #4`
-- Marriage Place: Nebraska  `#4`
-- Died:  26 Sep 1903  `#1, #3, #5` 
-- Burial Place:  [Harvard Cemetery](https://www.findagrave.com/cemetery/1993813/harvard-cemetery), Harvard,  Clay County,  Nebraska  `#1`  
-- Military Service: Corporal Company D and H of the 26th Regiment of the Illinois Infantry  `#1, #5`
-- Richardson Post 60 G.A.R.  `#3`
+- Born: 8 Nov 1832 `#1, #3, #4, #5` 
+- Birth Place: Garland, Maine `#3, #4, #5`
+- Spouse: Isabelle E Pratt `#1, #3, #4`
+- Marriage Date: 13 March 1867 `#3, #4`
+- Marriage Place: Nebraska `#4`
+- Died: 26 Sep 1903 `#1, #3, #5` 
+- Burial Place: [Harvard Cemetery](https://www.findagrave.com/cemetery/1993813/harvard-cemetery), Harvard, Clay County, Nebraska `#1` 
+- Military Service: Corporal Company D and H of the 26th Regiment of the Illinois Infantry `#1, #5`
+- Richardson Post 60 G.A.R. `#3`
 - Father: [Robert Gray I]({{ '/surnames/gray/robert1' | relative_url }}) 
-- Mother: [Susana Baker]({{ '/surnames/baker/susana' | relative_url }})  
+- Mother: [Susana Baker]({{ '/surnames/baker/susana' | relative_url }}) 
 - Spouse: [Isabell Pratt]({{ '/surnames/pratt/isabell' | relative_url }}) 
-- Child: [Evalyn Gray]({{ '/surnames/gray/evalyn' | relative_url }})    `#3, #4`
+- Child: [Evalyn Gray]({{ '/surnames/gray/evalyn' | relative_url }}) `#3, #4`
 
 ### SOURCES:
 
 1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [58099873](https://www.findagrave.com/memorial/58099873/robert-gray)
-2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID  [KN1J-86N](https://www.familysearch.org/en/tree/person/details/KN1J-86N)
+2. [FamilySearch](https://www.familysearch.org/en/tree/pedigree/landscape/LR6S-78B): ID [KN1J-86N](https://www.familysearch.org/en/tree/person/details/KN1J-86N)
 3. [Robert Gray II Obituary: The Harvard Courier 3 Oct 1903]({{ '/docs/The_Harvard_Courier_Sat__Oct_3__1903_.pdf' | relative_url }}).
 4. [Year: 1870; Census Place: Delaware, Otoe, Nebraska; Roll: M593_831; Page: 360B; Family History Library Film: 552330](https://www.ancestry.com/search/collections/7163/records/6710912?tid=168012819&pid=272180029582&ssrc=pt)
 5. [Nebraska Grand Army of the Republic 30-357]({{ '/docs/GAR.jpg' | relative_url }}).
