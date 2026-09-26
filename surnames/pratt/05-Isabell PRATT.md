@@ -39,10 +39,14 @@ Isabell Pratt
 
 
 SOURCES:
-1. Tombstone. [FindAGrave](https://www.findagrave.com/) Memorial ID [79992854](https://www.findagrave.com/memorial/79992854/isabelle_ernestine-gray)
-2. [The Aurora Sun 9 Aug 1917](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf)
+1. Tombstone. FindAGrave Memorial ID [79992854](https://www.findagrave.com/memorial/79992854/isabelle_ernestine-gray)
+2. [The Aurora Sun 9 Aug 1917]({{ '/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf' | relative_url }})
 3. [FamilySearch](https://www.familysearch.org/en/search/): ID [2SH9-1DH](https://www.familysearch.org/en/tree/person/about/2SH9-1DH)
 4. [Year: 1850; Census Place: Highland, Iowa, Wisconsin; Roll: M432_999; Page: 368A; Image: 343](https://www.ancestry.com/search/collections/8054/records/9024571?tid=168012819&pid=272180029567&ssrc=pt)
+5. Wikitree: [Pratt-6386](https://www.wikitree.com/wiki/Pratt-6386)
+6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737)
+
+
 
 
 ACCOLADES:

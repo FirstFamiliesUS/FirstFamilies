@@ -46,15 +46,19 @@ Before moving to Nebraska he served in Captain Murrays Company Second Regiment P
 
 SOURCES:
 1. Marshall L Pratt Tombstone. FindAGrave [Memorial ID 97483970](https://www.findagrave.com/memorial/97483970/marshall-lincoln-pratt)
-2. [MI1250__.479](https://glorecords.blm.gov/details/patent/default.aspx?accession=MI1250__.479&docClass=STA&sid=y4vhw4bs.eqv) (160 acres)
+2. [MI1250__.479] (160 acres)
 3. [Year: 1850; Census Place: Highland, Iowa, Wisconsin; Roll: 999; Page: 368A](https://www.ancestry.com/search/collections/8054/records/9024566?tid=168012819&pid=272180028408&ssrc=pt)
 4. FamilySearch ID: [2SH9-BT4](https://www.familysearch.org/en/tree/person/about/2SH9-BT4)
-5. [MW-0984-417](https://glorecords.blm.gov/details/patent/default.aspx?accession=0984-417&docClass=MW&sid=ivydenqu.xf4) (160 acres)
+5. [MW-0984-417]({{ '/surnames/pratt/media/MW_Patent_0984-417.PDF' | relative_url }}) (160 acres)
 6. [Wisconsin Historical Society; Madison, Wisconsin; Census Year: 1855; Roll: 2](https://www.ancestry.com/search/collections/1055/records/3662543?tid=168012819&pid=272180028408&ssrc=pt)
 7. [Michigan, Homestead and Cash Entry Patents, Pre-1908. Document Number 7564](https://www.ancestry.com/search/collections/2075/records/61758?tid=168012819&pid=272180028408&ssrc=pt)
 8. [Year: 1860; Census Place: Otoe, Nebraska Territory; Page: 349; Family History Library Film: 803665](https://www.ancestry.com/search/collections/7667/records/44302232)
-9. [Michigan Deed Sale](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/PRATT_Calhoun%20Deeds%2C%20img452.pdf)
-10. [Year: 1850; Census Place: Highland, Iowa, Wisconsin; Roll: 999; Page: 368A](https://www.ancestry.com/search/collections/8054/records/9024568). 
+9. [Michigan Deed Sale]({{ '/docs/PRATT_Calhoun Deeds, img452.pdf' | relative_url }})
+10. [Year: 1850; Census Place: Highland, Iowa, Wisconsin; Roll: 999; Page: 368A](https://www.ancestry.com/search/collections/8054/records/9024568)
+11. Wikitree: [Pratt-9996](https://www.wikitree.com/wiki/Pratt-9996)
+12. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737)
+
+[MW-0984-417]({{ '/surnames/pratt/media/MW_Patent_0984-417.PDF' | relative_url }})
 
 ACCOLADES:
 - Illinois First Families (Pending)
@@ -62,12 +66,11 @@ ACCOLADES:
 - Michigan First Families Pre-Statehood Certificate: #P-0174
 - Nebraska First Families Certificate #23-002
 - Wisconsin First Families: Pioneer Family Certificate
-- Land Grants: [MI1250__.479](https://glorecords.blm.gov/details/patent/default.aspx?accession=MI1250__.479&docClass=STA&sid=y4vhw4bs.eqv) (160 acres) ; [MW-0984-417](https://glorecords.blm.gov/details/patent/default.aspx?accession=0984-417&docClass=MW&sid=ivydenqu.xf4) (160 acres); 
+- Land Grants: [MI1250__.479] (160 acres) ; [MW-0984-417]({{ '/surnames/pratt/media/MW_Patent_0984-417.PDF' | relative_url }}) (160 acres); 
 
 DOCUMENTS:
 <img src="{{ '/surnames/pratt/media/MarshallLPratt.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Marshall L Pratt Tombstone">
 
-<img src="{{ '/surnames/pratt/media/MW_Patent_0984-417.PDF' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Marshall L Pratt Land Grant">
 
 ## Descendants of Marshall Pratt
 

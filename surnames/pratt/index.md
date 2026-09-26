@@ -30,3 +30,6 @@ permalink: /surnames/pratt/
 - [Samuel Pratt II]({{ '/surnames/pratt/samuel2' | relative_url }})
 - [PVT Samuel Pratt I]({{ '/surnames/pratt/samuel1' | relative_url }})
 - [Forever Matthew Pratt]({{ '/surnames/pratt/matthew' | relative_url }})
+
+DOCUMENTS
+- Wikitree: [BOWER](https://www.wikitree.com/genealogy/PRATT)
