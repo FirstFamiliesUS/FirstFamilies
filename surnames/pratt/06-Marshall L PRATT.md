@@ -66,7 +66,7 @@ SOURCES:
 9. [Michigan Deed Sale]({{ '/docs/PRATT_Calhoun Deeds, img452.pdf' | relative_url }})
 10. [Year: 1850; Census Place: Highland, Iowa, Wisconsin; Roll: 999; Page: 368A](https://www.ancestry.com/search/collections/8054/records/9024568)
 11. Wikitree: [Pratt-9996](https://www.wikitree.com/wiki/Pratt-9996)
-12. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737)
+12. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709445303)
 
 
 DOCUMENTS:
