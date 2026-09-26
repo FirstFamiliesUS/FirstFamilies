@@ -54,3 +54,5 @@ SOURCES:
 
 ACCOLADES:
 - Oklahoma First Families: Settler and Builder No. 43
+
+[Oscar Lee Bower Obituary: Daily American Republic 17 April 1991]({{ '/docs/Daily_American_Republic_1991_04_17_6.pdf' | relative_url }})
