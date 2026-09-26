@@ -29,3 +29,6 @@ permalink: /surnames/bower/
 - [PVT Jacob Bower]({{ '/surnames/bower/jacob' | relative_url }})
 - [PVT Andrew Bower]({{ '/surnames/bower/andrew' | relative_url }})
 - [Forefather Michael Bower]({{ '/surnames/bower/michael' | relative_url }})
+
+DOCUMENTS
+- [The Bower Chronicle]({{ '/surnames/bower/media/BOWER.pdf' | relative_url }})

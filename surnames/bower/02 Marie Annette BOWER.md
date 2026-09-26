@@ -30,7 +30,7 @@ Marie Annette Bower
 - Marriage Date: 1 June 1955  `#2`
 - Marriage Place: [Poplar Bluff](https://en.wikipedia.org/wiki/Poplar_Bluff,_Missouri), [Butler County](https://www.familysearch.org/en/wiki/Butler_County,_Missouri_Genealogy), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)   `#2`
 - Died: 26 Nov 2022  `#1, #2`
-- Burial Place:  Poplar Bluff City Cemetery, Poplar Bluff, Butler County, Missouri  `#1`
+- Burial Place:  Poplar Bluff City Cemetery, [Poplar Bluff](https://en.wikipedia.org/wiki/Poplar_Bluff,_Missouri), [Butler County](https://www.familysearch.org/en/wiki/Butler_County,_Missouri_Genealogy), [Missouri](https://www.familysearch.org/en/wiki/Missouri,_United_States_Genealogy)  `#1`
 - Father:  [Lee Bower]({{ '/surnames/bower/lee' | relative_url }})  `#2, #3`
 - Mother:  [Roberta Holman]({{ '/surnames/holman/roberta' | relative_url }}) `#2, #3`
 - Spouse:  [Jerome Kenner]({{ '/surnames/kenner/jerome' | relative_url }}) `#2`
@@ -41,7 +41,9 @@ Marie Annette Bower
 
 SOURCES:
 
-1. [Marie Annette Bower Tombstone. Find A Grave Memorial ID: 287932046](https://www.findagrave.com/memorial/287932046/marie-kenner)
-2. [Marie Annette Bower Obituary: Daily American Republic 16 Dec. 2022](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/MarieAnnetteBower-obit.pdf)
+1. Marie Annette Bower Tombstone. [Find A Grave Memorial ID: 287932046](https://www.findagrave.com/memorial/287932046/marie-kenner)
+2. Marie Annette Bower Obituary: [Daily American Republic 16 Dec. 2022](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/MarieAnnetteBower-obit.pdf)
 3. [Year: 1940; Census Place: Ash Hill, Butler, Missouri; Roll: m-t0627-02090; Page: 18B; Enumeration District: 12-4B](https://www.ancestry.com/search/collections/2442/records/90798468)
 
+DOCUMENTS:
+- <img src="{{ '/surnames/bower/media/MomsTombstone.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Seal of the Order of the First Families of Maine">
