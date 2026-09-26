@@ -44,7 +44,7 @@ SOURCES:
 2. Evalyn Frederica Gray Texas Death Certificate: [11259]({{ '/docs/EvaGrayDeathCertificate.jpg' | relative_url }})
 3. [Evalyn Frederica GRAY Obituary: Beaumont Journal 11 Feb 1965]({{ '/docs/Beaumont_Journal_1965_02_11_14.pdf' | relative_url }})
 4. [Year: 1870; Census Place: Delaware, Otoe, Nebraska; Roll: M593_831; Page: 360B; Family History Library Film: 552330](https://www.ancestry.com/search/collections/7163/records/1450809?tid=168012819&pid=272180029576&ssrc=pt).
-5. Roberta Holman Birth Certificate: 18036 [Page 2]({{ '/docs/Roberta Holman Birth Certificate P1.jpg' | relative_url }}) ; [Page 1]({{ '/docs/Roberta Holman Birth Certificate P2.jpg' | relative_url }})
+5. Roberta Holman Birth Certificate: 18036 [Page 1]({{ '/docs/Roberta Holman Birth Certificate P1.jpg' | relative_url }}) ; [Page 2]({{ '/docs/Roberta Holman Birth Certificate P2.jpg' | relative_url }})
 6. [Isabel Pratt Obituary. The Aurora Sun 9 Aug 1917]({{ '/docs/The_Aurora_Sun_Thu__Aug_9__1917_2.pdf' | relative_url }})
 7. FamilySearch: ID [27SZ-4GX](https://www.familysearch.org/en/tree/pedigree/landscape/27SZ-4GX)
 8. Wikitree: [Gray-29128](https://www.wikitree.com/wiki/Gray-29128)

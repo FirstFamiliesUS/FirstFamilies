@@ -46,7 +46,7 @@ SOURCES:
 3. [1930; Census Place: Police Jury Ward 3, Beauregard, L](https://www.ancestry.com/search/collections/6224/records/34318698?tid=168012819&pid=272180029245&ssrc=pt)
 4. [Year: 1920; Census Place: Protection, Comanche, Kansas; Roll: T625_527; Page: 11A; Enumeration District: 36](https://www.ancestry.com/search/collections/6061/records/64976025?tid=168012819&pid=272180029245&ssrc=pt)
 5. [Evalyn Frederica GRAY Obituary: Beaumont Journal 11 Feb 1965]({{ '/docs/Beaumont_Journal_1965_02_11_14.pdf' | relative_url }})
-6. Roberta Holman Birth Certificate 18036: [Page 2]({{ '/docs/Roberta Holman Birth Certificate P1.jpg' | relative_url }}) ; [Page 1]({{ '/docs/Roberta Holman Birth Certificate P2.jpg' | relative_url }}) 
+6. Roberta Holman Birth Certificate 18036: [Page 1]({{ '/docs/Roberta Holman Birth Certificate P1.jpg' | relative_url }}) ; [Page 2]({{ '/docs/Roberta Holman Birth Certificate P2.jpg' | relative_url }}) 
 7. FamilySearch: ID [LKMR-DYN](https://www.familysearch.org/en/tree/pedigree/landscape/LKMR-DYN)
 8. Wikitree: [Holman-678](https://www.wikitree.com/wiki/Holman-678)
 9. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737)
