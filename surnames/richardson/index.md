@@ -28,5 +28,6 @@ permalink: /surnames/richardson/
 - [Capt William Richardson]({{ '/surnames/richardson/william1' | relative_url }})
 
 
-
-https://www.wikitree.com/wiki/Space:Richardson_Name_Study
+DOCUMENTS:
+- Wikitree: [RICHARDSON](https://www.wikitree.com/genealogy/RICHARDSON)
+- https://www.wikitree.com/wiki/Space:Richardson_Name_Study

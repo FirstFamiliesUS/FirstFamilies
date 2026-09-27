@@ -24,3 +24,6 @@ permalink: /surnames/thummel/
 
 - [Frederica thummel]({{ '/surnames/thummel/frederica/' | relative_url }})
 - [Anton Thummel]({{ '/surnames/thummel/anton' | relative_url }})
+
+DOCUMENTS:
+- Wikitree: [HOLMAN](https://www.wikitree.com/genealogy/THUMMEL)

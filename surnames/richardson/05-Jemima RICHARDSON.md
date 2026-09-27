@@ -22,8 +22,13 @@ permalink: /surnames/richardson/jemima/
 <div class="card-body p-6 p-md-8" markdown="1">
 
 
-Jemima Richardson
+Jemima [RICHARDSON]({{ '/surnames/richardson/' | relative_url }})
 
+ACCOLADES:
+- Tennesse Ancestry Certificate # 1741
+
+
+VITALS:
 - Born: 14 Feb 1859  `#2, #5`
 - Birth Place: [Linden](https://en.wikipedia.org/wiki/Linden,_Tennessee), [Perry County](https://www.familysearch.org/en/wiki/Perry_County,_Tennessee_Genealogy), [Tennessee](https://www.familysearch.org/en/wiki/Tennessee,_United_States_Genealogy)  `#2, #5`
 - Died: 31 July 1924  `#2`
@@ -43,3 +48,6 @@ SOURCES:
 3. [Year: 1880; Census Place: District 11, Perry, Tennessee; Roll: 1274; Page: 430D; Enumeration District: 150](https://www.ancestry.com/search/collections/6742/records/9934143?tid=168012819&pid=272180029142&ssrc=pt).
 4. [Tennessee, Marriage Records, 1780-2002](https://www.ancestry.com/search/collections/1169/records/6843240?tid=168012819&pid=272180029347&ssrc=pt)
 5. [Year: 1860; Census Place: Perry, Tennessee; Roll: M653_1268; Page: 300; Family History Library Film: 805268](https://www.ancestry.com/search/collections/7667/records/22544489?tid=168012819&pid=272180029347&ssrc=pt)
+6. FamilySearch ID: [KC18-XT7](https://www.familysearch.org/en/tree/person/about/KC18-XT7)
+7. Wikitree: [Richardson-11715](https://www.wikitree.com/wiki/Richardson-11715)
+8. [AncestryDNA](https://www.ancestry.com/family-tree/person/tree/206876160/person/422709444067/facts)

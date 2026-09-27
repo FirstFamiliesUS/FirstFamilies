@@ -35,6 +35,12 @@ ACCOLADES:
 - [Oklahoma First Families](https://okgensoc.org) Member No 4652
 - [Wisconsin First Families](https://wsgs.org/cpage.php?pt=212)
 
+
+BIO:
+
+The US Census of 1850 shows Isabell Pratt is living in Highland, Iowa County, Wisconsin. She was the child of Johanna Thummel and Marshall Lincoln Pratt. This makes her eligible for the Pioneer Certificate. The US Census of 1870 shows that Isabell Pratt has married Robert Gray II and had a daughter, Evalyn. 
+
+
 VITALS:
 - Born:  27 Feb 1846  `#1, #2, #4` 
 - Birth Place:  Dixon, Illinois  `#2, #2`

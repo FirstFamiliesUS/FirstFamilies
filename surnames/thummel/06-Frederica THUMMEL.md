@@ -21,7 +21,7 @@ permalink: /surnames/thummel/frederica/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
-# Frederica Thummel
+# Frederica  [THUMMEL]({{ '/surnames/thummel/' | relative_url }})
 
 ACCOLADES:
 - Illinois Praire Pioneer Certificate (Pending)
