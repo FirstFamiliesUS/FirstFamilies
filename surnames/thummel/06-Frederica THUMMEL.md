@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Frederica Thummel"
-permalink: /surnames/thummel/fredica/
+permalink: /surnames/thummel/frederica/
 ---
 
 
@@ -21,10 +21,16 @@ permalink: /surnames/thummel/fredica/
 <article class="card shadow-lg">
 <div class="card-body p-6 p-md-8" markdown="1">
 
-
+# Frederica Thummel
 
 - Father: [Anton Thummel]({{ '/surnames/thummel/anton' | relative_url }})
 - Mother: [Helen Klosterman]({{ '/surnames/klosterman/helen' | relative_url }})
 - Spouse: [Marshall Lincoln Pratt]({{ '/surnames/pratt/marshall' | relative_url }})
 - Child: [Isabell Pratt]({{ '/surnames/pratt/isabell' | relative_url }})
 
+</div>
+</article>
+</div>
+</div>
+</div>
+</section>
