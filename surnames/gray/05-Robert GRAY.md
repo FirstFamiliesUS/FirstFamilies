@@ -76,6 +76,7 @@ After the war, Nebraska became his home. Here he received a Land Grant. He marri
 8. [Soldier Details - The Civil War (U.S. National Park Service)](https://www.nps.gov/civilwar/search-soldiers-detail.htm?soldierId=92A584A2-DC7A-DF11-BF36-B8AC6F5D926A)
 9. [Wikitree](https://www.wikitree.com/wiki/Kenner-232#Ancestors): [Gray-16682](https://www.wikitree.com/wiki/Gray-16682)
 10. [Isabel Pratt Obituary. The Republican Register August 08 1917 P.5]({{ '/docs/The_Republican_Register_1917_08_08_5.pdf' | relative_url }})
+11. [Isabel Pratt Obituary. The Hamilton County Register August 10 1917 P. 4]({{ '/docs/The_Hamilton_County_Register_1917_08_10_4.pdf' | relative_url }})
 
 ### ACCOLADES:
 

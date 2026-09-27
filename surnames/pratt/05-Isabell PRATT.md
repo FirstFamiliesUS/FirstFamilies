@@ -29,7 +29,7 @@ permalink: /surnames/pratt/isabell/
 Isabell [PRATT]({{ '/surnames/pratt/' | relative_url }})
 
 ACCOLADES:
-- Illinois First Families (Pending)
+- Illinois Praire Pioneer Certificate
 - [Iowa First Families](https://iowagenealogy.org)
 - [Nebraska First Families](https://nsgs.org/) Certificate #20-001
 - [Oklahoma First Families](https://okgensoc.org) Member No 4652
@@ -57,6 +57,7 @@ SOURCES:
 5. Wikitree: [Pratt-6386](https://www.wikitree.com/wiki/Pratt-6386)
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709444289)
 7. [Isabel Pratt Obituary. The Republican Register August 08 1917 P.5]({{ '/docs/The_Republican_Register_1917_08_08_5.pdf' | relative_url }})
+8. [Isabel Pratt Obituary. The Hamilton County Register August 10 1917 P. 4]({{ '/docs/The_Hamilton_County_Register_1917_08_10_4.pdf' | relative_url }})
 
 
 
