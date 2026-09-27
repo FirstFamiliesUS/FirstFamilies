@@ -62,6 +62,7 @@ SOURCES:
 11. [Isabel Pratt Obituary. The Hamilton County Register August 10 1917 P. 4]({{ '/docs/The_Hamilton_County_Register_1917_08_10_4.pdf' | relative_url }})
 12. [Roberta HOLMAN Obituary: Daily American Republic 2012 11 13 P.6]({{ '/docs/Daily_American_Republic_2012_11_13_6.pdf' | relative_url }})
 13. [Year: 1880; Census Place: Weeping Water, Cass, Nebraska; Roll: 744; Page: 255D; Enumeration District: 269](https://www.ancestry.com/search/collections/6742/records/33411246?tid=168012819&pid=272180029576&ssrc=pt).
+14. [1930; Census Place: Police Jury Ward 3, Beauregard, L](https://www.ancestry.com/search/collections/6224/records/34318698?tid=168012819&pid=272180029245&ssrc=pt)
 
 
 
