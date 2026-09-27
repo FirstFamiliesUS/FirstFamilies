@@ -50,6 +50,8 @@ SOURCES:
 6. [Marriage Announcement]({{ '/surnames/bower/media/Daily_American_Republic_1955_06_14_3.pdf' | relative_url }})
 7. [Bridal Couple Honored]({{ '/surnames/bower/media/Daily_American_Republic_1955_06_14_3-page2.pdf' | relative_url }})
 8. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443737)
+9. [Jerome Kenner Obituary: Daily American Republic 11 March 2020]({{ '/docs/DAR-2674770.JPG' | relative_url }}).
+10. [Jerome Kenner & Marie Bower Marriage Certificate]({{ '/docs/JeromeAnnetteMarriageCertficate.pdf' | relative_url }}).
 
 
 
