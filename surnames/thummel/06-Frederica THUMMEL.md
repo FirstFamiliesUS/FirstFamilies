@@ -23,6 +23,14 @@ permalink: /surnames/thummel/frederica/
 
 # Frederica Thummel
 
+ACCOLADES:
+- Illinois Praire Pioneer Certificate (Pending)
+- Iowa First Families
+- Michigan First Families Pre-Statehood Certificate: #P-0174
+- Nebraska First Families Certificate #23-002
+- Wisconsin First Families: Pioneer Family Certificate
+
+VITALS:
 - Father: [Anton Thummel]({{ '/surnames/thummel/anton' | relative_url }})
 - Mother: [Helen Klosterman]({{ '/surnames/klosterman/helen' | relative_url }})
 - Spouse: [Marshall Lincoln Pratt]({{ '/surnames/pratt/marshall' | relative_url }})
