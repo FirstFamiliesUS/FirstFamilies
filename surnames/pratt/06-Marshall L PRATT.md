@@ -28,7 +28,7 @@ Before moving to Nebraska he served in Captain Murrays Company Second Regiment P
 
 
 ACCOLADES:
-- - Illinois Praire Pioneer Certificate (Pending)
+- Illinois Praire Pioneer Certificate (Pending)
 - Iowa First Families
 - Michigan First Families Pre-Statehood Certificate: #P-0174
 - Nebraska First Families Certificate #23-002
