@@ -60,6 +60,7 @@ SOURCES:
 9. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709444037)
 10. [Isabel Pratt Obituary. The Republican Register August 08 1917 P.5]({{ '/docs/The_Republican_Register_1917_08_08_5.pdf' | relative_url }})
 11. [Isabel Pratt Obituary. The Hamilton County Register August 10 1917 P. 4]({{ '/docs/The_Hamilton_County_Register_1917_08_10_4.pdf' | relative_url }})
+12. [Roberta HOLMAN Obituary: Daily American Republic 2012 11 13 P.6]({{ '/docs/Daily_American_Republic_2012_11_13_6.pdf' | relative_url }})
 
 
 

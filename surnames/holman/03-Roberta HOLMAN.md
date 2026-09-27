@@ -55,6 +55,7 @@ SOURCES:
 8. Wikitree: [Holman-678](https://www.wikitree.com/wiki/Holman-678)
 9. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709443829)
 10. [Oklahoma Vitals]({{ '/surnames/holman/media/OK2Explore.pdf' | relative_url }})
+11. [Roberta HOLMAN Obituary: Daily American Republic 2012 11 13 P.6]({{ '/docs/Daily_American_Republic_2012_11_13_6.pdf' | relative_url }})
 
 
 
