@@ -58,6 +58,7 @@ SOURCES:
 6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709444289)
 7. [Isabel Pratt Obituary. The Republican Register August 08 1917 P.5]({{ '/docs/The_Republican_Register_1917_08_08_5.pdf' | relative_url }})
 8. [Isabel Pratt Obituary. The Hamilton County Register August 10 1917 P. 4]({{ '/docs/The_Hamilton_County_Register_1917_08_10_4.pdf' | relative_url }})
+9. [Year: 1880; Census Place: Weeping Water, Cass, Nebraska; Roll: 744; Page: 255D; Enumeration District: 269](https://www.ancestry.com/search/collections/6742/records/33411246?tid=168012819&pid=272180029576&ssrc=pt).
 
 
 
