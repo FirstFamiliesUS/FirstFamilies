@@ -59,6 +59,7 @@ SOURCES:
 7. [Isabel Pratt Obituary. The Republican Register August 08 1917 P.5]({{ '/docs/The_Republican_Register_1917_08_08_5.pdf' | relative_url }})
 8. [Isabel Pratt Obituary. The Hamilton County Register August 10 1917 P. 4]({{ '/docs/The_Hamilton_County_Register_1917_08_10_4.pdf' | relative_url }})
 9. [Year: 1880; Census Place: Weeping Water, Cass, Nebraska; Roll: 744; Page: 255D; Enumeration District: 269](https://www.ancestry.com/search/collections/6742/records/33411246?tid=168012819&pid=272180029576&ssrc=pt).
+10. [Year: 1860; Census Place: Otoe, Nebraska Territory; Page: 349; Family History Library Film: 803665](https://www.ancestry.com/search/collections/7667/records/44302232)
 
 
 
