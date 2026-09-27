@@ -55,8 +55,9 @@ SOURCES:
 5. [M230 ROLL 42](https://www.nps.gov/civilwar/search-soldiers-detail.htm?soldierId=8E43E2DF-DC7A-DF11-BF36-B8AC6F5D926A)
 6. [Fold3](https://github.com/davidjkenner/FirstFamilies/blob/main/docs/Wilson%2C%20William%20N.pdf)
 7. [1840; Census Place: Perry, Tennessee; Roll: 530; Page: 177; Family History Library Film: 0024547](https://www.ancestry.com/search/collections/8057/records/3007536?tid=168012819&pid=272180028752&ssrc=pt)
-8. Wikitree: [Wilson-33334](Wilson-33334)
-6. [AncestryDNA](https://www.ancestry.com/family-tree/tree/206876160/family?cfpid=422709444289)
+8. Wikitree: [Wilson-33334](https://www.wikitree.com/wiki/Wilson-33334)
+9.  [AncestryDNA](https://www.ancestry.com/family-tree/person/tree/206876160/person/422709444489/facts)
+
 
 
 
