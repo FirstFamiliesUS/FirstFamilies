@@ -25,6 +25,14 @@ permalink: /events/washington-dc/
 
 Explore our Washington, D.C. historical and seasonal event guides below.
 
+## Upcoming Events
+
+* [Washington National Cathedral]({{ '/events/washington-dc/cathedral/' | relative_url }}) — Historic cathedral and landmark in Washington, D.C.
+* [Christmas in Washington D.C.]({{ '/events/washington-dc/christmas/' | relative_url }}) — Holiday events, traditions, and festive locations around the capital.
+* [Howson Patent]({{ '/events/washington-dc/howson-patent/' | relative_url }}) — Howson Patent and Monuments 
+
+
+
 ## Washington Monument
 
 [Reserve tickets online](https://www.recreation.gov/ticket/facility/234635) (recommended) or get free, [same-day tickets](https://www.nps.gov/wamo/planyourvisit/fees.htm#walkup) at the Washington Monument Lodge on 15th Street near the Washington Monument. You must have a ticket to enter the Washington Monument. Supplies are limited and advance reservations are strongly recommended. While there is not a national park entrance fee, a reservation fee applies to advance reservations.
@@ -137,10 +145,7 @@ Constructed in 1884, the headquarters building holds historical significance and
 
 1010 Whitehurst Fwy NW, Washington, DC 20007
 
-## Related Pages
 
-* [Washington National Cathedral]({{ '/events/washington-dc/cathedral/' | relative_url }}) — Historic cathedral and landmark in Washington, D.C.
-* [Christmas in Washington D.C.]({{ '/events/washington-dc/christmas/' | relative_url }}) — Holiday events, traditions, and festive locations around the capital.
 
 ## Coming Soon
 
