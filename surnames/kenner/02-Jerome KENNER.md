@@ -55,3 +55,41 @@ Petty Officer Jerome Kenner
 - [Petty Officer Jerome Kenner Funeral with Full Military Honors](https://youtu.be/wVqm4q3siPQ)
 
 - [The Kenner Chronicle]({{ '/docs/kennerchronicle.pdf' | relative_url }})
+
+
+Example Jekyll Page
+
+<iframe src="/assets/docs/user-guide.pdf"
+width="100%"
+height="900px">
+</iframe>
+
+
+Use Google Docs Viewer (Public PDFs Only)
+
+<iframe
+src="https://docs.google.com/gview?embedded=true&url=https://example.com/myfile.pdf"
+width="100%"
+height="800px">
+</iframe>
+
+Responsive PDF Viewer
+
+<div style="height: 90vh;">
+<iframe
+src="/assets/docs/myfile.pdf"
+width="100%"
+height="100%"
+style="border:none;">
+</iframe>
+</div>
+
+<iframe src="/yfile.pdf
+</iframe>
+
+Embed the PDF in the Page
+
+<embed src="/assets/docs/myfile.pdf"
+type="application/pdf"
+width="100%"
+height="800px">
