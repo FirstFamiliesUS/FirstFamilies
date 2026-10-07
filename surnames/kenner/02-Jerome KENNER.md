@@ -59,7 +59,7 @@ Petty Officer Jerome Kenner
 
 Example Jekyll Page
 
-<iframe src="/assets/docs/user-guide.pdf"
+<iframe src="/surnames/kenner/The_Dexter_Statesman_1969_05_23_1.pdf"
 width="100%"
 height="900px">
 </iframe>
@@ -68,7 +68,7 @@ height="900px">
 Use Google Docs Viewer (Public PDFs Only)
 
 <iframe
-src="https://docs.google.com/gview?embedded=true&url=https://example.com/myfile.pdf"
+src="https://docs.google.com/gview?embedded=true&url=https://github.com/FirstFamiliesUS/FirstFamilies/blob/main/surnames/kenner/The_Dexter_Statesman_1969_05_23_1.pdf"
 width="100%"
 height="800px">
 </iframe>
@@ -77,19 +77,19 @@ Responsive PDF Viewer
 
 <div style="height: 90vh;">
 <iframe
-src="/assets/docs/myfile.pdf"
+src="/surnames/kenner/The_Dexter_Statesman_1969_05_23_1.pdf"
 width="100%"
 height="100%"
 style="border:none;">
 </iframe>
 </div>
 
-<iframe src="/yfile.pdf
+<iframe src="/surnames/kenner/The_Dexter_Statesman_1969_05_23_1.pdf
 </iframe>
 
 Embed the PDF in the Page
 
-<embed src="/assets/docs/myfile.pdf"
+<embed src="/surnames/kenner/The_Dexter_Statesman_1969_05_23_1.pdf"
 type="application/pdf"
 width="100%"
 height="800px">
