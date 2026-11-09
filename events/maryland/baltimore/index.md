@@ -57,7 +57,7 @@ Celebrating God auf Deutsch and in English in the heart of Baltimore - since 175
   * **Christkindlmarkt (Christmas Market):** Held annually on the Saturday and Sunday following Thanksgiving, the Christkindlmarkt is the perfect way to begin your holiday season.
   * **MaiFest (May Day Celebration)** Zion Church’s annual Maifest, celebrated each year on the first Saturday in May. 
   * **Brats & Bier**  Zion Church’s popular Brats & Bier gatherings, held on the last Friday of each month during the spring and summer. 
-* 
+  
 * **Hours:** 
   * **Regular Hours:** Sunday 9:30am German | 11:00am English
 
