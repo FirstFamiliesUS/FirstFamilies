@@ -46,12 +46,12 @@ Famed for its successful defense of Baltimore Harbor during the Battle of Baltim
 
 ### Zion Lutheran Church
 
-<img src="{{ '/events/maryland/baltimore/media/media/ZionLutheranChurch.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Zion Lutheran Church">
+<img src="{{ '/events/maryland/baltimore/media/ZionLutheranChurch.jpg' | relative_url }}" class="img-fluid rounded shadow-sm d-block mx-auto mb-4" alt="Zion Lutheran Church">
 
 Celebrating God auf Deutsch and in English in the heart of Baltimore - since 1755.
 
 * 400 E Lexington St, Baltimore, MD, United States, 21202-3556
-* **Information:** [Zion Lutheran church](zionbaltimore.org)
+* **Information:** [Zion Lutheran church](https://www.zionbaltimore.org)
 * **Events:** 
   * **Sour Beef Dinner:** Held each year in late October, this long-standing tradition features tender marinated sour beef served with homemade potato dumplings, rich gravy, red cabbage, green beans, and other classic German accompaniments. Guests may choose to dine in the festive Adlersaal, where traditional German music creates an authentic atmosphere, or enjoy a quieter experience in our elegant downstairs dining room.
   * **Christkindlmarkt (Christmas Market):** Held annually on the Saturday and Sunday following Thanksgiving, the Christkindlmarkt is the perfect way to begin your holiday season.
